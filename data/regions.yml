@@ -1,0 +1,1907 @@
+---
+id: 816dd841-2f4d-44ce-80e5-17b089ad8657
+type: region
+slug: kingston
+name: Kingston
+geojson: '{"type":"Polygon","coordinates":[[[-76.71286599999999,44.4802019],[-76.23352299999999,44.4802019],[-76.23352299999999,44.2082296],[-76.71286599999999,44.2082296]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 8286a8ba-8162-4e34-9dbc-cdd2bffa209d
+type: region
+slug: rosedale
+name: Rosedale
+geojson: '{"type":"Polygon","coordinates":[[[-79.39117010000001,43.694447],[-79.35997730000001,43.694447],[-79.35997730000001,43.6700445],[-79.39117010000001,43.6700445]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 82a32346-5ba7-4fcd-9fc6-d7a628e20550
+type: region
+slug: taddle-creek-park
+name: Taddle Creek Park
+geojson: '{"type":"Polygon","coordinates":[[[-79.3988344,43.6719982],[-79.398536,43.6719982],[-79.398536,43.6712518],[-79.3988344,43.6712518]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: 82cc8345-6f7c-44ac-93c7-1d52c5eb637a
+type: region
+slug: earl-bales-park
+name: Earl Bales Park
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: 82d5530a-30a2-43de-8213-a4ee4bb2198f
+type: region
+slug: chinese-cultural-centre
+name: Chinese Cultural Centre
+tag-ids:
+- ae775bfc-ecf1-4353-97db-35d424171903
+---
+id: 8338e9c1-1d7c-4fd7-b40b-ebfb36af933e
+type: region
+slug: kleinburg
+name: Kleinburg
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 84c2a7d2-bf06-40f6-b7db-4899441abb68
+type: region
+slug: bce
+name: BCE
+geojson: '{"type":"Polygon","coordinates":[[[-79.37927309999999,43.6469707],[-79.3782918,43.6469707],[-79.3782918,43.6461826],[-79.37927309999999,43.6461826]]]}'
+---
+id: 84d29dd3-5cb8-4c2f-a3a3-0bb039af59d8
+type: region
+slug: canadian-museum-of-civilization
+name: Canadian Museum of Civilization
+tag-ids:
+- 7416cb28-4978-4edc-8118-4330860dbd09
+---
+id: 8a4ef151-6348-4676-881b-57341aa8e1e6
+type: region
+slug: weston
+name: Weston
+geojson: '{"type":"Polygon","coordinates":[[[-79.5359945,43.7106646],[-79.5028211,43.7106646],[-79.5028211,43.69546],[-79.5359945,43.69546]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 8a534c1c-0c5f-48e0-a849-45c4c0f5e6e0
+type: region
+slug: guelph
+name: Guelph
+geojson: '{"type":"Polygon","coordinates":[[[-80.3269451,43.595021],[-80.153391,43.595021],[-80.153391,43.473845],[-80.3269451,43.473845]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 8ae90352-ecad-4630-9c01-3bcb0338e702
+type: region
+slug: stratford
+name: Stratford
+geojson: '{"type":"Polygon","coordinates":[[[-81.02622989999999,43.3989362],[-80.9422661,43.3989362],[-80.9422661,43.338711],[-81.02622989999999,43.338711]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 8bd6afbc-349d-4776-92a7-925e7bd9acb4
+type: region
+slug: brantford
+name: Brantford
+geojson: '{"type":"Polygon","coordinates":[[[-80.3539261,43.1935791],[-80.1942049,43.1935791],[-80.1942049,43.101638],[-80.3539261,43.101638]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 8c5cbef0-1024-46c5-8975-3b91186410f3
+type: region
+slug: cibc
+name: CIBC
+---
+id: 911f0dfa-61ce-4cd3-99e9-512a7019e52e
+type: region
+slug: etobicoke
+name: Etobicoke
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.7636909],[-79.46640169999999,43.7636909],[-79.46640169999999,43.58108470000001],[-79.639219,43.58108470000001]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 91f0434a-aab9-4f2f-b972-8fedea008410
+type: region
+slug: sunnybrook-hospital
+name: Sunnybrook Hospital
+tag-ids:
+- 06d088ca-1894-44c9-9e2a-e0491945abe0
+---
+id: 93d8518e-13b8-4e39-afa2-7d48e523eab6
+type: region
+slug: sun-life
+name: Sun Life
+geojson: '{"type":"Polygon","coordinates":[[[-79.3860303,43.64814870000001],[-79.3852246,43.64814870000001],[-79.3852246,43.6475749],[-79.3860303,43.6475749]]]}'
+---
+id: 94b6c380-1b41-42fb-8249-aadff15d1d40
+type: region
+slug: cibc-courtyard
+name: CIBC courtyard
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+---
+id: 966a353b-9fb5-4a3f-a891-30aa0835c57d
+type: region
+slug: ottawa
+name: Ottawa
+geojson: '{"type":"Polygon","coordinates":[[[-76.3539158,45.5375801],[-75.2465979,45.5375801],[-75.2465979,44.962733],[-76.3539158,44.962733]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 98900fcd-7156-484c-bbeb-3e4d772b63fe
+type: region
+slug: ontario-government-buildings
+name: Ontario Government Buildings
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: 997a16c0-5647-4caa-88b3-a13dde00c306
+type: region
+slug: riverdale-park
+name: Riverdale Park
+geojson: '{"type":"Polygon","coordinates":[[[-79.3609175,43.6660169],[-79.3606325,43.6660169],[-79.3606325,43.665398],[-79.3609175,43.665398]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: 998c3935-ca91-499e-9a91-842e8dd0b010
+type: region
+slug: ontario-ministry-of-health
+name: Ontario Ministry of Health
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: 9b0d9bf1-ea1d-42ad-be17-146a36ef9fcf
+type: region
+slug: trinity-college
+name: Trinity College
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 9b573177-6d9d-444e-ad9b-e51c564d2a24
+type: region
+slug: baycrest-hospital
+name: Baycrest Hospital
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- 06d088ca-1894-44c9-9e2a-e0491945abe0
+---
+id: 9f0d00b3-98ea-460c-84aa-10d4ee7c8c26
+type: region
+slug: rogers
+name: Rogers
+geojson: '{"type":"Polygon","coordinates":[[[-79.4767504,43.687148],[-79.4386854,43.687148],[-79.4386854,43.6814331],[-79.4767504,43.6814331]]]}'
+---
+id: 9f52d4c4-401d-4880-9c37-fa93c21164a7
+type: region
+slug: downsview-station
+name: Downsview Station
+tag-ids:
+- be43f247-3b33-4ea0-9212-69df13bf6710
+---
+id: 9f77368f-6f82-424f-8f7f-cb9a0b2898b2
+type: region
+slug: mississauga
+name: Mississauga
+geojson: '{"type":"Polygon","coordinates":[[[-79.8101295,43.737351],[-79.5426461,43.737351],[-79.5426461,43.480958],[-79.8101295,43.480958]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: a067e6b3-2a7c-4547-941b-fcd5952d17cc
+type: region
+slug: dempsey-park
+name: Dempsey Park
+geojson: '{"type":"Polygon","coordinates":[[[-79.419077,43.77076539999999],[-79.4165498,43.77076539999999],[-79.4165498,43.76939309999999],[-79.419077,43.76939309999999]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: a0a305bb-0ec2-496c-bdd2-998151458d34
+type: region
+slug: high-park
+name: High Park
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: a135c09b-9fc6-41c3-a618-4d01c0c34435
+type: region
+slug: canadiana-building
+name: Canadiana Building
+geojson: '{"type":"Polygon","coordinates":[[[-79.3880897,43.6430319],[-79.38658749999999,43.6430319],[-79.38658749999999,43.6416096],[-79.3880897,43.6416096]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: a1c52fc3-1761-4004-a716-896953dbaf30
+type: region
+slug: theological-hall
+name: Theological Hall
+geojson: '{"type":"Polygon","coordinates":[[[-76.4939301,44.22584579999999],[-76.4932453,44.22584579999999],[-76.4932453,44.2255248],[-76.4939301,44.2255248]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: a24a88b7-1d44-435d-a0d7-e37ed535d8e5
+type: region
+slug: galbraith-building
+name: Galbraith Building
+geojson: '{"type":"Polygon","coordinates":[[[-79.3964927,43.6603449],[-79.39550249999999,43.6603449],[-79.39550249999999,43.6595708],[-79.3964927,43.6595708]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: a2b2a5a2-4c40-4a26-8161-0fe8b5064a65
+type: region
+slug: uptown
+name: Uptown
+geojson: '{"type":"Polygon","coordinates":[[[-79.3877971,43.6696451],[-79.3871558,43.6696451],[-79.3871558,43.669266],[-79.3877971,43.669266]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: a7cd6f47-8014-4b6c-b531-33fce4a98ab1
+type: region
+slug: the-danforth
+name: The Danforth
+geojson: '{"type":"Polygon","coordinates":[[[-79.36248789999999,43.6924216],[-79.2925358,43.6924216],[-79.2925358,43.6735522],[-79.36248789999999,43.6735522]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: a7fcf063-e0d4-4d6f-ad24-9c7d85b557c8
+type: region
+slug: high-park
+name: High Park
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: a8991320-9ac6-45e8-8cad-4660a0fb5aa6
+type: region
+slug: st-james-park
+name: St. James Park
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: ab670f9f-d2e0-464a-8ed2-14018fff3a3d
+type: region
+slug: upper-canada-college
+name: Upper Canada College
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: ac4832c2-63ad-4838-bf69-2992e1bcb61d
+type: region
+slug: hanlans-point
+name: Hanlan's Point
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: adf4e234-7c24-4b19-8455-24795e5e195d
+type: region
+slug: odette-sculpture-park
+name: Odette Sculpture Park
+geojson: '{"type":"Polygon","coordinates":[[[-83.114824,42.3518283],[-82.89094,42.3518283],[-82.89094,42.233569],[-83.114824,42.233569]]]}'
+tag-ids:
+- 0fc87402-1a39-4ec0-bc47-89c311a8711d
+---
+id: ae01c59d-a795-4191-ac78-32329975613f
+type: region
+slug: womens-college-hospital
+name: Women's College Hospital
+tag-ids:
+- 06d088ca-1894-44c9-9e2a-e0491945abe0
+---
+id: af3b5736-dcb3-42d1-8d6f-87362bebbb49
+type: region
+slug: ross-podium
+name: Ross Podium
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: af6fc4c6-3d43-43be-beaa-552eb0b8b9d0
+type: region
+slug: four-seasons-centre
+name: Four Seasons Centre
+geojson: '{"type":"Polygon","coordinates":[[[-79.3942937,43.6697505],[-79.3932153,43.6697505],[-79.3932153,43.6689793],[-79.3942937,43.6689793]]]}'
+---
+id: b08c1ba8-9313-45c8-a607-8b39351a06fe
+type: region
+slug: upper-beaches
+name: Upper Beaches
+geojson: '{"type":"Polygon","coordinates":[[[-79.3217181,43.68932789999999],[-79.284063,43.68932789999999],[-79.284063,43.66625750000001],[-79.3217181,43.66625750000001]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: b0ed3846-4a9a-41d5-aa54-87a574890dcd
+type: region
+slug: town-hall-square-park
+name: Town Hall Square Park
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: b11a91ef-518a-4db7-b212-031d4267bad1
+type: region
+slug: ontario-parliament
+name: Ontario Parliament
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: b1f1cf91-fdf9-409e-92a7-7a8683809354
+type: region
+slug: union-station
+name: Union Station
+tag-ids:
+- be43f247-3b33-4ea0-9212-69df13bf6710
+---
+id: b26c26dc-1cbb-4998-83fa-67454d05f7cf
+type: region
+slug: health-and-environmental-studies
+name: Health and Environmental Studies
+geojson: '{"type":"Polygon","coordinates":[[[-79.505394,43.7716521],[-79.5041134,43.7716521],[-79.5041134,43.7710139],[-79.505394,43.7710139]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: b45238fe-9620-4b0b-bf96-2c441665d6a2
+type: region
+slug: stouffville
+name: Stouffville
+geojson: '{"type":"Polygon","coordinates":[[[-79.42076399999999,44.101275],[-79.2177894,44.101275],[-79.2177894,43.923711],[-79.42076399999999,43.923711]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: b4584074-b761-482b-9231-d45f06581d5a
+type: region
+slug: sidney-smith-hall
+name: Sidney Smith Hall
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: b4a465a9-7d67-4b6b-a2c2-b4031ae8ae72
+type: region
+slug: monet-condominiums
+name: Monet Condominiums
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- f78a6462-d5a5-424d-a03c-fb328cbdee3d
+---
+id: b4cded3a-8564-4378-bf95-bb7661a9d57c
+type: region
+slug: hull
+name: Hull
+geojson: '{"type":"Polygon","coordinates":[[[-75.80021289999999,45.49036],[-75.692753,45.49036],[-75.692753,45.412039],[-75.80021289999999,45.412039]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: b98c1e74-ef90-4cfb-b34e-379984214698
+type: region
+slug: td-bank
+name: TD Bank
+---
+id: b9f4caa4-404d-4d06-8f6f-fc16077a9578
+type: region
+slug: albright-knox-art-gallery
+name: Albright Knox Art Gallery
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
+---
+id: ba5e213e-2450-415e-8299-cfc54cb02cc3
+type: region
+slug: cbc
+name: CBC
+---
+id: baf68ee0-598b-4e31-b9b3-b11a64a1d078
+type: region
+slug: osgoode-hall
+name: Osgoode Hall
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: bc30ec46-698b-4295-97a2-2fd9387cc4c5
+type: region
+slug: parkdale
+name: Parkdale
+geojson: '{"type":"Polygon","coordinates":[[[-79.44873799999999,43.6473311],[-79.42373889999999,43.6473311],[-79.42373889999999,43.629663],[-79.44873799999999,43.629663]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: bc84f6a9-3b08-44dd-90ae-5b6b1687c69c
+type: region
+slug: royal-bank-plaza
+name: Royal Bank Plaza
+geojson: '{"type":"Polygon","coordinates":[[[-79.3807563,43.64702279999999],[-79.3794011,43.64702279999999],[-79.3794011,43.6458588],[-79.3807563,43.6458588]]]}'
+---
+id: bc95d4d3-4c49-47b2-acdc-a1d6abffb361
+type: region
+slug: ryerson-university
+name: Ryerson University
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: bd664f32-3a92-4a75-8d21-1b425c2122b0
+type: region
+slug: larkin-building
+name: Larkin Building
+geojson: '{"type":"Polygon","coordinates":[[[-79.3972364,43.6658205],[-79.3966119,43.6658205],[-79.3966119,43.6654832],[-79.3972364,43.6654832]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: bf27a5bb-93fe-4f6c-8fe7-db7b23ec8e39
+type: region
+slug: colonial-retirement-residence
+name: Colonial Retirement Residence
+geojson: '{"type":"Polygon","coordinates":[[[-79.0473109,44.0287049],[-78.88180419999999,44.0287049],[-78.88180419999999,43.8334536],[-79.0473109,43.8334536]]]}'
+tag-ids:
+- f78a6462-d5a5-424d-a03c-fb328cbdee3d
+---
+id: c12e8d1a-6925-4355-a323-ba55277dc484
+type: region
+slug: st-josephs-health-centre
+name: St. Joseph's Health Centre
+tag-ids:
+- 06d088ca-1894-44c9-9e2a-e0491945abe0
+---
+id: c22aa39b-2088-4e70-833c-c2c6d2280ce9
+type: region
+slug: fields-institute
+name: Fields Institute
+geojson: '{"type":"Polygon","coordinates":[[[-79.39777300000002,43.658978],[-79.397357,43.658978],[-79.397357,43.6586275],[-79.39777300000002,43.6586275]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: c29fadb5-1a1e-4dba-abbe-0730a33ec818
+type: region
+slug: park-plaza-hotel
+name: Park Plaza Hotel
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- ff294517-fb5e-418a-9057-c5555f1300bd
+---
+id: c3249805-312b-4e46-ac18-98597a4d27ca
+type: region
+slug: uoft-scarborough-college
+name: UofT Scarborough College
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: c387c0e3-a85b-4850-b649-4f0845a1069d
+type: region
+slug: stedman-lecture-hall
+name: Stedman Lecture Hall
+geojson: '{"type":"Polygon","coordinates":[[[-79.50358349999999,43.7747269],[-79.5029155,43.7747269],[-79.5029155,43.7741435],[-79.50358349999999,43.7741435]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: c43fabb3-a266-48da-93da-a476968d96c9
+type: region
+slug: macmillan-rehabilitation-centre
+name: MacMillan Rehabilitation Centre
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- 06d088ca-1894-44c9-9e2a-e0491945abe0
+---
+id: c4a34198-0f98-4604-9d1a-857cebb30198
+type: region
+slug: scarborough-civic-centre
+name: Scarborough Civic Centre
+geojson: '{"type":"Polygon","coordinates":[[[-79.2582813,43.7734355],[-79.25689609999999,43.7734355],[-79.25689609999999,43.7725169],[-79.2582813,43.7725169]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: c5afae41-785f-432e-ac05-37df3a0034f8
+type: region
+slug: scarborough-centenary-hospital
+name: Scarborough Centenary Hospital
+tag-ids:
+- 06d088ca-1894-44c9-9e2a-e0491945abe0
+---
+id: c62fcc19-54e0-4f97-8627-be5c8caa4594
+type: region
+slug: musee-national-des-beaux-arts-du-quebec
+name: Musee National des Beaux-Arts du Quebec
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
+---
+id: c6bf7bd3-ea6e-48b8-85b7-7999281a4bc0
+type: region
+slug: festival-tower
+name: Festival Tower
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+---
+id: c7276d83-ca33-414f-9c02-0959875eb32b
+type: region
+slug: halifax
+name: Halifax
+geojson: '{"type":"Polygon","coordinates":[[[-63.68627009999999,44.7035313],[-63.5576784,44.7035313],[-63.5576784,44.5949302],[-63.68627009999999,44.5949302]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: c74f022e-7462-4a72-bd27-97ab2c0f9b53
+type: region
+slug: scarborough
+name: Scarborough
+geojson: '{"type":"Polygon","coordinates":[[[-79.341341,43.8554447],[-79.1161286,43.8554447],[-79.1161286,43.671154],[-79.341341,43.671154]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: c77c6e21-2b98-48a3-ba7c-42b2e6a5a273
+type: region
+slug: st-gabriel-village
+name: St. Gabriel Village
+tag-ids:
+- f78a6462-d5a5-424d-a03c-fb328cbdee3d
+---
+id: c7b5726d-c58a-4467-b311-6039b5a1db82
+type: region
+slug: latchham-gallery
+name: Latchham Gallery
+geojson: '{"type":"Polygon","coordinates":[[[-79.42076399999999,44.101275],[-79.2177894,44.101275],[-79.2177894,43.923711],[-79.42076399999999,43.923711]]]}'
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
+---
+id: c7ebac6e-9174-42f8-b39f-3858154a69ce
+type: region
+slug: place-ville-marie
+name: Place Ville Marie
+geojson: '{"type":"Polygon","coordinates":[[[-73.570526,45.5026035],[-73.5676181,45.5026035],[-73.5676181,45.5003142],[-73.570526,45.5003142]]]}'
+---
+id: ca37a85c-2adc-4028-bba5-9953de315516
+type: region
+slug: de-la-salle-oaklands-college
+name: De La Salle Oaklands College
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: cb03ff26-448b-4e75-b22c-57b51c197327
+type: region
+slug: oakville
+name: Oakville
+geojson: '{"type":"Polygon","coordinates":[[[-79.810982,43.5280029],[-79.62513849999999,43.5280029],[-79.62513849999999,43.3716657],[-79.810982,43.3716657]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: cbfe2239-94bc-49f7-ab7f-e57ef208bbea
+type: region
+slug: trinity-bellwoods-park
+name: Trinity Bellwoods Park
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: cc44f857-0999-4242-ad14-f5e7f9c51091
+type: region
+slug: north-york
+name: North York
+geojson: '{"type":"Polygon","coordinates":[[[-79.5851129,43.8156051],[-79.2988841,43.8156051],[-79.2988841,43.692711],[-79.5851129,43.692711]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: d01925a7-ae26-4164-ba5c-ac438b520e51
+type: region
+slug: art-gallery-of-nova-scotia
+name: Art Gallery of Nova Scotia
+geojson: '{"type":"Polygon","coordinates":[[[-63.68627009999999,44.7035313],[-63.5576784,44.7035313],[-63.5576784,44.5949302],[-63.68627009999999,44.5949302]]]}'
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
+---
+id: d0e4bac2-00ef-4016-8cbf-92438e9489a1
+type: region
+slug: edwards-gardens
+name: Edwards Gardens
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: d4384dbf-30ba-4366-9f56-f3513d0e2bf6
+type: region
+slug: buffalo
+name: Buffalo
+geojson: '{"type":"Polygon","coordinates":[[[-78.914247,42.9664549],[-78.795157,42.9664549],[-78.795157,42.826023],[-78.914247,42.826023]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: d4c3d8f5-0df2-41e1-b51c-67312111dcb9
+type: region
+slug: victoria-memorial-park
+name: Victoria Memorial Park
+tag-ids:
+- 11ad1af4-ee67-4372-bd83-ae817b188c21
+---
+id: d51d3659-bcf9-407d-a67f-e9547b0b99ad
+type: region
+slug: berczy-park
+name: Berczy Park
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: d53b70bb-ec0e-4874-bbc4-828ccfd42589
+type: region
+slug: government-of-canada-building
+name: Government of Canada Building
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: d5ae47e9-dc84-49d5-8207-62ca09c05d70
+type: region
+slug: toronto-district-school-board
+name: Toronto District School Board
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: d64dc267-94fe-4409-b533-e1cd75c4c030
+type: region
+slug: ontario-place
+name: Ontario Place
+geojson: '{"type":"Polygon","coordinates":[[[-79.4109216,43.6323698],[-79.4101953,43.6323698],[-79.4101953,43.6281567],[-79.4109216,43.6281567]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: d6a74ae4-85ca-4d31-836e-b2d867c1bd18
+type: region
+slug: malvern-collegiate-institute
+name: Malvern Collegiate Institute
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: db2b0409-1605-40cf-8623-fbb02b89dfec
+type: region
+slug: rogers-centre---skydome
+name: Rogers Centre - Skydome
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- cafc4a07-2241-45ff-ab97-0bc7fe5fc3a7
+---
+id: db51661f-ea33-4c4d-aa70-30aac9ed8850
+type: region
+slug: harbord-collegiate-school
+name: Harbord Collegiate School
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: db9c6fc8-209d-4127-bc31-8201f6baf14b
+type: region
+slug: yorkdale-mall
+name: Yorkdale Mall
+tag-ids:
+- 99897a64-64c9-4df0-8c74-1ea68a637759
+---
+id: dd27a9dc-ca4a-4a5b-967a-966361cc1767
+type: region
+slug: x-the-condominium
+name: X The Condominium
+geojson: '{"type":"Polygon","coordinates":[[[-79.3807283,43.6703602],[-79.3801302,43.6703602],[-79.3801302,43.6699144],[-79.3807283,43.6699144]]]}'
+tag-ids:
+- f78a6462-d5a5-424d-a03c-fb328cbdee3d
+---
+id: de0cf2ba-c3e4-4c1c-a9e3-a36ade5dad27
+type: region
+slug: ocad
+name: OCAD
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: de6471c6-01d0-4b1f-9247-3eed4b5bdfa4
+type: region
+slug: faculty-of-architecture
+name: Faculty of Architecture
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: de9514ab-3770-4baa-af8b-d7d71683649a
+type: region
+slug: atmospheric-environment-service
+name: Atmospheric Environment Service
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: e1618bdc-d8de-4fbe-a98f-e3fcb6f8dafb
+type: region
+slug: toronto-west
+name: Toronto West
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: e3a45b8a-b1fd-4200-ad16-186e50c6c86d
+type: region
+slug: grimsby-public-art-gallery
+name: Grimsby Public Art Gallery
+geojson: '{"type":"Polygon","coordinates":[[[-79.649672,43.2267231],[-79.5119739,43.2267231],[-79.5119739,43.132606],[-79.649672,43.132606]]]}'
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
+---
+id: e4229f59-0582-4924-ac03-3c19807315b0
+type: region
+slug: north-york-general-hospital
+name: North York General Hospital
+tag-ids:
+- 06d088ca-1894-44c9-9e2a-e0491945abe0
+---
+id: e7d87bf7-d59b-4724-893a-78ccd167613c
+type: region
+slug: td-courtyard
+name: TD courtyard
+---
+id: e9128433-c365-4940-bac6-d870e9da3c61
+type: region
+slug: dupont-station
+name: Dupont Station
+geojson: '{"type":"Polygon","coordinates":[[[-79.4593316,43.6772708],[-79.3975816,43.6772708],[-79.3975816,43.6633198],[-79.4593316,43.6633198]]]}'
+tag-ids:
+- be43f247-3b33-4ea0-9212-69df13bf6710
+---
+id: e93e70b6-1e8c-4d9e-91b2-1a71ae24d1f1
+type: region
+slug: northrop-frye-hall
+name: Northrop Frye Hall
+geojson: '{"type":"Polygon","coordinates":[[[-79.3923768,43.6665589],[-79.3918752,43.6665589],[-79.3918752,43.6662719],[-79.3923768,43.6662719]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: e9679ec3-9d67-49a4-8fb4-2cfc64d95a4b
+type: region
+slug: the-annex
+name: The Annex
+geojson: '{"type":"Polygon","coordinates":[[[-79.4143589,43.6771849],[-79.3941293,43.6771849],[-79.3941293,43.665132],[-79.4143589,43.665132]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: e9d21cac-be41-47e2-9ce2-325bb9824875
+type: region
+slug: centre-for-fine-arts
+name: Centre for Fine Arts
+geojson: '{"type":"Polygon","coordinates":[[[-79.5026299,43.7723197],[-79.5015737,43.7723197],[-79.5015737,43.7718099],[-79.5026299,43.7718099]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: ea09f615-fb6b-452c-9f95-3006fe3faae6
+type: region
+slug: jeffery-hall
+name: Jeffery Hall
+geojson: '{"type":"Polygon","coordinates":[[[-76.49628129999999,44.2260686],[-76.4959954,44.2260686],[-76.4959954,44.2257329],[-76.49628129999999,44.2257329]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: eb7816e3-a3a7-4306-a741-8d62ca4b6530
+type: region
+slug: forest-hill
+name: Forest Hill
+geojson: '{"type":"Polygon","coordinates":[[[-79.4410228,43.7100133],[-79.401138,43.7100133],[-79.401138,43.68321],[-79.4410228,43.68321]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: ebf27c43-ca74-4bd3-8cbb-58f49f577d45
+type: region
+slug: meridian-residences
+name: Meridian Residences
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- f78a6462-d5a5-424d-a03c-fb328cbdee3d
+---
+id: ed34b6bb-f997-45b6-8c68-2dfde992912f
+type: region
+slug: bell-memorial-park
+name: Bell Memorial Park
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: ee479018-3757-4474-8b93-cce3ef588173
+type: region
+slug: glendon-college
+name: Glendon College
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: eea16118-26e1-4aed-82a7-aa2436add7c6
+type: region
+slug: pickering
+name: Pickering
+geojson: '{"type":"Polygon","coordinates":[[[-79.22003699999999,44.010769],[-79.008541,44.010769],[-79.008541,43.794374],[-79.22003699999999,43.794374]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: eed2b1f5-6144-4ca4-b225-5080419c7558
+type: region
+slug: dundas-station
+name: Dundas Station
+tag-ids:
+- be43f247-3b33-4ea0-9212-69df13bf6710
+---
+id: ef2ef02c-c4b7-411c-89b6-9491bd01f933
+type: region
+slug: whitby
+name: Whitby
+geojson: '{"type":"Polygon","coordinates":[[[-79.0473109,44.0287049],[-78.88180419999999,44.0287049],[-78.88180419999999,43.8334536],[-79.0473109,43.8334536]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: f0ae4340-da34-4241-807a-800fd953947f
+type: region
+slug: ago
+name: AGO
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
+---
+id: f1407c59-7c01-41f9-b10b-095b35df585e
+type: region
+slug: exhibition-place
+name: Exhibition Place
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: f177b8dc-1094-41c9-80c7-bc61ab7d2936
+type: region
+slug: medical-science-building
+name: Medical Science Building
+geojson: '{"type":"Polygon","coordinates":[[[-79.3945806,43.6614594],[-79.39215519999999,43.6614594],[-79.39215519999999,43.6603627],[-79.3945806,43.6603627]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: f3b129f8-3ebd-4244-8ecd-628749f77934
+type: region
+slug: toronto-islands
+name: Toronto Islands
+geojson: '{"type":"Polygon","coordinates":[[[-79.4049258,43.63409120000001],[-79.34944689999999,43.63409120000001],[-79.34944689999999,43.6119566],[-79.4049258,43.6119566]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: f46a6928-d36a-40bc-b3a3-952da390cec8
+type: region
+slug: confederation-park
+name: Confederation Park
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: f48b25e8-a9fc-44ff-84f9-3c0f9599176d
+type: region
+slug: st-michaels-college
+name: St. Michael's College
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: f5d0b625-0491-464e-8402-4643a8fd89da
+type: region
+slug: coronation-park
+name: Coronation Park
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: f6532ed4-53b0-481d-b47d-47e5d681c9e2
+type: region
+slug: national-arts-centre
+name: National Arts Centre
+geojson: '{"type":"Polygon","coordinates":[[[-75.69443369999999,45.4236421],[-75.6922706,45.4236421],[-75.6922706,45.4226432],[-75.69443369999999,45.4226432]]]}'
+tag-ids:
+- 17d9bb08-20d9-41c9-aa61-5b47aa78faf3
+---
+id: f6b3fb25-fa1d-4591-bae5-d319b6bdd9ed
+type: region
+slug: st-catharines
+name: St. Catharines
+geojson: '{"type":"Polygon","coordinates":[[[-79.7146854,43.37296569999999],[-79.177446,43.37296569999999],[-79.177446,43.1046951],[-79.7146854,43.1046951]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: f7318516-8ede-43a6-88a1-88bc366ec7d0
+type: region
+slug: simcoe-county-court-house
+name: Simcoe County Court House
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: f7a1b512-4e74-46ed-a361-c67400df542e
+type: region
+slug: oracle-corp
+name: Oracle Corp.
+geojson: '{"type":"Polygon","coordinates":[[[-79.8101295,43.737351],[-79.5426461,43.737351],[-79.5426461,43.480958],[-79.8101295,43.480958]]]}'
+---
+id: f8757afb-54c3-402d-abce-46fbeca53682
+type: region
+slug: ottawa-art-gallery
+name: Ottawa Art Gallery
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
+---
+id: fad9066e-6b1c-480b-b811-900fce315fcc
+type: region
+slug: windsor-city-hall
+name: Windsor City Hall
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: fb36aa49-e0a0-4b27-827e-f7c54a312d6d
+type: region
+slug: waterloo-university
+name: Waterloo University
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: fb43763f-2d7c-42a4-9b96-0e5f5317c426
+type: region
+slug: royal-bank
+name: Royal Bank
+geojson: '{"type":"Polygon","coordinates":[[[-79.38032559999999,43.6468326],[-79.37987489999999,43.6468326],[-79.37987489999999,43.6460641],[-79.38032559999999,43.6460641]]]}'
+---
+id: fbd0cd8e-0666-4024-9821-3f18d947ebe3
+type: region
+slug: hart-house
+name: Hart House
+geojson: '{"type":"Polygon","coordinates":[[[-79.5052087,43.7701746],[-79.50495649999999,43.7701746],[-79.50495649999999,43.7700253],[-79.5052087,43.7700253]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: fc0c567b-e827-47b3-9545-a9315424a281
+type: region
+slug: mimico
+name: Mimico
+geojson: '{"type":"Polygon","coordinates":[[[-79.530158,43.63324859999999],[-79.46902510000001,43.63324859999999],[-79.46902510000001,43.6011154],[-79.530158,43.6011154]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: fc208a48-f7b4-4568-9aa4-57d121b63578
+type: region
+slug: hockey-hall-of-fame
+name: Hockey Hall of Fame
+tag-ids:
+- cafc4a07-2241-45ff-ab97-0bc7fe5fc3a7
+---
+id: fc89a285-8952-479b-8462-3dda2722da05
+type: region
+slug: art-gallery-of-mississauga
+name: Art Gallery of Mississauga
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
+---
+id: fca1c336-2f41-43b5-9f8a-4e3d568f5b13
+type: region
+slug: beaches
+name: Beaches
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: fec3d978-cb07-43e8-887b-2786f59d1007
+type: region
+slug: pharmacy-building
+name: Pharmacy Building
+geojson: '{"type":"Polygon","coordinates":[[[-79.392027,43.660165],[-79.3914243,43.660165],[-79.3914243,43.6597739],[-79.392027,43.6597739]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: ff384ef6-10db-45c0-95df-3e82a4b82139
+type: region
+slug: donnelly-centre
+name: Donnelly Centre
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 0165c70c-139e-416b-9d94-e55d36ee6acf
+type: region
+slug: george-drew-building
+name: George Drew Building
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: 02003083-08ab-468f-8804-efd2eedc7642
+type: region
+slug: ireland-park
+name: Ireland Park
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: 0252fd94-aef7-457d-9d87-56bbc9932fe3
+type: region
+slug: mount-sinai-hospital
+name: Mount Sinai Hospital
+tag-ids:
+- 06d088ca-1894-44c9-9e2a-e0491945abe0
+---
+id: 049938b9-62de-455d-893b-c884d6224bf2
+type: region
+slug: york
+name: York
+geojson: '{"type":"Polygon","coordinates":[[[-79.5356888,43.7161541],[-79.4183709,43.7161541],[-79.4183709,43.64744],[-79.5356888,43.64744]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 065b87d5-c1bf-446c-b4c0-5075de4b40d7
+type: region
+slug: mckee-public-school
+name: McKee Public School
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 07079f81-694d-454a-a900-243577044372
+type: region
+slug: little-italy
+name: Little Italy
+geojson: '{"type":"Polygon","coordinates":[[[-79.42424299999999,43.6615074],[-79.4059181,43.6615074],[-79.4059181,43.649274],[-79.42424299999999,43.649274]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 07c54de5-12e8-438e-89e8-04ce626ca139
+type: region
+slug: erindale
+name: Erindale
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 07e4f842-5b1a-4a85-9caf-64a5c2b8f5f5
+type: region
+slug: hospital-for-sick-children
+name: Hospital for Sick Children
+tag-ids:
+- 06d088ca-1894-44c9-9e2a-e0491945abe0
+---
+id: 0822600a-883e-44fb-8bcd-34f977149289
+type: region
+slug: the-robert-mclaughlin-gallery
+name: The Robert McLaughlin Gallery
+geojson: '{"type":"Polygon","coordinates":[[[-78.959296,44.04739199999999],[-78.7974061,44.04739199999999],[-78.7974061,43.8503519],[-78.959296,43.8503519]]]}'
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
+---
+id: 086dd249-f392-4898-bf9b-1531be81e163
+type: region
+slug: vari-hall
+name: Vari Hall
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 097c47f6-f160-4612-b45d-ae96080ebfad
+type: region
+slug: mount-pleasant-cemetery
+name: Mount Pleasant Cemetery
+tag-ids:
+- 11ad1af4-ee67-4372-bd83-ae817b188c21
+---
+id: 099ead13-9abb-40c7-b699-1f9e0d12bcfa
+type: region
+slug: cloverdale-mall
+name: Cloverdale Mall
+tag-ids:
+- 99897a64-64c9-4df0-8c74-1ea68a637759
+---
+id: 0aa02cfd-5432-43b2-b81e-8659b83bbf2f
+type: region
+slug: poland
+name: Poland
+geojson: '{"type":"Polygon","coordinates":[[[14.1228641,54.835784],[24.1458931,54.835784],[24.1458931,49.0020252],[14.1228641,49.0020252]]]}'
+tag-ids:
+- 6181abfa-d7e2-47a5-b00d-83512c657b91
+---
+id: 0b0463d0-c22c-4333-94ee-ba91b77f615b
+type: region
+slug: art-gallery-of-hamilton
+name: Art Gallery of Hamilton
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
+---
+id: 0cfec26e-c1a6-43b3-8a15-d5ac2bafc8b8
+type: region
+slug: glendon-college
+name: Glendon College
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 0db56e46-f7e5-4c87-b7fc-abc0e9de558e
+type: region
+slug: leaside
+name: Leaside
+geojson: '{"type":"Polygon","coordinates":[[[-79.37836209999999,43.720377],[-79.34918390000001,43.720377],[-79.34918390000001,43.6944384],[-79.37836209999999,43.6944384]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 0e312c0f-5b62-4f4f-9735-d0255fa871b6
+type: region
+slug: library-and-archives-canada
+name: Library and Archives Canada
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: 0f2cf251-981c-4b32-9f2f-19adc5394f81
+type: region
+slug: university-of-windsor
+name: University of Windsor
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 0f6cdc20-475b-4e3b-ac8d-23d0d03705b2
+type: region
+slug: grimsby
+name: Grimsby
+geojson: '{"type":"Polygon","coordinates":[[[-79.649672,43.2267231],[-79.5119739,43.2267231],[-79.5119739,43.132606],[-79.649672,43.132606]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 101fd68c-e06e-4e91-acec-c40323275b97
+type: region
+slug: kinsman-gallery
+name: Kinsman Gallery
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
+---
+id: 10cef505-07d9-43fa-bf15-9b807d8c1af5
+type: region
+slug: baycrest-terrace
+name: Baycrest Terrace
+geojson: '{"type":"Polygon","coordinates":[[[-79.4447629,43.7296311],[-79.4321589,43.7296311],[-79.4321589,43.7269349],[-79.4447629,43.7269349]]]}'
+tag-ids:
+- f78a6462-d5a5-424d-a03c-fb328cbdee3d
+---
+id: 112e020f-83a2-4e6a-8ef0-e58bd76401df
+type: region
+slug: mississauga-city-hall
+name: Mississauga City Hall
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: 1144865d-4c35-4e95-a8e2-c78295444e26
+type: region
+slug: distillery-district
+name: Distillery District
+geojson: '{"type":"Polygon","coordinates":[[[-79.3621981,43.651717],[-79.35685529999999,43.651717],[-79.35685529999999,43.6493671],[-79.3621981,43.6493671]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 1285b4cc-4b8f-4fdc-a1ff-75e68d7f8833
+type: region
+slug: warsaw
+name: Warsaw
+geojson: '{"type":"Polygon","coordinates":[[[20.8512898,52.3679992],[21.2710983,52.3679992],[21.2710983,52.0978767],[20.8512898,52.0978767]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 12a0f3ec-7a57-44b7-948e-a11502e220f5
+type: region
+slug: hamilton
+name: Hamilton
+geojson: '{"type":"Polygon","coordinates":[[[-80.24870709999999,43.4710569],[-79.6221594,43.4710569],[-79.6221594,43.0505639],[-80.24870709999999,43.0505639]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 12f591dc-272e-4905-ba6c-cfbe6e3af1df
+type: region
+slug: st-paul-rc-church
+name: St. Paul RC Church
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- 8de551a5-8ce4-4bb6-9459-29f636a51134
+---
+id: 140ce4f1-9ee8-48b3-8062-2a55bc8532ae
+type: region
+slug: york-university
+name: York University
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 14b5b05b-e544-4793-b3f3-a430f110ccff
+type: region
+slug: quebec-city
+name: Quebec City
+geojson: '{"type":"Polygon","coordinates":[[[-71.54944499999999,46.9819379],[-71.14270069999999,46.9819379],[-71.14270069999999,46.7340768],[-71.54944499999999,46.7340768]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 161ec2af-48c4-4a0b-9341-df0df2e06145
+type: region
+slug: rexdale
+name: Rexdale
+geojson: '{"type":"Polygon","coordinates":[[[-79.6313095,43.7605564],[-79.5378319,43.7605564],[-79.5378319,43.6794805],[-79.6313095,43.6794805]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 17566dbd-bfdc-43f5-a4e1-6a5aabd051dd
+type: region
+slug: jewish-community-centre
+name: Jewish Community Centre
+tag-ids:
+- ae775bfc-ecf1-4353-97db-35d424171903
+---
+id: 18ce8788-c1aa-4dda-a18c-ec9ae33d8386
+type: region
+slug: trinity-bellwoods
+name: Trinity Bellwoods
+geojson: '{"type":"Polygon","coordinates":[[[-79.4264001,43.6564641],[-79.4039569,43.6564641],[-79.4039569,43.643468],[-79.4264001,43.643468]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 1a0e67d7-7762-4584-a32f-785f81339773
+type: region
+slug: mississauga-central-library
+name: Mississauga Central Library
+tag-ids:
+- ef6d25e7-396f-479d-adb5-4bca77066e4a
+---
+id: 1a24b913-1ef6-4f06-9c51-261a5e3da3bc
+type: region
+slug: waterloo
+name: Waterloo
+geojson: '{"type":"Polygon","coordinates":[[[-80.6261459,43.5317799],[-80.46729289999999,43.5317799],[-80.46729289999999,43.4326571],[-80.6261459,43.4326571]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 1aab0c88-581f-4c83-93a1-ddbb1903275e
+type: region
+slug: canoe-landing-park
+name: Canoe Landing Park
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: 1c214592-65ef-478c-97fc-bd7c50d51e57
+type: region
+slug: metro-hall
+name: Metro Hall
+geojson: '{"type":"Polygon","coordinates":[[[-79.38940199999999,43.6464982],[-79.38802629999999,43.6464982],[-79.38802629999999,43.6455873],[-79.38940199999999,43.6455873]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: 1e72a5ea-6ae0-4b3a-8f10-4292645ccd95
+type: region
+slug: amica-residence
+name: Amica Residence
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- f78a6462-d5a5-424d-a03c-fb328cbdee3d
+---
+id: 1f0662f0-0fde-45f3-8ca4-969ba47a4e80
+type: region
+slug: financial-district
+name: Financial District
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 205b643e-abb0-4f93-a95d-eb67e88041c2
+type: region
+slug: windsor
+name: Windsor
+geojson: '{"type":"Polygon","coordinates":[[[-83.114824,42.3518283],[-82.89094,42.3518283],[-82.89094,42.233569],[-83.114824,42.233569]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 206ecf40-f817-4367-8ddd-cb1ef537a143
+type: region
+slug: beth-sholom-synagoge
+name: Beth Sholom Synagoge
+tag-ids:
+- 8de551a5-8ce4-4bb6-9459-29f636a51134
+---
+id: 207d1ea3-155d-480c-a35d-a8e4f11cde9b
+type: region
+slug: robarts-library
+name: Robarts Library
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 20caadc0-8c62-413e-87b7-648d746c1610
+type: region
+slug: scott-religious-centre
+name: Scott Religious Centre
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 21e66a1c-6814-451b-a980-792bcd1fcf92
+type: region
+slug: the-mcmichael-gallery
+name: The McMichael Gallery
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
+---
+id: 22e9f56b-9e32-4d91-a990-b1b9ebedaa22
+type: region
+slug: canada
+name: Canada
+geojson: '{"type":"Polygon","coordinates":[[[-141.00187,83.0956562],[-52.6206965,83.0956562],[-52.6206965,41.6765559],[-141.00187,41.6765559]]]}'
+tag-ids:
+- 6181abfa-d7e2-47a5-b00d-83512c657b91
+---
+id: 2431c070-9a12-47ea-b121-0544c9922dd2
+type: region
+slug: mimico-centennial-library
+name: Mimico Centennial Library
+tag-ids:
+- ef6d25e7-396f-479d-adb5-4bca77066e4a
+---
+id: 256dafd8-f82d-418d-8fdc-3bdd99384680
+type: region
+slug: markham
+name: Markham
+geojson: '{"type":"Polygon","coordinates":[[[-79.428823,43.9634291],[-79.170254,43.9634291],[-79.170254,43.7980491],[-79.428823,43.7980491]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 25eb1ec6-0be0-4c88-a0dc-90e83aab9975
+type: region
+slug: gzowski-park
+name: Gzowski Park
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: 2740d82f-86dd-4843-bf9d-faffec54046c
+type: region
+slug: first-canadian-place
+name: First Canadian Place
+geojson: '{"type":"Polygon","coordinates":[[[-79.382939,43.6497216],[-79.3804493,43.6497216],[-79.3804493,43.648381],[-79.382939,43.648381]]]}'
+---
+id: 27fecf29-2c96-472c-bea3-53b61a950bca
+type: region
+slug: le-vieux-port-de-quebec
+name: Le Vieux-Port de Quebec
+geojson: '{"type":"Polygon","coordinates":[[[-71.2132407,46.82114800000001],[-71.206814,46.82114800000001],[-71.206814,46.8200831],[-71.2132407,46.8200831]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 2933bcaa-7728-4e4d-b1e0-20268f2e23b8
+type: region
+slug: new-city-hall
+name: New City Hall
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: 293e107a-eb1d-4134-9712-98e73a90e1e7
+type: region
+slug: guildwood-park
+name: Guildwood Park
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: 2ace9c65-d244-4360-b4eb-3ae52cf0e9c3
+type: region
+slug: david-balfour-park
+name: David Balfour Park
+geojson: '{"type":"Polygon","coordinates":[[[-79.39150599999999,43.6911578],[-79.38564060000002,43.6911578],[-79.38564060000002,43.6857081],[-79.39150599999999,43.6857081]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: 2c1d634b-7420-45ca-9a00-7c1c40365dfd
+type: region
+slug: meadowvale-cemetery
+name: Meadowvale Cemetery
+geojson: '{"type":"Polygon","coordinates":[[[-79.750355,43.64145500000001],[-79.748425,43.64145500000001],[-79.748425,43.64011199999999],[-79.750355,43.64011199999999]]]}'
+tag-ids:
+- 11ad1af4-ee67-4372-bd83-ae817b188c21
+---
+id: 2e7e7dfa-e3bb-4743-b4c5-a4a53527b48b
+type: region
+slug: curtis-lecture-hall
+name: Curtis Lecture Hall
+geojson: '{"type":"Polygon","coordinates":[[[-79.5057113,43.7734263],[-79.5046689,43.7734263],[-79.5046689,43.7729216],[-79.5057113,43.7729216]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 2f86de30-6fe4-4e1c-abd2-069f393f8c59
+type: region
+slug: toronto-centre-for-the-arts
+name: Toronto Centre for the Arts
+geojson: '{"type":"Polygon","coordinates":[[[-79.41516639999999,43.7665459],[-79.4138232,43.7665459],[-79.4138232,43.7655697],[-79.41516639999999,43.7655697]]]}'
+tag-ids:
+- 17d9bb08-20d9-41c9-aa61-5b47aa78faf3
+---
+id: 30a818b6-06da-410b-8f84-e1bbbf7ed00c
+type: region
+slug: al-green-sculpture-park
+name: Al Green Sculpture Park
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- 0fc87402-1a39-4ec0-bc47-89c311a8711d
+---
+id: 327bc116-cea9-4ea7-b31d-c31ff91bec40
+type: region
+slug: official-residence-of-prime-minister-of-canada
+name: Official Residence of Prime Minister of Canada
+geojson: '{"type":"Polygon","coordinates":[[[-76.3539158,45.5375801],[-75.2465979,45.5375801],[-75.2465979,44.962733],[-76.3539158,44.962733]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: 3280d40e-c763-411e-b4f3-ca2786b25e8a
+type: region
+slug: york-mills
+name: York Mills
+geojson: '{"type":"Polygon","coordinates":[[[-79.4086647,43.76613529999999],[-79.35991279999999,43.76613529999999],[-79.35991279999999,43.7360032],[-79.4086647,43.7360032]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 32a292f2-5dc8-4dcd-83db-bcb5b126410a
+type: region
+slug: waterfront
+name: Waterfront
+geojson: '{"type":"Polygon","coordinates":[[[-79.4756201,43.6305851],[-79.4740301,43.6305851],[-79.4740301,43.6292835],[-79.4756201,43.6292835]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 32a9d5c6-7856-4721-b101-7c2e66c1db34
+type: region
+slug: queens-quay
+name: Queens Quay
+geojson: '{"type":"Polygon","coordinates":[[[-79.4005727,43.6421398],[-79.3745318,43.6421398],[-79.3745318,43.6344755],[-79.4005727,43.6344755]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 34338123-76c8-4e73-ac74-1855dd3f87ce
+type: region
+slug: university-of-toronto
+name: University of Toronto
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 36394b43-5e94-4dbd-b01c-3caaefdb0721
+type: region
+slug: milliken
+name: Milliken
+geojson: '{"type":"Polygon","coordinates":[[[-79.32925279999999,43.8492205],[-79.26647539999999,43.8492205],[-79.26647539999999,43.7967694],[-79.32925279999999,43.7967694]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 36de8a9b-8dab-412e-b908-bd352d7da967
+type: region
+slug: montreal
+name: Montreal
+geojson: '{"type":"Polygon","coordinates":[[[-73.9488652,45.7056146],[-73.4752355,45.7056146],[-73.4752355,45.4146367],[-73.9488652,45.4146367]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 37c78efd-7eeb-4372-8f8c-2e86ec28462a
+type: region
+slug: donald-forster-sculpture-park
+name: Donald Forster Sculpture Park
+tag-ids:
+- 0fc87402-1a39-4ec0-bc47-89c311a8711d
+---
+id: 37fc3bfe-b17c-4544-8ec6-a07d0c7b90c0
+type: region
+slug: toronto-music-garden
+name: Toronto Music Garden
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: 3a5942b5-c254-4f96-8a53-f163eccf883b
+type: region
+slug: gairloch-gardens
+name: Gairloch Gardens
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: 3b9aa023-bfce-40a5-bc36-e838955f9bbe
+type: region
+slug: victoria-college
+name: Victoria College
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 417e7673-4d82-4e4a-bd8e-92c9edaca54a
+type: region
+slug: barrie
+name: Barrie
+geojson: '{"type":"Polygon","coordinates":[[[-79.7456249,44.424403],[-79.5858192,44.424403],[-79.5858192,44.2938755],[-79.7456249,44.2938755]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 4185b19c-8b60-4703-8e17-d781b64df465
+type: region
+slug: harbord-village
+name: Harbord Village
+geojson: '{"type":"Polygon","coordinates":[[[-79.4112396,43.6667075],[-79.40010319999999,43.6667075],[-79.40010319999999,43.6564467],[-79.4112396,43.6564467]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 41a9d657-e029-4321-848a-5bc1662e3926
+type: region
+slug: kew-gardens
+name: Kew Gardens
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: 41bbe653-32c5-437d-94ee-f9fb6b7a6670
+type: region
+slug: canadas-national-ballet-school
+name: Canada's National Ballet School
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 42a93060-46b6-4fe1-83bb-d47a5d4bbce0
+type: region
+slug: founders-college
+name: Founders College
+geojson: '{"type":"Polygon","coordinates":[[[-79.3894289,43.6656266],[-79.3892288,43.6656266],[-79.3892288,43.66540699999999],[-79.3894289,43.66540699999999]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 43f08ae1-7318-4197-9b69-3178fa39daf6
+type: region
+slug: necropolis-cemetery
+name: Necropolis Cemetery
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- 11ad1af4-ee67-4372-bd83-ae817b188c21
+---
+id: 458ca137-ac4d-4f02-92a8-b3cc436104ba
+type: region
+slug: swansea
+name: Swansea
+geojson: '{"type":"Polygon","coordinates":[[[-79.491969,43.6525345],[-79.4639827,43.6525345],[-79.4639827,43.6309812],[-79.491969,43.6309812]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 45ba0538-5ad7-4f2b-b534-915f05006f0a
+type: region
+slug: casa-loma
+name: Casa Loma
+geojson: '{"type":"Polygon","coordinates":[[[-79.4186212,43.6868048],[-79.3976333,43.6868048],[-79.3976333,43.67402999999999],[-79.4186212,43.67402999999999]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: 46b6a70b-ed3d-4cfe-8f08-d311a8fb6267
+type: region
+slug: jean-sibelious-square
+name: Jean Sibelious Square
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: 476dd765-526c-4414-b698-99df762c9f7f
+type: region
+slug: little-norway-park
+name: Little Norway Park
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: 4866a377-0fe2-43a3-aa9a-8dfc43504c29
+type: region
+slug: gallery-68
+name: Gallery 68
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
+---
+id: 4a08f656-0e19-46e5-ba00-4f3f5d583b9a
+type: region
+slug: franklin-childrens-garden
+name: Franklin Children's Garden
+geojson: '{"type":"Polygon","coordinates":[[[-79.3775189,43.6168172],[-79.37566819999999,43.6168172],[-79.37566819999999,43.6157705],[-79.3775189,43.6157705]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: 4a2d5158-1183-4cef-b6d0-c0b4f0556107
+type: region
+slug: bloorview-kids-rehab
+name: Bloorview Kids Rehab
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- 06d088ca-1894-44c9-9e2a-e0491945abe0
+---
+id: 4b0e8bf6-3dea-4218-86e6-3bba50e7f7fd
+type: region
+slug: toronto-rehabilitation-cardiac-centre
+name: Toronto Rehabilitation Cardiac Centre
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- 06d088ca-1894-44c9-9e2a-e0491945abe0
+---
+id: 4c19b4ec-bdba-4ac4-ad14-d8fd48e3d8a3
+type: region
+slug: toronto-general-hospital
+name: Toronto General Hospital
+tag-ids:
+- 06d088ca-1894-44c9-9e2a-e0491945abe0
+---
+id: 4ca2343c-83f4-4fcc-957f-6045929ad1b4
+type: region
+slug: columbus-centre
+name: Columbus Centre
+geojson: '{"type":"Polygon","coordinates":[[[-79.4468037,43.6505869],[-79.4450987,43.6505869],[-79.4450987,43.6500321],[-79.4468037,43.6500321]]]}'
+---
+id: 4dce6e43-5aef-41cf-91d2-f96e9baef006
+type: region
+slug: bethune-college
+name: Bethune College
+geojson: '{"type":"Polygon","coordinates":[[[-79.5096207,43.7734548],[-79.5086639,43.7734548],[-79.5086639,43.7728752],[-79.5096207,43.7728752]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 4eb67ebe-4a8c-4830-9eb1-d05e4ecdcec0
+type: region
+slug: supreme-court-of-canada
+name: Supreme Court of Canada
+geojson: '{"type":"Polygon","coordinates":[[[-75.706167,45.4223781],[-75.70497639999999,45.4223781],[-75.70497639999999,45.421533],[-75.706167,45.421533]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: 4f276bac-28c5-41ac-9fe8-0516f1acb650
+type: region
+slug: canadian-memorial-chiropractic-college
+name: Canadian Memorial Chiropractic College
+tag-ids:
+- 06d088ca-1894-44c9-9e2a-e0491945abe0
+---
+id: 50a4b64b-033b-4144-8f5c-d51233aca98a
+type: region
+slug: mclaughlin-college
+name: McLaughlin College
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 51d7c430-3171-407d-8a68-aa6d474ab989
+type: region
+slug: riverdale
+name: Riverdale
+geojson: '{"type":"Polygon","coordinates":[[[-79.36153809999999,43.6846946],[-79.3297005,43.6846946],[-79.3297005,43.650918],[-79.36153809999999,43.650918]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 52e810ca-5f11-4635-823a-13b99d8d952d
+type: region
+slug: vishnu-mandir
+name: Vishnu Mandir
+tag-ids:
+- 8de551a5-8ce4-4bb6-9459-29f636a51134
+---
+id: 551b075c-547f-462a-92c5-006d40943bb7
+type: region
+slug: tilley-endurables
+name: Tilley Endurables
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+---
+id: 5546dbe2-225f-45d3-bf0c-7acc90aa4f13
+type: region
+slug: oakville-center-for-the-performing-arts
+name: Oakville Center for the Performing Arts
+geojson: '{"type":"Polygon","coordinates":[[[-79.810982,43.5280029],[-79.62513849999999,43.5280029],[-79.62513849999999,43.3716657],[-79.810982,43.3716657]]]}'
+tag-ids:
+- 17d9bb08-20d9-41c9-aa61-5b47aa78faf3
+---
+id: 578d2aaf-fa4e-4d2e-9cc5-8599b0bcfacb
+type: region
+slug: rodman-hall
+name: Rodman Hall
+geojson: '{"type":"Polygon","coordinates":[[[-79.2475176,43.149911],[-79.24668659999999,43.149911],[-79.24668659999999,43.1490162],[-79.2475176,43.1490162]]]}'
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
+---
+id: 57eec076-e695-45eb-aa87-2eaba80dc9a7
+type: region
+slug: air-canada-centre
+name: Air Canada Centre
+tag-ids:
+- cafc4a07-2241-45ff-ab97-0bc7fe5fc3a7
+---
+id: 57f220d5-c664-489e-8f97-9c387a4f90f5
+type: region
+slug: mona-lisa-condominiums
+name: Mona Lisa Condominiums
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- f78a6462-d5a5-424d-a03c-fb328cbdee3d
+---
+id: 58d4e211-3e92-48c5-8bc9-86476f4c9786
+type: region
+slug: eaton-centre
+name: Eaton Centre
+geojson: '{"type":"Polygon","coordinates":[[[-79.3448384,43.6839537],[-79.3430202,43.6839537],[-79.3430202,43.6792552],[-79.3448384,43.6792552]]]}'
+tag-ids:
+- 99897a64-64c9-4df0-8c74-1ea68a637759
+---
+id: 594f7a4e-d9b3-4a16-8b12-43f43d8da36a
+type: region
+slug: esplanade-powder-magazine
+name: Esplanade Powder Magazine
+geojson: '{"type":"Polygon","coordinates":[[[-71.54944499999999,46.9819379],[-71.14270069999999,46.9819379],[-71.14270069999999,46.7340768],[-71.54944499999999,46.7340768]]]}'
+---
+id: 5a140574-b2e5-41ac-87b1-ca89b799986d
+type: region
+slug: brampton
+name: Brampton
+geojson: '{"type":"Polygon","coordinates":[[[-79.8888939,43.847729],[-79.6301939,43.847729],[-79.6301939,43.602139],[-79.8888939,43.602139]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 5bb56f11-a817-4481-a354-3e08eeaf03d1
+type: region
+slug: harbour-square-park
+name: Harbour Square Park
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: 5c7b7dc4-5979-4283-a5e6-3d68e1c456ae
+type: region
+slug: metro-toronto-convention-centre
+name: Metro Toronto Convention Centre
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+---
+id: 5f70c989-cfd3-4365-a3e5-541c197d9252
+type: region
+slug: east-york
+name: East York
+geojson: '{"type":"Polygon","coordinates":[[[-79.37836209999999,43.720377],[-79.28868109999999,43.720377],[-79.28868109999999,43.6813691],[-79.37836209999999,43.6813691]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 5fd7f860-5391-4e3a-a829-5c9b6982adc5
+type: region
+slug: scarborough-civic-centre-park
+name: Scarborough Civic Centre Park
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: 60f8e02e-b989-4e4a-abaa-615e06096a28
+type: region
+slug: wsib
+name: WSIB
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+---
+id: 617a089c-430f-4680-aef6-c995862fc379
+type: region
+slug: queens-university
+name: Queen's University
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 61f2f87f-6c64-40f6-93d0-7a591551cf68
+type: region
+slug: parliament-hill
+name: Parliament Hill
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: 63101a1a-9895-45fc-981f-b0f2ef6110f0
+type: region
+slug: scott-library
+name: Scott Library
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 63ff4012-f27e-4078-9f6c-707076e19449
+type: region
+slug: agnes-etherington-art-centre
+name: Agnes Etherington Art Centre
+geojson: '{"type":"Polygon","coordinates":[[[-76.4966039,44.2255817],[-76.4959291,44.2255817],[-76.4959291,44.2250991],[-76.4966039,44.2250991]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 656a3494-faf3-4215-acdf-40fa008b0664
+type: region
+slug: oshawa
+name: Oshawa
+geojson: '{"type":"Polygon","coordinates":[[[-78.959296,44.04739199999999],[-78.7974061,44.04739199999999],[-78.7974061,43.8503519],[-78.959296,43.8503519]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 66177408-9dfc-4be1-9057-ef9a5c3e9767
+type: region
+slug: muranów
+name: Muranów
+geojson: '{"type":"Polygon","coordinates":[[[20.9811402,52.25914179999999],[21.0115537,52.25914179999999],[21.0115537,52.2418968],[20.9811402,52.2418968]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 66fd7b59-4bc7-41d4-8677-d9ee2ded10ff
+type: region
+slug: bell-canada
+name: Bell Canada
+---
+id: 682ca46d-f35c-4747-a8d4-287344863f58
+type: region
+slug: rochdale-college
+name: Rochdale College
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
+---
+id: 6bb17e49-9a4c-43ca-95d1-bc2dc128e074
+type: region
+slug: toronto
+name: Toronto
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 6bfc0776-7077-4671-86d0-d66ef71d44db
+type: region
+slug: davisville
+name: Davisville
+geojson: '{"type":"Polygon","coordinates":[[[-79.3981933,43.7110679],[-79.37321659999999,43.7110679],[-79.37321659999999,43.6955556],[-79.3981933,43.6955556]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 6c5fe940-2f77-44a2-8866-50d618fc1a68
+type: region
+slug: richmond-hill
+name: Richmond Hill
+geojson: '{"type":"Polygon","coordinates":[[[-79.485593,43.9777849],[-79.37100989999999,43.9777849],[-79.37100989999999,43.829353],[-79.485593,43.829353]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 6e0f819f-7038-4843-974a-cf49a235e0cf
+type: region
+slug: downtown
+name: Downtown
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 7064918f-e3fe-40f5-b78a-b5b46f9ec004
+type: region
+slug: etobicoke-civic-centre
+name: Etobicoke Civic Centre
+geojson: '{"type":"Polygon","coordinates":[[[-79.56622159999999,43.6443586],[-79.56494579999999,43.6443586],[-79.56494579999999,43.6430737],[-79.56622159999999,43.6430737]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: 72b7f321-f2c9-4def-95d7-b0fcc00f8dce
+type: region
+slug: shops-at-don-mills
+name: Shops at Don Mills
+geojson: '{"type":"Polygon","coordinates":[[[-79.35991279999999,43.7583867],[-79.3306447,43.7583867],[-79.3306447,43.7221104],[-79.35991279999999,43.7221104]]]}'
+tag-ids:
+- 99897a64-64c9-4df0-8c74-1ea68a637759
+---
+id: 72f51748-8fcc-4795-867e-93fd30248470
+type: region
+slug: one-financial-place
+name: One Financial Place
+geojson: '{"type":"Polygon","coordinates":[[[-79.378349,43.6502221],[-79.37765399999999,43.6502221],[-79.37765399999999,43.6501271],[-79.378349,43.6501271]]]}'
+---
+id: 74ebb756-679f-49a6-b4ae-d9863419be50
+type: region
+slug: pier-8
+name: Pier 8
+geojson: '{"type":"Polygon","coordinates":[[[-76.50259489999999,44.2208547],[-76.50175899999999,44.2208547],[-76.50175899999999,44.2205515],[-76.50259489999999,44.2205515]]]}'
+---
+id: 763bfc34-5507-4178-8a6d-e85733d4ca9e
+type: region
+slug: bloor-st-united-church
+name: Bloor St. United Church
+tag-ids:
+- 8de551a5-8ce4-4bb6-9459-29f636a51134
+---
+id: 79c0c361-6141-4663-8e2d-6ac88f326040
+type: region
+slug: gallery-moos
+name: Gallery Moos
+geojson: '{"type":"Polygon","coordinates":[[[-79.3931563,43.6621611],[-79.39280409999999,43.6621611],[-79.39280409999999,43.661711],[-79.3931563,43.661711]]]}'
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
+---
+id: 7baeea17-b3a2-4792-94d6-831af742a874
+type: region
+slug: yorkville
+name: Yorkville
+geojson: '{"type":"Polygon","coordinates":[[[-79.39761399999999,43.6770907],[-79.3795252,43.6770907],[-79.3795252,43.668707],[-79.39761399999999,43.668707]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+---
+id: 7cbe1648-b08d-4e71-99e4-542ed98c4ca7
+type: region
+slug: macdonald-block
+name: Macdonald Block
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+---
+id: 7d2a3812-690f-45cc-8da4-6fd2d93ff178
+type: region
+slug: beachfront-park
+name: Beachfront Park
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
+---
+id: 7d4288f0-6661-44de-a6fa-c20a76a1d94a
+type: region
+slug: vancouver
+name: Vancouver
+geojson: '{"type":"Polygon","coordinates":[[[-123.224759,49.3140764],[-123.023068,49.3140764],[-123.023068,49.19817700000001],[-123.224759,49.19817700000001]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
+---
+id: 7d6794f6-7d65-4813-a0de-f212f60b9295
+type: region
+slug: shangri-la-hotel
+name: Shangri-La Hotel
+geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
+tag-ids:
+- ff294517-fb5e-418a-9057-c5555f1300bd
+---
+id: 7d6ba823-6196-4340-a84c-60a75f9f28cd
+type: region
+slug: vanier-college
+name: Vanier College
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9
