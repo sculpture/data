@@ -2305,7 +2305,7 @@ material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 - c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
 tag-ids:
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: b0b3f29d-ac2f-4a59-975c-003928f8f14f
 type: sculpture
@@ -2373,7 +2373,7 @@ material-ids:
 - b056b6a2-cc0e-43ec-84ae-887480ee3706
 - 90961d65-c887-44b3-9153-7364b69806bc
 tag-ids:
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: b233c138-a05e-497f-acf2-658cb7776b38
 type: sculpture
@@ -2556,7 +2556,7 @@ material-ids:
 - 02f666a5-a96a-466a-9a4a-3ff26ba1bad5
 - 7120103a-c9bf-4cdd-be3d-f36c257b9751
 tag-ids:
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: b59e78a5-57cc-450b-be93-4edc4b384c3d
 type: sculpture
@@ -3844,7 +3844,7 @@ material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 6d1d3b0a-67e4-40ca-b465-0aecf567affd
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: cc5a824c-26d8-43a1-badd-3fc3109630fd
 type: sculpture
@@ -4032,7 +4032,7 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: cf36bb02-0379-4e6e-bbf9-dfb1791e09a9
 type: sculpture
@@ -4628,7 +4628,7 @@ material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 - 18829464-3bed-4f42-b206-8d99f402dc1b
 tag-ids:
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: dbbafa34-832e-4ba6-9764-340389ab217d
 type: sculpture
@@ -4775,7 +4775,7 @@ location:
 material-ids:
 - 0d63dfd2-b637-471f-8c6b-1262b0085fb8
 tag-ids:
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: dd356da0-20df-4094-bf5f-b358d8fb171e
 type: sculpture
@@ -5364,7 +5364,7 @@ location:
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids:
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 - 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
 ---
 id: ef8721eb-9813-48c4-8209-7b7030d46bd3
@@ -5760,7 +5760,7 @@ material-ids:
 - 95a48ae8-6d9b-4ae1-8704-f9685d804a35
 tag-ids:
 - 6d1d3b0a-67e4-40ca-b465-0aecf567affd
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: fa1bc09e-0662-48c1-9758-0a699275b4e2
 type: sculpture
@@ -6390,7 +6390,7 @@ location:
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 tag-ids:
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: 0a2b7fe1-21f8-4858-86ca-06990445291e
 type: sculpture
@@ -6559,7 +6559,7 @@ material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
 tag-ids:
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: 0cf85db3-318e-44bc-923a-499612dcc459
 type: sculpture
@@ -6744,7 +6744,7 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: 11c8587b-d7d2-4183-8131-e4c7d532f781
 type: sculpture
@@ -6862,7 +6862,7 @@ material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 6f13c768-5619-419e-97af-60440cab7f89
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: 139315b7-21c2-4c6d-b2e3-f117db6fc638
 type: sculpture
@@ -8665,7 +8665,7 @@ material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids:
 - 6f13c768-5619-419e-97af-60440cab7f89
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: 3c8cf261-8f7d-4cf6-9c2a-c19dfed08edf
 type: sculpture
@@ -9213,7 +9213,7 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: 4ac26a45-918c-4519-81a6-6b138548bab3
 type: sculpture
@@ -9337,7 +9337,7 @@ date-precision: year
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids:
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: 4d7b6f8e-8a7e-4750-98cc-52fc9ebc50d4
 type: sculpture
@@ -9811,7 +9811,7 @@ material-ids:
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
 tag-ids:
 - 6d1d3b0a-67e4-40ca-b465-0aecf567affd
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: 5986eec5-10a2-464b-bb30-460a24057d82
 type: sculpture
@@ -10129,7 +10129,7 @@ material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids:
 - 6d1d3b0a-67e4-40ca-b465-0aecf567affd
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: 5f424ac8-3dc0-471f-bc89-aab1c2b53577
 type: sculpture
@@ -10296,7 +10296,7 @@ location:
 material-ids:
 - 18829464-3bed-4f42-b206-8d99f402dc1b
 tag-ids:
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: 643461b0-8997-43d0-8b38-4eddf46baffd
 type: sculpture
@@ -10344,7 +10344,7 @@ material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
 tag-ids:
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: 64830f16-024e-4592-b727-c7bbefe8e97a
 type: sculpture
@@ -10513,7 +10513,7 @@ material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 6d1d3b0a-67e4-40ca-b465-0aecf567affd
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: 6aa7ef6b-288c-4ddc-a3dc-9ccd647e52e8
 type: sculpture
@@ -10648,7 +10648,7 @@ material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 6d1d3b0a-67e4-40ca-b465-0aecf567affd
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: 6d7ef7d7-b4be-4eec-a422-d3209c5668c8
 type: sculpture
@@ -10720,7 +10720,7 @@ material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
 tag-ids:
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: 6f48aa67-b505-4409-b011-895014eaed7a
 type: sculpture
@@ -10821,7 +10821,7 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: 7316579e-392c-45b8-9a1e-c9d064a898a0
 type: sculpture
@@ -11156,7 +11156,7 @@ material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
 tag-ids:
-- f44de204-79f3-4fed-a267-bbc566db00ab
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
 id: 7de20741-782e-4f03-a129-ff93842556b8
 type: sculpture
