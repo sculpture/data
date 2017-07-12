@@ -120,7 +120,6 @@ id: 94b6c380-1b41-42fb-8249-aadff15d1d40
 type: region
 slug: cibc-courtyard
 name: CIBC courtyard
-geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
 ---
 id: 966a353b-9fb5-4a3f-a891-30aa0835c57d
 type: region
