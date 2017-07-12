@@ -175,7 +175,6 @@ id: 9f0d00b3-98ea-460c-84aa-10d4ee7c8c26
 type: region
 slug: rogers
 name: Rogers
-geojson: '{"type":"Polygon","coordinates":[[[-79.4767504,43.687148],[-79.4386854,43.687148],[-79.4386854,43.6814331],[-79.4767504,43.6814331]]]}'
 ---
 id: 9f52d4c4-401d-4880-9c37-fa93c21164a7
 type: region
