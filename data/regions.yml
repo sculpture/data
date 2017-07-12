@@ -531,7 +531,6 @@ id: c7b5726d-c58a-4467-b311-6039b5a1db82
 type: region
 slug: latchham-gallery
 name: Latchham Gallery
-geojson: '{"type":"Polygon","coordinates":[[[-79.42076399999999,44.101275],[-79.2177894,44.101275],[-79.2177894,43.923711],[-79.42076399999999,43.923711]]]}'
 tag-ids:
 - 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
 ---
