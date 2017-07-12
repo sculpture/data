@@ -1572,7 +1572,6 @@ id: 4b0e8bf6-3dea-4218-86e6-3bba50e7f7fd
 type: region
 slug: toronto-rehabilitation-cardiac-centre
 name: Toronto Rehabilitation Cardiac Centre
-geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
 tag-ids:
 - 06d088ca-1894-44c9-9e2a-e0491945abe0
 ---
