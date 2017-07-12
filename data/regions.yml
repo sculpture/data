@@ -1564,7 +1564,6 @@ id: 4a2d5158-1183-4cef-b6d0-c0b4f0556107
 type: region
 slug: bloorview-kids-rehab
 name: Bloorview Kids Rehab
-geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
 tag-ids:
 - 06d088ca-1894-44c9-9e2a-e0491945abe0
 ---
