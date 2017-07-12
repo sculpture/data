@@ -1638,7 +1638,6 @@ id: 551b075c-547f-462a-92c5-006d40943bb7
 type: region
 slug: tilley-endurables
 name: Tilley Endurables
-geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
 ---
 id: 5546dbe2-225f-45d3-bf0c-7acc90aa4f13
 type: region
