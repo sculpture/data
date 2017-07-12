@@ -457,7 +457,6 @@ id: c29fadb5-1a1e-4dba-abbe-0730a33ec818
 type: region
 slug: park-plaza-hotel
 name: Park Plaza Hotel
-geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
 tag-ids:
 - ff294517-fb5e-418a-9057-c5555f1300bd
 ---
