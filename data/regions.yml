@@ -771,7 +771,6 @@ id: ebf27c43-ca74-4bd3-8cbb-58f49f577d45
 type: region
 slug: meridian-residences
 name: Meridian Residences
-geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
 tag-ids:
 - f78a6462-d5a5-424d-a03c-fb328cbdee3d
 ---
