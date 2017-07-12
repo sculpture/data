@@ -505,7 +505,6 @@ id: c6bf7bd3-ea6e-48b8-85b7-7999281a4bc0
 type: region
 slug: festival-tower
 name: Festival Tower
-geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
 ---
 id: c7276d83-ca33-414f-9c02-0959875eb32b
 type: region
