@@ -429,7 +429,6 @@ id: bf27a5bb-93fe-4f6c-8fe7-db7b23ec8e39
 type: region
 slug: colonial-retirement-residence
 name: Colonial Retirement Residence
-geojson: '{"type":"Polygon","coordinates":[[[-79.0473109,44.0287049],[-78.88180419999999,44.0287049],[-78.88180419999999,43.8334536],[-79.0473109,43.8334536]]]}'
 tag-ids:
 - f78a6462-d5a5-424d-a03c-fb328cbdee3d
 ---
