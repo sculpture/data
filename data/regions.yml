@@ -1862,7 +1862,6 @@ id: 7cbe1648-b08d-4e71-99e4-542ed98c4ca7
 type: region
 slug: macdonald-block
 name: Macdonald Block
-geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
 tag-ids:
 - 5b81e8eb-ff28-45a9-9f26-50353cd28215
 ---
