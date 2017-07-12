@@ -619,7 +619,6 @@ id: d53b70bb-ec0e-4874-bbc4-828ccfd42589
 type: region
 slug: government-of-canada-building
 name: Government of Canada Building
-geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
 tag-ids:
 - 5b81e8eb-ff28-45a9-9f26-50353cd28215
 ---
