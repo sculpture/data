@@ -1121,7 +1121,6 @@ id: 101fd68c-e06e-4e91-acec-c40323275b97
 type: region
 slug: kinsman-gallery
 name: Kinsman Gallery
-geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
 tag-ids:
 - 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
 ---
