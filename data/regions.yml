@@ -657,7 +657,6 @@ id: db51661f-ea33-4c4d-aa70-30aac9ed8850
 type: region
 slug: harbord-collegiate-school
 name: Harbord Collegiate School
-geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
 tag-ids:
 - c6980378-c006-49d9-a681-effc4d36aea9
 ---
