@@ -1668,7 +1668,6 @@ id: 594f7a4e-d9b3-4a16-8b12-43f43d8da36a
 type: region
 slug: esplanade-powder-magazine
 name: Esplanade Powder Magazine
-geojson: '{"type":"Polygon","coordinates":[[[-71.54944499999999,46.9819379],[-71.14270069999999,46.9819379],[-71.14270069999999,46.7340768],[-71.54944499999999,46.7340768]]]}'
 ---
 id: 5a140574-b2e5-41ac-87b1-ca89b799986d
 type: region
