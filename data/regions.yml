@@ -297,7 +297,6 @@ id: af3b5736-dcb3-42d1-8d6f-87362bebbb49
 type: region
 slug: ross-podium
 name: Ross Podium
-geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
 tag-ids:
 - c6980378-c006-49d9-a681-effc4d36aea9
 ---
