@@ -1722,7 +1722,6 @@ id: 60f8e02e-b989-4e4a-abaa-615e06096a28
 type: region
 slug: wsib
 name: WSIB
-geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
 ---
 id: 617a089c-430f-4680-aef6-c995862fc379
 type: region
