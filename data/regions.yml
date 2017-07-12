@@ -1167,7 +1167,6 @@ id: 12f591dc-272e-4905-ba6c-cfbe6e3af1df
 type: region
 slug: st-paul-rc-church
 name: St. Paul RC Church
-geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
 tag-ids:
 - 8de551a5-8ce4-4bb6-9459-29f636a51134
 ---
