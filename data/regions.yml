@@ -1777,7 +1777,6 @@ id: 682ca46d-f35c-4747-a8d4-287344863f58
 type: region
 slug: rochdale-college
 name: Rochdale College
-geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
 tag-ids:
 - c6980378-c006-49d9-a681-effc4d36aea9
 ---
