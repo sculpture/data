@@ -1503,7 +1503,6 @@ id: 41bbe653-32c5-437d-94ee-f9fb6b7a6670
 type: region
 slug: canadas-national-ballet-school
 name: Canada's National Ballet School
-geojson: '{"type":"Polygon","coordinates":[[[-79.639219,43.8554579],[-79.116897,43.8554579],[-79.116897,43.5810245],[-79.639219,43.5810245]]]}'
 tag-ids:
 - c6980378-c006-49d9-a681-effc4d36aea9
 ---
