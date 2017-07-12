@@ -1172,7 +1172,6 @@ id: 161ec2af-48c4-4a0b-9341-df0df2e06145
 type: region
 slug: rexdale
 name: Rexdale
-geojson: '{"type":"Polygon","coordinates":[[[-79.6313095,43.7605564],[-79.5378319,43.7605564],[-79.5378319,43.6794805],[-79.6313095,43.6794805]]]}'
 tag-ids:
 - 671ea77b-35e7-4e67-b704-8445c7ff5e25
 ---
