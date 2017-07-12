@@ -636,7 +636,7 @@ tag-ids:
 ---
 id: db2b0409-1605-40cf-8623-fbb02b89dfec
 type: region
-slug: rogers-centre---skydome
+slug: rogers-centre-skydome
 name: Rogers Centre - Skydome
 geojson: '{"type":"Polygon","coordinates":[[[-79.3908137,43.6421735],[-79.3882577,43.6427415],[-79.3876575,43.641308],[-79.3882188,43.6408003],[-79.3890331,43.640542],[-79.3902364,43.6407719],[-79.3908137,43.6421735]]]}'
 tag-ids:
