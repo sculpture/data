@@ -47,8 +47,8 @@ location:
 material-ids:
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
 tag-ids:
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 - 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
 id: 80f5ebaa-eb0d-4687-b306-4fb90d314892
 type: sculpture
@@ -88,8 +88,8 @@ type: sculpture
 slug: entrance-gateway
 title: Entrance Gateway
 artist-ids:
-- daa3739f-f25b-4e27-a19d-689c6f3740ac
 - 34df37ee-ab72-481d-93d2-cda27c916c73
+- daa3739f-f25b-4e27-a19d-689c6f3740ac
 date: 1995-01-01T00:00:00Z
 date-precision: year
 location:
@@ -219,8 +219,8 @@ type: sculpture
 slug: field-study
 title: Field Study
 artist-ids:
-- f38a366e-21c4-4c50-9e8d-12010e7a448a
 - 2801d4dc-c2f5-45e4-8e6a-cffa7d2079c5
+- f38a366e-21c4-4c50-9e8d-12010e7a448a
 date: 2006-01-01T00:00:00Z
 date-precision: year
 location:
@@ -277,8 +277,8 @@ location:
   longitude: -79.38312429999999
   precision: 50.0
 material-ids:
-- c6af2d2d-6238-4a08-960c-bbe27267b2ed
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
 tag-ids: []
 ---
 id: 8442cc64-809a-4035-ace7-8eb67af4ab33
@@ -418,8 +418,8 @@ type: sculpture
 slug: valiants-memorial
 title: Valiants Memorial
 artist-ids:
-- 67bd08d2-7003-4396-9e5e-675adb4548fc
 - 2bb1c559-406f-454c-92ae-9a8d09860aca
+- 67bd08d2-7003-4396-9e5e-675adb4548fc
 commissioned-by: Canadian Heritage and Valiants Foundation
 date: 2006-01-01T00:00:00Z
 date-precision: year
@@ -528,8 +528,8 @@ location:
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
-- 6f13c768-5619-419e-97af-60440cab7f89
 - 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 6f13c768-5619-419e-97af-60440cab7f89
 ---
 id: 891701d3-5719-4740-805f-78f680e81ae0
 type: sculpture
@@ -612,8 +612,8 @@ location:
   longitude: -79.3660803
   precision: 50.0
 material-ids:
-- 683ca176-b7aa-4498-b6f3-e81e56ecffc0
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 683ca176-b7aa-4498-b6f3-e81e56ecffc0
 tag-ids:
 - 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
 ---
@@ -639,8 +639,8 @@ type: sculpture
 slug: to-serve-and-protect
 title: To Serve and Protect
 artist-ids:
-- 9f3d942f-d242-4f96-bd09-6b3563f23221
 - 02738f90-d261-479b-b83a-b19c0a13e591
+- 9f3d942f-d242-4f96-bd09-6b3563f23221
 commissioned-by: Municipality of Metro Toronto
 date: 1988-01-01T00:00:00Z
 date-precision: year
@@ -649,9 +649,9 @@ location:
   longitude: -79.3860957
   precision: 50.0
 material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
-- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids: []
 ---
 id: 8c3c9449-c9bc-400e-9860-46f1499b32f3
@@ -923,8 +923,8 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 - 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
 id: 95279adf-911e-4314-ba6d-603830213c36
 type: sculpture
@@ -1163,8 +1163,8 @@ location:
   longitude: -79.3831843
   precision: 50.0
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - a267fb56-e090-4da4-b72c-152f966877d9
 tag-ids: []
 ---
@@ -1292,8 +1292,8 @@ location:
   longitude: -79.502636
   precision: 50.0
 material-ids:
-- c6af2d2d-6238-4a08-960c-bbe27267b2ed
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
 tag-ids: []
 ---
 id: 9c345922-1225-4983-a6dc-602e951f8ae0
@@ -1375,8 +1375,8 @@ location:
   longitude: -79.43365399999999
   precision: 50.0
 material-ids:
-- 35913622-405e-4e52-b409-6acc87a4dd77
 - 17846e26-3089-4526-a65e-8bd77bd4e8e0
+- 35913622-405e-4e52-b409-6acc87a4dd77
 - 8796610f-08c6-4411-8591-dab35589315e
 tag-ids:
 - 6f13c768-5619-419e-97af-60440cab7f89
@@ -1427,8 +1427,8 @@ location:
   longitude: -75.6915362
   precision: 50.0
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - 210d2a46-7c5d-4d3e-b639-0c700e86ccf2
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
@@ -1446,8 +1446,8 @@ location:
   precision: 50.0
 material-ids:
 - 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
-- 9da26974-d142-42ce-86aa-f28559a6d575
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
+- 9da26974-d142-42ce-86aa-f28559a6d575
 tag-ids:
 - 6f13c768-5619-419e-97af-60440cab7f89
 ---
@@ -1730,8 +1730,8 @@ location:
   longitude: -79.50211139999999
   precision: 50.0
 material-ids:
-- 958cce1f-9219-40b7-b6cf-e6adf5016125
 - 90961d65-c887-44b3-9153-7364b69806bc
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids: []
 ---
 id: a733c27c-30fd-480b-b362-31cda9e03664
@@ -2300,10 +2300,10 @@ location:
   longitude: -79.378457
   precision: 50.0
 material-ids:
-- 958cce1f-9219-40b7-b6cf-e6adf5016125
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
-- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
 - c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
 - 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
@@ -2370,8 +2370,8 @@ location:
   longitude: -79.4318198
   precision: 50.0
 material-ids:
-- b056b6a2-cc0e-43ec-84ae-887480ee3706
 - 90961d65-c887-44b3-9153-7364b69806bc
+- b056b6a2-cc0e-43ec-84ae-887480ee3706
 tag-ids:
 - 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
@@ -2389,8 +2389,8 @@ location:
   longitude: -79.413789
   precision: 50.0
 material-ids:
-- 958cce1f-9219-40b7-b6cf-e6adf5016125
 - 02d55e95-5e1e-48c6-9da1-65f54749ad2c
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
 note: Collaboration with Christopher Dewdney, poet
 tag-ids: []
 ---
@@ -3044,8 +3044,8 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- 6f13c768-5619-419e-97af-60440cab7f89
 - 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 6f13c768-5619-419e-97af-60440cab7f89
 ---
 id: bff49877-2af2-4061-a540-f0b8f3aff1b7
 type: sculpture
@@ -3095,9 +3095,9 @@ location:
   longitude: -79.43365399999999
   precision: 50.0
 material-ids:
-- d0c52472-81c0-4c1d-abd7-3a32fd760700
-- 958cce1f-9219-40b7-b6cf-e6adf5016125
 - 82d9ed4b-e837-4b5e-8c17-40469885764c
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- d0c52472-81c0-4c1d-abd7-3a32fd760700
 tag-ids: []
 ---
 id: c17f268c-82a2-462f-b0e6-21071b768f48
@@ -3129,8 +3129,8 @@ location:
   longitude: -79.38423019999999
   precision: 50.0
 material-ids:
-- 958cce1f-9219-40b7-b6cf-e6adf5016125
 - 726cf03d-3413-4826-86af-55fe17ddb9e4
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids: []
 ---
 id: c24ca8f2-8766-4062-901a-6bb7f72712fe
@@ -3636,8 +3636,8 @@ location:
   longitude: -79.393671
   precision: 50.0
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
 ---
 id: ca0c4e51-4006-4769-8596-a45985ac2f61
@@ -3656,8 +3656,8 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- 6f13c768-5619-419e-97af-60440cab7f89
 - 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 6f13c768-5619-419e-97af-60440cab7f89
 ---
 id: ca90edc0-b6b3-46b6-9eb4-c161b4a78f76
 type: sculpture
@@ -3680,8 +3680,8 @@ type: sculpture
 slug: sculpture
 title: Sculpture
 artist-ids:
-- 242b491c-6894-420a-990c-135e7e3d74f6
 - 06a0d143-ccaf-49fc-83d5-efe13761164f
+- 242b491c-6894-420a-990c-135e7e3d74f6
 date: 2010-01-01T00:00:00Z
 date-precision: year
 location:
@@ -3843,8 +3843,8 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 - 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
 id: cc5a824c-26d8-43a1-badd-3fc3109630fd
 type: sculpture
@@ -4049,8 +4049,8 @@ location:
   precision: 50.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
-- b2394a4f-8f94-4b9e-9156-fdbdec170b61
 - 35913622-405e-4e52-b409-6acc87a4dd77
+- b2394a4f-8f94-4b9e-9156-fdbdec170b61
 note: (moved from High Park and renovated 2010)
 tag-ids: []
 ---
@@ -4079,8 +4079,8 @@ location:
   longitude: -79.3755384
   precision: 50.0
 material-ids:
-- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 - 18829464-3bed-4f42-b206-8d99f402dc1b
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids: []
 ---
 id: d078ba8e-07bc-4c3a-bb12-0413184b6626
@@ -4097,9 +4097,9 @@ location:
   longitude: -79.38730389999999
   precision: 50.0
 material-ids:
+- 1aaa34d0-a277-480a-b85e-4f7dc8a8f257
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
-- 1aaa34d0-a277-480a-b85e-4f7dc8a8f257
 tag-ids:
 - 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
@@ -4625,8 +4625,8 @@ location:
   longitude: -79.41291609999999
   precision: 50.0
 material-ids:
-- 958cce1f-9219-40b7-b6cf-e6adf5016125
 - 18829464-3bed-4f42-b206-8d99f402dc1b
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids:
 - 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
@@ -4838,8 +4838,8 @@ location:
   longitude: -79.4468406
   precision: 50.0
 material-ids:
-- 958cce1f-9219-40b7-b6cf-e6adf5016125
 - 32495469-6b62-477a-b272-a0e4e2c0e5c9
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids: []
 ---
 id: e00856e7-e467-4ea5-8f3c-19b9059690d8
@@ -4890,8 +4890,8 @@ location:
   longitude: -79.4028026
   precision: 50.0
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
 ---
 id: e1d9249e-2b20-40a5-a425-c827cdf9c315
@@ -5563,8 +5563,8 @@ material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
-- 6f13c768-5619-419e-97af-60440cab7f89
 - 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 6f13c768-5619-419e-97af-60440cab7f89
 ---
 id: f4d9790d-43ab-48a0-8d68-9d9a1642317d
 type: sculpture
@@ -5759,8 +5759,8 @@ location:
 material-ids:
 - 95a48ae8-6d9b-4ae1-8704-f9685d804a35
 tag-ids:
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 - 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
 id: fa1bc09e-0662-48c1-9758-0a699275b4e2
 type: sculpture
@@ -5823,8 +5823,8 @@ location:
   longitude: -79.44048599999999
   precision: 50.0
 material-ids:
-- 35913622-405e-4e52-b409-6acc87a4dd77
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 35913622-405e-4e52-b409-6acc87a4dd77
 note: (fot.2002) Sculpture not anymore at this location
 tag-ids: []
 ---
@@ -6120,8 +6120,8 @@ location:
   longitude: -79.3906811
   precision: 50.0
 material-ids:
-- 958cce1f-9219-40b7-b6cf-e6adf5016125
 - 76c8ed4b-b169-44ca-bf45-466a20c85838
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids: []
 ---
 id: 0293f2da-60d1-418a-abd5-6b7c87a030a3
@@ -6437,8 +6437,8 @@ location:
   longitude: -71.2100273
   precision: 50.0
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
@@ -6505,8 +6505,8 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 - 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
 id: 0c7b0cad-8ff5-4094-a4b4-17e9d18c592a
 type: sculpture
@@ -6861,8 +6861,8 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- 6f13c768-5619-419e-97af-60440cab7f89
 - 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 6f13c768-5619-419e-97af-60440cab7f89
 ---
 id: 139315b7-21c2-4c6d-b2e3-f117db6fc638
 type: sculpture
@@ -7183,8 +7183,8 @@ location:
   longitude: -79.3838527
   precision: 50.0
 material-ids:
-- 39ecc0e3-135f-44a3-952e-8482067fde73
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 39ecc0e3-135f-44a3-952e-8482067fde73
 tag-ids:
 - 6f13c768-5619-419e-97af-60440cab7f89
 ---
@@ -7287,8 +7287,8 @@ location:
   longitude: -79.4165371
   precision: 50.0
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - 18829464-3bed-4f42-b206-8d99f402dc1b
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 note: http://www.milliechen.com/
 tag-ids: []
 ---
@@ -7353,8 +7353,8 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 - 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
 id: 1f0ea216-cfea-4a3a-959c-ab39272a3ea1
 type: sculpture
@@ -7810,9 +7810,9 @@ location:
   longitude: -79.3741804
   precision: 50.0
 material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
 - 983d1c37-99da-4b1d-baba-681a83e66d30
 - c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
-- 18829464-3bed-4f42-b206-8d99f402dc1b
 tag-ids: []
 ---
 id: 2a83a91b-815f-4688-83c9-bac1f55b1ede
@@ -8133,8 +8133,8 @@ type: sculpture
 slug: la-scala
 title: La Scala
 artist-ids:
-- 242b491c-6894-420a-990c-135e7e3d74f6
 - 06a0d143-ccaf-49fc-83d5-efe13761164f
+- 242b491c-6894-420a-990c-135e7e3d74f6
 date: 2003-01-01T00:00:00Z
 date-precision: year
 location:
@@ -8341,8 +8341,8 @@ location:
   precision: 50.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
-- b2394a4f-8f94-4b9e-9156-fdbdec170b61
 - 35913622-405e-4e52-b409-6acc87a4dd77
+- b2394a4f-8f94-4b9e-9156-fdbdec170b61
 note: (fot.2002) Sculpture not anymore at this location
 tag-ids: []
 ---
@@ -8470,8 +8470,8 @@ type: sculpture
 slug: tempo
 title: Tempo
 artist-ids:
-- 242b491c-6894-420a-990c-135e7e3d74f6
 - 06a0d143-ccaf-49fc-83d5-efe13761164f
+- 242b491c-6894-420a-990c-135e7e3d74f6
 date: 2004-01-01T00:00:00Z
 date-precision: year
 location:
@@ -8628,8 +8628,8 @@ location:
   longitude: -79.5035561
   precision: 50.0
 material-ids:
-- c6af2d2d-6238-4a08-960c-bbe27267b2ed
 - c1c07f0b-8700-44fb-9a0f-241032b370e8
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
 tag-ids:
 - 6f13c768-5619-419e-97af-60440cab7f89
 ---
@@ -8661,11 +8661,11 @@ commissioned-by: Cadillac Faiview Co
 date: 1990-01-01T00:00:00Z
 date-precision: year
 material-ids:
-- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
 tag-ids:
-- 6f13c768-5619-419e-97af-60440cab7f89
 - 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 6f13c768-5619-419e-97af-60440cab7f89
 ---
 id: 3c8cf261-8f7d-4cf6-9c2a-c19dfed08edf
 type: sculpture
@@ -8717,8 +8717,8 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 - 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
 id: 3d950397-8f66-4272-a078-aa50d326c2aa
 type: sculpture
@@ -8734,8 +8734,8 @@ location:
   longitude: -75.6887911
   precision: 50.0
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - 210d2a46-7c5d-4d3e-b639-0c700e86ccf2
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
@@ -8959,10 +8959,10 @@ location:
   longitude: -79.3873906
   precision: 50.0
 material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
-- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 tag-ids: []
 ---
 id: 439a106c-7220-40f5-965d-d2ed37aa3504
@@ -9143,8 +9143,8 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 - 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
 id: 49f1110a-557d-4c5d-be5b-fd33354d346b
 type: sculpture
@@ -9494,8 +9494,8 @@ artist-ids:
 date: 2000-01-01T00:00:00Z
 date-precision: year
 material-ids:
-- 3e4bf7e0-ae14-49c8-88f4-315ef2160400
 - 36a5c7ef-1419-449a-8231-b2f360415380
+- 3e4bf7e0-ae14-49c8-88f4-315ef2160400
 tag-ids:
 - 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
@@ -9810,8 +9810,8 @@ location:
 material-ids:
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
 tag-ids:
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 - 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
 id: 5986eec5-10a2-464b-bb30-460a24057d82
 type: sculpture
@@ -9901,8 +9901,8 @@ artist-ids:
 - a3d6d80d-13fe-49df-b080-871f789c2fa1
 date-precision: year
 material-ids:
-- a267fb56-e090-4da4-b72c-152f966877d9
 - 4a979cf3-40f3-4be9-aa71-b79765408367
+- a267fb56-e090-4da4-b72c-152f966877d9
 note: (fot.2002) Sculpture not anymore at this location
 tag-ids: []
 ---
@@ -10006,8 +10006,8 @@ location:
   longitude: -79.3793287
   precision: 50.0
 material-ids:
-- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 - 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 - 90961d65-c887-44b3-9153-7364b69806bc
 tag-ids: []
 ---
@@ -10128,8 +10128,8 @@ location:
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids:
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 - 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
 id: 5f424ac8-3dc0-471f-bc89-aab1c2b53577
 type: sculpture
@@ -10512,8 +10512,8 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 - 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
 id: 6aa7ef6b-288c-4ddc-a3dc-9ccd647e52e8
 type: sculpture
@@ -10627,8 +10627,8 @@ location:
   longitude: -79.5045851
   precision: 50.0
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - 10e94ceb-3b9b-4be2-94fc-8fd693581133
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
 ---
 id: 6d345154-d6fb-4078-b226-90d706cf4e1a
@@ -10647,8 +10647,8 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 - 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
 id: 6d7ef7d7-b4be-4eec-a422-d3209c5668c8
 type: sculpture
@@ -10715,10 +10715,10 @@ location:
   longitude: -79.4119565
   precision: 50.0
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
-- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
 - 176d1080-3cc3-41e0-b103-11b1df7b1288
 ---
@@ -10968,8 +10968,8 @@ location:
   longitude: -80.23265409999999
   precision: 50.0
 material-ids:
-- cbdcff43-243d-4838-b2fa-6d82c3b5f652
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- cbdcff43-243d-4838-b2fa-6d82c3b5f652
 tag-ids:
 - 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
