@@ -11,12 +11,12 @@ name: mirrors
 ---
 id: 841b0164-544d-4dfd-93d7-65633264d764
 type: material
-slug: polished steel
+slug: polished-steel
 name: polished steel
 ---
 id: 8796610f-08c6-4411-8591-dab35589315e
 type: material
-slug: paper mache
+slug: paper-mache
 name: paper mache
 ---
 id: 90961d65-c887-44b3-9153-7364b69806bc
@@ -26,17 +26,17 @@ name: copper
 ---
 id: 958cce1f-9219-40b7-b6cf-e6adf5016125
 type: material
-slug: stainless steel
+slug: stainless-steel
 name: stainless steel
 ---
 id: 95a48ae8-6d9b-4ae1-8704-f9685d804a35
 type: material
-slug: corten steel
+slug: corten-steel
 name: corten steel
 ---
 id: 95dd1d0e-80ef-42c4-b3ff-452059564a66
 type: material
-slug: aluminium wire
+slug: aluminium-wire
 name: aluminium wire
 ---
 id: 983d1c37-99da-4b1d-baba-681a83e66d30
@@ -46,7 +46,7 @@ name: metal
 ---
 id: 99b9110f-f812-4ad8-b12d-7e1dd5a071db
 type: material
-slug: bronze plates
+slug: bronze-plates
 name: bronze plates
 ---
 id: 9da26974-d142-42ce-86aa-f28559a6d575
@@ -61,7 +61,7 @@ name: plaster
 ---
 id: a1d83c21-c2ec-4d6f-852d-a880fdd65176
 type: material
-slug: black granite
+slug: black-granite
 name: black granite
 ---
 id: a267fb56-e090-4da4-b72c-152f966877d9
@@ -76,7 +76,7 @@ name: brass
 ---
 id: b17f6ec5-c516-460c-846c-15e4553f0be3
 type: material
-slug: painted plywood
+slug: painted-plywood
 name: painted plywood
 ---
 id: b1a3eb0a-7181-48fc-97e1-9ffa8a0461f7
@@ -96,7 +96,7 @@ name: polystyrene
 ---
 id: b65eab11-b682-4db3-9658-2ddeec44eaef
 type: material
-slug: bronze enameled
+slug: bronze-enameled
 name: bronze enameled
 ---
 id: bacc3a78-5f97-488e-823f-ca328a20b3ca
@@ -106,7 +106,7 @@ name: alabaster
 ---
 id: c1c07f0b-8700-44fb-9a0f-241032b370e8
 type: material
-slug: cast concrete
+slug: cast-concrete
 name: cast concrete
 ---
 id: c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
@@ -126,22 +126,22 @@ name: marble
 ---
 id: cbdcff43-243d-4838-b2fa-6d82c3b5f652
 type: material
-slug: ciment fondu
+slug: ciment-fondu
 name: ciment fondu
 ---
 id: d0c52472-81c0-4c1d-abd7-3a32fd760700
 type: material
-slug: welded steel
+slug: welded-steel
 name: welded steel
 ---
 id: d5e04d12-19d1-4983-86c9-8ef02568d71c
 type: material
-slug: powder coated steel
+slug: powder-coated-steel
 name: powder coated steel
 ---
 id: f464cfd0-cf7e-42d9-9f7c-9d7edfda1667
 type: material
-slug: steel post
+slug: steel-post
 name: steel post
 ---
 id: 02d55e95-5e1e-48c6-9da1-65f54749ad2c
@@ -156,17 +156,17 @@ name: polyester
 ---
 id: 074ac694-e3fe-4f1a-80d5-862a26cc5451
 type: material
-slug: corten steel plate
+slug: corten-steel-plate
 name: corten steel plate
 ---
 id: 09ce43ff-ce77-44b9-a5ce-74ec820e632d
 type: material
-slug: polished bronze
+slug: polished-bronze
 name: polished bronze
 ---
 id: 0d63dfd2-b637-471f-8c6b-1262b0085fb8
 type: material
-slug: painted fibreglass
+slug: painted-fibreglass
 name: painted fibreglass
 ---
 id: 0fa48f43-3f62-418e-9b22-12e0f80a32a1
@@ -176,12 +176,12 @@ name: limestone
 ---
 id: 10e94ceb-3b9b-4be2-94fc-8fd693581133
 type: material
-slug: silicone rubber
+slug: silicone-rubber
 name: silicone rubber
 ---
 id: 115dfe3c-9ec2-411f-a061-dd12dcd5c2aa
 type: material
-slug: nickel plated bronze
+slug: nickel-plated-bronze
 name: nickel plated bronze
 ---
 id: 17846e26-3089-4526-a65e-8bd77bd4e8e0
@@ -201,17 +201,17 @@ name: mosaic
 ---
 id: 1df5830e-aa31-460c-a366-f07356994824
 type: material
-slug: mixed media
+slug: mixed-media
 name: mixed media
 ---
 id: 2076e8f9-39da-4625-8971-217ccfe1d637
 type: material
-slug: chromed steel
+slug: chromed-steel
 name: chromed steel
 ---
 id: 210d2a46-7c5d-4d3e-b639-0c700e86ccf2
 type: material
-slug: natural stones
+slug: natural-stones
 name: natural stones
 ---
 id: 27dc5990-9b49-44ba-9638-9ea019c297c2
@@ -226,12 +226,12 @@ name: aluminium
 ---
 id: 2aa408c8-4b60-4a40-a151-67661b57b97b
 type: material
-slug: cast iron
+slug: cast-iron
 name: cast iron
 ---
 id: 2bbf7631-76ad-44dd-ac61-6d91ac0cedf8
 type: material
-slug: cast granite
+slug: cast-granite
 name: cast granite
 ---
 id: 2c971567-aa58-40f7-bf83-b5a97ed653c9
@@ -276,17 +276,17 @@ name: acrylic
 ---
 id: 3cd25954-9a6b-478f-a4a4-8470c3972f2c
 type: material
-slug: painted metal
+slug: painted-metal
 name: painted metal
 ---
 id: 3e4bf7e0-ae14-49c8-88f4-315ef2160400
 type: material
-slug: cast aluminium
+slug: cast-aluminium
 name: cast aluminium
 ---
 id: 449582e6-6741-4441-a519-81e7c5591f96
 type: material
-slug: painted wood
+slug: painted-wood
 name: painted wood
 ---
 id: 4a979cf3-40f3-4be9-aa71-b79765408367
@@ -296,7 +296,7 @@ name: ceramic
 ---
 id: 4cd09e5a-9808-4c0d-98e6-e66a16333a95
 type: material
-slug: terra cotta
+slug: terra-cotta
 name: terra cotta
 ---
 id: 56560105-70a1-4867-aaea-6d76d31576c0
@@ -306,12 +306,12 @@ name: resin
 ---
 id: 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 type: material
-slug: painted steel
+slug: painted-steel
 name: painted steel
 ---
 id: 5fd1cc05-abf6-4f86-b491-43ae800ae2b2
 type: material
-slug: painted concrete
+slug: painted-concrete
 name: painted concrete
 ---
 id: 638725f5-0ac9-4b92-916d-b98af20b3df5
@@ -331,30 +331,30 @@ name: fiberglass
 ---
 id: 6e45603b-de94-4bb1-8ffb-eddbb4f15853
 type: material
-slug: welded roller chain
+slug: welded-roller-chain
 name: welded roller chain
 ---
 id: 7105d225-28c2-48a3-9a24-a67f3908fba6
 type: material
-slug: cut steel
+slug: cut-steel
 name: cut steel
 ---
 id: 7120103a-c9bf-4cdd-be3d-f36c257b9751
 type: material
-slug: acrylic lacquer
+slug: acrylic-lacquer
 name: acrylic lacquer
 ---
 id: 726cf03d-3413-4826-86af-55fe17ddb9e4
 type: material
-slug: recycled glass
+slug: recycled-glass
 name: recycled glass
 ---
 id: 75dfd552-d16c-4149-9a5e-78848b93d168
 type: material
-slug: welded bronze
+slug: welded-bronze
 name: welded bronze
 ---
 id: 76c8ed4b-b169-44ca-bf45-466a20c85838
 type: material
-slug: painted aluminium
+slug: painted-aluminium
 name: painted aluminium
