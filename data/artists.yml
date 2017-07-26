@@ -2121,7 +2121,7 @@ id: 6c415c22-af7b-4d96-958b-2d657fd519a7
 type: artist
 slug: waino-aaltonen
 name: Wäinö Aaltonen
-birth-date-precision: '4'
+birth-date-precision: '0'
 gender: male
 link-wikipedia: http://en.wikipedia.org/wiki/W%C3%A4in%C3%B6_Aaltonen
 tag-ids:
