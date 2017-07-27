@@ -6202,9 +6202,9 @@ commissioned-by: Historical Society of Macklenberg Upper Canada
 date: 1972-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6474671
-  longitude: -79.375754
-  precision: 50.0
+  latitude: 43.648169682587685
+  longitude: -79.3746167433777
+  precision: 9.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
