@@ -1276,6 +1276,7 @@ id: 207d1ea3-155d-480c-a35d-a8e4f11cde9b
 type: region
 slug: robarts-library
 name: Robarts Library
+geojson: '{"type":"Polygon","coordinates":[[[-79.40004,43.66482],[-79.39917,43.66473],[-79.39891,43.66456],[-79.39969,43.66396],[-79.40004,43.66482]]]}'
 tag-ids:
 - c6980378-c006-49d9-a681-effc4d36aea9
 ---
