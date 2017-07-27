@@ -1669,6 +1669,7 @@ id: 57eec076-e695-45eb-aa87-2eaba80dc9a7
 type: region
 slug: air-canada-centre
 name: Air Canada Centre
+geojson: '{"type":"Polygon","coordinates":[[[-79.38006,43.64395],[-79.37864,43.64431],[-79.37814,43.64329],[-79.37954,43.64272],[-79.38006,43.64395]]]}'
 tag-ids:
 - cafc4a07-2241-45ff-ab97-0bc7fe5fc3a7
 ---
