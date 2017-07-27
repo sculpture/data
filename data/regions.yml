@@ -1024,6 +1024,7 @@ id: 065b87d5-c1bf-446c-b4c0-5075de4b40d7
 type: region
 slug: mckee-public-school
 name: McKee Public School
+geojson: '{"type":"Polygon","coordinates":[[[-79.41229,43.77406],[-79.40991,43.77458],[-79.40962,43.77389],[-79.41216,43.77335],[-79.41229,43.77406]]]}'
 tag-ids:
 - c6980378-c006-49d9-a681-effc4d36aea9
 ---
