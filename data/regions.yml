@@ -958,6 +958,7 @@ id: fc89a285-8952-479b-8462-3dda2722da05
 type: region
 slug: art-gallery-of-mississauga
 name: Art Gallery of Mississauga
+geojson: '{"type":"Point","coordinates":[-79.64391,43.58927]}'
 tag-ids:
 - 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
 ---
