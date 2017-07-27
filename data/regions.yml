@@ -175,6 +175,7 @@ id: 9b573177-6d9d-444e-ad9b-e51c564d2a24
 type: region
 slug: baycrest-hospital
 name: Baycrest Hospital
+geojson: '{"type":"Point","coordinates":[-79.43291,43.73046]}'
 tag-ids:
 - 06d088ca-1894-44c9-9e2a-e0491945abe0
 ---
