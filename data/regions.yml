@@ -276,6 +276,7 @@ id: ab670f9f-d2e0-464a-8ed2-14018fff3a3d
 type: region
 slug: upper-canada-college
 name: Upper Canada College
+geojson: '{"type":"Polygon","coordinates":[[[-79.40643,43.69456],[-79.40254,43.69513],[-79.40144,43.69138],[-79.40489,43.69054],[-79.40643,43.69456]]]}'
 tag-ids:
 - c6980378-c006-49d9-a681-effc4d36aea9
 ---
