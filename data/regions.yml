@@ -2190,7 +2190,10 @@ id: fad9066e-6b1c-480b-b811-900fce315fcc
 type: region
 slug: windsor-city-hall
 name: Windsor City Hall
-sculpture-ids: []
+area: 0.0
+geojson: '{"type":"Point","coordinates":[-83.03537889,42.31719]}'
+sculpture-ids:
+- bb745c41-a6a4-45ec-8e90-c90ae436b5a7
 tag-ids:
 - 5b81e8eb-ff28-45a9-9f26-50353cd28215
 ---
@@ -3621,7 +3624,6 @@ sculpture-ids:
 - 5ebb051a-6899-4719-80a3-7063dfb54487
 - 62cde074-4be8-481f-997d-53cdeb3f27b9
 - 7de20741-782e-4f03-a129-ff93842556b8
-- 8621c301-6053-449b-9cae-f79fe06d566c
 - 8d5be056-b7e7-4d97-b1db-d1d2378f070f
 - 9b35a326-9528-4825-9cb4-2194d87d1892
 - 9c345922-1225-4983-a6dc-602e951f8ae0
