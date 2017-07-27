@@ -1801,6 +1801,7 @@ id: 63101a1a-9895-45fc-981f-b0f2ef6110f0
 type: region
 slug: scott-library
 name: Scott Library
+geojson: '{"type":"Polygon","coordinates":[[[-79.50612,43.77259],[-79.5053,43.77278],[-79.50503,43.77219],[-79.50586,43.772],[-79.50612,43.77259]]]}'
 tag-ids:
 - c6980378-c006-49d9-a681-effc4d36aea9
 ---
