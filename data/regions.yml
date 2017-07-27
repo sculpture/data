@@ -1509,6 +1509,7 @@ id: 3a5942b5-c254-4f96-8a53-f163eccf883b
 type: region
 slug: gairloch-gardens
 name: Gairloch Gardens
+geojson: '{"type":"Polygon","coordinates":[[[-79.65047,43.46166],[-79.64981,43.46214],[-79.64676,43.46026],[-79.6479,43.45988],[-79.65047,43.46166]]]}'
 tag-ids:
 - c41e20af-feb8-4c1a-b2df-c57887ca144d
 ---
