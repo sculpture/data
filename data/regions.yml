@@ -1912,6 +1912,7 @@ id: 7d6794f6-7d65-4813-a0de-f212f60b9295
 type: region
 slug: shangri-la-hotel
 name: Shangri-La Hotel
+geojson: '{"type":"Polygon","coordinates":[[[-79.38681,43.64946],[-79.38628,43.64956],[-79.38578,43.64893],[-79.38653,43.64876],[-79.38681,43.64946]]]}'
 tag-ids:
 - ff294517-fb5e-418a-9057-c5555f1300bd
 ---
