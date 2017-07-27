@@ -186,8 +186,9 @@ tag-ids: []
 ---
 id: 9f52d4c4-401d-4880-9c37-fa93c21164a7
 type: region
-slug: downsview-station
-name: Downsview Station
+slug: sheppard-west-station
+name: Sheppard West Station
+geojson: '{"type":"Polygon","coordinates":[[[-79.46264,43.74969],[-79.46222,43.74977],[-79.46189,43.74866],[-79.46223,43.74867],[-79.46264,43.74969]]]}'
 tag-ids:
 - be43f247-3b33-4ea0-9212-69df13bf6710
 ---
