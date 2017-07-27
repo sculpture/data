@@ -680,9 +680,9 @@ artist-ids:
 date: 1980-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6483604
-  longitude: -79.3743035
-  precision: 50.0
+  latitude: 43.64831770198083
+  longitude: -79.37451807672119
+  precision: 8.0
 material-ids:
 - 76c8ed4b-b169-44ca-bf45-466a20c85838
 tag-ids: []
