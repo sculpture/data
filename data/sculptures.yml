@@ -9974,9 +9974,9 @@ commissioned-by: North York Historical Society
 date: 2004-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6512787
-  longitude: -79.368257
-  precision: 50.0
+  latitude: 43.65028504105869
+  longitude: -79.37308497622686
+  precision: 69.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 nearby-region-ids: []
