@@ -13551,16 +13551,16 @@ artist-ids:
 date: 2010-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 45.42314270000001
-  longitude: -75.6933521
+  latitude: 45.422901733124874
+  longitude: -75.69414603386842
   precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
-nearby-region-ids: []
+nearby-region-ids:
+- f6532ed4-53b0-481d-b47d-47e5d681c9e2
 region-ids:
 - 22e9f56b-9e32-4d91-a990-b1b9ebedaa22
 - 966a353b-9fb5-4a3f-a891-30aa0835c57d
-- f6532ed4-53b0-481d-b47d-47e5d681c9e2
 tag-ids:
 - 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
