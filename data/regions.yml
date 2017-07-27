@@ -832,6 +832,7 @@ id: f1407c59-7c01-41f9-b10b-095b35df585e
 type: region
 slug: exhibition-place
 name: Exhibition Place
+geojson: '{"type":"Polygon","coordinates":[[[-79.42946,43.63212],[-79.41224,43.63723],[-79.409,43.63453],[-79.41941,43.63063],[-79.42946,43.63212]]]}'
 tag-ids:
 - 671ea77b-35e7-4e67-b704-8445c7ff5e25
 ---
