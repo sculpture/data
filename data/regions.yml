@@ -1889,8 +1889,9 @@ tag-ids: []
 ---
 id: 763bfc34-5507-4178-8a6d-e85733d4ca9e
 type: region
-slug: bloor-st-united-church
-name: Bloor St. United Church
+slug: bloor-street-united-church
+name: Bloor Street United Church
+geojson: '{"type":"Polygon","coordinates":[[[-79.40235,43.66754],[-79.40184,43.66761],[-79.40171,43.66725],[-79.4021,43.66719],[-79.40235,43.66754]]]}'
 tag-ids:
 - 8de551a5-8ce4-4bb6-9459-29f636a51134
 ---
