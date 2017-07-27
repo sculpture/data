@@ -6570,9 +6570,9 @@ artist-ids:
 date: 1985-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.16815582751551
-  longitude: -79.24602953233651
-  precision: 1475.0
+  latitude: 43.157027570723194
+  longitude: -79.2476817730897
+  precision: 271.0
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids:
