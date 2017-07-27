@@ -594,6 +594,7 @@ id: d0e4bac2-00ef-4016-8cbf-92438e9489a1
 type: region
 slug: edwards-gardens
 name: Edwards Gardens
+geojson: '{"type":"Point","coordinates":[-79.35999,43.73295]}'
 tag-ids:
 - c41e20af-feb8-4c1a-b2df-c57887ca144d
 ---
