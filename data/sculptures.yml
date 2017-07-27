@@ -5695,8 +5695,8 @@ date: 1866-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 43.69145871847854
-  longitude: -79.40255158197023
-  precision: 84.0
+  longitude: -79.40418236505128
+  precision: 100.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
