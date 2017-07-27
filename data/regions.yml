@@ -861,6 +861,7 @@ id: f48b25e8-a9fc-44ff-84f9-3c0f9599176d
 type: region
 slug: st-michaels-college
 name: St. Michael's College
+geojson: '{"type":"Point","coordinates":[-79.3882,43.66577]}'
 tag-ids:
 - c6980378-c006-49d9-a681-effc4d36aea9
 ---
