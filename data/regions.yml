@@ -1046,6 +1046,7 @@ id: 07c54de5-12e8-438e-89e8-04ce626ca139
 type: region
 slug: erindale
 name: Erindale
+geojson: '{"type":"Point","coordinates":[-79.65008,43.54889]}'
 tag-ids:
 - 671ea77b-35e7-4e67-b704-8445c7ff5e25
 ---
