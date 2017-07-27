@@ -1481,6 +1481,7 @@ id: 37c78efd-7eeb-4372-8f8c-2e86ec28462a
 type: region
 slug: donald-forster-sculpture-park
 name: Donald Forster Sculpture Park
+geojson: '{"type":"Point","coordinates":[-80.2325159311295,43.5329393328549]}'
 tag-ids:
 - 0fc87402-1a39-4ec0-bc47-89c311a8711d
 ---
