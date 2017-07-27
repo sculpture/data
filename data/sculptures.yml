@@ -5309,14 +5309,17 @@ commissioned-by: North York Historical Society
 date: 2000-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 41.9030188
-  longitude: -90.8645155
-  precision: 50.0
+  latitude: 43.74015119151884
+  longitude: -79.4051569562501
+  precision: 78.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 nearby-region-ids: []
 region-ids:
-- 5fac83cf-5c4c-4670-a8eb-b8bfdce82135
+- 22e9f56b-9e32-4d91-a990-b1b9ebedaa22
+- 6bb17e49-9a4c-43ca-95d1-bc2dc128e074
+- 97b25538-b3c4-4b88-9163-fd8a276f2323
+- cc44f857-0999-4242-ad14-f5e7f9c51091
 tag-ids: []
 ---
 id: cdf72a89-59af-4014-9b8b-cb70c31bc912
