@@ -14781,19 +14781,19 @@ commissioned-by: Modir family
 date: 2000-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.69588535043463
-  longitude: -79.38225035974136
-  precision: 295.0
+  latitude: 43.69545094967763
+  longitude: -79.38218598672503
+  precision: 248.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 nearby-region-ids:
 - 5f70c989-cfd3-4365-a3e5-541c197d9252
+- 6bfc0776-7077-4671-86d0-d66ef71d44db
 - 8286a8ba-8162-4e34-9dbc-cdd2bffa209d
 note: ' '
 region-ids:
 - 22e9f56b-9e32-4d91-a990-b1b9ebedaa22
 - 6bb17e49-9a4c-43ca-95d1-bc2dc128e074
-- 6bfc0776-7077-4671-86d0-d66ef71d44db
 - 97b25538-b3c4-4b88-9163-fd8a276f2323
 tag-ids: []
 ---
