@@ -5556,9 +5556,9 @@ commissioned-by: Bell Canada Enterprises, Brookfield Development Corp.
 date: 1992-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6438982
-  longitude: -79.3889753
-  precision: 50.0
+  latitude: 43.647209390836345
+  longitude: -79.37758127610479
+  precision: 18.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
