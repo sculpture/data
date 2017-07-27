@@ -1306,7 +1306,7 @@ id: 206ecf40-f817-4367-8ddd-cb1ef537a143
 type: region
 slug: beth-sholom-synagogue
 name: Beth Sholom Synagogue
-geojson: '{"type":"Point","coordinates":[-75.12626,40.08216]}'
+geojson: '{"type":"Polygon","coordinates":[[[-79.43816,43.69809],[-79.43737,43.6983],[-79.43717,43.6981],[-79.43803,43.69791],[-79.43816,43.69809]]]}'
 tag-ids:
 - 8de551a5-8ce4-4bb6-9459-29f636a51134
 ---
