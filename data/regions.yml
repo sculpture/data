@@ -1503,6 +1503,7 @@ id: 3b9aa023-bfce-40a5-bc36-e838955f9bbe
 type: region
 slug: victoria-college
 name: Victoria College
+geojson: '{"type":"Polygon","coordinates":[[[-79.39226,43.66702],[-79.39176,43.66713],[-79.39165,43.66686],[-79.39214,43.66673],[-79.39226,43.66702]]]}'
 tag-ids:
 - c6980378-c006-49d9-a681-effc4d36aea9
 ---
