@@ -54,8 +54,9 @@ tag-ids: []
 ---
 id: 84d29dd3-5cb8-4c2f-a3a3-0bb039af59d8
 type: region
-slug: canadian-museum-of-civilization
-name: Canadian Museum of Civilization
+slug: canadian-museum-of-history
+name: Canadian Museum of History
+geojson: '{"type":"Polygon","coordinates":[[[-75.71039,45.42833],[-75.70952,45.43176],[-75.70678,45.43085],[-75.70611,45.4279],[-75.71039,45.42833]]]}'
 tag-ids:
 - 7416cb28-4978-4edc-8118-4330860dbd09
 ---
