@@ -1463,6 +1463,7 @@ id: 37fc3bfe-b17c-4544-8ec6-a07d0c7b90c0
 type: region
 slug: toronto-music-garden
 name: Toronto Music Garden
+geojson: '{"type":"Point","coordinates":[-79.3940842151642,43.6369215198677]}'
 tag-ids:
 - c41e20af-feb8-4c1a-b2df-c57887ca144d
 ---
