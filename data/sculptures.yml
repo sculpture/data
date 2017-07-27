@@ -1928,8 +1928,8 @@ commissioned-by: Rhyl Industrial Leaseholds Ltd.
 date: 1989-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.7188015
-  longitude: -79.456615
+  latitude: 43.718894549886336
+  longitude: -79.45610001586915
   precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
