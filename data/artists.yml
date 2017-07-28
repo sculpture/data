@@ -2249,3 +2249,10 @@ name: Steinunn Thorarinsdottir
 gender: female
 link-website: http://www.steinunnth.com/steinunn_home/steinunn.html
 tag-ids: []
+---
+id: 7ef55444-124f-4612-b3e2-f2da90447436
+type: artist
+slug: vito-acconci
+name: Vito Acconci
+gender: male
+tag-ids: []
