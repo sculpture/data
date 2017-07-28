@@ -10784,9 +10784,9 @@ commissioned-by: Government of Ontario
 date: 1966-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6623817
-  longitude: -79.3869785
-  precision: 50.0
+  latitude: 43.662932761201816
+  longitude: -79.3878368068848
+  precision: 84.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
