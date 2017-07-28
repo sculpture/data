@@ -1243,9 +1243,9 @@ artist-ids:
 date: 1978-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 53.567471
-  longitude: -0.080784
-  precision: 50.0
+  latitude: 43.19497521358902
+  longitude: -79.55957099402623
+  precision: 43.0
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids:
