@@ -6669,8 +6669,8 @@ commissioned-by: Rochdale College
 date: 1969-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.66706426082355
-  longitude: -79.40138362460641
+  latitude: 43.66700217394661
+  longitude: -79.40125487857374
   precision: 27.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
