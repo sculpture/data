@@ -2257,6 +2257,7 @@ type: artist
 slug: vito-acconci
 name: Vito Acconci
 gender: male
-link-website: https://en.wikipedia.org/wiki/Vito_Acconci
-link-wikipedia: http://acconci.com/
+link-website: http://acconci.com/
+link-wikipedia: https://en.wikipedia.org/wiki/Vito_Acconci
+nationality: American
 tag-ids: []
