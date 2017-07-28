@@ -9795,6 +9795,22 @@ material-ids:
 tag-ids:
 - 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 ---
+id: 596096c8-da6a-4bf5-b09f-ae924f1fc06c
+type: sculpture
+slug: fence-on-the-loose
+title: Fence on the Loose
+artist-ids:
+- 7ef55444-124f-4612-b3e2-f2da90447436
+commissioned-by: Lanterra Developments
+date: 2012-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6365097
+  longitude: -79.40658069999999
+  precision: 50.0
+material-ids: []
+tag-ids: []
+---
 id: 59765532-4ab2-4cd2-ac8b-8749906e33ab
 type: sculpture
 slug: solitude
