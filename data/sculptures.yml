@@ -1058,8 +1058,8 @@ commissioned-by: EXPO 67, The House of Seagram
 date: 1966-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.7881314
-  longitude: -79.1912274
+  latitude: 43.78336017548016
+  longitude: -79.18721481531375
   precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
