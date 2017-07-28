@@ -3667,6 +3667,7 @@ colors:
 - '#818C67'
 - '#BEBEBD'
 height: 1637
+sculpture-id: c976d9a8-e2a0-48a3-b69d-d95be5970d15
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
 width: 1114
 ---
@@ -5914,6 +5915,17 @@ colors:
 height: 1200
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
 width: 1680
+---
+id: 42b741cd-6fdd-4a8d-9867-b2d74cc59f2f
+type: photo
+captured-at: 2013-10-27T14:30:44Z
+colors:
+- '#3E4747'
+- '#7B8C76'
+- '#A9ABA7'
+height: 1586
+user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
+width: 1112
 ---
 id: 42d59410-28d6-44eb-ada3-5fa12173d8aa
 type: photo
