@@ -93,9 +93,9 @@ artist-ids:
 date: 1995-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.7195612
-  longitude: -79.4010886
-  precision: 50.0
+  latitude: 43.768531353040366
+  longitude: -79.41306198104259
+  precision: 56.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids:
