@@ -3659,6 +3659,17 @@ sculpture-id: 5c19fb36-b039-4bfe-bed9-12c2d527ca16
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
 width: 868
 ---
+id: f8e35b70-6f84-4e2f-891d-ce0c9eb894e4
+type: photo
+captured-at: 2013-10-27T14:25:36Z
+colors:
+- '#505A43'
+- '#818C67'
+- '#BEBEBD'
+height: 1637
+user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
+width: 1114
+---
 id: f8e58f0b-860f-497c-998c-188dc60d5863
 type: photo
 captured-at: 2002-11-15T03:50:00Z
