@@ -324,9 +324,9 @@ commissioned-by: Donated by P.Mills-Tucker
 date: 1972-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.771685
-  longitude: -79.363914
-  precision: 50.0
+  latitude: 43.76934526479767
+  longitude: -79.36342047354127
+  precision: 95.0
 material-ids:
 - a267fb56-e090-4da4-b72c-152f966877d9
 tag-ids:
