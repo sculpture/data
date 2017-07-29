@@ -838,6 +838,7 @@ id: eed2b1f5-6144-4ca4-b225-5080419c7558
 type: region
 slug: dundas-station
 name: Dundas Station
+geojson: '{"type":"Point","coordinates":[-79.38088,43.65634]}'
 tag-ids:
 - be43f247-3b33-4ea0-9212-69df13bf6710
 ---
