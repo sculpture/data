@@ -1127,6 +1127,7 @@ id: 0b0463d0-c22c-4333-94ee-ba91b77f615b
 type: region
 slug: art-gallery-of-hamilton
 name: Art Gallery of Hamilton
+geojson: '{"type":"Point","coordinates":[-79.87249,43.25712]}'
 tag-ids:
 - 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
 ---
