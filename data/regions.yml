@@ -1515,7 +1515,7 @@ id: 36394b43-5e94-4dbd-b01c-3caaefdb0721
 type: region
 slug: milliken
 name: Milliken
-geojson: '{"type":"Polygon","coordinates":[[[-79.3292528,43.8492205],[-79.2664754,43.8492205],[-79.2664754,43.7967694],[-79.3292528,43.7967694],[-79.3292528,43.8492205]]]}'
+geojson: '{"type":"Point","coordinates":[-79.30707,43.8237]}'
 tag-ids:
 - 671ea77b-35e7-4e67-b704-8445c7ff5e25
 ---
