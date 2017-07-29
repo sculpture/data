@@ -457,6 +457,7 @@ id: c12e8d1a-6925-4355-a323-ba55277dc484
 type: region
 slug: st-josephs-health-centre
 name: St. Joseph's Health Centre
+geojson: '{"type":"Polygon","coordinates":[[[-79.45126,43.64141],[-79.44967,43.64179],[-79.4485,43.63894],[-79.4512,43.63943],[-79.45126,43.64141]]]}'
 tag-ids:
 - 06d088ca-1894-44c9-9e2a-e0491945abe0
 ---
