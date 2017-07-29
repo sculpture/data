@@ -417,6 +417,7 @@ id: baf68ee0-598b-4e31-b9b3-b11a64a1d078
 type: region
 slug: osgoode-hall
 name: Osgoode Hall
+geojson: '{"type":"Polygon","coordinates":[[[-79.38633,43.6524],[-79.38505,43.65264],[-79.38474,43.65194],[-79.38591,43.65157],[-79.38633,43.6524]]]}'
 tag-ids:
 - 5b81e8eb-ff28-45a9-9f26-50353cd28215
 ---
