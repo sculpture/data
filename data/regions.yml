@@ -478,8 +478,9 @@ tag-ids:
 ---
 id: c29fadb5-1a1e-4dba-abbe-0730a33ec818
 type: region
-slug: park-plaza-hotel
-name: Park Plaza Hotel
+slug: park-hyatt-hotel
+name: Park Hyatt Toronto
+geojson: '{"type":"Point","coordinates":[-79.39462,43.6692]}'
 tag-ids:
 - ff294517-fb5e-418a-9057-c5555f1300bd
 ---
