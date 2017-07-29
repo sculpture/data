@@ -7810,9 +7810,9 @@ artist-ids:
 date: 2009-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.7180569
-  longitude: -79.3741804
-  precision: 50.0
+  latitude: 43.718180968024775
+  longitude: -79.37377270422975
+  precision: 60.0
 material-ids:
 - 18829464-3bed-4f42-b206-8d99f402dc1b
 - 983d1c37-99da-4b1d-baba-681a83e66d30
