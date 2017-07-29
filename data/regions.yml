@@ -1643,6 +1643,7 @@ id: 4c19b4ec-bdba-4ac4-ad14-d8fd48e3d8a3
 type: region
 slug: toronto-general-hospital
 name: Toronto General Hospital
+geojson: '{"type":"Polygon","coordinates":[[[-79.38942,43.65884],[-79.38808,43.65939],[-79.38687,43.65829],[-79.38916,43.65781],[-79.38942,43.65884]]]}'
 tag-ids:
 - 06d088ca-1894-44c9-9e2a-e0491945abe0
 ---
