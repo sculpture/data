@@ -657,6 +657,7 @@ id: d5ae47e9-dc84-49d5-8207-62ca09c05d70
 type: region
 slug: toronto-district-school-board
 name: Toronto District School Board
+geojson: '{"type":"Polygon","coordinates":[[[-79.41396,43.76704],[-79.41388,43.76685],[-79.41285,43.76708],[-79.41296,43.76725],[-79.41396,43.76704]]]}'
 tag-ids:
 - 5b81e8eb-ff28-45a9-9f26-50353cd28215
 ---
