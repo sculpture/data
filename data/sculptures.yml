@@ -2176,9 +2176,9 @@ commissioned-by: National Capital Commission
 date: 1967-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 45.4215296
-  longitude: -75.69719309999999
-  precision: 50.0
+  latitude: 45.42881857011685
+  longitude: -75.69489712908324
+  precision: 93.0
 material-ids:
 - c1c07f0b-8700-44fb-9a0f-241032b370e8
 tag-ids:
