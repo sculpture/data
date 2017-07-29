@@ -1319,6 +1319,7 @@ id: 1f0662f0-0fde-45f3-8ca4-969ba47a4e80
 type: region
 slug: financial-district
 name: Financial District
+geojson: '{"type":"Polygon","coordinates":[[[-79.38678,43.65081],[-79.37925,43.65243],[-79.37691,43.64687],[-79.38343,43.64511],[-79.38678,43.65081]]]}'
 tag-ids:
 - 671ea77b-35e7-4e67-b704-8445c7ff5e25
 ---
