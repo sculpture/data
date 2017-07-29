@@ -4972,8 +4972,8 @@ artist-ids:
 date: 1987-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.7269871
-  longitude: -79.3414943
+  latitude: 43.7271886803596
+  longitude: -79.34170887672119
   precision: 50.0
 material-ids:
 - 5fd1cc05-abf6-4f86-b491-43ae800ae2b2
