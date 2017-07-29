@@ -1101,6 +1101,7 @@ id: 099ead13-9abb-40c7-b699-1f9e0d12bcfa
 type: region
 slug: cloverdale-mall
 name: Cloverdale Mall
+geojson: '{"type":"Polygon","coordinates":[[[-79.55758,43.6335],[-79.55282,43.63167],[-79.55232,43.63023],[-79.55578,43.6299],[-79.55758,43.6335]]]}'
 tag-ids:
 - 99897a64-64c9-4df0-8c74-1ea68a637759
 ---
