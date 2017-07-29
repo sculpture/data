@@ -1089,6 +1089,7 @@ id: 0822600a-883e-44fb-8bcd-34f977149289
 type: region
 slug: the-robert-mclaughlin-gallery
 name: The Robert McLaughlin Gallery
+geojson: '{"type":"Polygon","coordinates":[[[-78.86625,43.89515],[-78.866,43.8952],[-78.86583,43.89477],[-78.86607,43.89472],[-78.86625,43.89515]]]}'
 tag-ids:
 - 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
 ---
