@@ -1705,6 +1705,7 @@ id: 50a4b64b-033b-4144-8f5c-d51233aca98a
 type: region
 slug: mclaughlin-college
 name: McLaughlin College
+geojson: '{"type":"Polygon","coordinates":[[[-79.50377,43.77561],[-79.5022,43.77725],[-79.50146,43.77608],[-79.50255,43.77568],[-79.50377,43.77561]]]}'
 tag-ids:
 - c6980378-c006-49d9-a681-effc4d36aea9
 ---
