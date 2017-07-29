@@ -925,6 +925,7 @@ id: f7a1b512-4e74-46ed-a361-c67400df542e
 type: region
 slug: oracle-corp
 name: Oracle Corp.
+geojson: '{"type":"Polygon","coordinates":[[[-79.67392,43.6172],[-79.67475,43.61825],[-79.67406,43.61873],[-79.67269,43.6181],[-79.67392,43.6172]]]}'
 tag-ids: []
 ---
 id: f8757afb-54c3-402d-abce-46fbeca53682
