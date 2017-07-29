@@ -4525,8 +4525,8 @@ commissioned-by: Etobicoke public art competition
 date: 1996-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6453808
-  longitude: -79.364235
+  latitude: 43.631792861111286
+  longitude: -79.434444503174
   precision: 50.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
