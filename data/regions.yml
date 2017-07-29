@@ -289,6 +289,7 @@ id: ac4832c2-63ad-4838-bf69-2992e1bcb61d
 type: region
 slug: hanlans-point
 name: Hanlan's Point
+geojson: '{"type":"Point","coordinates":[-79.38986,43.62677]}'
 tag-ids:
 - c41e20af-feb8-4c1a-b2df-c57887ca144d
 ---
