@@ -1349,6 +1349,7 @@ id: 2431c070-9a12-47ea-b121-0544c9922dd2
 type: region
 slug: mimico-centennial-library
 name: Mimico Centennial Library
+geojson: '{"type":"Polygon","coordinates":[[[-79.49395,43.61471],[-79.49377,43.61495],[-79.49359,43.61494],[-79.49363,43.61464],[-79.49395,43.61471]]]}'
 tag-ids:
 - ef6d25e7-396f-479d-adb5-4bca77066e4a
 ---
