@@ -1345,6 +1345,7 @@ id: 21e66a1c-6814-451b-a980-792bcd1fcf92
 type: region
 slug: the-mcmichael-gallery
 name: The McMichael Gallery
+geojson: '{"type":"Point","coordinates":[-79.61667,43.84312]}'
 tag-ids:
 - 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
 ---
