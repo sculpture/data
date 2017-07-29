@@ -668,6 +668,7 @@ id: d6a74ae4-85ca-4d31-836e-b2d867c1bd18
 type: region
 slug: malvern-collegiate-institute
 name: Malvern Collegiate Institute
+geojson: '{"type":"Polygon","coordinates":[[[-79.29385,43.68336],[-79.29273,43.68359],[-79.29202,43.68186],[-79.29314,43.68162],[-79.29385,43.68336]]]}'
 tag-ids:
 - c6980378-c006-49d9-a681-effc4d36aea9
 ---
