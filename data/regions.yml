@@ -1561,6 +1561,7 @@ id: 41a9d657-e029-4321-848a-5bc1662e3926
 type: region
 slug: kew-gardens
 name: Kew Gardens
+geojson: '{"type":"Polygon","coordinates":[[[-79.30011,43.66962],[-79.29786,43.67003],[-79.29672,43.6672],[-79.29897,43.66677],[-79.30011,43.66962]]]}'
 tag-ids:
 - c41e20af-feb8-4c1a-b2df-c57887ca144d
 ---
