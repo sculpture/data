@@ -2254,6 +2254,8 @@ type: artist
 slug: james-carl
 name: James Carl
 gender: male
+link-wikipedia: https://en.wikipedia.org/wiki/James_Carl
+nationality: Canadian
 tag-ids: []
 ---
 id: 7abba0af-7ecb-41d2-a30e-d926bad917af
