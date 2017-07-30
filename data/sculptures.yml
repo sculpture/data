@@ -7287,8 +7287,8 @@ artist-ids:
 date: 2001-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.7693097
-  longitude: -79.4165371
+  latitude: 43.76972807021684
+  longitude: -79.41735249154053
   precision: 50.0
 material-ids:
 - 18829464-3bed-4f42-b206-8d99f402dc1b
