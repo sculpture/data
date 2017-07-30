@@ -4411,8 +4411,8 @@ commissioned-by: Gift of the artist
 date: 1974-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.7731258
-  longitude: -79.5052743
+  latitude: 43.77270745355062
+  longitude: -79.50061798515016
   precision: 50.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
