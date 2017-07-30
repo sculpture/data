@@ -781,9 +781,9 @@ artist-ids:
 date: 2010-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6515077
-  longitude: -79.3627332
-  precision: 50.0
+  latitude: 43.649955106599656
+  longitude: -79.35899956505126
+  precision: 58.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids: []
