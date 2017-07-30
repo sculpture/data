@@ -6486,8 +6486,8 @@ commissioned-by: Gift of International Nickel Company
 date: 1967-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.77209329999999
-  longitude: -79.50211139999999
+  latitude: 43.7723722008222
+  longitude: -79.50163933121338
   precision: 50.0
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
