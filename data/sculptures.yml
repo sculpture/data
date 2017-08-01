@@ -6923,6 +6923,10 @@ artist-ids:
 - 2301ceb4-2383-4bbd-8cdb-c0ea6d235205
 date: 1999-01-01T00:00:00Z
 date-precision: year
+location:
+  latitude: 42.310931187448894
+  longitude: -83.06893575421454
+  precision: 39.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - 35913622-405e-4e52-b409-6acc87a4dd77
