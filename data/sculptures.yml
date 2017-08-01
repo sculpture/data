@@ -6384,8 +6384,8 @@ commissioned-by: Park Plaza Hotel
 date: 1959-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.695034
-  longitude: -79.404619
+  latitude: 43.66908818430476
+  longitude: -79.39466264013683
   precision: 50.0
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1
