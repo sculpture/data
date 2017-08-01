@@ -575,9 +575,9 @@ commissioned-by: Exhibition Place
 date: 1979-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.5439897
-  longitude: -80.236429
-  precision: 50.0
+  latitude: 43.6334720005756
+  longitude: -79.4198094471436
+  precision: 57.0
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 tag-ids: []
