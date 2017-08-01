@@ -1440,6 +1440,8 @@ type: artist
 slug: stephen-cruise
 name: Stephen Cruise
 gender: male
+link-website: http://stephencruise.ca/
+nationality: Canadian
 tag-ids: []
 ---
 id: 242b491c-6894-420a-990c-135e7e3d74f6
