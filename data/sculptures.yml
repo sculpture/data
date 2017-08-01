@@ -10475,6 +10475,21 @@ material-ids:
 note: (fot.2002 at old location 1900 Bayview Ave.)
 tag-ids: []
 ---
+id: 669f8bdd-e554-4ad7-9807-400cee0a2d20
+type: sculpture
+slug: light-conteiners
+title: Light Containers
+artist-ids:
+- 3d773fc8-a238-4aa8-aa03-bc4f87c9d993
+commissioned-by: Malibu
+location:
+  latitude: 43.73450305639729
+  longitude: -79.44647570000001
+  precision: 27.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []
+---
 id: 6933f40f-c7b6-44f1-8e85-c394abba39e9
 type: sculpture
 slug: warrior-with-shield
