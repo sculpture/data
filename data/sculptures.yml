@@ -3598,9 +3598,9 @@ commissioned-by: Menkes
 date: 2009-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6426303
-  longitude: -79.3751053
-  precision: 50.0
+  latitude: 43.7843933086628
+  longitude: -79.41637163624574
+  precision: 45.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids: []
