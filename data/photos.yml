@@ -7028,6 +7028,17 @@ sculpture-id: bff49877-2af2-4061-a540-f0b8f3aff1b7
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
 width: 1024
 ---
+id: 615606d4-c987-4d40-8f51-f7dda848025a
+type: photo
+captured-at: 2015-01-24T01:52:44Z
+colors:
+- '#494A46'
+- '#828781'
+- '#B5B3AE'
+height: 1881
+user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
+width: 1471
+---
 id: 61653908-ecba-48c8-ae08-9647db2fb58d
 type: photo
 captured-at: 2009-03-14T18:24:00Z
