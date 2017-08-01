@@ -9485,8 +9485,8 @@ commissioned-by: Concord Adex Developments
 date: 2009-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6387685
-  longitude: -79.40061
+  latitude: 43.63895484802503
+  longitude: -79.39844277511595
   precision: 50.0
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
