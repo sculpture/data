@@ -7771,6 +7771,17 @@ sculpture-id: 560a2101-6447-40e4-8b42-67d26488a005
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
 width: 745
 ---
+id: 7a0c86e4-ffb2-47d1-bcf1-7f4668d9ea44
+type: photo
+captured-at: 2015-01-24T01:52:44Z
+colors:
+- '#494A46'
+- '#828781'
+- '#B5B3AE'
+height: 1881
+user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
+width: 1471
+---
 id: 7a2bdc51-d70b-4f6e-825b-6a899ddad3b3
 type: photo
 captured-at: 2002-06-01T17:26:00Z
