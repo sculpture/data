@@ -608,8 +608,8 @@ commissioned-by: Malibu Inv.
 date: 2008-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6463401
-  longitude: -79.3660803
+  latitude: 43.63863818000916
+  longitude: -79.40071298280034
   precision: 50.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
