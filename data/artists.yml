@@ -1142,6 +1142,14 @@ name: Peter Kolisnyk
 gender: male
 tag-ids: []
 ---
+id: 01bdb655-fc15-477f-9dab-af6baa690cde
+type: artist
+slug: nestor-kruger
+name: Nestor Krüger
+gender: male
+nationality: Canadian
+tag-ids: []
+---
 id: 02738f90-d261-479b-b83a-b19c0a13e591
 type: artist
 slug: les-drysdale
