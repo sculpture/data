@@ -11060,6 +11060,21 @@ material-ids:
 - a1d83c21-c2ec-4d6f-852d-a880fdd65176
 tag-ids: []
 ---
+id: 76c4a312-9b30-4452-9cab-5113a5e2e71b
+type: sculpture
+slug: fountaingrove
+title: Fountaingrove
+artist-ids:
+- 01bdb655-fc15-477f-9dab-af6baa690cde
+- 24c45bc3-d80d-416f-a61c-49802a03b84b
+date-precision: year
+location:
+  latitude: 43.63738300000001
+  longitude: -79.4034527
+  precision: 17.0
+material-ids: []
+tag-ids: []
+---
 id: 7706f8ec-8276-4c07-b78e-d962ad477171
 type: sculpture
 slug: unknown-3
