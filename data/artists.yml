@@ -1451,6 +1451,15 @@ name: Whiten
 gender: male
 tag-ids: []
 ---
+id: 24c45bc3-d80d-416f-a61c-49802a03b84b
+type: artist
+slug: carlo-cesta
+name: Carlo Cesta
+gender: male
+link-website: http://carlocesta.com/home.html
+nationality: Canadian
+tag-ids: []
+---
 id: 25fee289-60e0-4fc1-b36a-295c7749123e
 type: artist
 slug: danisha
