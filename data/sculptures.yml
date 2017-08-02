@@ -4638,6 +4638,10 @@ artist-ids:
 - 25fee289-60e0-4fc1-b36a-295c7749123e
 date: 1994-01-01T00:00:00Z
 date-precision: year
+location:
+  latitude: 43.69687861986667
+  longitude: -79.38225937036134
+  precision: 136.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
