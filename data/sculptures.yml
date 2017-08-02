@@ -9543,6 +9543,21 @@ material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 tag-ids: []
 ---
+id: 520aa8dc-5e73-4715-95ba-eadfc6679183
+type: sculpture
+slug: garden-of-the-greek-gods-minotur
+title: Garden of the Greek Gods - Minotur
+artist-ids:
+- 56d243ae-7954-4107-b7fa-6290ac7cb48f
+date-precision: year
+location:
+  latitude: 43.633707877569016
+  longitude: -79.41992599098512
+  precision: 81.0
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids: []
+---
 id: 5216e90b-bd1d-4038-9a59-785a7f84076f
 type: sculpture
 slug: alexander-wood
