@@ -7411,12 +7411,13 @@ artist-ids:
 date: 1984-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.65686609999999
-  longitude: -79.38423019999999
+  latitude: 43.66045211731467
+  longitude: -79.38470226878664
   precision: 50.0
 material-ids:
 - 35913622-405e-4e52-b409-6acc87a4dd77
-tag-ids: []
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
 ---
 id: 1fcb8c81-30d1-4e7f-b75c-b70c13716854
 type: sculpture
