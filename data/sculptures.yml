@@ -645,8 +645,8 @@ commissioned-by: Municipality of Metro Toronto
 date: 1988-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6615519
-  longitude: -79.3860957
+  latitude: 43.66176922351837
+  longitude: -79.38489407036134
   precision: 50.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
