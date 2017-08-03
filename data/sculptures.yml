@@ -7411,8 +7411,8 @@ artist-ids:
 date: 1984-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.66045211731467
-  longitude: -79.38470226878664
+  latitude: 43.66068496817674
+  longitude: -79.38487393016361
   precision: 50.0
 material-ids:
 - 35913622-405e-4e52-b409-6acc87a4dd77
