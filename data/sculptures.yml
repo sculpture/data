@@ -3629,11 +3629,12 @@ slug: the-sculptors-palette
 title: The Sculptor's Palette
 artist-ids:
 - 9a0a94d9-c4d1-45f5-ac3a-0bfb0563a15d
+- a72315fc-ea46-41f6-a11e-90d825b4acfe
 date: 2002-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6713731
-  longitude: -79.393671
+  latitude: 43.671699031651286
+  longitude: -79.3934349656067
   precision: 50.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
