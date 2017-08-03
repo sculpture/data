@@ -1693,8 +1693,8 @@ commissioned-by: Bell Canada
 date: 1984-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.65686609999999
-  longitude: -79.38423019999999
+  latitude: 43.65321776738228
+  longitude: -79.38320023173833
   precision: 50.0
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
