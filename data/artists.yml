@@ -595,7 +595,8 @@ type: artist
 slug: uga-drava
 name: Uga Drava
 gender: male
-link-website: http://www.ugadrava.com/
+link-website: ' '
+nationality: Canadian
 tag-ids: []
 ---
 id: cbc391fc-7a7f-4fab-8f76-5e953737463c
