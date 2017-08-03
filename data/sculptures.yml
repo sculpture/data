@@ -9988,8 +9988,8 @@ artist-ids:
 date: 2005-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.65573
-  longitude: -79.41138699999999
+  latitude: 43.65992150698235
+  longitude: -79.39153865328984
   precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
