@@ -5157,6 +5157,10 @@ title: Composition with Five Elements
 artist-ids:
 - fc345e06-1486-4396-a28a-0be0df1a09e4
 date-precision: year
+location:
+  latitude: 42.30928882739608
+  longitude: -83.07147848836061
+  precision: 62.0
 material-ids:
 - 76c8ed4b-b169-44ca-bf45-466a20c85838
 tag-ids:
