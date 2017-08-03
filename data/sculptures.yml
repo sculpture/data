@@ -10297,8 +10297,8 @@ artist-ids:
 date: 2008-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6631673
-  longitude: -79.39323929999999
+  latitude: 43.66552670690225
+  longitude: -79.39205912803347
   precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
