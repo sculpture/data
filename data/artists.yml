@@ -266,6 +266,15 @@ name: Figueiredo, Fung
 gender: male
 tag-ids: []
 ---
+id: a72315fc-ea46-41f6-a11e-90d825b4acfe
+type: artist
+slug: veroniva-de-nogales
+name: Veronica de Nogales
+gender: female
+link-website: http://www.damdenogales.com/
+nationality: Spanish Canadian
+tag-ids: []
+---
 id: a791e704-3cf6-4e29-b923-0e8213816522
 type: artist
 slug: sorel-etrog
