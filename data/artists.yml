@@ -2009,6 +2009,13 @@ name: John Byers
 gender: male
 tag-ids: []
 ---
+id: 5505f1bd-30d4-4243-87fa-b75c3b68ebff
+type: artist
+slug: fung-john
+name: John Fung
+gender: male
+tag-ids: []
+---
 id: 5577272d-d505-4fd5-a801-00ddcccd7184
 type: artist
 slug: lionel-thomas
