@@ -10176,7 +10176,8 @@ location:
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 note: (fot.2008) Sculpture not anymore at this location
-tag-ids: []
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
 ---
 id: 5ef8a1a0-ba5e-4e7a-a5e3-0daaec00c65b
 type: sculpture
