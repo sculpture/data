@@ -7352,6 +7352,10 @@ artist-ids:
 - a791e704-3cf6-4e29-b923-0e8213816522
 date: 1998-01-01T00:00:00Z
 date-precision: year
+location:
+  latitude: 42.30992356099933
+  longitude: -83.07023394337772
+  precision: 43.0
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids:
