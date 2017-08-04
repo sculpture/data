@@ -3227,9 +3227,9 @@ commissioned-by: Olympia & York
 date: 1972-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.70102660000001
-  longitude: -79.52084099999999
-  precision: 50.0
+  latitude: 43.64711872506592
+  longitude: -79.3841088947205
+  precision: 17.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
