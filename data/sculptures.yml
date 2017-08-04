@@ -6246,8 +6246,8 @@ artist-ids:
 date: 1972-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 45.4997668
-  longitude: -73.58154979999999
+  latitude: 45.499210319341685
+  longitude: -73.5805412894104
   precision: 50.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
