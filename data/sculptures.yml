@@ -3994,9 +3994,9 @@ commissioned-by: Ontario Heritage Foundation
 date: 1975-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6235253
-  longitude: -79.4808383
-  precision: 50.0
+  latitude: 43.631038068663
+  longitude: -79.41396215344243
+  precision: 47.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids: []
