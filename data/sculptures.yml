@@ -8770,8 +8770,8 @@ commissioned-by: Dr. O.J.Firestone collection
 date: 1971-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 45.4254352
-  longitude: -75.6887911
+  latitude: 45.425179183057736
+  longitude: -75.68900567672121
   precision: 50.0
 material-ids:
 - 210d2a46-7c5d-4d3e-b639-0c700e86ccf2
