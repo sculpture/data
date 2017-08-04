@@ -3981,8 +3981,8 @@ commissioned-by: Bank of Canada
 date: 1967-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 45.4215465411998
-  longitude: -75.70198997298586
+  latitude: 45.421365811030356
+  longitude: -75.70231183806767
   precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
