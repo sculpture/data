@@ -2198,6 +2198,15 @@ gender: female
 link-website: http://www.marlenehiltonmoore.com/
 tag-ids: []
 ---
+id: 689d513b-ed4a-4d2b-8a43-cc7f0bf045b9
+type: artist
+slug: edward-falkenberg
+name: Edward Falkenberg
+gender: male
+link-website: http://www.falkenberg.ca/
+nationality: Canadian
+tag-ids: []
+---
 id: 6a646b41-3651-4147-8c38-b48335b65cd1
 type: artist
 slug: john-mckinnon
