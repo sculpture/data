@@ -848,8 +848,8 @@ artist-ids:
 date: 1973-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 44.2311717
-  longitude: -76.4859544
+  latitude: 44.22211507423693
+  longitude: -76.49861442655033
   precision: 50.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
