@@ -10050,9 +10050,9 @@ commissioned-by: Imperial Life Assurance
 date: 1967-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6867396
-  longitude: -79.398158
-  precision: 50.0
+  latitude: 43.68695811569755
+  longitude: -79.39839968836061
+  precision: 15.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
