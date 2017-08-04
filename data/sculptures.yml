@@ -10238,8 +10238,8 @@ artist-ids:
 date: 1929-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.707954
-  longitude: -79.41017699999999
+  latitude: 43.68690169574297
+  longitude: -79.40200162692265
   precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
