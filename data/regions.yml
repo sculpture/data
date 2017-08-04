@@ -1699,7 +1699,7 @@ id: 4eb67ebe-4a8c-4830-9eb1-d05e4ecdcec0
 type: region
 slug: supreme-court-of-canada
 name: Supreme Court of Canada
-geojson: '{"type":"Polygon","coordinates":[[[-75.706167,45.4223781],[-75.7049764,45.4223781],[-75.7049764,45.421533],[-75.706167,45.421533],[-75.706167,45.4223781]]]}'
+geojson: '{"type":"Polygon","coordinates":[[[-75.70611,45.42208],[-75.70544,45.42237],[-75.70496,45.42184],[-75.70565,45.42154],[-75.70611,45.42208]]]}'
 tag-ids:
 - 5b81e8eb-ff28-45a9-9f26-50353cd28215
 ---
