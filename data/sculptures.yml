@@ -8806,9 +8806,9 @@ commissioned-by: Camrost Development Corp.
 date: 1991-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6443637
-  longitude: -79.37553299999999
-  precision: 50.0
+  latitude: 43.619964
+  longitude: -79.483117
+  precision: 37.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids: []
