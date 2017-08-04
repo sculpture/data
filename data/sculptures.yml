@@ -10448,8 +10448,8 @@ commissioned-by: Greenwin Developments
 date: 1970-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.698791
-  longitude: -79.3910839
+  latitude: 43.69925640333727
+  longitude: -79.39125556137697
   precision: 50.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
