@@ -5603,8 +5603,8 @@ commissioned-by: Marathon Realty Company Ltd.
 date: 1964-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6460292
-  longitude: -79.3843979
+  latitude: 43.64612236282482
+  longitude: -79.38403311957399
   precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
