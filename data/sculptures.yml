@@ -4886,8 +4886,8 @@ commissioned-by: Sparks St. Businees Improvement
 date: 1980-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 45.4202273
-  longitude: -75.7034556
+  latitude: 45.423525601038826
+  longitude: -75.6956879226929
   precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
