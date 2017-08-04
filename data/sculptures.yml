@@ -1144,9 +1144,9 @@ commissioned-by: Crown Life Insurance Company
 date: 1984-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.672278
-  longitude: -79.3745125
-  precision: 50.0
+  latitude: 43.67112948215203
+  longitude: -79.38305265350346
+  precision: 28.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids: []
