@@ -1844,8 +1844,8 @@ commissioned-by: Tridel
 date: 2011-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6703921
-  longitude: -79.37798120000001
+  latitude: 43.670826682245
+  longitude: -79.37658645131226
   precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
