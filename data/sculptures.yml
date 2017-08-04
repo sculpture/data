@@ -807,20 +807,21 @@ tag-ids: []
 ---
 id: 90683428-1aea-47b4-a917-b3ed70e99cd6
 type: sculpture
-slug: untitled
+slug: untitled-kalfa
 title: Untitled
 artist-ids:
 - 59a099ab-2242-470a-9459-0c46cc4ff532
 date: 1992-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.761657
-  longitude: -79.44048599999999
+  latitude: 43.76257132957367
+  longitude: -79.44080786508181
   precision: 50.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 note: (fot.2008) Sculpture not anymore at this location
-tag-ids: []
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
 ---
 id: 90faba74-1535-4bb8-90df-cddf2a9dd7dd
 type: sculpture
