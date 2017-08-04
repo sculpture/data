@@ -10760,8 +10760,8 @@ commissioned-by: Caorost Development Corporation
 date: 1991-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.7665312
-  longitude: -79.41112100000001
+  latitude: 43.766035326993915
+  longitude: -79.41067038888553
   precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
