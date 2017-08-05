@@ -3492,7 +3492,8 @@ type: sculpture
 slug: bloor-parkette
 title: Bloor Parkette
 artist-ids:
-- ecea907c-0e40-43aa-b70f-94426fdda97a
+- 8fad84b9-ee74-476d-8ea2-16585c61f1a6
+- fd72acc5-f62b-48af-94e4-3fdb4be5bb0e
 date: 1997-01-01T00:00:00Z
 date-precision: year
 location:
