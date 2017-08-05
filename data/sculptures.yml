@@ -1479,8 +1479,8 @@ commissioned-by: City of Toronto
 date: 1995-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.7354024
-  longitude: -79.40838219999999
+  latitude: 43.734022525522875
+  longitude: -79.40484168410035
   precision: 50.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
