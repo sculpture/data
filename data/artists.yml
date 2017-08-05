@@ -116,6 +116,14 @@ gender: male
 link-wikipedia: http://en.wikipedia.org/wiki/George_William_Hill_%28sculptor%29
 tag-ids: []
 ---
+id: 8fad84b9-ee74-476d-8ea2-16585c61f1a6
+type: artist
+slug: mark-gomez
+name: Mark Gomez
+gender: male
+nationality: Canadian
+tag-ids: []
+---
 id: 91da59eb-7ed5-443f-935c-e310ac816083
 type: artist
 slug: wai-ming-cheung
