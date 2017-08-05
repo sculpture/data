@@ -4,12 +4,13 @@ slug: empress-colonettes
 title: Empress Colonettes
 artist-ids:
 - 8472f684-4b5d-4d5e-8eb8-5373b86fe4a1
+- 8dbed0ca-9de0-4167-bb1a-57a7586ecd43
 date: 1998-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 43.7717306
   longitude: -79.4114831
-  precision: 50.0
+  precision: 50
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids: []
