@@ -4823,8 +4823,8 @@ commissioned-by: Concord City Place
 date: 2004-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.63999080869991
-  longitude: -79.39097405026247
+  latitude: 43.63992869382679
+  longitude: -79.39116716931157
   precision: 50.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
