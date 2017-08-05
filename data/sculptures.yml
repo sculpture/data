@@ -8409,8 +8409,8 @@ artist-ids:
 date: 2000-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.7305734
-  longitude: -79.43365399999999
+  latitude: 43.73037183103135
+  longitude: -79.43324630422974
   precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
