@@ -1587,7 +1587,7 @@ tag-ids:
 ---
 id: a32a4ece-f1fa-427d-b734-04abc69254f2
 type: sculpture
-slug: untitled
+slug: untitled-gorczynski
 title: Untitled
 artist-ids:
 - bd8bba04-6200-4f44-a290-1ad3406b477d
@@ -1595,8 +1595,8 @@ commissioned-by: Webb Zerafa Menkes Housden Part. Architects
 date: 1991-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6474266
-  longitude: -79.3921972
+  latitude: 43.64874636250622
+  longitude: -79.38560969465945
   precision: 50.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
