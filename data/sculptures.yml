@@ -6632,6 +6632,7 @@ type: sculpture
 slug: untitled
 title: Untitled
 artist-ids:
+- 8fad84b9-ee74-476d-8ea2-16585c61f1a6
 - fd72acc5-f62b-48af-94e4-3fdb4be5bb0e
 date: 1999-01-01T00:00:00Z
 date-precision: year
