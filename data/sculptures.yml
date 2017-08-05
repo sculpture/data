@@ -1307,9 +1307,9 @@ artist-ids:
 date: 2007-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6394728
-  longitude: -79.3938162
-  precision: 50.0
+  latitude: 43.639585603803084
+  longitude: -79.39298130422978
+  precision: 34.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids: []
