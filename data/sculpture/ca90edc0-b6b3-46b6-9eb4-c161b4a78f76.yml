@@ -4,12 +4,13 @@ slug: rune
 title: Rune
 artist-ids:
 - 8472f684-4b5d-4d5e-8eb8-5373b86fe4a1
+- 8dbed0ca-9de0-4167-bb1a-57a7586ecd43
 date: 2001-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 43.7700927
   longitude: -79.50507669999999
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
