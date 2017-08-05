@@ -1,0 +1,16 @@
+id: b088129c-c1d0-428d-a8c1-8ca5da4a7ce8
+type: sculpture
+slug: woman
+title: Woman
+artist-ids:
+- 8cc80bcc-2275-41b7-b2d2-09607a83c1ae
+commissioned-by: Mount Sinai Hospital
+date-precision: year
+location:
+  latitude: 43.657476
+  longitude: -79.3903925
+  precision: 50.0
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

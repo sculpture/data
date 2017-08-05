@@ -1,0 +1,16 @@
+id: 05b722bd-7806-4323-a41e-ea88b876137b
+type: sculpture
+slug: shlosha
+title: Shlosha
+artist-ids:
+- f01c816e-53e3-4023-85a5-21c300a9b6b3
+date: 1972-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.499210319341685
+  longitude: -73.5805412894104
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

@@ -1,0 +1,15 @@
+id: 2e78f837-712d-4bda-b6d0-1291f2c47155
+type: sculpture
+slug: relief
+title: Relief
+artist-ids:
+- 061eec68-e391-48ac-971f-010df515fc34
+date-precision: year
+location:
+  latitude: 43.64602545728007
+  longitude: -79.37994162003788
+  precision: 48.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

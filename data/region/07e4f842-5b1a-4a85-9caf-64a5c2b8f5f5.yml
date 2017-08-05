@@ -1,0 +1,7 @@
+id: 07e4f842-5b1a-4a85-9caf-64a5c2b8f5f5
+type: region
+slug: hospital-for-sick-children
+name: Hospital for Sick Children
+geojson: '{"type":"Polygon","coordinates":[[[-79.3888,43.65747],[-79.38663,43.65799],[-79.38607,43.65723],[-79.38826,43.6566],[-79.3888,43.65747]]]}'
+tag-ids:
+- 06d088ca-1894-44c9-9e2a-e0491945abe0

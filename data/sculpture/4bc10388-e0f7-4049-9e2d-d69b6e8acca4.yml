@@ -1,0 +1,16 @@
+id: 4bc10388-e0f7-4049-9e2d-d69b6e8acca4
+type: sculpture
+slug: james-pliny-whitney
+title: James Pliny Whitney
+artist-ids:
+- 010683af-d9eb-46b9-9cdb-f1e541a455ad
+commissioned-by: The Government of Ontario
+date: 1927-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6631673
+  longitude: -79.39323929999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

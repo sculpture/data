@@ -1,0 +1,15 @@
+id: 190c7e6f-9d18-4c15-bb86-8f1bdbe2ac11
+type: sculpture
+slug: the-northern-bull-moose
+title: The Northern Bull Moose
+artist-ids:
+- 29ff19fe-35db-450f-924c-6be5790aa4fd
+date: 1992-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.72652966512924
+  longitude: -79.34332893096618
+  precision: 50.0
+material-ids:
+- 074ac694-e3fe-4f1a-80d5-862a26cc5451
+tag-ids: []

@@ -1,0 +1,16 @@
+id: 5ebb051a-6899-4719-80a3-7063dfb54487
+type: sculpture
+slug: wins-losses-ties
+title: Wins Losses Ties
+artist-ids:
+- 4a20cb7d-b810-41fa-9bf0-4f40f677b43d
+date: 1999-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6435165
+  longitude: -79.37910699999999
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

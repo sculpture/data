@@ -1,0 +1,7 @@
+id: 20caadc0-8c62-413e-87b7-648d746c1610
+type: region
+slug: scott-religious-centre
+name: Scott Religious Centre
+geojson: '{"type":"Polygon","coordinates":[[[-79.50488,43.77251],[-79.5045,43.7726],[-79.50438,43.77231],[-79.50476,43.77223],[-79.50488,43.77251]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

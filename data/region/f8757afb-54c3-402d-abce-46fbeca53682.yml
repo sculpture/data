@@ -1,0 +1,7 @@
+id: f8757afb-54c3-402d-abce-46fbeca53682
+type: region
+slug: ottawa-art-gallery
+name: Ottawa Art Gallery
+geojson: '{"type":"Point","coordinates":[-75.6879258155823,45.4254284997947]}'
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78

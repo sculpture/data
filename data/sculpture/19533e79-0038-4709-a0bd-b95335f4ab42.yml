@@ -1,0 +1,15 @@
+id: 19533e79-0038-4709-a0bd-b95335f4ab42
+type: sculpture
+slug: passerelle-et-portance
+title: Passerelle et Portance
+artist-ids:
+- 2b8154b2-b0cb-4a07-b41a-de6fe9e32158
+date: 2006-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6515077
+  longitude: -79.3627332
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

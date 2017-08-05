@@ -1,0 +1,17 @@
+id: 49dfaf09-ba81-48e5-b37c-49991ba12841
+type: sculpture
+slug: monument-to-heroes-of-warsaw-ghetto
+title: Monument to Heroes of Warsaw Ghetto
+artist-ids:
+- c711d03f-3c67-4c68-8a10-206cf00646c5
+date: 1948-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 52.2502507
+  longitude: 20.9953916
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

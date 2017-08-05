@@ -1,0 +1,7 @@
+id: c5afae41-785f-432e-ac05-37df3a0034f8
+type: region
+slug: centenary-hospital
+name: Centenary Hospital
+geojson: '{"type":"Polygon","coordinates":[[[-79.20686,43.78199],[-79.20504,43.78243],[-79.20332,43.77885],[-79.20547,43.77866],[-79.20686,43.78199]]]}'
+tag-ids:
+- 06d088ca-1894-44c9-9e2a-e0491945abe0

@@ -1,0 +1,15 @@
+id: 533c7089-7540-4f89-8b44-e77276c152c7
+type: sculpture
+slug: the-treasures-of-queen-carlotta
+title: The Treasures of Queen Carlotta
+artist-ids:
+- 0a78f80e-d5f3-4602-89a5-c48fe9ce5d40
+date: 1993-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.71361539999999
+  longitude: -79.45690689999999
+  precision: 50.0
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids: []

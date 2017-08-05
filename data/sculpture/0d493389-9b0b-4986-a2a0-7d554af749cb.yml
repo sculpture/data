@@ -1,0 +1,15 @@
+id: 0d493389-9b0b-4986-a2a0-7d554af749cb
+type: sculpture
+slug: cold-rolled-series-iv
+title: Cold Rolled Series IV
+artist-ids:
+- cd45b0db-54ae-4ec8-950b-7184929477cf
+date: 1990-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6466594
+  longitude: -79.4033601
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

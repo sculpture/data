@@ -1,0 +1,16 @@
+id: 043dad2f-dfd5-4ecd-946c-69b539016bda
+type: sculpture
+slug: open-sphere
+title: Open Sphere
+artist-ids:
+- a8704892-7f92-470f-a578-89a4dd881991
+date: 2006-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7180569
+  longitude: -79.3741804
+  precision: 50.0
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+tag-ids: []

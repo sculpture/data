@@ -1,0 +1,15 @@
+id: 241953f8-36cc-4905-bfae-9ece2ecb0a0a
+type: sculpture
+slug: stand-by-me
+title: Stand by Me
+artist-ids:
+- 47876e1f-bdb0-489a-a3d1-cc98526218f1
+date: 2004-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.771685
+  longitude: -79.363914
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

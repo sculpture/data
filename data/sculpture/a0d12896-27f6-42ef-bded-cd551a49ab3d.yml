@@ -1,0 +1,15 @@
+id: a0d12896-27f6-42ef-bded-cd551a49ab3d
+type: sculpture
+slug: evolution-unrolling
+title: Evolution Unrolling
+artist-ids:
+- 33de36c4-8ebe-41a5-a212-4d8fcaa938a6
+date: 2006-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6404816
+  longitude: -79.4113576
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

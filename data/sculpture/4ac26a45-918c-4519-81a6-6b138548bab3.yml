@@ -1,0 +1,17 @@
+id: 4ac26a45-918c-4519-81a6-6b138548bab3
+type: sculpture
+slug: three-figures
+title: Three figures
+artist-ids:
+- 807d0c68-2787-43c6-bec0-695ae47d2cf1
+commissioned-by: Midway Gardens
+date: 1914-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6853086
+  longitude: -79.3911148
+  precision: 50.0
+material-ids:
+- 2bbf7631-76ad-44dd-ac61-6d91ac0cedf8
+note: cast made in 1980's
+tag-ids: []

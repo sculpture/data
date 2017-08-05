@@ -1,0 +1,17 @@
+id: 842a33c5-7f13-41bc-a6f1-d8a46ba64fce
+type: sculpture
+slug: megaptera
+title: Megaptera
+artist-ids:
+- 1ae565ae-816c-44a4-8f19-174f75d52586
+commissioned-by: Standard Life Centre
+date: 1993-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.64777549999999
+  longitude: -79.38312429999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

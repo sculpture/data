@@ -1,0 +1,16 @@
+id: c305765f-30ed-425e-ab0a-606a5305500f
+type: sculpture
+slug: chalalim
+title: Chalalim
+artist-ids:
+- ae6842c8-b072-4c63-a5f8-33ba12969577
+commissioned-by: Lodzer Centre
+date: 1982-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7572565
+  longitude: -79.4401105
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

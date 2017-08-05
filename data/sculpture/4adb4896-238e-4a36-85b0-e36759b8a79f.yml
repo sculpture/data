@@ -1,0 +1,16 @@
+id: 4adb4896-238e-4a36-85b0-e36759b8a79f
+type: sculpture
+slug: tree-of-life
+title: Tree of Life
+artist-ids:
+- dda91122-e092-4076-ab8d-22231463ab03
+commissioned-by: Jewish Community Centre
+date: 1990-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7613780492126
+  longitude: -79.44166617196657
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []

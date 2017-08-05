@@ -1,0 +1,16 @@
+id: 6ef06a5d-f70d-40e4-85b7-2c4f91204341
+type: sculpture
+slug: lineal-order
+title: Lineal Order
+artist-ids:
+- f0369579-7a1c-464a-84c6-d4574d6cebe0
+commissioned-by: Symphony Place Condominium
+date: 1989-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6467464
+  longitude: -79.3855919
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

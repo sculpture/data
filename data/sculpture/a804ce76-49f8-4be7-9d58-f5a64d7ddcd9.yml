@@ -1,0 +1,15 @@
+id: a804ce76-49f8-4be7-9d58-f5a64d7ddcd9
+type: sculpture
+slug: florence-wyle
+title: Florence Wyle
+artist-ids:
+- 339eed06-1891-429d-bbd7-16d68b860892
+date: 1914-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.690365
+  longitude: -79.383315
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

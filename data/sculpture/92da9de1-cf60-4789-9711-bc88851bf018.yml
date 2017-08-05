@@ -1,0 +1,16 @@
+id: 92da9de1-cf60-4789-9711-bc88851bf018
+type: sculpture
+slug: millenium-mast
+title: Millenium Mast
+artist-ids:
+- daa3739f-f25b-4e27-a19d-689c6f3740ac
+date: 2000-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.8123999
+  longitude: -79.07827499999999
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

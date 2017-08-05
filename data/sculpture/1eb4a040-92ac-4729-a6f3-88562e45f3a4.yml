@@ -1,0 +1,15 @@
+id: 1eb4a040-92ac-4729-a6f3-88562e45f3a4
+type: sculpture
+slug: dream-work-of-the-whales
+title: Dream Work of the Whales
+artist-ids:
+- 3382cbd9-684f-4d9f-aaaf-ad670b2aa798
+date: 1977-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6386533
+  longitude: -79.3877998
+  precision: 50.0
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids: []

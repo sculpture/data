@@ -1,0 +1,16 @@
+id: 0ae91ef7-6e3d-41a3-bfa0-de3620e48aaf
+type: sculpture
+slug: three-disks
+title: Three Disks
+artist-ids:
+- 8c71686e-4f0d-4b07-ad95-87b04c4ed958
+commissioned-by: International Sculpture Symposium
+date: 1967-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.64654789999999
+  longitude: -79.4636903
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

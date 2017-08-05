@@ -1,0 +1,16 @@
+id: b612c9cb-bf30-496c-bc6d-7c6d34bd93c3
+type: sculpture
+slug: liquid-echo
+title: Liquid Echo
+artist-ids:
+- d4e37a04-c8e7-4c97-8473-106dd551f120
+date: 1999-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6596659
+  longitude: -79.3860289
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []

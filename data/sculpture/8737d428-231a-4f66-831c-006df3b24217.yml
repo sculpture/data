@@ -1,0 +1,15 @@
+id: 8737d428-231a-4f66-831c-006df3b24217
+type: sculpture
+slug: confucius
+title: Confucius
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+date: 1999-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.794655
+  longitude: -79.23492200000001
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

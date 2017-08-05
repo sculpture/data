@@ -1,0 +1,15 @@
+id: b2be05cb-1170-48f1-a33b-0a6fd9e438c9
+type: sculpture
+slug: brock
+title: Brock
+artist-ids:
+- 95aab595-ad7a-4581-8ebd-bcbe6be27384
+date: 1951-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6619556
+  longitude: -79.3928924
+  precision: 50.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []

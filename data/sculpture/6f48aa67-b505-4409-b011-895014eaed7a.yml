@@ -1,0 +1,15 @@
+id: 6f48aa67-b505-4409-b011-895014eaed7a
+type: sculpture
+slug: john-strachan
+title: John Strachan
+artist-ids:
+- f92c8362-deea-4c7e-8ead-409d7f12fb98
+date: 2004-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6651758
+  longitude: -79.39564659999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

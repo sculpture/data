@@ -1,0 +1,16 @@
+id: cab8c2fb-a2e3-4213-9623-6d7004f38a40
+type: sculpture
+slug: sculpture
+title: Sculpture
+artist-ids:
+- 06a0d143-ccaf-49fc-83d5-efe13761164f
+- 242b491c-6894-420a-990c-135e7e3d74f6
+date: 2010-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7791371
+  longitude: -79.4031779
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

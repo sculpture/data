@@ -1,0 +1,15 @@
+id: 06910edb-166b-41ee-9eff-4766e73273c6
+type: sculpture
+slug: the-whole-person
+title: The Whole Person
+artist-ids:
+- 5577272d-d505-4fd5-a801-00ddcccd7184
+date: 1961-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.728721
+  longitude: -79.3765145
+  precision: 50.0
+material-ids:
+- 99b9110f-f812-4ad8-b12d-7e1dd5a071db
+tag-ids: []

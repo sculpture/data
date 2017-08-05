@@ -1,0 +1,15 @@
+id: f1ed19a5-6883-419b-bbff-82ec3e5aae69
+type: sculpture
+slug: ontario-police-memorial
+title: Ontario Police Memorial
+artist-ids:
+- 6ceff7a4-29b6-45a9-9d72-81a931f27c52
+date: 2000-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6631673
+  longitude: -79.39323929999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

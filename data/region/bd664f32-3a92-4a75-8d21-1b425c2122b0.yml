@@ -1,0 +1,7 @@
+id: bd664f32-3a92-4a75-8d21-1b425c2122b0
+type: region
+slug: larkin-building
+name: Larkin Building
+geojson: '{"type":"Polygon","coordinates":[[[-79.3972364,43.6658205],[-79.3966119,43.6658205],[-79.3966119,43.6654832],[-79.3972364,43.6654832],[-79.3972364,43.6658205]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

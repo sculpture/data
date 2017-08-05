@@ -1,0 +1,7 @@
+id: a067e6b3-2a7c-4547-941b-fcd5952d17cc
+type: region
+slug: dempsey-park
+name: Dempsey Park
+geojson: '{"type":"Polygon","coordinates":[[[-79.419077,43.7707654],[-79.4165498,43.7707654],[-79.4165498,43.7693931],[-79.419077,43.7693931],[-79.419077,43.7707654]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d

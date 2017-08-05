@@ -1,0 +1,7 @@
+id: 112e020f-83a2-4e6a-8ef0-e58bd76401df
+type: region
+slug: mississauga-city-hall
+name: Mississauga City Hall
+geojson: '{"type":"Point","coordinates":[-79.63848,43.72351]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215

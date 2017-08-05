@@ -1,0 +1,15 @@
+id: a059e517-20d9-46e1-95fb-1cfbfc686f93
+type: sculpture
+slug: universal-man
+title: Universal Man
+artist-ids:
+- c3033329-4633-4da7-9076-c95d10b09611
+date: 1976-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.72566629144223
+  longitude: -79.4559044770572
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

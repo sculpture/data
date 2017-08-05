@@ -1,0 +1,7 @@
+id: b26c26dc-1cbb-4998-83fa-67454d05f7cf
+type: region
+slug: health-and-environmental-studies
+name: Health and Environmental Studies
+geojson: '{"type":"Polygon","coordinates":[[[-79.505394,43.7716521],[-79.5041134,43.7716521],[-79.5041134,43.7710139],[-79.505394,43.7710139],[-79.505394,43.7716521]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

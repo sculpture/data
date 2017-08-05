@@ -1,0 +1,16 @@
+id: 7f123ccd-ee31-4d67-97d8-674cf9578c00
+type: sculpture
+slug: nutrum-2
+title: Nutrum (2)
+artist-ids:
+- daa3739f-f25b-4e27-a19d-689c6f3740ac
+date: 1979-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.9718789
+  longitude: -79.2480862
+  precision: 82.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

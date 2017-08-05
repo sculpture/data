@@ -1,0 +1,15 @@
+id: 1aa025e3-a6e2-4844-b102-e35532e43bcd
+type: sculpture
+slug: archer-release
+title: Archer Release
+artist-ids:
+- 2a7315ed-c4cf-4c86-81e8-f2baa1ed3d40
+date: 2001-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6751226
+  longitude: -79.3957564
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

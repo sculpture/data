@@ -1,0 +1,15 @@
+id: c7132ac4-4227-4931-9f33-66097ef8e658
+type: sculpture
+slug: icarus
+title: Icarus
+artist-ids:
+- 02738f90-d261-479b-b83a-b19c0a13e591
+date: 1996-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6711923
+  longitude: -79.3933802
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

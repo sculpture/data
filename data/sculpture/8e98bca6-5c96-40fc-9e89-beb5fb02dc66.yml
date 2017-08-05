@@ -1,0 +1,17 @@
+id: 8e98bca6-5c96-40fc-9e89-beb5fb02dc66
+type: sculpture
+slug: anishinabe-scout
+title: Anishinabe Scout
+artist-ids:
+- 010683af-d9eb-46b9-9cdb-f1e541a455ad
+commissioned-by: National Capital
+date: 1918-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.4277708
+  longitude: -75.6983978
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

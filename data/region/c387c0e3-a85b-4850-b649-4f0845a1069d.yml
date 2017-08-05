@@ -1,0 +1,7 @@
+id: c387c0e3-a85b-4850-b649-4f0845a1069d
+type: region
+slug: stedman-lecture-hall
+name: Stedman Lecture Hall
+geojson: '{"type":"Polygon","coordinates":[[[-79.5035835,43.7747269],[-79.5029155,43.7747269],[-79.5029155,43.7741435],[-79.5035835,43.7741435],[-79.5035835,43.7747269]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

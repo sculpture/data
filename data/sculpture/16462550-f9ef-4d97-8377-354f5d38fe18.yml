@@ -1,0 +1,16 @@
+id: 16462550-f9ef-4d97-8377-354f5d38fe18
+type: sculpture
+slug: sight-line
+title: Sight Line
+artist-ids:
+- 03898804-465e-4977-b3c6-5ba8fcecf130
+commissioned-by: University of Toronto
+date: 1984-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.66353595819084
+  longitude: -79.39416233491824
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

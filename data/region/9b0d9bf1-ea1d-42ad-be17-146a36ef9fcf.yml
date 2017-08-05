@@ -1,0 +1,7 @@
+id: 9b0d9bf1-ea1d-42ad-be17-146a36ef9fcf
+type: region
+slug: trinity-college
+name: Trinity College
+geojson: '{"type":"Polygon","coordinates":[[[-79.39642,43.66566],[-79.39546,43.66587],[-79.39503,43.66521],[-79.39597,43.66474],[-79.39642,43.66566]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

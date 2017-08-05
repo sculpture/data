@@ -1,0 +1,16 @@
+id: 693ad2ba-4b08-41e9-b1e6-bd78077a471d
+type: sculpture
+slug: eagle
+title: Eagle
+artist-ids:
+- 3ff3ecb5-4527-4fa4-ad4a-2773cb0397b4
+commissioned-by: College Park
+date: 1983-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6600536
+  longitude: -79.38275469999999
+  precision: 50.0
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids: []

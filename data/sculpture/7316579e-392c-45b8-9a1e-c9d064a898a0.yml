@@ -1,0 +1,16 @@
+id: 7316579e-392c-45b8-9a1e-c9d064a898a0
+type: sculpture
+slug: capriccio
+title: Capriccio
+artist-ids:
+- a791e704-3cf6-4e29-b923-0e8213816522
+commissioned-by: Spencer Clark, The Guild of All Arts
+date: 1962-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.69822072285885
+  longitude: -79.39464593757327
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

@@ -1,0 +1,16 @@
+id: 6313c0c2-5967-47ce-9b1e-b07aa028763b
+type: sculpture
+slug: two-waves
+title: Two Waves
+artist-ids:
+- 9cd4b7de-8dd5-4cfb-a7d9-4bb6063cb81f
+commissioned-by: North American Life Assurance Company
+date: 1988-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7801363
+  longitude: -79.4163043
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

@@ -1,0 +1,7 @@
+id: b08c1ba8-9313-45c8-a607-8b39351a06fe
+type: region
+slug: upper-beaches
+name: Upper Beaches
+geojson: '{"type":"Polygon","coordinates":[[[-79.3217181,43.6893279],[-79.284063,43.6893279],[-79.284063,43.6662575],[-79.3217181,43.6662575],[-79.3217181,43.6893279]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25

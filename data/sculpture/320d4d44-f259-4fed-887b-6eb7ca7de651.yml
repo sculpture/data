@@ -1,0 +1,16 @@
+id: 320d4d44-f259-4fed-887b-6eb7ca7de651
+type: sculpture
+slug: tritons
+title: Tritons
+artist-ids:
+- c3374a2c-b7d4-465c-839d-a3da3ef84ca5
+commissioned-by: Trizec Corp.
+date: 1964-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.725849369858565
+  longitude: -79.4521068359375
+  precision: 100.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

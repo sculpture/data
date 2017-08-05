@@ -1,0 +1,7 @@
+id: 0f6cdc20-475b-4e3b-ac8d-23d0d03705b2
+type: region
+slug: grimsby
+name: Grimsby
+geojson: '{"type":"Polygon","coordinates":[[[-79.649672,43.2267231],[-79.5119739,43.2267231],[-79.5119739,43.132606],[-79.649672,43.132606],[-79.649672,43.2267231]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc

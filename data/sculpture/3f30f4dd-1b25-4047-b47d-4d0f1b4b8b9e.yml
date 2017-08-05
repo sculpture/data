@@ -1,0 +1,16 @@
+id: 3f30f4dd-1b25-4047-b47d-4d0f1b4b8b9e
+type: sculpture
+slug: joy-of-life-1
+title: Joy of Life (1)
+artist-ids:
+- ab263bc0-6a20-4e7d-a2ce-948da0fd9977
+commissioned-by: Gift of artist
+date: 1983-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.639625
+  longitude: -79.450323
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

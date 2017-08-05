@@ -1,0 +1,16 @@
+id: 5b1992c2-f3e9-4019-b57d-a942fafd5441
+type: sculpture
+slug: as-meninas-la-porte
+title: As Meninas la Porte
+artist-ids:
+- 573f7f08-8910-4a77-ba6e-9cc693e415d8
+commissioned-by: International Stone Sculpture Symposium
+date: 2005-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.635959733811475
+  longitude: -79.41263038246463
+  precision: 65.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []

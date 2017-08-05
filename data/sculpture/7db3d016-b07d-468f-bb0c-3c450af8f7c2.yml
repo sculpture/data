@@ -1,0 +1,18 @@
+id: 7db3d016-b07d-468f-bb0c-3c450af8f7c2
+type: sculpture
+slug: parent-i
+title: Parent I
+artist-ids:
+- 3a4702d2-d46e-4c0a-8c65-590a5b788eea
+commissioned-by: Sun Life Assurance
+date: 1970-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.70102660000001
+  longitude: -79.52084099999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288

@@ -1,0 +1,16 @@
+id: 1a79a38b-99fb-49f5-9ceb-ac500ec1dab1
+type: sculpture
+slug: garden-of-the-greek-gods---sphinx
+title: Garden of the Greek Gods - Sphinx
+artist-ids:
+- 56d243ae-7954-4107-b7fa-6290ac7cb48f
+commissioned-by: Exhibition Place
+date: 1979-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.63378260767256
+  longitude: -79.4197450741272
+  precision: 64.0
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids: []

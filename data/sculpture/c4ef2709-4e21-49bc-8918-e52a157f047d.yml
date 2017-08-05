@@ -1,0 +1,16 @@
+id: c4ef2709-4e21-49bc-8918-e52a157f047d
+type: sculpture
+slug: dr-sun-yat-sen
+title: Dr. Sun Yat-Sen
+artist-ids:
+- 5d0bca76-d87b-4b7e-a72c-c3d99660bf20
+commissioned-by: Chinese Canadian Commission
+date: 1984-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6728808
+  longitude: -79.3557361
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

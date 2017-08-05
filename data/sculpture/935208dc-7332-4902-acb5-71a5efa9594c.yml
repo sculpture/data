@@ -1,0 +1,17 @@
+id: 935208dc-7332-4902-acb5-71a5efa9594c
+type: sculpture
+slug: objective-memory
+title: Objective Memory
+artist-ids:
+- d4e37a04-c8e7-4c97-8473-106dd551f120
+date: 1994-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.4384203
+  longitude: -75.6965496
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

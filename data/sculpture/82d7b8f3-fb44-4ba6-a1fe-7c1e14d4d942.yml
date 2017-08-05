@@ -1,0 +1,16 @@
+id: 82d7b8f3-fb44-4ba6-a1fe-7c1e14d4d942
+type: sculpture
+slug: field-study
+title: Field Study
+artist-ids:
+- 2801d4dc-c2f5-45e4-8e6a-cffa7d2079c5
+- f38a366e-21c4-4c50-9e8d-12010e7a448a
+date: 2006-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7180569
+  longitude: -79.3741804
+  precision: 50.0
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids: []

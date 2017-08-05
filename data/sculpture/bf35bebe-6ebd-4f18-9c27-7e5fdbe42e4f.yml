@@ -1,0 +1,15 @@
+id: bf35bebe-6ebd-4f18-9c27-7e5fdbe42e4f
+type: sculpture
+slug: flamingo
+title: Flamingo
+artist-ids:
+- 620e37ba-c0dd-4919-b8e0-e94e5a7fadb7
+date: 1998-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.70684514788564
+  longitude: -79.3985968201294
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

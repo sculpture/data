@@ -1,0 +1,16 @@
+id: d08f3050-b553-4e1e-bc03-8880ba7e350c
+type: sculpture
+slug: memorial-to-val-chende
+title: Memorial to Val Chende
+artist-ids:
+- 9e5733cc-b4d4-4c10-82c0-d3ab5d04a0d0
+commissioned-by: Greenwin Developments
+date: 1972-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.69867725941542
+  longitude: -79.39236993439332
+  precision: 50.0
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids: []

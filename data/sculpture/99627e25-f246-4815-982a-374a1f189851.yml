@@ -1,0 +1,15 @@
+id: 99627e25-f246-4815-982a-374a1f189851
+type: sculpture
+slug: don-mills-montage
+title: Don Mills Montage
+artist-ids:
+- 660b42be-fe7f-4347-ab48-57144c22e6b7
+date: 1962-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.734777
+  longitude: -79.3446864
+  precision: 50.0
+material-ids: []
+note: (fot.2002)
+tag-ids: []

@@ -1,0 +1,16 @@
+id: 669f8bdd-e554-4ad7-9807-400cee0a2d20
+type: sculpture
+slug: light-containers
+title: Light Containers
+artist-ids:
+- 3d773fc8-a238-4aa8-aa03-bc4f87c9d993
+commissioned-by: Malibu
+date: 2013-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.73450305639729
+  longitude: -79.44647570000001
+  precision: 27.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

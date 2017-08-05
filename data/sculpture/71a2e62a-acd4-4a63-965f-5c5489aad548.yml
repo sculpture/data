@@ -1,0 +1,17 @@
+id: 71a2e62a-acd4-4a63-965f-5c5489aad548
+type: sculpture
+slug: war-memorial-1914-1919
+title: War Memorial 1914-1919
+artist-ids:
+- 8ec33c59-ca3d-47fb-bf62-7e4e3059bd01
+date: 1921-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6612981
+  longitude: -79.4142698
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: World War I Memorial
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753

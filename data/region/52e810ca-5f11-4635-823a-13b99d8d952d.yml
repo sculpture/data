@@ -1,0 +1,7 @@
+id: 52e810ca-5f11-4635-823a-13b99d8d952d
+type: region
+slug: vishnu-mandir
+name: Vishnu Mandir
+geojson: '{"type":"Polygon","coordinates":[[[-79.43083,43.83788],[-79.43054,43.8381],[-79.42995,43.83809],[-79.43055,43.83772],[-79.43083,43.83788]]]}'
+tag-ids:
+- 8de551a5-8ce4-4bb6-9459-29f636a51134

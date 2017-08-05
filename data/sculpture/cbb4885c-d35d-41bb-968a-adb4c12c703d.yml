@@ -1,0 +1,16 @@
+id: cbb4885c-d35d-41bb-968a-adb4c12c703d
+type: sculpture
+slug: untitled
+title: Untitled
+artist-ids:
+- 002417af-f23d-4e54-ad58-b0f3e0085ad8
+commissioned-by: St. Michael's College
+date: 1973-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.666273
+  longitude: -79.389718
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

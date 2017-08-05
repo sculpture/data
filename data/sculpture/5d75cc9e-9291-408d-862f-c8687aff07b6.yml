@@ -1,0 +1,16 @@
+id: 5d75cc9e-9291-408d-862f-c8687aff07b6
+type: sculpture
+slug: oscars-corner
+title: Oscar's Corner
+artist-ids:
+- 9b34a8b7-35f0-4c56-95c0-344829c668db
+date: 2010-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.422901733124874
+  longitude: -75.69414603386842
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

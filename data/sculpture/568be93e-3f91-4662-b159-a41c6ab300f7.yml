@@ -1,0 +1,15 @@
+id: 568be93e-3f91-4662-b159-a41c6ab300f7
+type: sculpture
+slug: distant-bridge
+title: Distant Bridge
+artist-ids:
+- 1b4620b2-1423-43af-afe4-31c5e10bcd8a
+date: 2010-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7808668
+  longitude: -79.40534869999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

@@ -1,0 +1,7 @@
+id: 617a089c-430f-4680-aef6-c995862fc379
+type: region
+slug: queens-university
+name: Queen's University
+geojson: '{"type":"Polygon","coordinates":[[[-76.51742,44.22911],[-76.51741,44.23065],[-76.51458,44.23048],[-76.51314,44.22359],[-76.51699,44.22432],[-76.51742,44.22911]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

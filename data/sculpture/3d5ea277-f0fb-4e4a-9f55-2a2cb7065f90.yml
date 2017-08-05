@@ -1,0 +1,18 @@
+id: 3d5ea277-f0fb-4e4a-9f55-2a2cb7065f90
+type: sculpture
+slug: south-african-war-memorial
+title: South African War Memorial
+artist-ids:
+- 010683af-d9eb-46b9-9cdb-f1e541a455ad
+commissioned-by: National Capital
+date: 1902-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.4178901
+  longitude: -75.6903711
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

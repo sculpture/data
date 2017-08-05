@@ -1,0 +1,7 @@
+id: 2933bcaa-7728-4e4d-b1e0-20268f2e23b8
+type: region
+slug: toronto-city-hall
+name: Toronto City Hall
+geojson: '{"type":"Polygon","coordinates":[[[-79.38484,43.65385],[-79.38349,43.65415],[-79.38304,43.65299],[-79.3845,43.653],[-79.38484,43.65385]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215

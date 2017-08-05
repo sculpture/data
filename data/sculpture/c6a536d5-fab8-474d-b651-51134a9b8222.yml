@@ -1,0 +1,16 @@
+id: c6a536d5-fab8-474d-b651-51134a9b8222
+type: sculpture
+slug: flow-blue-1
+title: Flow Blue (1)
+artist-ids:
+- 67bd08d2-7003-4396-9e5e-675adb4548fc
+commissioned-by: Edilcan Development
+date: 2008-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6609868
+  longitude: -79.3803061
+  precision: 50.0
+material-ids:
+- 56560105-70a1-4867-aaea-6d76d31576c0
+tag-ids: []

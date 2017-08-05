@@ -1,0 +1,15 @@
+id: bc1fea57-1332-4c0e-83aa-f0e14e71016b
+type: sculpture
+slug: bird-house-sculpture
+title: Bird House Sculpture
+artist-ids:
+- 149c8e54-ca38-49bc-b656-11063b34ad37
+date: 1999-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.637546
+  longitude: -79.3916795
+  precision: 50.0
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids: []

@@ -1,0 +1,15 @@
+id: 845f62dc-2b0b-4438-8d49-556761765131
+type: sculpture
+slug: full-circle
+title: Full Circle
+artist-ids:
+- 675db366-766b-4f95-98f3-bf82c80d5471
+date: 2002-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6519145
+  longitude: -79.3797883
+  precision: 50.0
+material-ids:
+- 2aa408c8-4b60-4a40-a151-67661b57b97b
+tag-ids: []

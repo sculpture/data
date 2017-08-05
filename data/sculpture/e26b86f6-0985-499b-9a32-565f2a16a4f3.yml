@@ -1,0 +1,16 @@
+id: e26b86f6-0985-499b-9a32-565f2a16a4f3
+type: sculpture
+slug: elevated-wetlands
+title: Elevated Wetlands
+artist-ids:
+- 2c8a8669-9d4a-4ce5-8da6-20ef89c38145
+commissioned-by: City of Toronto & Plastic Industry Assoc.
+date: 1998-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7518156
+  longitude: -79.3339065
+  precision: 50.0
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+tag-ids: []

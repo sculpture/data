@@ -1,0 +1,17 @@
+id: a7221940-b297-4ed3-bb48-d72061aaab78
+type: sculpture
+slug: untitled-groombridge
+title: Untitled
+artist-ids:
+- 102bc94e-4e27-43f7-90cd-848497f69dbf
+commissioned-by: York University
+date: 1990-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.77209329999999
+  longitude: -79.50211139999999
+  precision: 50.0
+material-ids:
+- 90961d65-c887-44b3-9153-7364b69806bc
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

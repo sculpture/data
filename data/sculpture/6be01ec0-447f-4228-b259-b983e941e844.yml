@@ -1,0 +1,15 @@
+id: 6be01ec0-447f-4228-b259-b983e941e844
+type: sculpture
+slug: businessman-on-a-horse
+title: Businessman on a Horse
+artist-ids:
+- 002417af-f23d-4e54-ad58-b0f3e0085ad8
+date: 1989-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6663791
+  longitude: -79.3890095
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

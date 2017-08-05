@@ -1,0 +1,7 @@
+id: d64dc267-94fe-4409-b533-e1cd75c4c030
+type: region
+slug: ontario-place
+name: Ontario Place
+geojson: '{"type":"Polygon","coordinates":[[[-79.4109216,43.6323698],[-79.4101953,43.6323698],[-79.4101953,43.6281567],[-79.4109216,43.6281567],[-79.4109216,43.6323698]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25

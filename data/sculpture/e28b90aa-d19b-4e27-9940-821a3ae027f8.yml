@@ -1,0 +1,16 @@
+id: e28b90aa-d19b-4e27-9940-821a3ae027f8
+type: sculpture
+slug: crucified-woman
+title: Crucified Woman
+artist-ids:
+- 00e97f17-71dc-4ad2-b660-855ae823bc24
+commissioned-by: Victoria College
+date: 1976-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6669181
+  longitude: -79.3920725
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

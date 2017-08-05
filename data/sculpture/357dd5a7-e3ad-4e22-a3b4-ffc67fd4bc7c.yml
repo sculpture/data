@@ -1,0 +1,19 @@
+id: 357dd5a7-e3ad-4e22-a3b4-ffc67fd4bc7c
+type: sculpture
+slug: no-shoes
+title: No Shoes
+artist-ids:
+- bd9de07c-dcbb-4c62-9d26-d63b6736a547
+commissioned-by: International Sculpture Symposium
+date: 1967-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.64654789999999
+  longitude: -79.4636903
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- b2394a4f-8f94-4b9e-9156-fdbdec170b61
+note: (fot.2002) Sculpture not anymore at this location
+tag-ids: []

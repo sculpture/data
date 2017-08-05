@@ -1,0 +1,15 @@
+id: 1761fbb3-44e3-4548-bf02-a01b9b143645
+type: sculpture
+slug: cloud-series---cumulonimbus
+title: Cloud Series - Cumulonimbus
+artist-ids:
+- 80dc19fd-a016-44f5-8421-4dc072fea9bc
+date: 2008-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6446638
+  longitude: -79.41698610000002
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

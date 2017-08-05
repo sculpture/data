@@ -1,0 +1,16 @@
+id: a5271675-3838-414c-bfd9-79e20402e0c9
+type: sculpture
+slug: pirouette
+title: Pirouette
+artist-ids:
+- 5252a932-e93e-43d8-bc34-44eebcd9961c
+date: 2000-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7305734
+  longitude: -79.43365399999999
+  precision: 50.0
+material-ids:
+- 115dfe3c-9ec2-411f-a061-dd12dcd5c2aa
+note: (fot.2002) Sculpture not anymore at this location
+tag-ids: []

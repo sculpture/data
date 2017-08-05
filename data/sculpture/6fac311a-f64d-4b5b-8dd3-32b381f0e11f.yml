@@ -1,0 +1,16 @@
+id: 6fac311a-f64d-4b5b-8dd3-32b381f0e11f
+type: sculpture
+slug: event-horizon
+title: Event Horizon
+artist-ids:
+- 42313942-4cca-4594-a834-c9079367626f
+date: 1991-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 46.7989705
+  longitude: -71.22455099999999
+  precision: 50.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

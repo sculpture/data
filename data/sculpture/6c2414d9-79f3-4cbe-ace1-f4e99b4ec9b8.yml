@@ -1,0 +1,15 @@
+id: 6c2414d9-79f3-4cbe-ace1-f4e99b4ec9b8
+type: sculpture
+slug: shift
+title: Shift
+artist-ids:
+- f38a366e-21c4-4c50-9e8d-12010e7a448a
+date: 2008-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6681175
+  longitude: -79.3903945
+  precision: 50.0
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids: []

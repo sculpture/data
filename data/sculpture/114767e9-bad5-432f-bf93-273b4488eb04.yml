@@ -1,0 +1,17 @@
+id: 114767e9-bad5-432f-bf93-273b4488eb04
+type: sculpture
+slug: maiden-with-an-urn
+title: Maiden with an Urn
+artist-ids:
+- 22d8f15a-fa97-4ac3-9c5b-7ef55ff5fd46
+commissioned-by: gift of J.D.Carrier
+date: 1935-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.71313459834226
+  longitude: -79.45652066190186
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

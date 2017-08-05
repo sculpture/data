@@ -1,0 +1,15 @@
+id: 2a83a91b-815f-4688-83c9-bac1f55b1ede
+type: sculpture
+slug: still-dancing
+title: Still Dancing
+artist-ids:
+- c9698bb5-bf2d-43fd-9a6c-0dc861f8e00a
+date: 2009-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6515077
+  longitude: -79.3627332
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

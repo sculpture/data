@@ -1,0 +1,16 @@
+id: 5c9a7f32-fccc-4a40-b7a5-81bd84ea7c43
+type: sculpture
+slug: reclining-figure
+title: Reclining Figure
+artist-ids:
+- e9d6589a-6942-4c61-a3f5-bbe2783b751d
+commissioned-by: Imperial Life Assurance
+date: 1967-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.68695811569755
+  longitude: -79.39839968836061
+  precision: 15.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

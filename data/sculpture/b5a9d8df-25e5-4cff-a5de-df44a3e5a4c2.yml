@@ -1,0 +1,15 @@
+id: b5a9d8df-25e5-4cff-a5de-df44a3e5a4c2
+type: sculpture
+slug: double-vision
+title: Double Vision
+artist-ids:
+- 065b7dff-8280-40d5-877a-f5d5cc6c9277
+date: 2010-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.670186542554035
+  longitude: -79.38008742648931
+  precision: 50.0
+material-ids:
+- d5e04d12-19d1-4983-86c9-8ef02568d71c
+tag-ids: []

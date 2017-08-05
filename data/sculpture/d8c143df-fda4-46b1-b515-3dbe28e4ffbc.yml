@@ -1,0 +1,16 @@
+id: d8c143df-fda4-46b1-b515-3dbe28e4ffbc
+type: sculpture
+slug: bursa
+title: Bursa
+artist-ids:
+- ef6b5179-6f6f-44cd-ad13-f7ef324d7533
+commissioned-by: Etobicoke public art competition
+date: 1996-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.613417082154754
+  longitude: -79.48733766494782
+  precision: 178.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

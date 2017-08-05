@@ -1,0 +1,17 @@
+id: b741c5e3-65c9-47e2-8692-f6a80e83329b
+type: sculpture
+slug: canadian-volunteer-monument
+title: Canadian Volunteer Monument
+artist-ids:
+- b0bfac0e-cd24-42d9-8188-1c6ac4e3d110
+date: 1870-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6631673
+  longitude: -79.39323929999999
+  precision: 50.0
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753

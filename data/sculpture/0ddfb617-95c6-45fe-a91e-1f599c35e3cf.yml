@@ -1,0 +1,18 @@
+id: 0ddfb617-95c6-45fe-a91e-1f599c35e3cf
+type: sculpture
+slug: unknown-student
+title: Unknown Student
+artist-ids:
+- 0aa79b82-dddb-405c-a282-16657c83290f
+- e5849959-0295-47de-b951-3cc024ed7689
+commissioned-by: Rochdale College
+date: 1969-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.66700217394661
+  longitude: -79.40125487857374
+  precision: 27.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: Student's group work
+tag-ids: []

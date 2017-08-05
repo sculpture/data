@@ -1,0 +1,17 @@
+id: bff49877-2af2-4061-a540-f0b8f3aff1b7
+type: sculpture
+slug: hammersons-bravo
+title: Hammerson's Bravo
+artist-ids:
+- 002eabd4-132c-4826-a5c7-db88ce65416e
+commissioned-by: Hammerson Canada Inc
+date: 1984-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6444529
+  longitude: -79.3931267
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

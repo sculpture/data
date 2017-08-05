@@ -1,0 +1,15 @@
+id: ac3e7004-6a18-4dfb-92ec-b973c9c90653
+type: sculpture
+slug: places-in-a-book-oak
+title: Places in a Book (Oak)
+artist-ids:
+- 2301ceb4-2383-4bbd-8cdb-c0ea6d235205
+date: 1997-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6626166
+  longitude: -79.4020239
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

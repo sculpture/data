@@ -1,0 +1,14 @@
+id: d22212e7-3055-4074-a610-2729fafe8221
+type: sculpture
+slug: canada-geese
+title: Canada Geese
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+date-precision: year
+location:
+  latitude: 43.6370607
+  longitude: -79.3967212
+  precision: 50.0
+material-ids:
+- 95dd1d0e-80ef-42c4-b3ff-452059564a66
+tag-ids: []

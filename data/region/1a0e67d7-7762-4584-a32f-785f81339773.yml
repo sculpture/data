@@ -1,0 +1,7 @@
+id: 1a0e67d7-7762-4584-a32f-785f81339773
+type: region
+slug: mississauga-central-library
+name: Mississauga Central Library
+geojson: '{"type":"Polygon","coordinates":[[[-79.6441,43.58766],[-79.6437,43.58799],[-79.64287,43.58765],[-79.64324,43.58717],[-79.6441,43.58766]]]}'
+tag-ids:
+- ef6d25e7-396f-479d-adb5-4bca77066e4a

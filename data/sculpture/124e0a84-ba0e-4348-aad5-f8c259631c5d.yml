@@ -1,0 +1,16 @@
+id: 124e0a84-ba0e-4348-aad5-f8c259631c5d
+type: sculpture
+slug: the-last-supper
+title: The Last Supper
+artist-ids:
+- 00e97f17-71dc-4ad2-b660-855ae823bc24
+date: 1976-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6673881
+  longitude: -79.40186779999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

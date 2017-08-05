@@ -1,0 +1,17 @@
+id: 802a1cda-1db8-4f80-9d20-a5fe7e277abf
+type: sculpture
+slug: conflict---korean-war-memorial
+title: Conflict - Korean War Memorial
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+date: 1997-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.642551
+  longitude: -79.746292
+  precision: 50.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

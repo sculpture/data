@@ -1,0 +1,16 @@
+id: 82c7443f-b619-4a1c-b7bf-667610a87f7f
+type: sculpture
+slug: mary-pickford
+title: Mary Pickford
+artist-ids:
+- 435b1d36-1eb7-45bf-9281-3c4d6ca8ed39
+commissioned-by: Mary Pickford Foundation
+date: 1982-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.65517282696004
+  longitude: -79.38823764319474
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

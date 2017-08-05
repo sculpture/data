@@ -1,0 +1,16 @@
+id: 4f1b8939-7074-47a7-ae95-aede3a08eb57
+type: sculpture
+slug: counterpoint
+title: Counterpoint
+artist-ids:
+- d534f5aa-828c-4b2f-8757-9aeafc9bf966
+commissioned-by: JDS Investments
+date: 1971-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7328262
+  longitude: -79.3459192
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

@@ -1,0 +1,16 @@
+id: 9818aaa9-054c-45f1-a369-46a2405f2f34
+type: sculpture
+slug: channel
+title: Channel
+artist-ids:
+- c14ea17c-4379-4394-8db2-6b414734f230
+date: 2004-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.4611744
+  longitude: -79.6477544
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

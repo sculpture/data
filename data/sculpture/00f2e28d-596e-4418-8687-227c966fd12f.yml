@@ -1,0 +1,16 @@
+id: 00f2e28d-596e-4418-8687-227c966fd12f
+type: sculpture
+slug: meet
+title: Meet
+artist-ids:
+- f01c816e-53e3-4023-85a5-21c300a9b6b3
+commissioned-by: JDS Investments
+date: 1970-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.76659950000001
+  longitude: -79.4752554
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

@@ -1,0 +1,18 @@
+id: bbac47a0-ef25-42c1-8239-97419ec10dd8
+type: sculpture
+slug: war-of-1812-memorial
+title: War of 1812 Memorial
+artist-ids:
+- 5f5e73b4-75e3-41bb-b698-1b7ab285d8b1
+commissioned-by: British Army and Navy Veterans
+date: 1906-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.644557
+  longitude: -79.400066
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753

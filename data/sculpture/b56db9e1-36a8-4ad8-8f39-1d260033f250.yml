@@ -1,0 +1,18 @@
+id: b56db9e1-36a8-4ad8-8f39-1d260033f250
+type: sculpture
+slug: landing-sculpture
+title: Landing Sculpture
+artist-ids:
+- 1c52840f-76a6-4fc0-bfee-e30c97c5313d
+commissioned-by: Greenwin Developments
+date: 1970-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6984224
+  longitude: -79.39370180000002
+  precision: 50.0
+material-ids:
+- 02f666a5-a96a-466a-9a4a-3ff26ba1bad5
+- 7120103a-c9bf-4cdd-be3d-f36c257b9751
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288

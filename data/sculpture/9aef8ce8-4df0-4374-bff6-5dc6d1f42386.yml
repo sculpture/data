@@ -1,0 +1,15 @@
+id: 9aef8ce8-4df0-4374-bff6-5dc6d1f42386
+type: sculpture
+slug: ode-to-the-sun
+title: Ode to the Sun
+artist-ids:
+- ad57fc05-e0a1-4e36-91df-651cabd37721
+date: 1994-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.77339361611487
+  longitude: -79.25695013914797
+  precision: 123.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

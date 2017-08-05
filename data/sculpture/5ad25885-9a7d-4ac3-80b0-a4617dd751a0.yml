@@ -1,0 +1,16 @@
+id: 5ad25885-9a7d-4ac3-80b0-a4617dd751a0
+type: sculpture
+slug: bear
+title: Bear
+artist-ids:
+- 3ff3ecb5-4527-4fa4-ad4a-2773cb0397b4
+commissioned-by: College Park
+date: 1983-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6600536
+  longitude: -79.38275469999999
+  precision: 50.0
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids: []

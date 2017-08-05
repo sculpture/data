@@ -1,0 +1,16 @@
+id: e858b790-94c4-4e44-908b-cd3f47f77cd3
+type: sculpture
+slug: cameo-field
+title: Cameo Field
+artist-ids:
+- 2301ceb4-2383-4bbd-8cdb-c0ea6d235205
+date: 2004-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.76367160595845
+  longitude: -79.44220261376958
+  precision: 96.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57

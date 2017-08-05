@@ -1,0 +1,7 @@
+id: a1c52fc3-1761-4004-a716-896953dbaf30
+type: region
+slug: theological-hall
+name: Theological Hall
+geojson: '{"type":"Polygon","coordinates":[[[-76.4939301,44.2258458],[-76.4932453,44.2258458],[-76.4932453,44.2255248],[-76.4939301,44.2255248],[-76.4939301,44.2258458]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

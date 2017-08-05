@@ -1,0 +1,15 @@
+id: b0b3f29d-ac2f-4a59-975c-003928f8f14f
+type: sculpture
+slug: triangle-1
+title: Triangle 1
+artist-ids:
+- bf959509-958a-4b61-8f77-b4bb2f02403c
+date: 1975-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.77209329999999
+  longitude: -79.50211139999999
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

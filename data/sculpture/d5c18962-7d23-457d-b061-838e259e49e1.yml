@@ -1,0 +1,16 @@
+id: d5c18962-7d23-457d-b061-838e259e49e1
+type: sculpture
+slug: cubro
+title: Cubro
+artist-ids:
+- f01c816e-53e3-4023-85a5-21c300a9b6b3
+date: 1974-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6711923
+  longitude: -79.3933802
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+note: (fot.2003 at old location 288 Sherbourne St.)
+tag-ids: []

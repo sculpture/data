@@ -1,0 +1,16 @@
+id: 88bd2951-8cc9-4b7d-aad1-8cd1262d8fac
+type: sculpture
+slug: time-capsule
+title: Time Capsule
+artist-ids:
+- f01c816e-53e3-4023-85a5-21c300a9b6b3
+commissioned-by: The Ontario Bicentennial Commission
+date: 1984-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.631943577659776
+  longitude: -79.41024255872826
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

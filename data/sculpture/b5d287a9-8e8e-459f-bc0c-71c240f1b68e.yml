@@ -1,0 +1,17 @@
+id: b5d287a9-8e8e-459f-bc0c-71c240f1b68e
+type: sculpture
+slug: windswept-silhouette
+title: Windswept Silhouette
+artist-ids:
+- 29ff19fe-35db-450f-924c-6be5790aa4fd
+date: 2005-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.72656843093172
+  longitude: -79.34439108573608
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+note: (fot.2006) Sculpture not anymore at this location
+tag-ids: []

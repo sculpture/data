@@ -1,0 +1,16 @@
+id: 425b0ab8-f160-4909-8a8d-c737a6af4062
+type: sculpture
+slug: still-life-and-blind
+title: Still Life and Blind
+artist-ids:
+- 1242cb12-a0c1-41d6-a5d9-b2a97fa35f4d
+date: 1989-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.4611744
+  longitude: -79.6477544
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

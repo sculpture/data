@@ -1,0 +1,16 @@
+id: cd605992-f164-4a1f-aef7-65c566a1bc82
+type: sculpture
+slug: charles-william-jefferys
+title: Charles William Jefferys
+artist-ids:
+- f92c8362-deea-4c7e-8ead-409d7f12fb98
+commissioned-by: North York Historical Society
+date: 2000-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.74015119151884
+  longitude: -79.4051569562501
+  precision: 78.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

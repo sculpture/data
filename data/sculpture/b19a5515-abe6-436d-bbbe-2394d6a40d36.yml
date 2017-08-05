@@ -1,0 +1,16 @@
+id: b19a5515-abe6-436d-bbbe-2394d6a40d36
+type: sculpture
+slug: nautilius
+title: Nautilius
+artist-ids:
+- fba8cae7-edae-4da4-a265-fe863b896535
+commissioned-by: Oxford Development Group
+date: 1992-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6406233
+  longitude: -79.3785904
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

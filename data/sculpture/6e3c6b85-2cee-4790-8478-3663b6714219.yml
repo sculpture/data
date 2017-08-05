@@ -1,0 +1,16 @@
+id: 6e3c6b85-2cee-4790-8478-3663b6714219
+type: sculpture
+slug: torso
+title: Torso
+artist-ids:
+- e430aa7d-470d-47a3-9b6a-11fd7e078d72
+commissioned-by: Fine Arts Council
+date: 1976-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7453223
+  longitude: -79.2932156
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

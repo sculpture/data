@@ -1,0 +1,16 @@
+id: cafb5b3c-317a-407f-b66a-54b24a40731d
+type: sculpture
+slug: presence
+title: presence
+artist-ids:
+- d9cc1353-37e4-4da3-a1bc-bf6cbf4ced15
+commissioned-by: The House of Seagram
+date: 1965-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7744487
+  longitude: -79.5032477
+  precision: 50.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

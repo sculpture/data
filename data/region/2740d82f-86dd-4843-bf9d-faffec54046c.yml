@@ -1,0 +1,6 @@
+id: 2740d82f-86dd-4843-bf9d-faffec54046c
+type: region
+slug: first-canadian-place
+name: First Canadian Place
+geojson: '{"type":"Polygon","coordinates":[[[-79.382939,43.6497216],[-79.3804493,43.6497216],[-79.3804493,43.648381],[-79.382939,43.648381],[-79.382939,43.6497216]]]}'
+tag-ids: []

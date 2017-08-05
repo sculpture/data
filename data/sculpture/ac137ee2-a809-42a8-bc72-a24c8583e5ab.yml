@@ -1,0 +1,16 @@
+id: ac137ee2-a809-42a8-bc72-a24c8583e5ab
+type: sculpture
+slug: king-and-queen
+title: King and Queen
+artist-ids:
+- a791e704-3cf6-4e29-b923-0e8213816522
+date: 1998-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 42.309669668326066
+  longitude: -83.07102787724612
+  precision: 56.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

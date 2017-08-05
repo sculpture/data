@@ -1,0 +1,14 @@
+id: e7427836-9737-4b79-8e9d-5f0d331c60dd
+type: sculpture
+slug: immaculate-conception
+title: Immaculate Conception
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+date-precision: year
+location:
+  latitude: 43.65565489999999
+  longitude: -79.36265449999999
+  precision: 50.0
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids: []

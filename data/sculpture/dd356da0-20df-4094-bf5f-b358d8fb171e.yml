@@ -1,0 +1,15 @@
+id: dd356da0-20df-4094-bf5f-b358d8fb171e
+type: sculpture
+slug: tree-of-learning
+title: Tree of Learning
+artist-ids:
+- 620e37ba-c0dd-4919-b8e0-e94e5a7fadb7
+date: 2000-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.698236236509175
+  longitude: -79.39443136085207
+  precision: 50.0
+material-ids:
+- 27dc5990-9b49-44ba-9638-9ea019c297c2
+tag-ids: []

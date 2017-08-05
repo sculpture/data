@@ -1,0 +1,7 @@
+id: 0db56e46-f7e5-4c87-b7fc-abc0e9de558e
+type: region
+slug: leaside
+name: Leaside
+geojson: '{"type":"Polygon","coordinates":[[[-79.3783621,43.720377],[-79.3491839,43.720377],[-79.3491839,43.6944384],[-79.3783621,43.6944384],[-79.3783621,43.720377]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25

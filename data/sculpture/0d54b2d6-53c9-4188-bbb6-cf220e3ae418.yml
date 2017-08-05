@@ -1,0 +1,15 @@
+id: 0d54b2d6-53c9-4188-bbb6-cf220e3ae418
+type: sculpture
+slug: intuition
+title: Intuition
+artist-ids:
+- cccef573-660a-411f-9b3d-6c3e54030a25
+date: 1997-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6587857
+  longitude: -79.3975248
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

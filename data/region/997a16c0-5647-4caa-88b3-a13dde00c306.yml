@@ -1,0 +1,7 @@
+id: 997a16c0-5647-4caa-88b3-a13dde00c306
+type: region
+slug: riverdale-park
+name: Riverdale Park
+geojson: '{"type":"Polygon","coordinates":[[[-79.3609175,43.6660169],[-79.3606325,43.6660169],[-79.3606325,43.665398],[-79.3609175,43.665398],[-79.3609175,43.6660169]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d

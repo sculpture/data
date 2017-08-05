@@ -1,0 +1,16 @@
+id: ee00bca9-6f57-4ef3-addb-513c0691d576
+type: sculpture
+slug: puzzle-of-life
+title: Puzzle of Life
+artist-ids:
+- d6a7ae1c-bcd6-4a07-93b9-03a044571fc2
+date: 1980-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.657476
+  longitude: -79.3903925
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

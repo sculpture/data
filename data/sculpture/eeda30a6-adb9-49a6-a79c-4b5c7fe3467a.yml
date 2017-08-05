@@ -1,0 +1,15 @@
+id: eeda30a6-adb9-49a6-a79c-4b5c7fe3467a
+type: sculpture
+slug: a-druids-alphabet
+title: A Druid's Alphabet
+artist-ids:
+- 56d243ae-7954-4107-b7fa-6290ac7cb48f
+date: 1961-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.72805424866316
+  longitude: -79.3793683703919
+  precision: 80.0
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids: []

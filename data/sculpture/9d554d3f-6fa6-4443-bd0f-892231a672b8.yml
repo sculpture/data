@@ -1,0 +1,15 @@
+id: 9d554d3f-6fa6-4443-bd0f-892231a672b8
+type: sculpture
+slug: snowmn
+title: Snowm'n
+artist-ids:
+- e41958c2-2a1a-4641-8b8a-a6272b053cc8
+date: 1997-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6429123
+  longitude: -79.38540239999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

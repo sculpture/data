@@ -1,0 +1,16 @@
+id: c857aaee-ff88-4c4a-9862-eb6387099a30
+type: sculpture
+slug: '83'
+title: '83'
+artist-ids:
+- daa3739f-f25b-4e27-a19d-689c6f3740ac
+commissioned-by: House of Seagram
+date: 1968-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6316804
+  longitude: -79.42064940000002
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

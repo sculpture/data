@@ -1,0 +1,15 @@
+id: 5238c8af-3156-4db9-8c3d-f68f746a748c
+type: sculpture
+slug: eloges-de-fontenelle
+title: Eloges de Fontenelle
+artist-ids:
+- 4eb4264b-1f28-486d-881e-3cb5d8d0ff88
+date: 1984-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6438982
+  longitude: -79.3889753
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

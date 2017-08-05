@@ -1,0 +1,16 @@
+id: b5fa4a90-bf22-4898-a443-beb7aeb06630
+type: sculpture
+slug: butterfly
+title: Butterfly
+artist-ids:
+- daa3739f-f25b-4e27-a19d-689c6f3740ac
+commissioned-by: City of Etobicoke
+date: 1966-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6148749
+  longitude: -79.49378349999999
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []

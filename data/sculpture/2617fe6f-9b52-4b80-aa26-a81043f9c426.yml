@@ -1,0 +1,16 @@
+id: 2617fe6f-9b52-4b80-aa26-a81043f9c426
+type: sculpture
+slug: firefighters-memorial
+title: Firefighters Memorial
+artist-ids:
+- 6ceff7a4-29b6-45a9-9d72-81a931f27c52
+date: 2005-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6579506
+  longitude: -79.40001319999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

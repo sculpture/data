@@ -1,0 +1,17 @@
+id: 5ed6b520-c3e8-477a-8313-e48d172500fe
+type: sculpture
+slug: interstice
+title: Interstice
+artist-ids:
+- 3d773fc8-a238-4aa8-aa03-bc4f87c9d993
+date: 1999-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.762710802348025
+  longitude: -79.44112973016358
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+note: (fot.2008) Sculpture not anymore at this location
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57

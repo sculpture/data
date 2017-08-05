@@ -1,0 +1,7 @@
+id: fc208a48-f7b4-4568-9aa4-57d121b63578
+type: region
+slug: hockey-hall-of-fame
+name: Hockey Hall of Fame
+geojson: '{"type":"Polygon","coordinates":[[[-79.3775,43.64702],[-79.37715,43.6471],[-79.3771,43.64697],[-79.37738,43.64685],[-79.3775,43.64702]]]}'
+tag-ids:
+- cafc4a07-2241-45ff-ab97-0bc7fe5fc3a7

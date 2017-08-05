@@ -1,0 +1,16 @@
+id: 860de92f-72df-4f87-b88d-d460db799961
+type: sculpture
+slug: turkey
+title: Turkey
+artist-ids:
+- 339eed06-1891-429d-bbd7-16d68b860892
+date: 1932-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.5330895
+  longitude: -80.23265409999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

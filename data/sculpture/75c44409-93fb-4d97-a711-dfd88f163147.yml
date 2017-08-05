@@ -1,0 +1,16 @@
+id: 75c44409-93fb-4d97-a711-dfd88f163147
+type: sculpture
+slug: latent-power
+title: Latent Power
+artist-ids:
+- 5e9e4190-3cc6-4e20-b1e4-429c0815013d
+commissioned-by: International Stone Sculpture Symposium
+date: 2005-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.5439897
+  longitude: -80.236429
+  precision: 50.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []

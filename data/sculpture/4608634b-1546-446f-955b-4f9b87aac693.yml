@@ -1,0 +1,16 @@
+id: 4608634b-1546-446f-955b-4f9b87aac693
+type: sculpture
+slug: dormez-vous
+title: Dormez Vous
+artist-ids:
+- e1cf0366-a083-4cc6-a9d8-5454990d2fe5
+commissioned-by: Meridian Residences
+date: 2008-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7797432
+  longitude: -79.4182161
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

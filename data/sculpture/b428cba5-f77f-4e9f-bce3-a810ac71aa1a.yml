@@ -1,0 +1,16 @@
+id: b428cba5-f77f-4e9f-bce3-a810ac71aa1a
+type: sculpture
+slug: bony-bus
+title: Bony Bus
+artist-ids:
+- 6a646b41-3651-4147-8c38-b48335b65cd1
+date: 2000-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.750539
+  longitude: -79.462603
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- b1a3eb0a-7181-48fc-97e1-9ffa8a0461f7
+tag-ids: []

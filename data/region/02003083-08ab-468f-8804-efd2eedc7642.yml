@@ -1,0 +1,7 @@
+id: 02003083-08ab-468f-8804-efd2eedc7642
+type: region
+slug: ireland-park
+name: Ireland Park
+geojson: '{"type":"Point","coordinates":[-79.39572,43.63475]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d

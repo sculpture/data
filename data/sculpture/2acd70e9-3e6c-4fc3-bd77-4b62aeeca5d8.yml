@@ -1,0 +1,16 @@
+id: 2acd70e9-3e6c-4fc3-bd77-4b62aeeca5d8
+type: sculpture
+slug: full-moon
+title: Full Moon
+artist-ids:
+- 6aec0769-4dbd-4d6d-afbb-590317cb5948
+commissioned-by: Hammerson Canada Inc.
+date: 1988-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.670861405407315
+  longitude: -79.38733423217184
+  precision: 65.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

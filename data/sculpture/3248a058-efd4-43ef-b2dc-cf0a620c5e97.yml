@@ -1,0 +1,18 @@
+id: 3248a058-efd4-43ef-b2dc-cf0a620c5e97
+type: sculpture
+slug: jean-sibelius
+title: Jean Sibelius
+artist-ids:
+- 6c415c22-af7b-4d96-958b-2d657fd519a7
+commissioned-by: The Finnish People of Canada
+date: 1959-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.671433
+  longitude: -79.40881099999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+note: ''
+tag-ids: []

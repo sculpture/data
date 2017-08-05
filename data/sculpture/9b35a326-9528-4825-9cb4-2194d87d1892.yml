@@ -1,0 +1,16 @@
+id: 9b35a326-9528-4825-9cb4-2194d87d1892
+type: sculpture
+slug: the-last-alarm
+title: The Last Alarm
+artist-ids:
+- 6f317700-9647-4659-bd02-83324108c991
+date: 2000-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6384605
+  longitude: -79.3886492
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

@@ -1,0 +1,7 @@
+id: 1c214592-65ef-478c-97fc-bd7c50d51e57
+type: region
+slug: metro-hall
+name: Metro Hall
+geojson: '{"type":"Polygon","coordinates":[[[-79.389402,43.6464982],[-79.3880263,43.6464982],[-79.3880263,43.6455873],[-79.389402,43.6455873],[-79.389402,43.6464982]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215

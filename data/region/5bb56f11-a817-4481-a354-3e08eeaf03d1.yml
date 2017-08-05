@@ -1,0 +1,7 @@
+id: 5bb56f11-a817-4481-a354-3e08eeaf03d1
+type: region
+slug: harbour-square-park
+name: Harbour Square Park
+geojson: '{"type":"Polygon","coordinates":[[[-79.37749,43.63952],[-79.37628,43.64082],[-79.37521,43.63973],[-79.37715,43.639],[-79.37749,43.63952]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d

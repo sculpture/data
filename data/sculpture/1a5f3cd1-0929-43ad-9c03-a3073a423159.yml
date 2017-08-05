@@ -1,0 +1,13 @@
+id: 1a5f3cd1-0929-43ad-9c03-a3073a423159
+type: sculpture
+slug: unknown-21
+title: Unknown (21)
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+date-precision: year
+location:
+  latitude: 43.7305734
+  longitude: -79.43365399999999
+  precision: 50.0
+material-ids: []
+tag-ids: []

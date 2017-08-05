@@ -1,0 +1,15 @@
+id: 122d77d5-3f71-4331-b366-6ad12f296933
+type: sculpture
+slug: creation-no7
+title: Creation no.7
+artist-ids:
+- e30ae6dc-d3ec-4158-a62c-51a727b5762d
+date: 1977-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7305734
+  longitude: -79.43365399999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

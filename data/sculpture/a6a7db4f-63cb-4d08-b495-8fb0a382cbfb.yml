@@ -1,0 +1,15 @@
+id: a6a7db4f-63cb-4d08-b495-8fb0a382cbfb
+type: sculpture
+slug: torso-dimitrov
+title: Torso
+artist-ids:
+- 36eef979-58d2-4a69-b8aa-690e061faebd
+date: 1974-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6744838
+  longitude: -79.400005
+  precision: 50.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []

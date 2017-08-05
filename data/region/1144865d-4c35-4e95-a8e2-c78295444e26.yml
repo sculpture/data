@@ -1,0 +1,7 @@
+id: 1144865d-4c35-4e95-a8e2-c78295444e26
+type: region
+slug: distillery-district
+name: Distillery District
+geojson: '{"type":"Polygon","coordinates":[[[-79.3621981,43.651717],[-79.3568553,43.651717],[-79.3568553,43.6493671],[-79.3621981,43.6493671],[-79.3621981,43.651717]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25

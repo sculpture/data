@@ -1,0 +1,15 @@
+id: d5e27084-bf7d-4424-ae6f-7344892324d3
+type: sculpture
+slug: boy-and-the-dragonfly
+title: Boy and the Dragonfly
+artist-ids:
+- e49b226e-a66d-4a0b-85b0-5556b5a14dd8
+date: 1923-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7180569
+  longitude: -79.3741804
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

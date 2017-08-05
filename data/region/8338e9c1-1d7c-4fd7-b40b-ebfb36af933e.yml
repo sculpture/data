@@ -1,0 +1,7 @@
+id: 8338e9c1-1d7c-4fd7-b40b-ebfb36af933e
+type: region
+slug: kleinburg
+name: Kleinburg
+geojson: '{"type":"Point","coordinates":[-79.62881,43.84416]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc

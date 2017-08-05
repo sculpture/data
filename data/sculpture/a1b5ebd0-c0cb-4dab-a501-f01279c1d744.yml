@@ -1,0 +1,15 @@
+id: a1b5ebd0-c0cb-4dab-a501-f01279c1d744
+type: sculpture
+slug: atabasca-series-ii
+title: Atabasca Series II
+artist-ids:
+- cd45b0db-54ae-4ec8-950b-7184929477cf
+date: 1991-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7281237
+  longitude: -79.4391974
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

@@ -1,0 +1,16 @@
+id: f24b16e0-27ed-4ee2-814c-0bd0eccd8cea
+type: sculpture
+slug: victory-peace
+title: Victory Peace
+artist-ids:
+- 1242cb12-a0c1-41d6-a5d9-b2a97fa35f4d
+date: 1995-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6235253
+  longitude: -79.4808383
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753

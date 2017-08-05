@@ -1,0 +1,7 @@
+id: b11a91ef-518a-4db7-b212-031d4267bad1
+type: region
+slug: legislative-assembly-of-ontario
+name: Legislative Assembly of Ontario
+geojson: '{"type":"Polygon","coordinates":[[[-79.39258,43.66268],[-79.3921583890915,43.6631024390423],[-79.39171,43.66319],[-79.3910157680512,43.6630636321907],[-79.3906456232071,43.6622525632505],[-79.392238855362,43.6619071764996],[-79.39258,43.66268]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215

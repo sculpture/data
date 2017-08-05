@@ -1,0 +1,17 @@
+id: 76b73f28-3a25-45ba-b884-872a35df6e57
+type: sculpture
+slug: lesya-ukrainka
+title: Lesya Ukrainka
+artist-ids:
+- c3a9a7a7-4a44-4e5a-9791-7d9c26036a71
+commissioned-by: Women's Council of the Ukrainian Canadian Committee
+date: 1975-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.64654789999999
+  longitude: -79.4636903
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- a1d83c21-c2ec-4d6f-852d-a880fdd65176
+tag-ids: []

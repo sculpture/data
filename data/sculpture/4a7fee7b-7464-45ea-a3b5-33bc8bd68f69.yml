@@ -1,0 +1,16 @@
+id: 4a7fee7b-7464-45ea-a3b5-33bc8bd68f69
+type: sculpture
+slug: circle-of-hope
+title: Circle of Hope
+artist-ids:
+- 2f0762a2-1b34-42c0-b2a2-73947952a06c
+commissioned-by: Anonymous Collector
+date: 1996-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.720808
+  longitude: -79.3787
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

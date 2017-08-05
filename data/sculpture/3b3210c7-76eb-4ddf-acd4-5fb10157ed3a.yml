@@ -1,0 +1,17 @@
+id: 3b3210c7-76eb-4ddf-acd4-5fb10157ed3a
+type: sculpture
+slug: george-brown-toronto
+title: George Brown
+artist-ids:
+- 2e3a466c-bdfc-45a3-a596-420e29d64d71
+commissioned-by: Brown Memorial Committee
+date: 1884-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6631673
+  longitude: -79.39323929999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

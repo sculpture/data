@@ -1,0 +1,16 @@
+id: dc4a57fa-6c08-4b38-9839-dfe2b2637295
+type: sculpture
+slug: metropolis
+title: Metropolis
+artist-ids:
+- 6b271b4f-7789-4ff5-9628-5c18252ea163
+date: 1977-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 40.7120526
+  longitude: -73.9884711
+  precision: 50.0
+material-ids:
+- 90961d65-c887-44b3-9153-7364b69806bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

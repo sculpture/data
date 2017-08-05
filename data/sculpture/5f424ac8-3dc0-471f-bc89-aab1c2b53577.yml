@@ -1,0 +1,15 @@
+id: 5f424ac8-3dc0-471f-bc89-aab1c2b53577
+type: sculpture
+slug: goose
+title: Goose
+artist-ids:
+- 9b34a8b7-35f0-4c56-95c0-344829c668db
+date: 2003-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6162868
+  longitude: -79.37647369999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

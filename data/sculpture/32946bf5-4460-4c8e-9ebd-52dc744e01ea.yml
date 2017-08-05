@@ -1,0 +1,16 @@
+id: 32946bf5-4460-4c8e-9ebd-52dc744e01ea
+type: sculpture
+slug: social-theatre-1
+title: Social Theatre (1)
+artist-ids:
+- 8472f684-4b5d-4d5e-8eb8-5373b86fe4a1
+commissioned-by: TTC
+date: 1997-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6523685
+  longitude: -79.3977092
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

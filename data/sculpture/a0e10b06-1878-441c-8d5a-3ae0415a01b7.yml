@@ -1,0 +1,15 @@
+id: a0e10b06-1878-441c-8d5a-3ae0415a01b7
+type: sculpture
+slug: stone-for-quiet-water
+title: Stone for Quiet Water
+artist-ids:
+- dcd10e12-85af-4aac-856c-2c895ad1e80f
+date: 1994-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.77331614511788
+  longitude: -79.25725054655761
+  precision: 136.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

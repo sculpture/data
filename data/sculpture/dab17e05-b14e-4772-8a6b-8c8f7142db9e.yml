@@ -1,0 +1,16 @@
+id: dab17e05-b14e-4772-8a6b-8c8f7142db9e
+type: sculpture
+slug: pyramidal-form
+title: Pyramidal Form
+artist-ids:
+- f30eafc6-650f-41f4-acc6-c572c6555b81
+commissioned-by: International Stone Sculpture Symposium
+date: 2005-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.5439897
+  longitude: -80.236429
+  precision: 50.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []

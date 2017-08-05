@@ -1,0 +1,16 @@
+id: 6933f40f-c7b6-44f1-8e85-c394abba39e9
+type: sculpture
+slug: warrior-with-shield
+title: Warrior with Shield
+artist-ids:
+- 2fb2873a-8083-45af-b967-a8ffd1e0b75d
+date: 1955-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6506642
+  longitude: -79.385525
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

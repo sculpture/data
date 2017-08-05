@@ -1,0 +1,16 @@
+id: f87638df-a3e8-427b-8d53-7129d03f8eeb
+type: sculpture
+slug: imperfect-paradise
+title: Imperfect Paradise
+artist-ids:
+- 1242cb12-a0c1-41d6-a5d9-b2a97fa35f4d
+commissioned-by: OCAD
+date: 1999-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.653282
+  longitude: -79.39159579999999
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

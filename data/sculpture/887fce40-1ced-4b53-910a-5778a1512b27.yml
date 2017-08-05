@@ -1,0 +1,15 @@
+id: 887fce40-1ced-4b53-910a-5778a1512b27
+type: sculpture
+slug: winston-churchill-2
+title: Winston Churchill (2)
+artist-ids:
+- dda6df5e-45b8-4ac4-9e2e-cdae58e89c9d
+date-precision: year
+location:
+  latitude: 46.8032826
+  longitude: -71.242796
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

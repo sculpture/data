@@ -1,0 +1,17 @@
+id: 5bd65ab2-8001-414d-8a28-512b592339ca
+type: sculpture
+slug: spirit-of-discovery
+title: Spirit of Discovery
+artist-ids:
+- 9a0a94d9-c4d1-45f5-ac3a-0bfb0563a15d
+- a72315fc-ea46-41f6-a11e-90d825b4acfe
+date: 2005-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.65992150698235
+  longitude: -79.39153865328984
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

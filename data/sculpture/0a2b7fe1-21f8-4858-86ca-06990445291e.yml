@@ -1,0 +1,16 @@
+id: 0a2b7fe1-21f8-4858-86ca-06990445291e
+type: sculpture
+slug: november-pyramid
+title: November Pyramid
+artist-ids:
+- b1418698-769e-4278-8188-dcfdd196de5d
+commissioned-by: International Sculpture Symposium
+date: 1967-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.64654789999999
+  longitude: -79.4636903
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

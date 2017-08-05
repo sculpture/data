@@ -1,0 +1,15 @@
+id: d510b712-e45c-4aaf-86ae-f5bc6dd21adf
+type: sculpture
+slug: vladimir-the-great
+title: Vladimir the Great
+artist-ids:
+- cec9248d-fb9e-4a84-be6e-31c0f447b9b4
+date: 1989-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6621055
+  longitude: -79.40210189999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

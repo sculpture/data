@@ -1,0 +1,16 @@
+id: 2d0f0f9d-b9b2-41b9-a789-b6362b853bc3
+type: sculpture
+slug: breath
+title: Breath
+artist-ids:
+- 1242cb12-a0c1-41d6-a5d9-b2a97fa35f4d
+date: 1995-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.2648374
+  longitude: -79.9544318
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

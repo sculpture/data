@@ -1,0 +1,15 @@
+id: a4d35d44-adde-486d-959a-68bab6550398
+type: sculpture
+slug: neighbours
+title: Neighbours
+artist-ids:
+- 5d0bca76-d87b-4b7e-a72c-c3d99660bf20
+date: 2001-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6663791
+  longitude: -79.3890095
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

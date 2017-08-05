@@ -1,0 +1,16 @@
+id: 9e4cf075-dddb-40df-978a-7c905d72dafc
+type: sculpture
+slug: 21-points-in-equilibrium
+title: 21 Points in Equilibrium
+artist-ids:
+- 37c11040-7d26-4bf3-9ebd-a782d088bf15
+date: 1973-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7730372486978
+  longitude: -79.25742220793458
+  precision: 78.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

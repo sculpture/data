@@ -1,0 +1,16 @@
+id: 8442cc64-809a-4035-ace7-8eb67af4ab33
+type: sculpture
+slug: baldwin-lafontaine
+title: Baldwin-Lafontaine
+artist-ids:
+- 5f5e73b4-75e3-41bb-b698-1b7ab285d8b1
+date: 1914-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.4235937
+  longitude: -75.700929
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

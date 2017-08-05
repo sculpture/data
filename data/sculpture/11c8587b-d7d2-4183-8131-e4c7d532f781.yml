@@ -1,0 +1,16 @@
+id: 11c8587b-d7d2-4183-8131-e4c7d532f781
+type: sculpture
+slug: man-above-matter
+title: Man above Matter
+artist-ids:
+- e314a84d-406c-434e-85db-2419b0fbacb1
+commissioned-by: CNE
+date: 1965-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.5439897
+  longitude: -80.236429
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

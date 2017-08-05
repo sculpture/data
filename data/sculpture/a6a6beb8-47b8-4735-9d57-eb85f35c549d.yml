@@ -1,0 +1,16 @@
+id: a6a6beb8-47b8-4735-9d57-eb85f35c549d
+type: sculpture
+slug: space-composition
+title: Space Composition
+artist-ids:
+- fc345e06-1486-4396-a28a-0be0df1a09e4
+commissioned-by: Bell Canada
+date: 1984-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.65321776738228
+  longitude: -79.38320023173833
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []

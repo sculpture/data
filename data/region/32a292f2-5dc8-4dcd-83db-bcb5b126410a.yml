@@ -1,0 +1,7 @@
+id: 32a292f2-5dc8-4dcd-83db-bcb5b126410a
+type: region
+slug: waterfront
+name: Waterfront
+geojson: '{"type":"Polygon","coordinates":[[[-79.4756201,43.6305851],[-79.4740301,43.6305851],[-79.4740301,43.6292835],[-79.4756201,43.6292835],[-79.4756201,43.6305851]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25

@@ -1,0 +1,17 @@
+id: e0ca9dec-28ac-4758-92be-25cb963a5ad7
+type: sculpture
+slug: territorial-prerogative
+title: Territorial Prerogative
+artist-ids:
+- d8c774c0-7772-4702-af4c-e54d4746d511
+commissioned-by: Sparks St. Businees Improvement
+date: 1980-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.423525601038826
+  longitude: -75.6956879226929
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

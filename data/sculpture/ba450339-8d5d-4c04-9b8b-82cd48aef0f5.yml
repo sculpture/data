@@ -1,0 +1,16 @@
+id: ba450339-8d5d-4c04-9b8b-82cd48aef0f5
+type: sculpture
+slug: skysearch
+title: Skysearch
+artist-ids:
+- 620e37ba-c0dd-4919-b8e0-e94e5a7fadb7
+- d534f5aa-828c-4b2f-8757-9aeafc9bf966
+date: 2000-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6999445
+  longitude: -79.3886612
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

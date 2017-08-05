@@ -1,0 +1,15 @@
+id: ef62d53d-2b75-4429-b2f6-6c3d1623950e
+type: sculpture
+slug: egerton-ryerson
+title: Egerton Ryerson
+artist-ids:
+- 010683af-d9eb-46b9-9cdb-f1e541a455ad
+date: 1887-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6580011
+  longitude: -79.378764
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

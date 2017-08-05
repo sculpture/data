@@ -1,0 +1,16 @@
+id: a5383f3a-2e52-4230-8568-fcb67c03ace6
+type: sculpture
+slug: solar-net
+title: Solar Net
+artist-ids:
+- c3033329-4633-4da7-9076-c95d10b09611
+commissioned-by: University of Toronto, Trinity Collage
+date: 1963-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.66606789999999
+  longitude: -79.3975883
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

@@ -1,0 +1,19 @@
+id: cf36bb02-0379-4e6e-bbf9-dfb1791e09a9
+type: sculpture
+slug: flower-power
+title: Flower Power
+artist-ids:
+- bd9de07c-dcbb-4c62-9d26-d63b6736a547
+commissioned-by: International Sculpture Symposium
+date: 1967-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6407697
+  longitude: -79.3969678
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- b2394a4f-8f94-4b9e-9156-fdbdec170b61
+note: (moved from High Park and renovated 2010)
+tag-ids: []

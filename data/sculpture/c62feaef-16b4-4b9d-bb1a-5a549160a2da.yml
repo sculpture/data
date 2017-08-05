@@ -1,0 +1,16 @@
+id: c62feaef-16b4-4b9d-bb1a-5a549160a2da
+type: sculpture
+slug: bear-2
+title: Bear (2)
+artist-ids:
+- 56d243ae-7954-4107-b7fa-6290ac7cb48f
+commissioned-by: Exhibition Place
+date: 1971-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.63308373944676
+  longitude: -79.42098961911013
+  precision: 64.0
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids: []

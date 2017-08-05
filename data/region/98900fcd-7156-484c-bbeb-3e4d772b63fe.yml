@@ -1,0 +1,7 @@
+id: 98900fcd-7156-484c-bbeb-3e4d772b63fe
+type: region
+slug: ontario-government-buildings
+name: Ontario Government Buildings
+geojson: '{"type":"Polygon","coordinates":[[[-79.39055,43.66357],[-79.38715,43.66436],[-79.38646,43.66249],[-79.3898,43.66179],[-79.39055,43.66357]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215

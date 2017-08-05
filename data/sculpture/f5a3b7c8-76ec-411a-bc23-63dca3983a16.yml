@@ -1,0 +1,16 @@
+id: f5a3b7c8-76ec-411a-bc23-63dca3983a16
+type: sculpture
+slug: joy-of-life-2
+title: Joy of Life (2)
+artist-ids:
+- ab263bc0-6a20-4e7d-a2ce-948da0fd9977
+date: 1983-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.4980015
+  longitude: -73.58016959999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

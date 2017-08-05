@@ -1,0 +1,16 @@
+id: 470b0050-5a89-459d-9db6-c4394a030fac
+type: sculpture
+slug: bird-of-spring
+title: Bird of Spring
+artist-ids:
+- c58d3ad6-45d9-4ab0-8eae-be88bf5eaa35
+commissioned-by: The Devonian Group
+date: 1977-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.658777297713485
+  longitude: -79.37925752645876
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

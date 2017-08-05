@@ -1,0 +1,17 @@
+id: 078d4f67-f87f-4d9b-b243-076edf5504c0
+type: sculpture
+slug: the-jack-pine-rememberd
+title: The Jack Pine Rememberd
+artist-ids:
+- bbb1fa5c-d081-4bcd-87c6-8de2a17b12f6
+commissioned-by: Amica Corp.
+date: 2003-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7663805
+  longitude: -79.38435869999999
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

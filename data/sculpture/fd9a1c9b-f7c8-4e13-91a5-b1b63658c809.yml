@@ -1,0 +1,16 @@
+id: fd9a1c9b-f7c8-4e13-91a5-b1b63658c809
+type: sculpture
+slug: source-i-hmilton
+title: Source I
+artist-ids:
+- a791e704-3cf6-4e29-b923-0e8213816522
+date: 1965-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.257139
+  longitude: -79.872494
+  precision: 10.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

@@ -1,0 +1,17 @@
+id: aec29ade-fad3-4951-9c9f-1dcca3fa1f6c
+type: sculpture
+slug: female-wall
+title: Female Wall
+artist-ids:
+- 91e7275a-b3ad-4f6b-be41-97e3bfe0b17c
+commissioned-by: National Capital Commission
+date: 1967-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.42881857011685
+  longitude: -75.69489712908324
+  precision: 93.0
+material-ids:
+- c1c07f0b-8700-44fb-9a0f-241032b370e8
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

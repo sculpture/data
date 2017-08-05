@@ -1,0 +1,16 @@
+id: aecefe1c-2682-48a8-ae5a-339046b3745a
+type: sculpture
+slug: doors
+title: Doors
+artist-ids:
+- daa3739f-f25b-4e27-a19d-689c6f3740ac
+commissioned-by: Dunlop, Farrow, Aitken Architects
+date: 1977-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6748449
+  longitude: -79.4070914
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

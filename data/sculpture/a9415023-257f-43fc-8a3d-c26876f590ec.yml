@@ -1,0 +1,16 @@
+id: a9415023-257f-43fc-8a3d-c26876f590ec
+type: sculpture
+slug: untitled-flying-form
+title: Untitled Flying Form
+artist-ids:
+- c65b02f1-105d-4cb6-b39c-b1ac75c20bcf
+commissioned-by: Cadillac Fairview Corporation
+date: 1976-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6880694
+  longitude: -79.4055748
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

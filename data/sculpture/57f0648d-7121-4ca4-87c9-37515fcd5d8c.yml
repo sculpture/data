@@ -1,0 +1,12 @@
+id: 57f0648d-7121-4ca4-87c9-37515fcd5d8c
+type: sculpture
+slug: chicken-and-egg
+title: Chicken and Egg
+artist-ids:
+- 4daeec4c-2b4d-46ed-81b7-5717b21bfe33
+date-precision: year
+material-ids:
+- 6e45603b-de94-4bb1-8ffb-eddbb4f15853
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

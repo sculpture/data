@@ -1,0 +1,16 @@
+id: 9c197c69-0e19-44aa-b5cb-45bffd0e4ae4
+type: sculpture
+slug: adam-beck
+title: Adam Beck
+artist-ids:
+- 5421842b-f23c-4e44-882a-c7e1c35a0187
+date: 1933-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.65242
+  longitude: -79.3870998
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

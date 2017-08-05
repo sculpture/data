@@ -1,0 +1,7 @@
+id: c4a34198-0f98-4604-9d1a-857cebb30198
+type: region
+slug: scarborough-civic-centre
+name: Scarborough Civic Centre
+geojson: '{"type":"Polygon","coordinates":[[[-79.2582813,43.7734355],[-79.2568961,43.7734355],[-79.2568961,43.7725169],[-79.2582813,43.7725169],[-79.2582813,43.7734355]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215

@@ -1,0 +1,15 @@
+id: d15b0578-4d06-420e-b1fb-ab40cae307fd
+type: sculpture
+slug: out-of-the-blue
+title: Out of the Blue
+artist-ids:
+- 065b7dff-8280-40d5-877a-f5d5cc6c9277
+date: 2005-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.64456397928443
+  longitude: -79.41716419996955
+  precision: 115.0
+material-ids:
+- 449582e6-6741-4441-a519-81e7c5591f96
+tag-ids: []

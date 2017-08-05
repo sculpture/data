@@ -1,0 +1,17 @@
+id: 84d425a9-94b0-4384-b940-78fdeeeabde7
+type: sculpture
+slug: owl-spirit
+title: Owl Spirit
+artist-ids:
+- 3678cc55-10ee-4852-bb8c-4678f4196432
+commissioned-by: Donated by P.Mills-Tucker
+date: 1972-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.76934526479767
+  longitude: -79.36342047354127
+  precision: 95.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

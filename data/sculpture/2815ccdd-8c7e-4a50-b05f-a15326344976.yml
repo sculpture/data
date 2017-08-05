@@ -1,0 +1,18 @@
+id: 2815ccdd-8c7e-4a50-b05f-a15326344976
+type: sculpture
+slug: ceremonial-figure
+title: Ceremonial Figure
+artist-ids:
+- a791e704-3cf6-4e29-b923-0e8213816522
+commissioned-by: Victoria University
+date: 1964-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.666422
+  longitude: -79.39218609999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: (fot.2002 at old location at Victora College)
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

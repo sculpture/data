@@ -1,0 +1,16 @@
+id: 87dd5ce9-4df5-4552-87e2-0c572db9e74b
+type: sculpture
+slug: red-orange-and-green
+title: Red, Orange and Green
+artist-ids:
+- 48982755-59b3-4475-8f1c-6b8cac124e78
+commissioned-by: Confederation Life Insurance Company
+date: 1992-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6702568
+  longitude: -79.3785632
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

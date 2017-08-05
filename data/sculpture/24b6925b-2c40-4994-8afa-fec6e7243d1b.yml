@@ -1,0 +1,16 @@
+id: 24b6925b-2c40-4994-8afa-fec6e7243d1b
+type: sculpture
+slug: hunter-with-seal
+title: Hunter with Seal
+artist-ids:
+- 0286d29f-65a2-4b12-980a-c081e7ae583b
+commissioned-by: Government of Ontario
+date: 1968-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6560342
+  longitude: -79.3838527
+  precision: 50.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []

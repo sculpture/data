@@ -1,0 +1,7 @@
+id: e9128433-c365-4940-bac6-d870e9da3c61
+type: region
+slug: dupont-station
+name: Dupont Station
+geojson: '{"type":"Polygon","coordinates":[[[-79.4593316,43.6772708],[-79.3975816,43.6772708],[-79.3975816,43.6633198],[-79.4593316,43.6633198],[-79.4593316,43.6772708]]]}'
+tag-ids:
+- be43f247-3b33-4ea0-9212-69df13bf6710

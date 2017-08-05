@@ -1,0 +1,7 @@
+id: bc95d4d3-4c49-47b2-acdc-a1d6abffb361
+type: region
+slug: ryerson-university
+name: Ryerson University
+geojson: '{"type":"Polygon","coordinates":[[[-79.38148,43.65795],[-79.37873,43.65615],[-79.37653,43.65663],[-79.37632,43.65851],[-79.37703,43.66019],[-79.38145,43.65922],[-79.38148,43.65795]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

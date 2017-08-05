@@ -1,0 +1,7 @@
+id: 8286a8ba-8162-4e34-9dbc-cdd2bffa209d
+type: region
+slug: rosedale
+name: Rosedale
+geojson: '{"type":"Polygon","coordinates":[[[-79.3911701,43.694447],[-79.3599773,43.694447],[-79.3599773,43.6700445],[-79.3911701,43.6700445],[-79.3911701,43.694447]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25

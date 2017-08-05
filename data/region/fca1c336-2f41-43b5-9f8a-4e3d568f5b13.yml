@@ -1,0 +1,7 @@
+id: fca1c336-2f41-43b5-9f8a-4e3d568f5b13
+type: region
+slug: beaches
+name: The Beaches
+geojson: '{"type":"Point","coordinates":[-79.29671,43.67102]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25

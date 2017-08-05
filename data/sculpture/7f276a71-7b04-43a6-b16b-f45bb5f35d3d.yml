@@ -1,0 +1,15 @@
+id: 7f276a71-7b04-43a6-b16b-f45bb5f35d3d
+type: sculpture
+slug: owl
+title: Owl
+artist-ids:
+- ff97eb08-231e-4f0f-b756-220c14bb072c
+date: 2005-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6456919
+  longitude: -79.41149
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

@@ -1,0 +1,17 @@
+id: 758e5755-0256-4dc3-ab44-b0ef914eb609
+type: sculpture
+slug: amodir
+title: A.Modir
+artist-ids:
+- 9b34a8b7-35f0-4c56-95c0-344829c668db
+commissioned-by: Modir family
+date: 2000-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.69545094967763
+  longitude: -79.38218598672503
+  precision: 248.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: ' '
+tag-ids: []

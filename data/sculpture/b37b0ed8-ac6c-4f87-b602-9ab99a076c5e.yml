@@ -1,0 +1,18 @@
+id: b37b0ed8-ac6c-4f87-b602-9ab99a076c5e
+type: sculpture
+slug: source-ii
+title: Source II
+artist-ids:
+- a791e704-3cf6-4e29-b923-0e8213816522
+date: 1965-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.593431696356966
+  longitude: -79.63856928042605
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: (fot.2002) Sculpture not anymore at this location
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
+- bbcb416f-d400-4a07-8a83-79a445209a57

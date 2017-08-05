@@ -1,0 +1,16 @@
+id: c5975aa4-11a1-41ce-a287-d46db1a12139
+type: sculpture
+slug: the-pines
+title: The Pines
+artist-ids:
+- 18976fc2-9dba-483c-8b02-4f7c9a7f5f6e
+commissioned-by: Government of Ontario
+date: 1968-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6635617
+  longitude: -79.3891089
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

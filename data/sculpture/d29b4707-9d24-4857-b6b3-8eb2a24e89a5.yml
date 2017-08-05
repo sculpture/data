@@ -1,0 +1,16 @@
+id: d29b4707-9d24-4857-b6b3-8eb2a24e89a5
+type: sculpture
+slug: icarus
+title: Icarus
+artist-ids:
+- 31bc0a9c-d23f-417f-a390-0b08bfe778f6
+commissioned-by: Bell Canada Comission
+date: 1980-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7725774
+  longitude: -79.2588861
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

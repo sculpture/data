@@ -1,0 +1,15 @@
+id: 5f765f8c-64c8-47ff-9c36-0cb23f4121d1
+type: sculpture
+slug: peter-pan
+title: Peter Pan
+artist-ids:
+- f15e2965-ad37-4319-bba9-1abf41324d3a
+date: 1929-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.68690169574297
+  longitude: -79.40200162692265
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

@@ -1,0 +1,16 @@
+id: b42a2c55-31f9-4599-94d6-fceabb88d086
+type: sculpture
+slug: winston-churchill
+title: Winston Churchill
+artist-ids:
+- dda6df5e-45b8-4ac4-9e2e-cdae58e89c9d
+commissioned-by: Churchill Memorial Committee
+date: 1977-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6456919
+  longitude: -79.41149
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

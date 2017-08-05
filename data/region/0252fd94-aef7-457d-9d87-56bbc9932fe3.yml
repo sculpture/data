@@ -1,0 +1,7 @@
+id: 0252fd94-aef7-457d-9d87-56bbc9932fe3
+type: region
+slug: mount-sinai-hospital
+name: Mount Sinai Hospital
+geojson: '{"type":"Polygon","coordinates":[[[-79.39096,43.65774],[-79.39,43.65795],[-79.38967,43.65717],[-79.39063,43.65696],[-79.39096,43.65774]]]}'
+tag-ids:
+- 06d088ca-1894-44c9-9e2a-e0491945abe0

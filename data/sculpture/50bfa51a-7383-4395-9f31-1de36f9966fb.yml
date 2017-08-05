@@ -1,0 +1,15 @@
+id: 50bfa51a-7383-4395-9f31-1de36f9966fb
+type: sculpture
+slug: sentinelles
+title: Sentinelles
+artist-ids:
+- f92f0d47-d131-4c6a-ad07-1d026752bc0f
+date: 2009-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7761289
+  longitude: -79.41436829999999
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids: []

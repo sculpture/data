@@ -1,0 +1,16 @@
+id: c4b40674-b486-467f-b840-55ee5ad7bf7c
+type: sculpture
+slug: mobius-curve
+title: Mobius Curve
+artist-ids:
+- 6ae32fce-45b8-4d4c-97db-3e1b6d9331fa
+commissioned-by: Spencer Clark, The Guild of All Arts
+date: 1982-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7477326
+  longitude: -79.1919502
+  precision: 50.0
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids: []

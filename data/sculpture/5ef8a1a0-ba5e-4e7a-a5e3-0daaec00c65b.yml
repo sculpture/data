@@ -1,0 +1,16 @@
+id: 5ef8a1a0-ba5e-4e7a-a5e3-0daaec00c65b
+type: sculpture
+slug: samothrace
+title: Samothrace
+artist-ids:
+- d9cc1353-37e4-4da3-a1bc-bf6cbf4ced15
+date: 1966-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.4215296
+  longitude: -75.69719309999999
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

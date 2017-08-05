@@ -1,0 +1,6 @@
+id: c7ebac6e-9174-42f8-b39f-3858154a69ce
+type: region
+slug: place-ville-marie
+name: Place Ville Marie
+geojson: '{"type":"Polygon","coordinates":[[[-73.570526,45.5026035],[-73.5676181,45.5026035],[-73.5676181,45.5003142],[-73.570526,45.5003142],[-73.570526,45.5026035]]]}'
+tag-ids: []

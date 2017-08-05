@@ -1,0 +1,15 @@
+id: d921e28b-63ec-413a-95fe-acb16ac55349
+type: sculpture
+slug: divine-servant
+title: Divine Servant
+artist-ids:
+- e26cd0ea-acdd-40b9-9ff1-49bc50ffc1f5
+date: 1990-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.696475254521125
+  longitude: -79.38054275659184
+  precision: 101.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

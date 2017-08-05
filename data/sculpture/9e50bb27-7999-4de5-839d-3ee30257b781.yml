@@ -1,0 +1,19 @@
+id: 9e50bb27-7999-4de5-839d-3ee30257b781
+type: sculpture
+slug: totem
+title: Totem
+artist-ids:
+- d0823fe5-9dfe-45c8-a733-0f56a5659160
+commissioned-by: gift of Leslie Geles 2000
+date: 1992-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7305734
+  longitude: -79.43365399999999
+  precision: 50.0
+material-ids:
+- 17846e26-3089-4526-a65e-8bd77bd4e8e0
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- 8796610f-08c6-4411-8591-dab35589315e
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

@@ -1,0 +1,15 @@
+id: 4e70512f-7754-4a9d-b751-c532eb6a2d11
+type: sculpture
+slug: toronto-irish-famine-memorial
+title: Toronto Irish Famine Memorial
+artist-ids:
+- c8c50b52-b99e-465f-8006-28563b3974b9
+date: 2007-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.63475005037366
+  longitude: -79.39578823967285
+  precision: 36.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

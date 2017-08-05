@@ -1,0 +1,15 @@
+id: 2fab67ad-236f-4e8f-9db8-7e798698b4c3
+type: sculpture
+slug: pope-john-paul-ii
+title: Pope John Paul II
+artist-ids:
+- 0d4fa466-31ef-4ee4-a172-bbf99f4f215b
+date: 1984-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6463441
+  longitude: -79.4490509
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

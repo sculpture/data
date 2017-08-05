@@ -1,0 +1,16 @@
+id: 15181011-c25b-42d3-845d-f7564496b29b
+type: sculpture
+slug: cedars
+title: Cedars
+artist-ids:
+- 18976fc2-9dba-483c-8b02-4f7c9a7f5f6e
+commissioned-by: University of Toronto
+date: 1962-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6598896
+  longitude: -79.3984287
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

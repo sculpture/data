@@ -1,0 +1,18 @@
+id: ae623b34-26db-4df7-8e1e-5c357b27b9dd
+type: sculpture
+slug: 1914-1918-war-memorial
+title: 1914-1918 War Memorial
+artist-ids:
+- fe979272-4879-4a74-a70e-281f567603d4
+commissioned-by: Toronto Districts Sons of England
+date: 1923-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.65620683337855
+  longitude: -79.388916496048
+  precision: 52.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753

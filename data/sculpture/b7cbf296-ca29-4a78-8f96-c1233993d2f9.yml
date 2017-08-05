@@ -1,0 +1,16 @@
+id: b7cbf296-ca29-4a78-8f96-c1233993d2f9
+type: sculpture
+slug: mother-and-children
+title: Mother and Children
+artist-ids:
+- 339eed06-1891-429d-bbd7-16d68b860892
+commissioned-by: Page & Steele Architects
+date: 1957-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.5439897
+  longitude: -80.236429
+  precision: 50.0
+material-ids:
+- b46e929f-a326-483e-8abb-82c3f2695a69
+tag-ids: []

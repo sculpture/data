@@ -1,0 +1,7 @@
+id: a7cd6f47-8014-4b6c-b531-33fce4a98ab1
+type: region
+slug: the-danforth
+name: The Danforth
+geojson: '{"type":"Polygon","coordinates":[[[-79.3624879,43.6924216],[-79.2925358,43.6924216],[-79.2925358,43.6735522],[-79.3624879,43.6735522],[-79.3624879,43.6924216]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25

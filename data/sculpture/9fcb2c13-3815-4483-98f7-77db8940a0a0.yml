@@ -1,0 +1,17 @@
+id: 9fcb2c13-3815-4483-98f7-77db8940a0a0
+type: sculpture
+slug: due-process
+title: Due Process
+artist-ids:
+- d8c774c0-7772-4702-af4c-e54d4746d511
+date: 1988-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.42070060529527
+  longitude: -75.69235159154053
+  precision: 50.0
+material-ids:
+- 210d2a46-7c5d-4d3e-b639-0c700e86ccf2
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

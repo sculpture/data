@@ -1,0 +1,16 @@
+id: 2c76b180-6846-469a-97b3-1efc4c21045e
+type: sculpture
+slug: canadac
+title: Canadac
+artist-ids:
+- f01c816e-53e3-4023-85a5-21c300a9b6b3
+date: 1977-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.257174161445114
+  longitude: -79.87286950926213
+  precision: 14.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

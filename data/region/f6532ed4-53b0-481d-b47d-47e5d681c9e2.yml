@@ -1,0 +1,7 @@
+id: f6532ed4-53b0-481d-b47d-47e5d681c9e2
+type: region
+slug: national-arts-centre
+name: National Arts Centre
+geojson: '{"type":"Polygon","coordinates":[[[-75.6944337,45.4236421],[-75.6922706,45.4236421],[-75.6922706,45.4226432],[-75.6944337,45.4226432],[-75.6944337,45.4236421]]]}'
+tag-ids:
+- 17d9bb08-20d9-41c9-aa61-5b47aa78faf3

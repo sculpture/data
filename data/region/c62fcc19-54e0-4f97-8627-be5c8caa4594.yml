@@ -1,0 +1,7 @@
+id: c62fcc19-54e0-4f97-8627-be5c8caa4594
+type: region
+slug: musee-national-des-beaux-arts-du-quebec
+name: Musée National des Beaux-Arts du Quebec
+geojson: '{"type":"Polygon","coordinates":[[[-71.2252020835877,46.7984656915169],[-71.22542,46.79938],[-71.22326,46.80063],[-71.22231,46.79989],[-71.22408,46.79845],[-71.2252020835877,46.7984656915169]]]}'
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78

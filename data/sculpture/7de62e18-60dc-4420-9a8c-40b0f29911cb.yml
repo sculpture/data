@@ -1,0 +1,17 @@
+id: 7de62e18-60dc-4420-9a8c-40b0f29911cb
+type: sculpture
+slug: ladders
+title: Ladders
+artist-ids:
+- 4a20cb7d-b810-41fa-9bf0-4f40f677b43d
+commissioned-by: Municipality of Metropolitan Toronto Marathon Realty Company
+date: 1992-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6460427
+  longitude: -79.3887142
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

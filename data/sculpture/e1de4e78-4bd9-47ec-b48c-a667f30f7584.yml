@@ -1,0 +1,16 @@
+id: e1de4e78-4bd9-47ec-b48c-a667f30f7584
+type: sculpture
+slug: indexideal
+title: Index/Ideal
+artist-ids:
+- 1e0e98c5-dcae-4b79-8db8-60784934ad8a
+commissioned-by: Toronto Public Art
+date: 1990-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6407414
+  longitude: -79.4330559
+  precision: 50.0
+material-ids:
+- 90961d65-c887-44b3-9153-7364b69806bc
+tag-ids: []

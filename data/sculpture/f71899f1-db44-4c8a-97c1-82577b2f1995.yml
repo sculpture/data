@@ -1,0 +1,16 @@
+id: f71899f1-db44-4c8a-97c1-82577b2f1995
+type: sculpture
+slug: anadyomene
+title: Anadyomene
+artist-ids:
+- d534f5aa-828c-4b2f-8757-9aeafc9bf966
+commissioned-by: donated by Nancy Ruth
+date: 1995-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6664436
+  longitude: -79.3921208
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

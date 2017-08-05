@@ -1,0 +1,15 @@
+id: 81ea8689-c890-4be1-a0c3-05671c49cb6e
+type: sculpture
+slug: empress-colonettes
+title: Empress Colonettes
+artist-ids:
+- 8472f684-4b5d-4d5e-8eb8-5373b86fe4a1
+date: 1998-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7717306
+  longitude: -79.4114831
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

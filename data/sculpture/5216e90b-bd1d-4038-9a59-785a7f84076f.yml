@@ -1,0 +1,15 @@
+id: 5216e90b-bd1d-4038-9a59-785a7f84076f
+type: sculpture
+slug: alexander-wood
+title: Alexander Wood
+artist-ids:
+- c3948d04-163a-494a-b914-ca69d23b72d5
+date: 2005-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6635379
+  longitude: -79.38073899999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

@@ -1,0 +1,15 @@
+id: d268b3ef-ba7d-466c-baa4-c7378418e3f0
+type: sculpture
+slug: desire-bruts
+title: Desire Bruts
+artist-ids:
+- 9daaf51c-0bd5-4b2b-a14a-acecd3347096
+date: 2009-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6515077
+  longitude: -79.3627332
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

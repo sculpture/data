@@ -1,0 +1,17 @@
+id: 40267c81-3a05-4571-9e69-cae26494737b
+type: sculpture
+slug: katyn-memorial
+title: Katyn Memorial
+artist-ids:
+- 6ccebd79-46a8-46bf-92df-a0b67c6f4e46
+commissioned-by: Canadian Polish Congress
+date: 1980-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6411799
+  longitude: -79.4470542
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753

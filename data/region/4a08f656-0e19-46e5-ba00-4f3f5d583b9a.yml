@@ -1,0 +1,7 @@
+id: 4a08f656-0e19-46e5-ba00-4f3f5d583b9a
+type: region
+slug: franklin-childrens-garden
+name: Franklin Children's Garden
+geojson: '{"type":"Polygon","coordinates":[[[-79.3775189,43.6168172],[-79.3756682,43.6168172],[-79.3756682,43.6157705],[-79.3775189,43.6157705],[-79.3775189,43.6168172]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d

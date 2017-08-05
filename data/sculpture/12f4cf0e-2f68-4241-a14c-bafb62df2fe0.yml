@@ -1,0 +1,17 @@
+id: 12f4cf0e-2f68-4241-a14c-bafb62df2fe0
+type: sculpture
+slug: the-sky-watchers
+title: The Sky Watchers
+artist-ids:
+- ca882138-7a18-4778-8c94-c0ab81e64359
+commissioned-by: gift of Les and ..... Feldman
+date: 2000-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7305734
+  longitude: -79.43365399999999
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

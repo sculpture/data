@@ -1,0 +1,16 @@
+id: 3b9fa892-a4cc-411f-b46a-1d73aec81a63
+type: sculpture
+slug: ballad-of-ice-and-water
+title: Ballad of Ice and Water
+artist-ids:
+- 1242cb12-a0c1-41d6-a5d9-b2a97fa35f4d
+date: 2008-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.637158
+  longitude: -79.46995799999999
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

@@ -1,0 +1,15 @@
+id: fb25d1b5-b695-4162-87bc-f8dc5d3efc58
+type: sculpture
+slug: iron-tailor
+title: Iron Tailor
+artist-ids:
+- 8cdf4b59-89b1-45b0-8569-7db792062145
+date: 1986-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.673205
+  longitude: -79.394036
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

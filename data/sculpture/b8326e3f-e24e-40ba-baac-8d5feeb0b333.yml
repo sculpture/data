@@ -1,0 +1,15 @@
+id: b8326e3f-e24e-40ba-baac-8d5feeb0b333
+type: sculpture
+slug: mercury
+title: Mercury
+artist-ids:
+- d7261014-c529-4391-a807-1676b6cf3ac1
+date: 1926-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.5439897
+  longitude: -80.236429
+  precision: 50.0
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids: []

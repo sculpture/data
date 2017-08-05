@@ -1,0 +1,16 @@
+id: 1d8ec321-8bcc-41d9-ac3c-7cbdf412638f
+type: sculpture
+slug: haida
+title: Haida
+artist-ids:
+- ddaf3797-99ee-4144-8ab7-e8ddd5638a70
+date: 1973-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.43709459999999
+  longitude: -75.6962234
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

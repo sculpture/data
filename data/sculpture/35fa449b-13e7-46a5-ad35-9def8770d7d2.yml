@@ -1,0 +1,16 @@
+id: 35fa449b-13e7-46a5-ad35-9def8770d7d2
+type: sculpture
+slug: one-ninety-north
+title: One Ninety North
+artist-ids:
+- 2f0762a2-1b34-42c0-b2a2-73947952a06c
+date-precision: year
+location:
+  latitude: 43.7281237
+  longitude: -79.4391974
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: (photo courtesy, Anne Harris)
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

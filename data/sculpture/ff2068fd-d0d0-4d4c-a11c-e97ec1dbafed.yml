@@ -1,0 +1,16 @@
+id: ff2068fd-d0d0-4d4c-a11c-e97ec1dbafed
+type: sculpture
+slug: businessman
+title: Businessman
+artist-ids:
+- 002417af-f23d-4e54-ad58-b0f3e0085ad8
+date: 1980-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6481666
+  longitude: -79.3758582
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

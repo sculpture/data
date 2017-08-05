@@ -1,0 +1,16 @@
+id: 24674623-d308-4b47-a9bd-e8224f66fb45
+type: sculpture
+slug: architectural-sculpture
+title: Architectural Sculpture
+artist-ids:
+- d943ccf6-b84a-42b7-ba4d-60656e547118
+date: 1970-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.64714499036378
+  longitude: -79.38431563809816
+  precision: 50.0
+material-ids:
+- 3cd25954-9a6b-478f-a4a4-8470c3972f2c
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

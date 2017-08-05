@@ -1,0 +1,16 @@
+id: 462ecf86-b103-425f-8e58-6064024381f2
+type: sculpture
+slug: orenda
+title: Orenda
+artist-ids:
+- 67bd08d2-7003-4396-9e5e-675adb4548fc
+commissioned-by: Toronto Public Art Commission
+date: 2001-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6459992
+  longitude: -79.3789161
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

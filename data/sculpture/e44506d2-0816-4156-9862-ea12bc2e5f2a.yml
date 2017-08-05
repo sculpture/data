@@ -1,0 +1,16 @@
+id: e44506d2-0816-4156-9862-ea12bc2e5f2a
+type: sculpture
+slug: untitled-1-bowers
+title: Untitled (1)
+artist-ids:
+- 9bb58a22-5b50-43f3-bb71-52ef7e0b538b
+commissioned-by: Tridel
+date: 1987-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.66660710458613
+  longitude: -79.38609430660705
+  precision: 10.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

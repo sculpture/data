@@ -1,0 +1,15 @@
+id: 47e1cf4c-1eee-4870-9f9a-7f6e059254ea
+type: sculpture
+slug: double-take
+title: Double Take
+artist-ids:
+- 065b7dff-8280-40d5-877a-f5d5cc6c9277
+date: 2014-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.66982306059775
+  longitude: -79.37996952093206
+  precision: 33.0
+material-ids:
+- d5e04d12-19d1-4983-86c9-8ef02568d71c
+tag-ids: []

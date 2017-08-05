@@ -1,0 +1,15 @@
+id: 0cad2e7b-9770-46e2-8948-32a4ffe2c70b
+type: sculpture
+slug: harvester
+title: Harvester
+artist-ids:
+- ace1f5d4-d008-45de-9b78-fa7ebf47f733
+date: 1940-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.690365
+  longitude: -79.383315
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

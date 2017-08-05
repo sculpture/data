@@ -1,0 +1,16 @@
+id: 7797f6eb-c3ae-4d9b-b037-6bdad547beb8
+type: sculpture
+slug: ground-outline
+title: Ground Outline
+artist-ids:
+- 01b509a2-b82b-46c2-80e7-910b2d2472e6
+date: 1978-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 44.2311717
+  longitude: -76.4859544
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

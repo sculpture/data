@@ -1,0 +1,7 @@
+id: 36394b43-5e94-4dbd-b01c-3caaefdb0721
+type: region
+slug: milliken
+name: Milliken
+geojson: '{"type":"Point","coordinates":[-79.30707,43.8237]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25

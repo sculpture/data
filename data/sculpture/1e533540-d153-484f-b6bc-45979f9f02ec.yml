@@ -1,0 +1,16 @@
+id: 1e533540-d153-484f-b6bc-45979f9f02ec
+type: sculpture
+slug: source-i
+title: Source I
+artist-ids:
+- a791e704-3cf6-4e29-b923-0e8213816522
+commissioned-by: Spencer Clark, The Guild of All Arts
+date: 1964-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.698081099825295
+  longitude: -79.39434553016358
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

@@ -1,0 +1,16 @@
+id: aa7209da-c97e-44fc-b622-c2e7c0556d83
+type: sculpture
+slug: native-peoples
+title: Native Peoples
+artist-ids:
+- 8067917a-7e0c-4587-9b90-1b050626440c
+commissioned-by: Rhyl Industrial Leaseholds Ltd.
+date: 1989-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.71949937062513
+  longitude: -79.45614293121339
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

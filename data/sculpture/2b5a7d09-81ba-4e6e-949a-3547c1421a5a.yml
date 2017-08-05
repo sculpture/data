@@ -1,0 +1,16 @@
+id: 2b5a7d09-81ba-4e6e-949a-3547c1421a5a
+type: sculpture
+slug: emily-carr-and-friends-2
+title: Emily Carr and Friends (2)
+artist-ids:
+- 0af22cae-23ce-47ec-91c7-fe2a4b9c5441
+date: 2005-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.4966213
+  longitude: -73.58110649999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

@@ -1,0 +1,7 @@
+id: 161ec2af-48c4-4a0b-9341-df0df2e06145
+type: region
+slug: rexdale
+name: Rexdale
+geojson: '{"type":"Point","coordinates":[-79.56551,43.72136]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25

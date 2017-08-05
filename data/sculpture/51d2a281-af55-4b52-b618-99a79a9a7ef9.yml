@@ -1,0 +1,16 @@
+id: 51d2a281-af55-4b52-b618-99a79a9a7ef9
+type: sculpture
+slug: youth-and-environment
+title: Youth and Environment
+artist-ids:
+- 56d243ae-7954-4107-b7fa-6290ac7cb48f
+commissioned-by: Exhibition Place
+date: 1972-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6329167863902
+  longitude: -79.4215636118394
+  precision: 65.0
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids: []

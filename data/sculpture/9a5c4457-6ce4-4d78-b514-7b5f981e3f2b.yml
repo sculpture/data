@@ -1,0 +1,16 @@
+id: 9a5c4457-6ce4-4d78-b514-7b5f981e3f2b
+type: sculpture
+slug: raoul-wallenberg
+title: Raoul Wallenberg
+artist-ids:
+- 3d0912a7-e895-47bd-8cf5-112216e50793
+date: 1996-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7132201
+  longitude: -79.42834739999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

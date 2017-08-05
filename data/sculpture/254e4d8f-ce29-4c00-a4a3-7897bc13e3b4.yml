@@ -1,0 +1,16 @@
+id: 254e4d8f-ce29-4c00-a4a3-7897bc13e3b4
+type: sculpture
+slug: a-sculpture-environment
+title: A Sculpture Environment
+artist-ids:
+- daa3739f-f25b-4e27-a19d-689c6f3740ac
+date: 1970-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.4722854
+  longitude: -80.5448576
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

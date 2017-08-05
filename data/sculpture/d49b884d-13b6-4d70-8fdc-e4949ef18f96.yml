@@ -1,0 +1,16 @@
+id: d49b884d-13b6-4d70-8fdc-e4949ef18f96
+type: sculpture
+slug: city-people
+title: City People
+artist-ids:
+- d4e37a04-c8e7-4c97-8473-106dd551f120
+commissioned-by: Royal Bank of Canada
+date: 1989-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6438982
+  longitude: -79.3889753
+  precision: 50.0
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids: []

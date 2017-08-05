@@ -1,0 +1,15 @@
+id: b8090f00-bfac-44d9-bf3c-2e1315a9c072
+type: sculpture
+slug: mountain
+title: Mountain
+artist-ids:
+- cbc391fc-7a7f-4fab-8f76-5e953737463c
+date: 1995-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.650659
+  longitude: -79.3873906
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids: []

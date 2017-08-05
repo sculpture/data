@@ -1,0 +1,15 @@
+id: 01662223-855c-4a44-b128-99359034512d
+type: sculpture
+slug: city-sounds
+title: City Sounds
+artist-ids:
+- 017169fc-fa89-402b-b458-0921eaba38e0
+date: 1992-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.641377
+  longitude: -79.412125
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

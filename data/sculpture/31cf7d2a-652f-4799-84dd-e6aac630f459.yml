@@ -1,0 +1,16 @@
+id: 31cf7d2a-652f-4799-84dd-e6aac630f459
+type: sculpture
+slug: la-scala
+title: La Scala
+artist-ids:
+- 06a0d143-ccaf-49fc-83d5-efe13761164f
+- 242b491c-6894-420a-990c-135e7e3d74f6
+date: 2003-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6680017
+  longitude: -79.3898529
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

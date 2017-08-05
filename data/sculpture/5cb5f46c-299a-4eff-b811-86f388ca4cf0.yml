@@ -1,0 +1,16 @@
+id: 5cb5f46c-299a-4eff-b811-86f388ca4cf0
+type: sculpture
+slug: silent-poem
+title: Silent Poem
+artist-ids:
+- 7d312e34-0929-4432-8b1f-4c13a1c19ef4
+commissioned-by: Park IX
+date: 1971-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.68796390000001
+  longitude: -79.398461
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

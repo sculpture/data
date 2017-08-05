@@ -1,0 +1,15 @@
+id: dbc5b648-e2d2-4b78-b610-41ef05283995
+type: sculpture
+slug: earth-and-sky
+title: Earth and Sky
+artist-ids:
+- d6c61866-dcae-407f-babb-083b3261c84d
+date: 1994-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.77352531657946
+  longitude: -79.25739002142645
+  precision: 97.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

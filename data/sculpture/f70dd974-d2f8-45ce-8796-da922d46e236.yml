@@ -1,0 +1,16 @@
+id: f70dd974-d2f8-45ce-8796-da922d46e236
+type: sculpture
+slug: james-beaty
+title: James Beaty
+artist-ids:
+- f92c8362-deea-4c7e-8ead-409d7f12fb98
+commissioned-by: North York Historical Society
+date: 2009-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.650896485047475
+  longitude: -79.37159092513126
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

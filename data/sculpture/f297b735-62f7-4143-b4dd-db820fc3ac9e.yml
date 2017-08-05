@@ -1,0 +1,15 @@
+id: f297b735-62f7-4143-b4dd-db820fc3ac9e
+type: sculpture
+slug: untitled-cryns
+title: Untitled
+artist-ids:
+- 87cf3970-5545-4c4f-8d82-c1a2e0c2bcbe
+date: 1997-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6476918
+  longitude: -79.37183499999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

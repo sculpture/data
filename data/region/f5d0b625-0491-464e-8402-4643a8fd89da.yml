@@ -1,0 +1,7 @@
+id: f5d0b625-0491-464e-8402-4643a8fd89da
+type: region
+slug: coronation-park
+name: Coronation Park
+geojson: '{"type":"Polygon","coordinates":[[[-79.40867,43.63307],[-79.4072,43.63522],[-79.40263,43.63521],[-79.40343,43.63339],[-79.40867,43.63307]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d

@@ -1,0 +1,16 @@
+id: 8e3c96b5-e452-432e-8af8-05db8c3e3ecd
+type: sculpture
+slug: sticky-wicket
+title: Sticky Wicket
+artist-ids:
+- bd9de07c-dcbb-4c62-9d26-d63b6736a547
+commissioned-by: Gift of artist
+date: 1978-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 40.8421803
+  longitude: -73.9436241
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []

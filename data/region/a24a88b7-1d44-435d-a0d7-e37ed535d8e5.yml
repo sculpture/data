@@ -1,0 +1,7 @@
+id: a24a88b7-1d44-435d-a0d7-e37ed535d8e5
+type: region
+slug: galbraith-building
+name: Galbraith Building
+geojson: '{"type":"Polygon","coordinates":[[[-79.3964927,43.6603449],[-79.3955025,43.6603449],[-79.3955025,43.6595708],[-79.3964927,43.6595708],[-79.3964927,43.6603449]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

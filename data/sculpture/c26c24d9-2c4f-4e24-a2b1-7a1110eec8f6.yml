@@ -1,0 +1,15 @@
+id: c26c24d9-2c4f-4e24-a2b1-7a1110eec8f6
+type: sculpture
+slug: difficult-accent
+title: Difficult Accent
+artist-ids:
+- 620e37ba-c0dd-4919-b8e0-e94e5a7fadb7
+date: 2000-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.69822072285885
+  longitude: -79.39453864921266
+  precision: 50.0
+material-ids:
+- 27dc5990-9b49-44ba-9638-9ea019c297c2
+tag-ids: []

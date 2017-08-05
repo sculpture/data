@@ -1,0 +1,15 @@
+id: 9ddfa2f0-0f8c-4f8e-a93a-aee91fd09bf9
+type: sculpture
+slug: beccas-h
+title: Becca's H
+artist-ids:
+- ddaf3797-99ee-4144-8ab7-e8ddd5638a70
+date: 1973-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6598852
+  longitude: -79.39635249999999
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

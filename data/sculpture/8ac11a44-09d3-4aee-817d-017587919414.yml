@@ -1,0 +1,18 @@
+id: 8ac11a44-09d3-4aee-817d-017587919414
+type: sculpture
+slug: monument-to-the-war-of-1812
+title: Monument to the War of 1812
+artist-ids:
+- 6ad8785c-b0a4-42c1-ba63-ee0161533bab
+commissioned-by: Malibu Inv.
+date: 2008-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.63671254573246
+  longitude: -79.39994050660405
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 683ca176-b7aa-4498-b6f3-e81e56ecffc0
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753

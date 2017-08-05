@@ -1,0 +1,16 @@
+id: d38591ed-b998-4e9b-b08f-ef3e9f2c24d1
+type: sculpture
+slug: robert-holmes
+title: Robert Holmes
+artist-ids:
+- 54ef1e4a-8914-4dfa-a39d-04240f68ea6e
+commissioned-by: Walter Havelock Robb
+date: 1930-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7477326
+  longitude: -79.1919502
+  precision: 50.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

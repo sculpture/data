@@ -1,0 +1,16 @@
+id: d1853252-9d64-4b66-8b8f-8f92f409b0de
+type: sculpture
+slug: the-hart
+title: The Hart
+artist-ids:
+- 0af22cae-23ce-47ec-91c7-fe2a4b9c5441
+commissioned-by: Hart House
+date: 1993-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.66360530995364
+  longitude: -79.39460361719667
+  precision: 10.0
+material-ids:
+- 7105d225-28c2-48a3-9a24-a67f3908fba6
+tag-ids: []

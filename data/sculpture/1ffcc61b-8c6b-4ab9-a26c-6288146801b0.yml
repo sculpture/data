@@ -1,0 +1,16 @@
+id: 1ffcc61b-8c6b-4ab9-a26c-6288146801b0
+type: sculpture
+slug: digitus
+title: Digitus
+artist-ids:
+- 101e3397-d18d-423a-a936-f87fd623d7d0
+date: 2008-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.72574082424543
+  longitude: -79.45279348144535
+  precision: 80.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

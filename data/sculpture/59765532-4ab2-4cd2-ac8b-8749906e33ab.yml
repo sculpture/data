@@ -1,0 +1,18 @@
+id: 59765532-4ab2-4cd2-ac8b-8749906e33ab
+type: sculpture
+slug: solitude
+title: Solitude
+artist-ids:
+- d8c774c0-7772-4702-af4c-e54d4746d511
+commissioned-by: Camrost Group
+date: 1989-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.5433846
+  longitude: -79.6658212
+  precision: 50.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

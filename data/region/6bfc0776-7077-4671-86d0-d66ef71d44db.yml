@@ -1,0 +1,7 @@
+id: 6bfc0776-7077-4671-86d0-d66ef71d44db
+type: region
+slug: davisville
+name: Davisville
+geojson: '{"type":"Polygon","coordinates":[[[-79.3981933,43.7110679],[-79.3732166,43.7110679],[-79.3732166,43.6955556],[-79.3981933,43.6955556],[-79.3981933,43.7110679]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25

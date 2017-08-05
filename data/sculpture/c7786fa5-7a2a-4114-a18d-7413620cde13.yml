@@ -1,0 +1,16 @@
+id: c7786fa5-7a2a-4114-a18d-7413620cde13
+type: sculpture
+slug: the-crest
+title: The Crest
+artist-ids:
+- 18976fc2-9dba-483c-8b02-4f7c9a7f5f6e
+commissioned-by: York University
+date: 1965-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7759125
+  longitude: -79.5029497
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids: []

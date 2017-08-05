@@ -1,0 +1,18 @@
+id: 9fd01765-a1e6-4610-8595-c13716ea7262
+type: sculpture
+slug: birds-in-flight
+title: Birds in Flight
+artist-ids:
+- 99f8c149-615d-43ea-9fb6-5675f87d905e
+date: 1978-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.76719872957687
+  longitude: -79.41500390036933
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- 9da26974-d142-42ce-86aa-f28559a6d575
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

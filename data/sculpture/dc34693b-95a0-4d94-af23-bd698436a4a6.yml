@@ -1,0 +1,16 @@
+id: dc34693b-95a0-4d94-af23-bd698436a4a6
+type: sculpture
+slug: john-graves-simcoe
+title: John Graves Simcoe
+artist-ids:
+- 5f5e73b4-75e3-41bb-b698-1b7ab285d8b1
+date: 1903-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6610589
+  longitude: -79.390712
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

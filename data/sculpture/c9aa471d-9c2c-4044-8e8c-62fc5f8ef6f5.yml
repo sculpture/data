@@ -1,0 +1,16 @@
+id: c9aa471d-9c2c-4044-8e8c-62fc5f8ef6f5
+type: sculpture
+slug: tracings
+title: Tracings
+artist-ids:
+- 3d773fc8-a238-4aa8-aa03-bc4f87c9d993
+commissioned-by: Menkes
+date: 2009-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7843933086628
+  longitude: -79.41637163624574
+  precision: 45.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

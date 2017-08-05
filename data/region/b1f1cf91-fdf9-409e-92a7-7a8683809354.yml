@@ -1,0 +1,7 @@
+id: b1f1cf91-fdf9-409e-92a7-7a8683809354
+type: region
+slug: union-station
+name: Union Station
+geojson: '{"type":"Polygon","coordinates":[[[-79.38266,43.64463],[-79.37934,43.64568],[-79.37804,43.64469],[-79.38227,43.6437],[-79.38266,43.64463]]]}'
+tag-ids:
+- be43f247-3b33-4ea0-9212-69df13bf6710

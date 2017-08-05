@@ -1,0 +1,7 @@
+id: 7d6ba823-6196-4340-a84c-60a75f9f28cd
+type: region
+slug: vanier-college
+name: Vanier College
+geojson: '{"type":"Polygon","coordinates":[[[-79.50262,43.77567],[-79.50204,43.77579],[-79.50186,43.77537],[-79.50244,43.77524],[-79.50262,43.77567]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

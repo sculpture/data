@@ -1,0 +1,15 @@
+id: 34015fb8-070e-44e8-a7bb-d0c499327b27
+type: sculpture
+slug: frederick-gans-memorial
+title: Frederick Gans Memorial
+artist-ids:
+- d534f5aa-828c-4b2f-8757-9aeafc9bf966
+date: 1980-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6534156
+  longitude: -79.3875127
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

@@ -1,0 +1,16 @@
+id: efdc9bd3-5ca5-420f-9cca-d1eb1375277e
+type: sculpture
+slug: constella
+title: Constella
+artist-ids:
+- f01c816e-53e3-4023-85a5-21c300a9b6b3
+commissioned-by: JDS Investments
+date: 1975-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.76898968944863
+  longitude: -79.46746435872194
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []

@@ -1,0 +1,16 @@
+id: 8951ce5e-0603-4789-9d67-dfda0a89c95d
+type: sculpture
+slug: broken-bicycle
+title: Broken Bicycle
+artist-ids:
+- 3e62670e-c7a6-4b27-afe0-749118b15bd0
+commissioned-by: Toronto Association for Democracy in China
+date: 1992-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6631489
+  longitude: -79.39474299999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

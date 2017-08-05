@@ -1,0 +1,15 @@
+id: fcd78be5-07eb-479e-a018-2af277e041dc
+type: sculpture
+slug: kells-nest
+title: Kells Nest
+artist-ids:
+- 42313942-4cca-4594-a834-c9079367626f
+date: 1997-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6663791
+  longitude: -79.3890095
+  precision: 50.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []

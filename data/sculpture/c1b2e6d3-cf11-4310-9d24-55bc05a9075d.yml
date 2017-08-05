@@ -1,0 +1,16 @@
+id: c1b2e6d3-cf11-4310-9d24-55bc05a9075d
+type: sculpture
+slug: light-spirals
+title: Light Spirals
+artist-ids:
+- 0ab32a1c-9a6e-4f0a-be5d-067ac68f5fdc
+date: 2006-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.65686609999999
+  longitude: -79.38423019999999
+  precision: 50.0
+material-ids:
+- 726cf03d-3413-4826-86af-55fe17ddb9e4
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

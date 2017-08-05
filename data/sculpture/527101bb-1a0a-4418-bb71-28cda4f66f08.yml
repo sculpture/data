@@ -1,0 +1,16 @@
+id: 527101bb-1a0a-4418-bb71-28cda4f66f08
+type: sculpture
+slug: being-there
+title: Being There
+artist-ids:
+- 7edcdec3-8b07-4fb7-a507-2b98cc1c5f0d
+date: 2002-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6751226
+  longitude: -79.3957564
+  precision: 50.0
+material-ids:
+- 2aa408c8-4b60-4a40-a151-67661b57b97b
+note: (fot.2006) Sculpture not anymore at this location
+tag-ids: []

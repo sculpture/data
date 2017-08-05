@@ -1,0 +1,15 @@
+id: 6ac80b4e-11d3-4c4d-8358-122c03034baf
+type: sculpture
+slug: norman-bethune
+title: Norman Bethune
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+commissioned-by: York University
+date-precision: year
+location:
+  latitude: 43.7731302
+  longitude: -79.5089203
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

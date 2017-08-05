@@ -1,0 +1,7 @@
+id: 2e7e7dfa-e3bb-4743-b4c5-a4a53527b48b
+type: region
+slug: curtis-lecture-hall
+name: Curtis Lecture Hall
+geojson: '{"type":"Polygon","coordinates":[[[-79.5057113,43.7734263],[-79.5046689,43.7734263],[-79.5046689,43.7729216],[-79.5057113,43.7729216],[-79.5057113,43.7734263]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

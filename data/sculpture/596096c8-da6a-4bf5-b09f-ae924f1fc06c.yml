@@ -1,0 +1,16 @@
+id: 596096c8-da6a-4bf5-b09f-ae924f1fc06c
+type: sculpture
+slug: fence-on-the-loose
+title: Fence on the Loose
+artist-ids:
+- 7ef55444-124f-4612-b3e2-f2da90447436
+commissioned-by: Lanterra Developments
+date: 2012-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6365097
+  longitude: -79.40658069999999
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

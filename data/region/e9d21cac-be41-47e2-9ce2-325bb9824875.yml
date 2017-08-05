@@ -1,0 +1,7 @@
+id: e9d21cac-be41-47e2-9ce2-325bb9824875
+type: region
+slug: centre-for-fine-arts
+name: Centre for Fine Arts
+geojson: '{"type":"Polygon","coordinates":[[[-79.5026299,43.7723197],[-79.5015737,43.7723197],[-79.5015737,43.7718099],[-79.5026299,43.7718099],[-79.5026299,43.7723197]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

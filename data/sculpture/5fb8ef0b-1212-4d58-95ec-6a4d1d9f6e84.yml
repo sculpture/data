@@ -1,0 +1,16 @@
+id: 5fb8ef0b-1212-4d58-95ec-6a4d1d9f6e84
+type: sculpture
+slug: radioville
+title: Radioville
+artist-ids:
+- dfb0ae2f-215f-4821-b6a4-b68c2452e849
+date: 2005-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.66357259999999
+  longitude: -79.3782082
+  precision: 50.0
+material-ids:
+- 983d1c37-99da-4b1d-baba-681a83e66d30
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
+tag-ids: []

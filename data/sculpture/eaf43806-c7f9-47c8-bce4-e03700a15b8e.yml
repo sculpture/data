@@ -1,0 +1,17 @@
+id: eaf43806-c7f9-47c8-bce4-e03700a15b8e
+type: sculpture
+slug: marlin
+title: Marlin
+artist-ids:
+- c65b02f1-105d-4cb6-b39c-b1ac75c20bcf
+commissioned-by: H&R Developers
+date: 1987-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6461424
+  longitude: -79.3850573
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

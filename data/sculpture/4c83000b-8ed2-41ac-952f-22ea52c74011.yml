@@ -1,0 +1,11 @@
+id: 4c83000b-8ed2-41ac-952f-22ea52c74011
+type: sculpture
+slug: leap-frog
+title: Leap Frog
+artist-ids:
+- bdf49cdc-7628-47af-8115-fe447b6249e0
+date: 1990-01-01T00:00:00Z
+date-precision: year
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

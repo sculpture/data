@@ -1,0 +1,7 @@
+id: 2c1d634b-7420-45ca-9a00-7c1c40365dfd
+type: region
+slug: meadowvale-cemetery
+name: Meadowvale Cemetery
+geojson: '{"type":"Polygon","coordinates":[[[-79.750355,43.641455],[-79.748425,43.641455],[-79.748425,43.640112],[-79.750355,43.640112],[-79.750355,43.641455]]]}'
+tag-ids:
+- 11ad1af4-ee67-4372-bd83-ae817b188c21

@@ -1,0 +1,17 @@
+id: 7fc2a26a-6968-4e13-b2b6-0110c033a619
+type: sculpture
+slug: joy
+title: Joy
+artist-ids:
+- d8c774c0-7772-4702-af4c-e54d4746d511
+commissioned-by: Sparks St. Businees Improvement
+date: 1970-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.423465359825066
+  longitude: -75.695881041742
+  precision: 48.0
+material-ids:
+- 90961d65-c887-44b3-9153-7364b69806bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

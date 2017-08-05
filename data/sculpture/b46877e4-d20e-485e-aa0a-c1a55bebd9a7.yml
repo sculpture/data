@@ -1,0 +1,15 @@
+id: b46877e4-d20e-485e-aa0a-c1a55bebd9a7
+type: sculpture
+slug: the-index
+title: The Index
+artist-ids:
+- 3309cd95-b58f-4fbb-982b-a05567a4dd58
+date: 2007-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.65358317020759
+  longitude: -79.39240217196657
+  precision: 44.0
+material-ids:
+- 2dc45cd1-a7d7-4496-b4da-0ab63b1f8545
+tag-ids: []

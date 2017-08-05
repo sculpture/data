@@ -1,0 +1,7 @@
+id: fec3d978-cb07-43e8-887b-2786f59d1007
+type: region
+slug: pharmacy-building
+name: Pharmacy Building
+geojson: '{"type":"Polygon","coordinates":[[[-79.392027,43.660165],[-79.3914243,43.660165],[-79.3914243,43.6597739],[-79.392027,43.6597739],[-79.392027,43.660165]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

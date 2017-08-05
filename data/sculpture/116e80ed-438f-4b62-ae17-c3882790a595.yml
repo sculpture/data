@@ -1,0 +1,16 @@
+id: 116e80ed-438f-4b62-ae17-c3882790a595
+type: sculpture
+slug: dancing-koi
+title: Dancing Koi
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+date: 2007-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7180569
+  longitude: -79.3741804
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288

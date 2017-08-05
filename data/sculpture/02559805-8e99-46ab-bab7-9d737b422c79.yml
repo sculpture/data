@@ -1,0 +1,17 @@
+id: 02559805-8e99-46ab-bab7-9d737b422c79
+type: sculpture
+slug: fair-grounds
+title: Fair Grounds
+artist-ids:
+- 32174a2c-f147-4f7b-bc14-56d7f3189f8e
+commissioned-by: Tridel & Dorsey Devl. Corp.
+date: 2003-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6451952
+  longitude: -79.3906811
+  precision: 50.0
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

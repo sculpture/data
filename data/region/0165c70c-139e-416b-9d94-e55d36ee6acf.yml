@@ -1,0 +1,7 @@
+id: 0165c70c-139e-416b-9d94-e55d36ee6acf
+type: region
+slug: the-george-drew-building
+name: The George Drew Building
+geojson: '{"type":"Polygon","coordinates":[[[-79.38508,43.66258],[-79.38439,43.66273],[-79.38429,43.66248],[-79.38488,43.66235],[-79.38508,43.66258]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215

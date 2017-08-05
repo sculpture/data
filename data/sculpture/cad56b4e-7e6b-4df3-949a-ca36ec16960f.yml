@@ -1,0 +1,16 @@
+id: cad56b4e-7e6b-4df3-949a-ca36ec16960f
+type: sculpture
+slug: mobius
+title: Mobius
+artist-ids:
+- 5afe82b7-0327-4dae-9a46-6805a4d5aa0d
+commissioned-by: Minto
+date: 2008-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7046667
+  longitude: -79.3978794
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

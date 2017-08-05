@@ -1,0 +1,7 @@
+id: 2f86de30-6fe4-4e1c-abd2-069f393f8c59
+type: region
+slug: toronto-centre-for-the-arts
+name: Toronto Centre for the Arts
+geojson: '{"type":"Polygon","coordinates":[[[-79.4151664,43.7665459],[-79.4138232,43.7665459],[-79.4138232,43.7655697],[-79.4151664,43.7655697],[-79.4151664,43.7665459]]]}'
+tag-ids:
+- 17d9bb08-20d9-41c9-aa61-5b47aa78faf3

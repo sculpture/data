@@ -1,0 +1,16 @@
+id: 6ffe9422-06d1-4350-bf5d-c495249c7ca3
+type: sculpture
+slug: man-and-woman-archambault
+title: Man and Woman
+artist-ids:
+- a7929085-aa59-43c6-bb5e-7b70e8d2df9b
+commissioned-by: Government of Ontario
+date: 1966-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.662932761201816
+  longitude: -79.3878368068848
+  precision: 84.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

@@ -1,0 +1,15 @@
+id: e2c2b099-bf66-4d20-aa53-86d0c687b3ad
+type: sculpture
+slug: easter-island-head
+title: Easter Island Head
+artist-ids:
+- 298597b3-828a-434b-b0f2-3f98185945fc
+date: 1987-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7271886803596
+  longitude: -79.34170887672119
+  precision: 50.0
+material-ids:
+- 5fd1cc05-abf6-4f86-b491-43ae800ae2b2
+tag-ids: []

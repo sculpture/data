@@ -1,0 +1,15 @@
+id: 8ece337d-11d3-4363-bf4b-ff089c5b9ded
+type: sculpture
+slug: nihgtlights
+title: Nihgtlights
+artist-ids:
+- c5d4d597-b585-4476-96ee-f25b34038f4f
+date: 2010-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.649955106599656
+  longitude: -79.35899956505126
+  precision: 58.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

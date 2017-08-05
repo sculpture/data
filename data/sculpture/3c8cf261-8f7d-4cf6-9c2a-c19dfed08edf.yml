@@ -1,0 +1,16 @@
+id: 3c8cf261-8f7d-4cf6-9c2a-c19dfed08edf
+type: sculpture
+slug: william-lyon-mackenzie
+title: William Lyon Mackenzie
+artist-ids:
+- 5f5e73b4-75e3-41bb-b698-1b7ab285d8b1
+date: 1940-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6631673
+  longitude: -79.39323929999999
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

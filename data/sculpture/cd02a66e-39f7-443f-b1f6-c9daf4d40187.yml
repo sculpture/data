@@ -1,0 +1,16 @@
+id: cd02a66e-39f7-443f-b1f6-c9daf4d40187
+type: sculpture
+slug: dead-tree-relief
+title: Dead Tree Relief
+artist-ids:
+- e5a50770-469e-4094-aaf1-cdc8749d826a
+commissioned-by: residents of York Mills
+date: 1930-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 41.9030188
+  longitude: -90.8645155
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

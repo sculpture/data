@@ -1,0 +1,15 @@
+id: 315fdd82-7311-4eda-8c76-a174dfc1c39d
+type: sculpture
+slug: the-gateway-to-understanding
+title: The Gateway to Understanding
+artist-ids:
+- 7abba0af-7ecb-41d2-a30e-d926bad917af
+date: 1991-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6386533
+  longitude: -79.3877998
+  precision: 50.0
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids: []

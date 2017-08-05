@@ -1,0 +1,17 @@
+id: 608cca79-e885-46ff-b786-45f2838c14dc
+type: sculpture
+slug: spirits-in-the-landscape
+title: Spirits in the Landscape
+artist-ids:
+- 8067917a-7e0c-4587-9b90-1b050626440c
+commissioned-by: BC Gas
+date: 1992-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 49.2861686
+  longitude: -123.1231212
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

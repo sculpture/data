@@ -1,0 +1,7 @@
+id: 2ace9c65-d244-4360-b4eb-3ae52cf0e9c3
+type: region
+slug: david-balfour-park
+name: David Balfour Park
+geojson: '{"type":"Polygon","coordinates":[[[-79.391506,43.6911578],[-79.3856406,43.6911578],[-79.3856406,43.6857081],[-79.391506,43.6857081],[-79.391506,43.6911578]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d

@@ -1,0 +1,15 @@
+id: ab72ad94-fba2-47cc-9dff-dde3c2b27dc5
+type: sculpture
+slug: the-dance
+title: The Dance
+artist-ids:
+- fac71078-7b86-4eb2-bbb8-1cb31ce2197e
+date: 1998-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7195612
+  longitude: -79.4010886
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

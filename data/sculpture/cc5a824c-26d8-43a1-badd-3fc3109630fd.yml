@@ -1,0 +1,15 @@
+id: cc5a824c-26d8-43a1-badd-3fc3109630fd
+type: sculpture
+slug: things-end
+title: Thing's End
+artist-ids:
+- 7a8178a5-4c8f-4020-8064-52135f999e71
+commissioned-by: Daniels Corporation
+date: 2012-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.646781
+  longitude: -79.3900997
+  precision: 50.0
+material-ids: []
+tag-ids: []

@@ -1,0 +1,16 @@
+id: a733c27c-30fd-480b-b362-31cda9e03664
+type: sculpture
+slug: searchlight-starlight-spotlight
+title: Searchlight Starlight Spotlight
+artist-ids:
+- 1242cb12-a0c1-41d6-a5d9-b2a97fa35f4d
+commissioned-by: Maple Leafs Sports
+date: 1999-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.643888
+  longitude: -79.378192
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

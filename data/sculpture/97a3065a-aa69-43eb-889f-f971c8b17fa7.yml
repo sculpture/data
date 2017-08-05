@@ -1,0 +1,16 @@
+id: 97a3065a-aa69-43eb-889f-f971c8b17fa7
+type: sculpture
+slug: garden-floating-groud
+title: Garden Floating Groud
+artist-ids:
+- bf959509-958a-4b61-8f77-b4bb2f02403c
+commissioned-by: donated by Lyle Fauteux
+date: 1991-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7305734
+  longitude: -79.43365399999999
+  precision: 50.0
+material-ids:
+- d0c52472-81c0-4c1d-abd7-3a32fd760700
+tag-ids: []

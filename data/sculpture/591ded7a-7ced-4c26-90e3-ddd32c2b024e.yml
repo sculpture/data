@@ -1,0 +1,17 @@
+id: 591ded7a-7ced-4c26-90e3-ddd32c2b024e
+type: sculpture
+slug: otkenfetto
+title: Otkenfetto
+artist-ids:
+- c65b02f1-105d-4cb6-b39c-b1ac75c20bcf
+commissioned-by: Oracle Corp.
+date: 1990-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6408563
+  longitude: -79.62458029999999
+  precision: 50.0
+material-ids:
+- 841b0164-544d-4dfd-93d7-65633264d764
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

@@ -1,0 +1,15 @@
+id: d1223e65-862e-4cf3-ba9d-11fea1f7c087
+type: sculpture
+slug: geranium-lady
+title: Geranium Lady
+artist-ids:
+- 62328820-e90b-4ad0-ac81-d52297f9d86a
+date: 2003-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.670948
+  longitude: -79.3928349
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

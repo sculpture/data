@@ -1,0 +1,16 @@
+id: e6e21548-5ba2-4a8e-977c-ae5e9d2c5c0f
+type: sculpture
+slug: drjose-rizal
+title: Dr.Jose Rizal
+artist-ids:
+- 8bc19d77-a86f-4714-9c35-e1bd2bae6509
+date: 1998-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.75182698598734
+  longitude: -79.43379764871831
+  precision: 169.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []
