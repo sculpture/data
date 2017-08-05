@@ -3853,8 +3853,8 @@ commissioned-by: Royal bank and Trizec Co
 date: 1972-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 45.5015
-  longitude: -73.5684
+  latitude: 45.5013796840275
+  longitude: -73.56852874603271
   precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
