@@ -7,8 +7,8 @@ artist-ids:
 date: 1994-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.72217267148061
-  longitude: -79.37505219573981
+  latitude: 43.721986581745476
+  longitude: -79.37567446823125
   precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
