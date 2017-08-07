@@ -7,9 +7,9 @@ artist-ids:
 date: 1994-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.720808
-  longitude: -79.3787
-  precision: 50.0
+  latitude: 43.722746444525235
+  longitude: -79.37541697616581
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 note: (photo courtesy, Anne Harris)
