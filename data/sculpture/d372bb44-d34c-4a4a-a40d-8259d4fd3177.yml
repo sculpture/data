@@ -1,6 +1,6 @@
 id: d372bb44-d34c-4a4a-a40d-8259d4fd3177
 type: sculpture
-slug: mother-and-child
+slug: mother-and-child-harman
 title: Mother and Child
 artist-ids:
 - bb4e2f79-bea0-4746-8455-f789a36cb9b8
@@ -8,9 +8,9 @@ commissioned-by: Government of Ontario
 date: 1968-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.667269
-  longitude: -79.3737285
-  precision: 50.0
+  latitude: 43.66287620998506
+  longitude: -79.38887761651617
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
