@@ -8,8 +8,8 @@ commissioned-by: Oceans Eleven Group
 date: 1999-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6631771118642
-  longitude: -79.3783943100342
-  precision: 46
+  latitude: 43.66285113393624
+  longitude: -79.37824410632939
+  precision: 33
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
