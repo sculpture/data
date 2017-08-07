@@ -7,6 +7,10 @@ artist-ids:
 commissioned-by: Gift. Mr. and Mrs. Louis Odette
 date: 1998-01-01T00:00:00Z
 date-precision: year
+location:
+  latitude: 42.311573838413246
+  longitude: -83.0675302766907
+  precision: 43
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids:
