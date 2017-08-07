@@ -1,7 +1,7 @@
 id: 32946bf5-4460-4c8e-9ebd-52dc744e01ea
 type: sculpture
-slug: social-theatre-1
-title: Social Theatre (1)
+slug: social-theatre-6
+title: Social Theatre VI
 artist-ids:
 - 8472f684-4b5d-4d5e-8eb8-5373b86fe4a1
 - 8dbed0ca-9de0-4167-bb1a-57a7586ecd43
@@ -9,8 +9,8 @@ commissioned-by: TTC
 date: 1997-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.64882857921746
-  longitude: -79.3963573666565
+  latitude: 43.642959303495196
+  longitude: -79.39399702272341
   precision: 50
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
