@@ -8,9 +8,9 @@ commissioned-by: Sydney and Florence Cooper
 date: 1987-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.72896101346928
-  longitude: -79.43610749521486
-  precision: 50
+  latitude: 43.729379665814555
+  longitude: -79.4344230679535
+  precision: 44
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
