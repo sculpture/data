@@ -8,9 +8,9 @@ artist-ids:
 date: 1938-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.65963139999999
-  longitude: -79.3755384
-  precision: 50.0
+  latitude: 43.64954019060898
+  longitude: -79.37128978092045
+  precision: 50
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 tag-ids: []
