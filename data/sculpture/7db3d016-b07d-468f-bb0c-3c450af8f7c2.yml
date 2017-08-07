@@ -8,9 +8,9 @@ commissioned-by: Sun Life Assurance
 date: 1970-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.70102660000001
-  longitude: -79.52084099999999
-  precision: 50.0
+  latitude: 43.64795425338844
+  longitude: -79.38403957585759
+  precision: 17
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
