@@ -1,0 +1,16 @@
+id: fb0ec340-2d93-4a68-bde5-933dd17e0dd7
+type: sculpture
+slug: dancer-jacson-ottawa
+title: The Dancer
+artist-ids:
+- 31569ea3-c21b-430e-84a9-2f6e29649444
+date: 1964-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.564180960957984
+  longitude: -80.25935233602907
+  precision: 32
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
