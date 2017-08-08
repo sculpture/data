@@ -8,9 +8,9 @@ commissioned-by: Hammerson Canada Inc
 date: 1984-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6444529
-  longitude: -79.3931267
-  precision: 50.0
+  latitude: 43.6465335565981
+  longitude: -79.3844363427918
+  precision: 50
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids:
