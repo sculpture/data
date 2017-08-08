@@ -8,9 +8,9 @@ commissioned-by: The Law Society of Upper Canada
 date: 1951-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6456919
-  longitude: -79.41149
-  precision: 50.0
+  latitude: 43.65190247359377
+  longitude: -79.38571933578497
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
