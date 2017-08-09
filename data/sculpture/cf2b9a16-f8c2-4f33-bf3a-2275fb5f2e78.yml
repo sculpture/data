@@ -8,9 +8,9 @@ commissioned-by: The Shriners
 date: 1930-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.5439897
-  longitude: -80.236429
-  precision: 50.0
+  latitude: 43.63077257275567
+  longitude: -79.42222196190187
+  precision: 43
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
