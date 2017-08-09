@@ -7,9 +7,9 @@ artist-ids:
 date: 2007-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6612981
-  longitude: -79.4142698
-  precision: 50.0
+  latitude: 43.66098763515386
+  longitude: -79.41409813862309
+  precision: 50
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 note: World War II Memorial
