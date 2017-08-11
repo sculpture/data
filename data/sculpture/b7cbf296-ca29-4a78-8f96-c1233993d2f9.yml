@@ -8,9 +8,9 @@ commissioned-by: Page & Steele Architects
 date: 1957-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.5439897
-  longitude: -80.236429
-  precision: 50.0
+  latitude: 43.633855415561186
+  longitude: -79.42048389046025
+  precision: 45
 material-ids:
 - b46e929f-a326-483e-8abb-82c3f2695a69
 tag-ids: []
