@@ -9,9 +9,9 @@ commissioned-by: WSIB
 date: 2000-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6449908
-  longitude: -79.38586459999999
-  precision: 50.0
+  latitude: 43.64457155825337
+  longitude: -79.38633666878664
+  precision: 40
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
