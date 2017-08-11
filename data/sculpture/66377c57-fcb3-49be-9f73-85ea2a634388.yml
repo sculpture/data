@@ -8,9 +8,9 @@ commissioned-by: Canadian Memorial Chiropractic College
 date: 1977-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6582363
-  longitude: -79.3277432
-  precision: 50.0
+  latitude: 43.79343259278278
+  longitude: -79.36896446044632
+  precision: 22
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 note: (fot.2002 at old location 1900 Bayview Ave.)
