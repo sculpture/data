@@ -7,9 +7,9 @@ artist-ids:
 date: 1914-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.690365
-  longitude: -79.383315
-  precision: 50.0
+  latitude: 43.69041154703607
+  longitude: -79.38318625396732
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
