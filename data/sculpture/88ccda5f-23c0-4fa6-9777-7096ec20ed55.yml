@@ -7,9 +7,9 @@ artist-ids:
 date: 1928-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.65242
-  longitude: -79.3870998
-  precision: 50.0
+  latitude: 43.652055149700914
+  longitude: -79.38587671268921
+  precision: 50
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
