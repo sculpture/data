@@ -8,9 +8,9 @@ commissioned-by: National Capital
 date: 1902-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 45.4178901
-  longitude: -75.6903711
-  precision: 50.0
+  latitude: 45.422245
+  longitude: -75.6919788
+  precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
