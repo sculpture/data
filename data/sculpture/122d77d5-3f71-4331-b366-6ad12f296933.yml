@@ -7,8 +7,8 @@ artist-ids:
 date: 1977-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.730247788251894
-  longitude: -79.43451230688477
+  latitude: 43.730092734416345
+  longitude: -79.4339758650818
   precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
