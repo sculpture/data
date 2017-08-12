@@ -8,9 +8,9 @@ commissioned-by: United Steel Workers of America
 date: 1977-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6540578
-  longitude: -79.38452989999999
-  precision: 50.0
+  latitude: 43.65429067565968
+  longitude: -79.38347847406617
+  precision: 50
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 - a267fb56-e090-4da4-b72c-152f966877d9
