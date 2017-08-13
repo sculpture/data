@@ -9,9 +9,9 @@ commissioned-by: Canadian Heritage and Valiants Foundation
 date: 2006-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 45.429535
-  longitude: -75.6989062
-  precision: 10
+  latitude: 45.42382746710399
+  longitude: -75.69515110737916
+  precision: 45
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
