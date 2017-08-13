@@ -1,9 +1,9 @@
 id: 87168935-b772-4e02-bb1e-0ed712a38871
 type: sculpture
 slug: valiants-memorial
-title: Valiants Memorial
+title: Valiants Memorial - Thayendanegea
 artist-ids:
-- 2bb1c559-406f-454c-92ae-9a8d09860aca
+- 1242cb12-a0c1-41d6-a5d9-b2a97fa35f4d
 - 67bd08d2-7003-4396-9e5e-675adb4548fc
 commissioned-by: Canadian Heritage and Valiants Foundation
 date: 2006-01-01T00:00:00Z
@@ -11,7 +11,7 @@ date-precision: year
 location:
   latitude: 45.377037
   longitude: -75.684944
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
