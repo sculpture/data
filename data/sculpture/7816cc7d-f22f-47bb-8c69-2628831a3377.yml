@@ -8,9 +8,9 @@ commissioned-by: TTC
 date: 1984-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.65623100000001
-  longitude: -79.38103699999999
-  precision: 50.0
+  latitude: 43.65621547548578
+  longitude: -79.3807151349182
+  precision: 40
 material-ids:
 - 4cd09e5a-9808-4c0d-98e6-e66a16333a95
 tag-ids: []
