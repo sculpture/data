@@ -8,9 +8,9 @@ commissioned-by: purchased by friends of Albert M. Campbell
 date: 1973-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.775763
-  longitude: -79.23494
-  precision: 50.0
+  latitude: 43.770789355452955
+  longitude: -79.25616163772591
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - f464cfd0-cf7e-42d9-9f7c-9d7edfda1667
