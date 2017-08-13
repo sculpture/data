@@ -7,10 +7,11 @@ artist-ids:
 date: 1985-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6420294
-  longitude: -79.4119565
-  precision: 50.0
+  latitude: 43.647696919575054
+  longitude: -79.38189430136117
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 note: (fot.2007) Sculpture not anymore at this location
-tag-ids: []
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
