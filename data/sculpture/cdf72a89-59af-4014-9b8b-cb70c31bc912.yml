@@ -8,9 +8,9 @@ commissioned-by: City of Toronto & Crown Life Ins.
 date: 1989-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.7109136
-  longitude: -79.2536662
-  precision: 50.0
+  latitude: 43.67183544325175
+  longitude: -79.385465441742
+  precision: 36
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids: []
