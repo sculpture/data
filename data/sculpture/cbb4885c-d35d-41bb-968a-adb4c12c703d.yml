@@ -8,9 +8,9 @@ commissioned-by: St. Michael's College
 date: 1973-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.666273
-  longitude: -79.389718
-  precision: 50
+  latitude: 43.66529511133845
+  longitude: -79.38922447354125
+  precision: 46
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
