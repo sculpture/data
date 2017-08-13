@@ -6,6 +6,10 @@ artist-ids:
 - cec9248d-fb9e-4a84-be6e-31c0f447b9b4
 date: 1983-01-01T00:00:00Z
 date-precision: year
+location:
+  latitude: 42.312018136478216
+  longitude: -83.06748736134648
+  precision: 27
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
