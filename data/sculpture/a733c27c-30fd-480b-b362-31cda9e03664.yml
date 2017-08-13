@@ -8,9 +8,9 @@ commissioned-by: Maple Leafs Sports
 date: 1999-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.643888
-  longitude: -79.378192
-  precision: 50.0
+  latitude: 43.643189249302914
+  longitude: -79.37995152911377
+  precision: 50
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids: []
