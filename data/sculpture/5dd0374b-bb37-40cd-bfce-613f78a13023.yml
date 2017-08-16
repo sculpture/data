@@ -1,6 +1,6 @@
 id: 5dd0374b-bb37-40cd-bfce-613f78a13023
 type: sculpture
-slug: passage
+slug: passage-moore
 title: Passage
 artist-ids:
 - 67bd08d2-7003-4396-9e5e-675adb4548fc
@@ -9,7 +9,7 @@ date-precision: year
 location:
   latitude: 43.653226
   longitude: -79.3831843
-  precision: 50.0
+  precision: 50
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids: []
