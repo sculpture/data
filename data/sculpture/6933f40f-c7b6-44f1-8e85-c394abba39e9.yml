@@ -7,9 +7,9 @@ artist-ids:
 date: 1955-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6506642
-  longitude: -79.385525
-  precision: 50.0
+  latitude: 43.65036920619937
+  longitude: -79.38597561111453
+  precision: 39
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
