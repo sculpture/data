@@ -8,9 +8,9 @@ commissioned-by: International Stone Sculpture Symposium
 date: 2005-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.5439897
-  longitude: -80.236429
-  precision: 50.0
+  latitude: 43.635866555226784
+  longitude: -79.41254455177615
+  precision: 46
 material-ids:
 - a267fb56-e090-4da4-b72c-152f966877d9
 tag-ids: []
