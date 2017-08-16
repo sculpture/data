@@ -8,9 +8,9 @@ commissioned-by: Edilcan Development
 date: 2008-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6609868
-  longitude: -79.3803061
-  precision: 50.0
+  latitude: 43.66107993962374
+  longitude: -79.3811858645569
+  precision: 50
 material-ids:
 - 56560105-70a1-4867-aaea-6d76d31576c0
 tag-ids: []
