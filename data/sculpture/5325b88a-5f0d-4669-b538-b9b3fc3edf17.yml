@@ -7,8 +7,8 @@ artist-ids:
 date: 1966-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.65290070132655
-  longitude: -79.38395442513128
+  latitude: 43.652877413262225
+  longitude: -79.38391150978704
   precision: 31
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
