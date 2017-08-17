@@ -1,6 +1,6 @@
 id: 7f7ef877-cd5f-444c-beb5-cada4fc10d83
 type: sculpture
-slug: family-group
+slug: family-group-nasturel
 title: Family Group
 artist-ids:
 - 6ca960f3-8b4a-47f7-958d-a27c6f4e7f39
@@ -9,7 +9,7 @@ date-precision: year
 location:
   latitude: 43.7523643
   longitude: -79.347319
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
