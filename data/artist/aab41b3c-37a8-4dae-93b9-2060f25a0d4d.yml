@@ -3,5 +3,6 @@ type: artist
 slug: edie-parker
 name: Edie Parker
 gender: male
-nationality: Canadian
+link-wikipedia: https://en.wikipedia.org/wiki/Edie_Parker_(artist)
+nationality: Hungarian Canadian
 tag-ids: []
