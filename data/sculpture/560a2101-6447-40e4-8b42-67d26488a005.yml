@@ -8,9 +8,9 @@ commissioned-by: National Congress of Italian Canadians
 date: 1985-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6438982
-  longitude: -79.3889753
-  precision: 50.0
+  latitude: 43.64552858640997
+  longitude: -79.38097158829959
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
