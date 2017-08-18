@@ -8,9 +8,9 @@ commissioned-by: Hart House
 date: 1990-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6640322
-  longitude: -79.3954372
-  precision: 50.0
+  latitude: 43.66365189766224
+  longitude: -79.39522262327884
+  precision: 36
 material-ids:
 - 18829464-3bed-4f42-b206-8d99f402dc1b
 tag-ids: []
