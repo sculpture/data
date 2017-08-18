@@ -3,5 +3,6 @@ type: artist
 slug: david-partridge
 name: David Partridge
 gender: male
-link-wikipedia: http://en.wikipedia.org/wiki/David_Partridge
+link-wikipedia: https://en.wikipedia.org/wiki/David_Partridge_(artist)
+nationality: Canadian
 tag-ids: []
