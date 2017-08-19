@@ -8,8 +8,8 @@ commissioned-by: CNE
 date: 1965-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.63254309122914
-  longitude: -79.42099887459109
+  latitude: 43.63204610885312
+  longitude: -79.42172843544314
   precision: 33
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
