@@ -8,9 +8,9 @@ commissioned-by: Oracle Corp.
 date: 1990-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6408563
-  longitude: -79.62458029999999
-  precision: 50.0
+  latitude: 43.61758560000001
+  longitude: -79.6740494
+  precision: 10
 material-ids:
 - 841b0164-544d-4dfd-93d7-65633264d764
 tag-ids:
