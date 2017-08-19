@@ -8,9 +8,9 @@ commissioned-by: H&R Developers
 date: 1987-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6461424
-  longitude: -79.3850573
-  precision: 50.0
+  latitude: 43.64594054709768
+  longitude: -79.38535770740968
+  precision: 38
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
