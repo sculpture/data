@@ -1,15 +1,15 @@
 id: 1c6efc01-608c-41e9-98d6-08af9238082b
 type: sculpture
-slug: winston-churchill
+slug: winston-churchill-raab
 title: Winston Churchill
 artist-ids:
 - 3d0912a7-e895-47bd-8cf5-112216e50793
 date: 1994-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6670366
-  longitude: -79.3810644
-  precision: 50.0
+  latitude: 43.72162966139615
+  longitude: -79.37559020608217
+  precision: 37
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
