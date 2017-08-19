@@ -1,6 +1,6 @@
 id: d68c6939-c58e-4f6e-a486-55478b8e9147
 type: sculpture
-slug: sails
+slug: sails-price
 title: Sails
 artist-ids:
 - e314a84d-406c-434e-85db-2419b0fbacb1
@@ -10,7 +10,7 @@ date-precision: year
 location:
   latitude: 43.6386533
   longitude: -79.3877998
-  precision: 50.0
+  precision: 50
 material-ids:
 - 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
 tag-ids:
