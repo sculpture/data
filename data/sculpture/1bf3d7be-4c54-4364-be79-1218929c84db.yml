@@ -7,10 +7,11 @@ artist-ids:
 commissioned-by: Spencer Clark
 date-precision: year
 location:
-  latitude: 43.7477326
-  longitude: -79.1919502
-  precision: 50.0
+  latitude: 43.7477015983195
+  longitude: -79.19108116427918
+  precision: 35
 material-ids:
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
 note: (fot.2002) Sculpture not anymore at this location
-tag-ids: []
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
