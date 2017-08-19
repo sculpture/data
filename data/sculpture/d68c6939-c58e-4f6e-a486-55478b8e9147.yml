@@ -8,8 +8,8 @@ commissioned-by: Harbour Castle Hotel
 date: 1975-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6386533
-  longitude: -79.3877998
+  latitude: 43.64040805769701
+  longitude: -79.37795072849735
   precision: 50
 material-ids:
 - 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
