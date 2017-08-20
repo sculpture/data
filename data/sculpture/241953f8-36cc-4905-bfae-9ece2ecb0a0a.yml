@@ -7,9 +7,9 @@ artist-ids:
 date: 2004-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.771685
-  longitude: -79.363914
-  precision: 50.0
+  latitude: 43.76858599330687
+  longitude: -79.36344193121339
+  precision: 50
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids: []
