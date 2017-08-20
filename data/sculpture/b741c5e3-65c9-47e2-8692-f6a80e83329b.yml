@@ -7,9 +7,9 @@ artist-ids:
 date: 1870-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6631673
-  longitude: -79.39323929999999
-  precision: 50.0
+  latitude: 43.661211405562284
+  longitude: -79.3924239084595
+  precision: 50
 material-ids:
 - 638725f5-0ac9-4b92-916d-b98af20b3df5
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
