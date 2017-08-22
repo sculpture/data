@@ -8,9 +8,9 @@ commissioned-by: Gift of City of Toronto
 date: 1967-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.84316889999999
-  longitude: -79.61668449999999
-  precision: 50
+  latitude: 43.84288259146278
+  longitude: -79.61728531481931
+  precision: 36
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 tag-ids:
