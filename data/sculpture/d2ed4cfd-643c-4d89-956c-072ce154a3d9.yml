@@ -1,6 +1,6 @@
 id: d2ed4cfd-643c-4d89-956c-072ce154a3d9
 type: sculpture
-slug: polar-bear
+slug: polar-bear-kleinburg
 title: Polar Bear
 artist-ids:
 - 065529a8-54c0-4d18-b13e-1ea593be9884
@@ -10,7 +10,7 @@ date-precision: year
 location:
   latitude: 43.84316889999999
   longitude: -79.61668449999999
-  precision: 50.0
+  precision: 50
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 tag-ids:
