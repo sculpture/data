@@ -1,6 +1,6 @@
 id: 0d328867-6f55-4827-91f1-4161362288e9
 type: sculpture
-slug: untitled
+slug: untitled-schelle-gomez
 title: Untitled
 artist-ids:
 - 8fad84b9-ee74-476d-8ea2-16585c61f1a6
@@ -10,7 +10,7 @@ date-precision: year
 location:
   latitude: 43.6703971
   longitude: -79.39502279999999
-  precision: 50.0
+  precision: 50
 material-ids:
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
 tag-ids: []
