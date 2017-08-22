@@ -1,0 +1,13 @@
+id: bf89f7ec-4b09-42d5-b226-226f0c124832
+type: sculpture
+slug: whats-your-name
+title: What's your name?
+artist-ids:
+- 934aca8b-0460-4ebb-8c92-6f821fd92520
+date: 2011-01-01T00:00:00Z
+location:
+  latitude: 43.70888619999999
+  longitude: -79.396176
+  precision: 24
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
