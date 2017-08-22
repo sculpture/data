@@ -1,6 +1,6 @@
 id: f5176b18-4147-4591-b728-e26ad3e9fb11
 type: sculpture
-slug: untitled-1
+slug: untitled-1-sadowska
 title: Untitled (1)
 artist-ids:
 - 38e32996-ada5-4a2d-9794-ab53222ceb4e
@@ -9,7 +9,7 @@ date-precision: year
 location:
   latitude: 43.657712
   longitude: -79.3701016
-  precision: 50.0
+  precision: 50
 material-ids:
 - 75dfd552-d16c-4149-9a5e-78848b93d168
 tag-ids: []
