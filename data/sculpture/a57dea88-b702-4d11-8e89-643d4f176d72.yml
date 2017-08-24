@@ -1,0 +1,14 @@
+id: a57dea88-b702-4d11-8e89-643d4f176d72
+type: sculpture
+slug: whatsoever-you-do
+title: Whatsoever You Do
+artist-ids:
+- c48a5321-53f5-4a8e-9301-c394ede176a4
+date: 2014-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.657011043962896
+  longitude: -79.40444619154053
+  precision: 24
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
