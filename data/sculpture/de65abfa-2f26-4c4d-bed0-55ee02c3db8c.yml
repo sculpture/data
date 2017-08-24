@@ -1,0 +1,13 @@
+id: de65abfa-2f26-4c4d-bed0-55ee02c3db8c
+type: sculpture
+slug: jesus-the-homeless
+title: Jesus the Homeless
+artist-ids:
+- c48a5321-53f5-4a8e-9301-c394ede176a4
+date: 2013-01-01T00:00:00Z
+location:
+  latitude: 43.6665429
+  longitude: -79.37917689999999
+  precision: 21
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
