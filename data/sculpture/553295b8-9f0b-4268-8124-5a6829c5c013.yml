@@ -8,9 +8,9 @@ commissioned-by: Municipality of Metropolitan Toronto Marathon Realty Company
 date: 1992-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6444529
-  longitude: -79.3931267
-  precision: 50.0
+  latitude: 43.645524291875475
+  longitude: -79.388620588855
+  precision: 41
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
