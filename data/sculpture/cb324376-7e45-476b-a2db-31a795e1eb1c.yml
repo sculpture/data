@@ -7,6 +7,10 @@ artist-ids:
 commissioned-by: Stadium Corporation of Ontario
 date: 1989-01-01T00:00:00Z
 date-precision: year
+location:
+  latitude: 43.642167627371585
+  longitude: -79.3887738428528
+  precision: 19
 material-ids:
 - 69e5a178-1413-4cf2-8805-5ac28641e955
 - 813407d6-0182-4b87-a4ea-66df2291a0f8
