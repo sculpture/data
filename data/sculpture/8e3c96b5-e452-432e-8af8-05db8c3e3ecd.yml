@@ -8,9 +8,9 @@ commissioned-by: Gift of artist
 date: 1978-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 40.8421803
-  longitude: -73.9436241
-  precision: 50.0
+  latitude: 43.77301966155876
+  longitude: -79.50712552966921
+  precision: 37
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids: []
