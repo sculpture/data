@@ -7,6 +7,10 @@ artist-ids:
 commissioned-by: Cadillac Faiview Co
 date: 1990-01-01T00:00:00Z
 date-precision: year
+location:
+  latitude: 43.65448477490915
+  longitude: -79.38089251904908
+  precision: 27
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 - c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
