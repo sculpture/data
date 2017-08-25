@@ -8,9 +8,9 @@ commissioned-by: Confederation Life Insurance Company
 date: 1992-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6702568
-  longitude: -79.3785632
-  precision: 50.0
+  latitude: 43.67098627719217
+  longitude: -79.37909964180301
+  precision: 33
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids: []
