@@ -8,9 +8,9 @@ commissioned-by: Gift by J.Gibson
 date: 1974-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.771685
-  longitude: -79.363914
-  precision: 50.0
+  latitude: 43.76925229329622
+  longitude: -79.36309860845945
+  precision: 50
 material-ids:
 - 56560105-70a1-4867-aaea-6d76d31576c0
 tag-ids:
