@@ -8,9 +8,9 @@ commissioned-by: International Sculpture Symposium
 date: 1967-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6407697
-  longitude: -79.3969678
-  precision: 50.0
+  latitude: 43.64156164873664
+  longitude: -79.39197889123234
+  precision: 28
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 - 35913622-405e-4e52-b409-6acc87a4dd77
