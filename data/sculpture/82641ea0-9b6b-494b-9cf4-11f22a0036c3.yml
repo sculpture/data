@@ -1,6 +1,6 @@
 id: 82641ea0-9b6b-494b-9cf4-11f22a0036c3
 type: sculpture
-slug: family-group
+slug: family-group-tenenbaum
 title: Family Group
 artist-ids:
 - e7e9196c-43d2-42ce-b88a-6253053ed5d4
@@ -9,7 +9,7 @@ date-precision: year
 location:
   latitude: 43.7305734
   longitude: -79.43365399999999
-  precision: 50.0
+  precision: 50
 material-ids:
 - a267fb56-e090-4da4-b72c-152f966877d9
 tag-ids:
