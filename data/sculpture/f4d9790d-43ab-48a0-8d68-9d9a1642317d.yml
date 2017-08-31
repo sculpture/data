@@ -1,6 +1,6 @@
 id: f4d9790d-43ab-48a0-8d68-9d9a1642317d
 type: sculpture
-slug: passage
+slug: passage-tacon
 title: Passage
 artist-ids:
 - f38a366e-21c4-4c50-9e8d-12010e7a448a
@@ -9,7 +9,7 @@ date-precision: year
 location:
   latitude: 43.7526016
   longitude: -79.45314479999999
-  precision: 50.0
+  precision: 50
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids: []
