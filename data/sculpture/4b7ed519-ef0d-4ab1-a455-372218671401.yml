@@ -6,6 +6,10 @@ artist-ids:
 - 753d8ebe-da7c-4197-aae9-8d1ee4783a6c
 date: 1971-01-01T00:00:00Z
 date-precision: year
+location:
+  latitude: 44.226343723177926
+  longitude: -76.49621116727297
+  precision: 34
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids:
