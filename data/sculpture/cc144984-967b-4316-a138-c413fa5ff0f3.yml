@@ -1,6 +1,6 @@
 id: cc144984-967b-4316-a138-c413fa5ff0f3
 type: sculpture
-slug: mother-and-child
+slug: mother-and-child-vivot
 title: Mother and Child
 artist-ids:
 - ab263bc0-6a20-4e7d-a2ce-948da0fd9977
@@ -9,7 +9,7 @@ date-precision: year
 location:
   latitude: 43.8418956
   longitude: -79.6593236
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
