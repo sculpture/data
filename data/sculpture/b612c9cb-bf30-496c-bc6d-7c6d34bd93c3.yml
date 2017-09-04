@@ -7,9 +7,9 @@ artist-ids:
 date: 1999-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6596659
-  longitude: -79.3860289
-  precision: 50.0
+  latitude: 43.65975904167287
+  longitude: -79.38564266190187
+  precision: 38
 material-ids:
 - 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
 - a267fb56-e090-4da4-b72c-152f966877d9
