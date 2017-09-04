@@ -8,9 +8,9 @@ commissioned-by: Loan of artist
 date: 1989-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.84316889999999
-  longitude: -79.61668449999999
-  precision: 50.0
+  latitude: 43.842008181207746
+  longitude: -79.61870152117918
+  precision: 50
 material-ids:
 - a267fb56-e090-4da4-b72c-152f966877d9
 tag-ids:
