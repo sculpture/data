@@ -6,6 +6,10 @@ artist-ids:
 - 6f317700-9647-4659-bd02-83324108c991
 date: 2000-01-01T00:00:00Z
 date-precision: year
+location:
+  latitude: 42.31079630925292
+  longitude: -83.0690966867554
+  precision: 44
 material-ids:
 - 36a5c7ef-1419-449a-8231-b2f360415380
 - 3e4bf7e0-ae14-49c8-88f4-315ef2160400
