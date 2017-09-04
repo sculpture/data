@@ -8,9 +8,9 @@ commissioned-by: Gift of Dr. Michel D'Avirro
 date: 1992-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 44.2311717
-  longitude: -76.4859544
-  precision: 50.0
+  latitude: 44.22634372317795
+  longitude: -76.49440872281497
+  precision: 50
 material-ids:
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
 tag-ids:
