@@ -7,9 +7,9 @@ artist-ids:
 date: 1940-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.690365
-  longitude: -79.383315
-  precision: 50.0
+  latitude: 43.69071022299132
+  longitude: -79.38317552513124
+  precision: 16
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
