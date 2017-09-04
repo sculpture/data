@@ -8,9 +8,9 @@ commissioned-by: residents of York Mills
 date: 1930-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 41.9030188
-  longitude: -90.8645155
-  precision: 50.0
+  latitude: 43.746509767730345
+  longitude: -79.38257130015262
+  precision: 40
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
