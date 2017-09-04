@@ -1,0 +1,13 @@
+id: 443eda1a-889c-4567-b5b6-bdff1a56b83a
+type: sculpture
+slug: griffin
+title: Griffin
+artist-ids:
+- ff97eb08-231e-4f0f-b756-220c14bb072c
+date: 1996-01-01T00:00:00Z
+location:
+  latitude: 43.6579416
+  longitude: -79.3983702
+  precision: 23
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
