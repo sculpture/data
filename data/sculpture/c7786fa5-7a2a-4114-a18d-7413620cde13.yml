@@ -8,9 +8,9 @@ commissioned-by: York University
 date: 1965-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.7759125
-  longitude: -79.5029497
-  precision: 50.0
+  latitude: 43.77619138301092
+  longitude: -79.50406549895021
+  precision: 60
 material-ids:
 - 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
 tag-ids: []
