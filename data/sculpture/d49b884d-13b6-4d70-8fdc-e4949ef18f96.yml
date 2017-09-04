@@ -8,9 +8,9 @@ commissioned-by: Royal Bank of Canada
 date: 1989-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6438982
-  longitude: -79.3889753
-  precision: 50.0
+  latitude: 43.64594782147752
+  longitude: -79.38009182374275
+  precision: 38
 material-ids:
 - 76c8ed4b-b169-44ca-bf45-466a20c85838
 tag-ids: []
