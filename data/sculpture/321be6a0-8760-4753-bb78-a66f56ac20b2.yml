@@ -1,13 +1,13 @@
 id: 321be6a0-8760-4753-bb78-a66f56ac20b2
 type: sculpture
-slug: unknown-28
-title: Unknown (28)
+slug: howling-wolf
+title: Howling Wolf
 artist-ids:
 - d1c91d4b-7b5d-4f5e-95f2-a9bbc369eded
 date-precision: year
 location:
-  latitude: 43.6456919
-  longitude: -79.41149
+  latitude: 43.64614218817644
+  longitude: -79.41331390213016
   precision: 50
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
