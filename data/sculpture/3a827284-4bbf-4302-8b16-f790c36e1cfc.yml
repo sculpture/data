@@ -1,9 +1,10 @@
 id: 3a827284-4bbf-4302-8b16-f790c36e1cfc
 type: sculpture
 slug: sturdust-and-time
-title: Stardust andTime
+title: Stardust and Time
 artist-ids:
 - 1242cb12-a0c1-41d6-a5d9-b2a97fa35f4d
+date: 2009-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 43.640537586409344
