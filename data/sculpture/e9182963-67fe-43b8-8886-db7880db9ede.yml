@@ -1,0 +1,13 @@
+id: e9182963-67fe-43b8-8886-db7880db9ede
+type: sculpture
+slug: freedom-of-expression
+title: Freedom of Expression
+artist-ids:
+- 67bd08d2-7003-4396-9e5e-675adb4548fc
+location:
+  latitude: 43.652555037269266
+  longitude: -79.38641654589385
+  precision: 34
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
