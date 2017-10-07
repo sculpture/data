@@ -1,0 +1,15 @@
+id: a626950f-bc03-4f68-931b-3aaf61bc7222
+type: sculpture
+slug: sir-john-a-macdonald-toronto
+title: Sir John A. MacDonald
+artist-ids:
+- 010683af-d9eb-46b9-9cdb-f1e541a455ad
+commissioned-by: The Macdonald Memorial Comittee
+date: 1894-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.66394014294279
+  longitude: -79.39160279416508
+  precision: 27
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
