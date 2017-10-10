@@ -1,0 +1,14 @@
+id: f83ea83e-8f24-4451-97ce-2d54db640987
+type: sculpture
+slug: blue-angel
+title: Blue Angel
+artist-ids:
+- daa3739f-f25b-4e27-a19d-689c6f3740ac
+date: 1984-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.97116853286052
+  longitude: -79.24649833226322
+  precision: 17
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
