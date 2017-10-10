@@ -1,0 +1,14 @@
+id: 0949b2b5-cf08-4f9a-a257-3e2159a00351
+type: sculpture
+slug: al-waxman
+title: Al Waxman
+artist-ids:
+- 9b34a8b7-35f0-4c56-95c0-344829c668db
+date: 2001-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6537058
+  longitude: -79.4019294
+  precision: 21
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
