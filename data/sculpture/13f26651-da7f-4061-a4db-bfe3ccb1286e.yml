@@ -1,0 +1,14 @@
+id: 13f26651-da7f-4061-a4db-bfe3ccb1286e
+type: sculpture
+slug: exodus-green
+title: Exodus
+artist-ids:
+- 620e37ba-c0dd-4919-b8e0-e94e5a7fadb7
+location:
+  latitude: 43.764159986275814
+  longitude: -79.44189140978699
+  precision: 16
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
