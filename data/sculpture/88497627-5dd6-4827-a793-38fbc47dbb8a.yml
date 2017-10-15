@@ -1,0 +1,14 @@
+id: 88497627-5dd6-4827-a793-38fbc47dbb8a
+type: sculpture
+slug: summer-clouds
+title: Summer Clouds
+artist-ids:
+- 331a8ed9-6411-46d8-a6df-1765d9e391a2
+date: 2014-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.76961266209026
+  longitude: -79.36921013544314
+  precision: 17
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
