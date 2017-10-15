@@ -1,0 +1,14 @@
+id: 4f82f348-964a-4824-ac2a-a1ad74d0e8a9
+type: sculpture
+slug: four-seasons-1
+title: Four Seasons (1)
+artist-ids:
+- 6ad8785c-b0a4-42c1-ba63-ee0161533bab
+date: 2014-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.77470788273388
+  longitude: -79.34614769101566
+  precision: 32
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
