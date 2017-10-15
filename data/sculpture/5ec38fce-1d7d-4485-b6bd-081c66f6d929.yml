@@ -1,0 +1,14 @@
+id: 5ec38fce-1d7d-4485-b6bd-081c66f6d929
+type: sculpture
+slug: soma-etrog
+title: Soma
+artist-ids:
+- a791e704-3cf6-4e29-b923-0e8213816522
+date: 1972-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.66668510449051
+  longitude: -79.35462605325367
+  precision: 33
+material-ids:
+- 5fd1cc05-abf6-4f86-b491-43ae800ae2b2
