@@ -3,6 +3,7 @@ type: sculpture
 slug: lambada-lishman
 title: 'Lambada '
 artist-ids:
+- 288b8cf4-eea4-47e3-9975-fd289514d71b
 - e9a53550-eb14-4cde-9d11-68e2f4305b47
 commissioned-by: donation by Tauba & Solomon Spiro Foundation
 date: 2009-01-01T00:00:00Z
@@ -11,4 +12,4 @@ location:
   latitude: 43.666503836795485
   longitude: -79.35572091111453
   precision: 22
-note: with Richard Vanheuvelan
+note: ' '
