@@ -1,0 +1,14 @@
+id: 1ebe5312-46d8-4c91-8b5d-70a97fa8c5a2
+type: sculpture
+slug: ballet-lishman
+title: Ballet
+artist-ids:
+- e9a53550-eb14-4cde-9d11-68e2f4305b47
+commissioned-by: donation by Tauba & Solomon Spiro Foundation
+location:
+  latitude: 43.66653488049971
+  longitude: -79.35573163995058
+  precision: 27
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+note: with Geordie Lishman
