@@ -3,6 +3,7 @@ type: sculpture
 slug: sky-divers
 title: Sky Divers
 artist-ids:
+- 0def9a7f-1eb2-43b5-923b-f06f4fcf5001
 - e9a53550-eb14-4cde-9d11-68e2f4305b47
 commissioned-by: donation by Tauba & Solomon Spiro Foundation
 location:
@@ -11,4 +12,4 @@ location:
   precision: 10
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
-note: with Richard Vanheuvelan
+note: ' '
