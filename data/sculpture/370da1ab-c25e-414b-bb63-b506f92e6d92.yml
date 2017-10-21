@@ -1,0 +1,13 @@
+id: 370da1ab-c25e-414b-bb63-b506f92e6d92
+type: sculpture
+slug: equus-kalfa
+title: Equus
+artist-ids:
+- 59a099ab-2242-470a-9459-0c46cc4ff532
+date: 2009-01-01T00:00:00Z
+location:
+  latitude: 43.77311084649059
+  longitude: -79.25576996718138
+  precision: 17
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
