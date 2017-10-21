@@ -6,6 +6,8 @@ artist-ids:
 - 0def9a7f-1eb2-43b5-923b-f06f4fcf5001
 - e9a53550-eb14-4cde-9d11-68e2f4305b47
 commissioned-by: donation by Tauba & Solomon Spiro Foundation
+date: 2015-10-01T00:00:00Z
+date-precision: year
 location:
   latitude: 43.666503836795485
   longitude: -79.35572091111453
