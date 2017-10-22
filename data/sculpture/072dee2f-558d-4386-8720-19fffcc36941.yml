@@ -1,7 +1,7 @@
 id: 072dee2f-558d-4386-8720-19fffcc36941
 type: sculpture
 slug: luis-vaz-de-camoes
-title: Luis Vaz de Camoes
+title: Luís Vaz de Camões
 artist-ids:
 - a3d6d80d-13fe-49df-b080-871f789c2fa1
 date: 1982-01-01T00:00:00Z
@@ -9,7 +9,7 @@ date-precision: year
 location:
   latitude: 43.6552048
   longitude: -79.4192249
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
