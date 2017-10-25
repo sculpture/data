@@ -1,7 +1,7 @@
 id: 0499ceb8-21f8-49a6-95f8-38b05b010bec
 type: sculpture
-slug: toron
-title: Toron
+slug: gomil79
+title: Gomil
 artist-ids:
 - f01c816e-53e3-4023-85a5-21c300a9b6b3
 commissioned-by: gift of R.Eloul Inc.
@@ -10,7 +10,7 @@ date-precision: year
 location:
   latitude: 46.7989705
   longitude: -71.22455099999999
-  precision: 50.0
+  precision: 50
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids:
