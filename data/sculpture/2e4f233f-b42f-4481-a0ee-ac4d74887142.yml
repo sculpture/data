@@ -5,12 +5,12 @@ title: Onward
 artist-ids:
 - f01c816e-53e3-4023-85a5-21c300a9b6b3
 commissioned-by: donated by Douglas King, Smith Monument Co.
-date: 1983-01-01T00:00:00Z
+date: 1992-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 43.66762704127997
   longitude: -79.36266779891967
-  precision: 50.0
+  precision: 50
 material-ids:
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
 tag-ids: []
