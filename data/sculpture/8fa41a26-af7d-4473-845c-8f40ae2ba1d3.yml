@@ -1,0 +1,14 @@
+id: 8fa41a26-af7d-4473-845c-8f40ae2ba1d3
+type: sculpture
+slug: dream-ballet
+title: Dream Ballet
+artist-ids:
+- 7b81070c-d211-4648-8f78-6eeb713750b8
+date: 2016-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.64678348180705
+  longitude: -79.37673025758068
+  precision: 16
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
