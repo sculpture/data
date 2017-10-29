@@ -1,0 +1,15 @@
+id: ce96d4ce-d53b-4845-b124-faa1cd2ec937
+type: sculpture
+slug: echo1-barkhouse
+title: Echo (1)
+artist-ids:
+- d1c91d4b-7b5d-4f5e-95f2-a9bbc369eded
+date: 2015-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.659165
+  longitude: -79.35293899999999
+  precision: 14
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
