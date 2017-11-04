@@ -1,6 +1,6 @@
 id: b73a3e17-960b-4c1c-9331-6d819e284710
 type: sculpture
-slug: south-african-war-memorial
+slug: south-african-war-memorial-toronto
 title: South African War Memorial
 artist-ids:
 - 5f5e73b4-75e3-41bb-b698-1b7ab285d8b1
@@ -9,7 +9,7 @@ date-precision: year
 location:
   latitude: 43.65242
   longitude: -79.3870998
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
