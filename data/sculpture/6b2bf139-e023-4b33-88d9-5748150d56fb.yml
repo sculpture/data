@@ -1,0 +1,14 @@
+id: 6b2bf139-e023-4b33-88d9-5748150d56fb
+type: sculpture
+slug: whatsoever-ottawa
+title: Whatsoever
+artist-ids:
+- c48a5321-53f5-4a8e-9301-c394ede176a4
+date: 2008-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.42069153429574
+  longitude: -75.70413278042605
+  precision: 19
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
