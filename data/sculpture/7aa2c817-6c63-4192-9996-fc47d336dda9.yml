@@ -1,0 +1,12 @@
+id: 7aa2c817-6c63-4192-9996-fc47d336dda9
+type: sculpture
+slug: edward-ted-rogers
+title: Edward Ted Rogers
+artist-ids:
+- 6ceff7a4-29b6-45a9-9d72-81a931f27c52
+location:
+  latitude: 43.641127232471995
+  longitude: -79.3904582701142
+  precision: 32
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
