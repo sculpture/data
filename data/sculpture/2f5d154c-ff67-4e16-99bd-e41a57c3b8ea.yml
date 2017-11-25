@@ -1,0 +1,14 @@
+id: 2f5d154c-ff67-4e16-99bd-e41a57c3b8ea
+type: sculpture
+slug: running-horses
+title: Running Horses
+artist-ids:
+- 0af22cae-23ce-47ec-91c7-fe2a4b9c5441
+date: 2007-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.43016746152983
+  longitude: -75.69737197644348
+  precision: 26
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
