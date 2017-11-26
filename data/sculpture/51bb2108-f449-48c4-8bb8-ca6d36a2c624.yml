@@ -1,0 +1,15 @@
+id: 51bb2108-f449-48c4-8bb8-ca6d36a2c624
+type: sculpture
+slug: equal-before-the-law
+title: Equal Before the Law
+artist-ids:
+- 9f3d942f-d242-4f96-bd09-6b3563f23221
+date: 2012-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.65301286744971
+  longitude: -79.3851227986725
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
