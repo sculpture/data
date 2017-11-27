@@ -1,0 +1,17 @@
+id: f654cc5e-2caf-4421-8d0d-5e2c5c8d0040
+type: sculpture
+slug: fowl-play
+title: Fowl Play
+artist-ids:
+- f29775e7-f37c-47ab-af78-0a73c2d99514
+commissioned-by: TTC
+date: 1997-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.65783028254415
+  longitude: -79.40012555808879
+  precision: 22
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
