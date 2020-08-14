@@ -2,7 +2,10 @@ id: 6ceff7a4-29b6-45a9-9d72-81a931f27c52
 type: artist
 slug: siggy-puchta
 name: Siggy Puchta
+birth-date: 1933-01-01T00:00:00Z
+birth-date-precision: year
+death-date: 2015-01-01T00:00:00Z
 gender: male
-link-website: http://siggypuchta.com/
+link-website: ''
 nationality: Canadian
 tag-ids: []

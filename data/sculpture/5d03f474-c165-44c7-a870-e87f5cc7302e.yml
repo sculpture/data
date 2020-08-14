@@ -1,0 +1,19 @@
+id: 5d03f474-c165-44c7-a870-e87f5cc7302e
+type: sculpture
+slug: the-bearded-ones
+title: The Bearded Ones
+artist-ids:
+- 32d9be80-86da-49c3-8123-d373d530b2a1
+commissioned-by: donated by Friends of the Library/Mississauga
+date: 1987-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.59028998627248
+  longitude: -79.64749084235845
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485

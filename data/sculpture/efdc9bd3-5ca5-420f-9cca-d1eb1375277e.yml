@@ -13,4 +13,5 @@ location:
   precision: 50.0
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
-tag-ids: []
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab

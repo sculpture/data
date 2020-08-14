@@ -1,0 +1,15 @@
+id: baf36cab-8458-40a3-814d-87c1d6b6c61c
+type: sculpture
+slug: family-uchida-ottawa
+title: Family
+artist-ids:
+- 00d6b393-8b88-4fd4-8a3d-cf19f1b56e9b
+date: 1974-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.425028584314035
+  longitude: -75.68887693068852
+  precision: 50.0
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids: []

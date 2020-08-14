@@ -9,7 +9,7 @@ date-precision: year
 location:
   latitude: 43.6749543
   longitude: -79.3958583
-  precision: 15
+  precision: 15.0
 material-ids:
 - 2aa408c8-4b60-4a40-a151-67661b57b97b
 note: (fot.2006) Sculpture not anymore at this location

@@ -1,0 +1,18 @@
+id: 970ca488-4d22-4ba0-b7aa-c9882b92ad31
+type: sculpture
+slug: queen-victoria-montreal-wood
+title: Queen Victoria  (Montreal)
+artist-ids:
+- f58e771e-e02a-494e-80a1-7af0a3222538
+date: 1872-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.50126333584566
+  longitude: -73.5610791807984
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9c3360b2-448e-4f0e-a2c0-b4339e34d6a4

@@ -1,0 +1,16 @@
+id: f6be9bc8-e4e5-420e-ab63-2ba9609c1235
+type: sculpture
+slug: hollow-form-hepworth
+title: Holow Form with Inner Form
+artist-ids:
+- 3a4702d2-d46e-4c0a-8c65-590a5b788eea
+commissioned-by: gift of Irving Zucker
+date: 1968-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.25663501705659
+  longitude: -79.87299825529485
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

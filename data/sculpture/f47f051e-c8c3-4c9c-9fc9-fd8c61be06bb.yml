@@ -1,0 +1,16 @@
+id: f47f051e-c8c3-4c9c-9fc9-fd8c61be06bb
+type: sculpture
+slug: hours-of-day-raff
+title: Hours of the Day
+artist-ids:
+- 2bb1c559-406f-454c-92ae-9a8d09860aca
+date: 2017-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.662111745837386
+  longitude: -79.38918379996954
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

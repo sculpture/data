@@ -1,0 +1,18 @@
+id: 17a22511-0bd4-449c-b683-ad359bd8044f
+type: sculpture
+slug: buenamigo
+title: Buen Amigo
+artist-ids:
+- 7cef7dae-912d-4c7e-93a7-f6ac83700461
+commissioned-by: private comission
+date: 2011-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.59398937942568
+  longitude: -79.634934219574
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485

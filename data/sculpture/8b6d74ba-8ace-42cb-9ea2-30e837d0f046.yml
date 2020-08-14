@@ -1,0 +1,17 @@
+id: 8b6d74ba-8ace-42cb-9ea2-30e837d0f046
+type: sculpture
+slug: women-are-persons
+title: Women are Persons!
+artist-ids:
+- 22fa7cfa-dc68-46df-8c8c-65e0a62e6a29
+date: 2000-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.425400904342816
+  longitude: -75.69788201055914
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2d488599-d808-40db-80a2-88b41c7bdb67

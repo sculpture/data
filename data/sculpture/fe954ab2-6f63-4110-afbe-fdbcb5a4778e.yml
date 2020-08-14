@@ -9,7 +9,7 @@ date-precision: year
 location:
   latitude: 43.66098763515386
   longitude: -79.41409813862309
-  precision: 50
+  precision: 50.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 note: World War II Memorial

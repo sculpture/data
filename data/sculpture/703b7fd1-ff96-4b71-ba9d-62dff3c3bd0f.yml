@@ -1,0 +1,18 @@
+id: 703b7fd1-ff96-4b71-ba9d-62dff3c3bd0f
+type: sculpture
+slug: we-run-through-desert
+title: We Run Through a Desert ...
+artist-ids:
+- e8bae0a4-bffe-447b-94c8-e4428a5469fd
+date: 2009-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.428995765208604
+  longitude: -75.698845349321
+  precision: 50.0
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- b46e929f-a326-483e-8abb-82c3f2695a69
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

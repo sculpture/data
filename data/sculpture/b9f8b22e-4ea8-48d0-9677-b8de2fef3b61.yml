@@ -1,0 +1,16 @@
+id: b9f8b22e-4ea8-48d0-9677-b8de2fef3b61
+type: sculpture
+slug: thataway-again
+title: Thataway Again
+artist-ids:
+- 0d0fb443-215d-4651-9adb-da2c7fb7d924
+date: 1979-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 44.22510527794578
+  longitude: -76.49777757733773
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a

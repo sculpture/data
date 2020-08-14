@@ -1,0 +1,15 @@
+id: 23bdde5d-58e5-451f-90ac-68fa09d074ec
+type: sculpture
+slug: emergencemiss
+title: Emergence
+artist-ids:
+- 0b5ea72f-4df8-4862-bbb3-6d9e54af0913
+date: 2006-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.55722336531375
+  longitude: -79.70263112213154
+  precision: 37.0
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids: []

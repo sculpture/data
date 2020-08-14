@@ -1,0 +1,15 @@
+id: e2963b31-ab32-43c9-97dc-eb54715e6850
+type: sculpture
+slug: twist-ottawa
+title: Twist 1.5
+artist-ids:
+- 90858b6b-adde-496e-9c4f-79f8779ba045
+- e98864c0-f912-4b3b-b033-2f94ee661129
+date: 1978-01-01T00:00:00Z
+location:
+  latitude: 45.42598070347804
+  longitude: -75.69621904096998
+  precision: 50.0
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids: []

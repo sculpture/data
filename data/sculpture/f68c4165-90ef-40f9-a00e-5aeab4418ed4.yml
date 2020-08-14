@@ -1,0 +1,18 @@
+id: f68c4165-90ef-40f9-a00e-5aeab4418ed4
+type: sculpture
+slug: joseph-bruno-guigues-ottawa
+title: Joseph Eugene Guigues
+artist-ids:
+- f6ba5000-2ac9-4069-bee4-09ca21d36852
+date: 1889-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.429376940422486
+  longitude: -75.6964635477158
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2f65ce93-2124-4391-a225-855055c78203
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

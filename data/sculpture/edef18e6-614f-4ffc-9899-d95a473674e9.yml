@@ -1,0 +1,16 @@
+id: edef18e6-614f-4ffc-9899-d95a473674e9
+type: sculpture
+slug: three-watchman-ottawa
+title: The Three Watchman (Ottawa)
+artist-ids:
+- ac47fb21-0e51-4442-94de-d31481ab4e1f
+date: 2003-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.42878001776043
+  longitude: -75.69732411108411
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- cade9829-ef07-4263-827c-a161323c585f

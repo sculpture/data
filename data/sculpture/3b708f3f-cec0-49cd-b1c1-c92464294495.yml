@@ -1,0 +1,16 @@
+id: 3b708f3f-cec0-49cd-b1c1-c92464294495
+type: sculpture
+slug: joy-harlander-waterloo
+title: Joy
+artist-ids:
+- d810f635-6a73-4109-a56a-f6846431580c
+date: 1971-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.469461700628514
+  longitude: -80.54038367536317
+  precision: 50.0
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57

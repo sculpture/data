@@ -1,0 +1,16 @@
+id: ea0405d6-31f2-4bcc-b75a-f9f57b7e05f7
+type: sculpture
+slug: acrobats-garner-ottawa
+title: Acrobats
+artist-ids:
+- 383f0983-2a1e-43a8-8bfa-1beae30151f3
+- d8c774c0-7772-4702-af4c-e54d4746d511
+date: 2005-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.41838997083728
+  longitude: -75.70910407415788
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

@@ -1,0 +1,17 @@
+id: d01552bc-8ed5-4099-92cd-682737268c2e
+type: sculpture
+slug: five-sculptures-topological
+title: Five Sculptures on Topological Themes
+artist-ids:
+- cc502c4b-3bc4-488f-abb1-2a481e6faece
+commissioned-by: Queens Department of Mathematics and Statistics
+date: 1972-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 44.22567036809353
+  longitude: -76.49609851449436
+  precision: 10.0
+material-ids:
+- 1e26a067-323e-4793-bf68-54948cd433cb
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids: []

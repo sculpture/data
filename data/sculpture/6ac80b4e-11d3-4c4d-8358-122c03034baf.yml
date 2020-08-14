@@ -3,8 +3,9 @@ type: sculpture
 slug: norman-bethune
 title: Norman Bethune
 artist-ids:
-- a3d6d80d-13fe-49df-b080-871f789c2fa1
+- 3c4e77d8-1586-427c-857a-b3ad55cdc0de
 commissioned-by: York University
+date: 1975-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 43.7731302

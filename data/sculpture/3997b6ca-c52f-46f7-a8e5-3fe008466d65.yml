@@ -4,12 +4,12 @@ slug: evess-apple
 title: Eves's Apple
 artist-ids:
 - 8abe61d6-a1d8-4f09-abee-806e1f399de0
-date: 1997-01-01T00:00:00Z
+date: 1998-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 42.31231962266472
   longitude: -83.06587803593752
-  precision: 33
+  precision: 33.0
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids:

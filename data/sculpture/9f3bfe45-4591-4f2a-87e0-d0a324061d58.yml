@@ -1,0 +1,17 @@
+id: 9f3bfe45-4591-4f2a-87e0-d0a324061d58
+type: sculpture
+slug: totem-pole-mungo-ottawa
+title: Totem Pole
+artist-ids:
+- 18f27919-6d21-4845-a3ce-7c418d2a39ae
+commissioned-by: ''
+date: 1946-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.443951522967865
+  longitude: -75.68858010969564
+  precision: 50.0
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- cade9829-ef07-4263-827c-a161323c585f

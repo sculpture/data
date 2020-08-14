@@ -1,0 +1,16 @@
+id: 4657c7a4-36f2-45f0-9f0a-e3d4cf8e09ae
+type: sculpture
+slug: inukshuk-ottawa
+title: Inukshuk (Ottawa)
+artist-ids:
+- c5d00a37-ee13-4a23-8ad7-869caa06f9fd
+commissioned-by: National Capital Commision
+date: 1997-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.44296878860177
+  longitude: -75.68823678694176
+  precision: 50.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []

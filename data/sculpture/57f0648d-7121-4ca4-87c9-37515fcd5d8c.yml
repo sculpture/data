@@ -4,11 +4,12 @@ slug: chicken-and-egg
 title: Chicken and Egg
 artist-ids:
 - 4daeec4c-2b4d-46ed-81b7-5717b21bfe33
+date: 1999-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 42.31108193332587
   longitude: -83.06851732960816
-  precision: 22
+  precision: 22.0
 material-ids:
 - 6e45603b-de94-4bb1-8ffb-eddbb4f15853
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf

@@ -8,8 +8,9 @@ date: 1939-01-01T00:00:00Z
 location:
   latitude: 43.63323550961936
   longitude: -79.47047767238318
-  precision: 42
+  precision: 42.0
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 tag-ids:
 - 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485

@@ -1,0 +1,16 @@
+id: 92addca4-4e37-445b-b1f9-e345d94fd656
+type: sculpture
+slug: peacestonemiss
+title: Peace Stone
+artist-ids:
+- af2f1300-e2f2-4056-85de-2070a61bc534
+commissioned-by: gift of Andrew & Florence Kapos
+date: 2009-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.53529425801683
+  longitude: -79.59921794967654
+  precision: 50.0
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids: []

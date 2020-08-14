@@ -1,0 +1,18 @@
+id: 6932086d-fe86-449d-83a7-5f70dd381deb
+type: sculpture
+slug: sirgalahadotta
+title: Sir Galahad
+artist-ids:
+- 8960bd7c-0062-45b2-99a3-1b1a29281153
+date: 1905-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.423368181030334
+  longitude: -75.69856835714727
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: The Harper Memorial
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

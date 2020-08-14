@@ -1,0 +1,18 @@
+id: 2748f7cd-4df3-491b-96a0-11fa8995e364
+type: sculpture
+slug: nostalgia-infinite
+title: Nostalgia of the Infinite
+artist-ids:
+- 26be158f-691f-4035-9530-7abd1f1e52c3
+commissioned-by: ''
+date: 2015-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.6390530173284
+  longitude: -79.41213131497229
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 590bc2f1-fd09-4c83-96da-39fa51cef820
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a

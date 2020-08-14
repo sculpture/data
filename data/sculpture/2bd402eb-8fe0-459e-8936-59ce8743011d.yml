@@ -1,0 +1,15 @@
+id: 2bd402eb-8fe0-459e-8936-59ce8743011d
+type: sculpture
+slug: migration-epp-hamilton
+title: Migration
+artist-ids:
+- 6674d065-825f-4c37-82b7-a2000ca4e135
+date: 1992-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.25629121234525
+  longitude: -79.87396385054022
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

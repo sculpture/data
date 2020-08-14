@@ -1,0 +1,15 @@
+id: 6dc74482-3b1f-461c-af31-e53240d6aefe
+type: sculpture
+slug: living-room-ottawa
+title: Living Room
+artist-ids:
+- 139ea168-bb33-4f0f-bd8f-24e25bee704c
+date: 1995-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.42014855646715
+  longitude: -75.69099946222701
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids: []

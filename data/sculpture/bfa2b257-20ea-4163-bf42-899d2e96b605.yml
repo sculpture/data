@@ -1,0 +1,16 @@
+id: bfa2b257-20ea-4163-bf42-899d2e96b605
+type: sculpture
+slug: mackenzie-papineau-ottawa
+title: Mackenzie-Papineau Monument
+artist-ids:
+- d2dc169d-fe90-4303-aad7-eb75deea0229
+date: 2001-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.440789916826326
+  longitude: -75.69610102377342
+  precision: 50.0
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753

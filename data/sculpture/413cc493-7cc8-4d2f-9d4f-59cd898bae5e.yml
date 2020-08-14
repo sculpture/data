@@ -1,0 +1,16 @@
+id: 413cc493-7cc8-4d2f-9d4f-59cd898bae5e
+type: sculpture
+slug: david-sassoun-buzbuzian
+title: David of Sassoun
+artist-ids:
+- 9f9db0f8-1ff3-461c-9eb9-c6254e7e34d8
+date: 1977-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.471946540790405
+  longitude: -80.54359159734496
+  precision: 100.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab

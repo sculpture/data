@@ -1,0 +1,15 @@
+id: 964424d5-3b36-4b6d-94c8-a757c90504ba
+type: sculpture
+slug: perpetual-motion-gazitua
+title: Perpetual Motion
+artist-ids:
+- 7cef7dae-912d-4c7e-93a7-f6ac83700461
+date: 2011-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.63881966709958
+  longitude: -79.41483498165906
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []

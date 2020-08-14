@@ -1,0 +1,15 @@
+id: c15a087a-e19d-4a94-a922-138d1a76a64a
+type: sculpture
+slug: watsons-dream
+title: Watson's Dream
+artist-ids:
+- 1007ff16-3b19-43ff-859a-bd031157e656
+date: 2015-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.7344498924129
+  longitude: -79.44703359947512
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

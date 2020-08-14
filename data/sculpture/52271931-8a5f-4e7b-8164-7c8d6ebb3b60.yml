@@ -1,0 +1,18 @@
+id: 52271931-8a5f-4e7b-8164-7c8d6ebb3b60
+type: sculpture
+slug: flying-mercury-ottawa
+title: Flying Mercury
+artist-ids:
+- 7b43a490-d972-4972-8b98-83e1a05622f8
+date: 1898-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.4278786987868
+  longitude: -75.69009287557996
+  precision: 50.0
+material-ids:
+- 90961d65-c887-44b3-9153-7364b69806bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

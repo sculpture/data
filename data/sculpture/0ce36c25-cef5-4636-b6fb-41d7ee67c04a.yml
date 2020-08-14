@@ -1,0 +1,15 @@
+id: 0ce36c25-cef5-4636-b6fb-41d7ee67c04a
+type: sculpture
+slug: emerging-golland
+title: Emerging
+artist-ids:
+- 75182b4f-d84a-40ae-a8b2-c0b00a0cc566
+date: 2012-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.639879006818106
+  longitude: -79.42221642086827
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

@@ -1,0 +1,17 @@
+id: 56fd0acf-e6f7-452e-8c8a-72f775c3cce2
+type: sculpture
+slug: balance-robinsonpignataro
+title: Balance
+artist-ids:
+- 293138b4-7a78-4d25-9254-39e440e27a70
+- b5dd1add-61c2-4013-a02f-32248c279b8f
+date: 2012-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.63913362271529
+  longitude: -79.41968441555824
+  precision: 50.0
+material-ids: []
+note: design Rob Robinson
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288

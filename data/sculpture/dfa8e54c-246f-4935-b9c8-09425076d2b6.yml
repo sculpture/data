@@ -1,0 +1,15 @@
+id: dfa8e54c-246f-4935-b9c8-09425076d2b6
+type: sculpture
+slug: tempo-zerafa-windsor
+title: 'Tempo  (Windsor)   '
+artist-ids:
+- c78c18d5-e514-4421-a0e1-e5818b42e8a0
+date: 1997-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 42.31761660348048
+  longitude: -83.03643810979017
+  precision: 70.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

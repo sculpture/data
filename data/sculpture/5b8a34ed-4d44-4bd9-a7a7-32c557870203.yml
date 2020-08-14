@@ -1,0 +1,16 @@
+id: 5b8a34ed-4d44-4bd9-a7a7-32c557870203
+type: sculpture
+slug: quasar-redinger-waterloo
+title: Quasar
+artist-ids:
+- 7a849a94-18d9-41ce-b5ac-85d595fd6999
+date: 1971-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.472078903287695
+  longitude: -80.54394564893492
+  precision: 50.0
+material-ids:
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

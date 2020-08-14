@@ -1,7 +1,7 @@
 id: 1bf3d7be-4c54-4364-be79-1218929c84db
 type: sculpture
 slug: christalides
-title: Christalides
+title: Chrysalides
 artist-ids:
 - 35fa2e5e-2554-41c0-9f47-d77a4fdab704
 commissioned-by: Spencer Clark
@@ -9,7 +9,7 @@ date-precision: year
 location:
   latitude: 43.747709348741154
   longitude: -79.1917999962952
-  precision: 35
+  precision: 35.0
 material-ids:
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
 note: (fot.2002) Sculpture not anymore at this location

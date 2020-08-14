@@ -1,0 +1,15 @@
+id: 451493df-6f40-424c-8165-2d3977713c53
+type: sculpture
+slug: bienvenue-taillon
+title: Bienvenue
+artist-ids:
+- fdc726f0-95cb-45aa-a338-38c7c7db1774
+date: 1994-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 46.81450843055665
+  longitude: -71.20889820685429
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

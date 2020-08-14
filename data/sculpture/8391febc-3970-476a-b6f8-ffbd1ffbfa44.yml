@@ -1,0 +1,16 @@
+id: 8391febc-3970-476a-b6f8-ffbd1ffbfa44
+type: sculpture
+slug: love-wanton-jones
+title: Love
+artist-ids:
+- 9b943dc5-e8d4-4fe7-8791-7271faee2a12
+commissioned-by: Public Works and Government Services Canada
+date: 1975-01-01T00:00:00Z
+location:
+  latitude: 45.426539248230085
+  longitude: -75.71463903456278
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+tag-ids: []

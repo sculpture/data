@@ -1,0 +1,18 @@
+id: b170c0fa-378c-4d13-a741-aca547ba263b
+type: sculpture
+slug: guardians-breuning
+title: The Guardians
+artist-ids:
+- 7ae3b73a-4662-47d4-8bee-a18a69ccce35
+date: 2013-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.63840079777796
+  longitude: -79.41582203457675
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- fafeef8a-8582-4ecf-a472-d062d5006af1
+tag-ids: []

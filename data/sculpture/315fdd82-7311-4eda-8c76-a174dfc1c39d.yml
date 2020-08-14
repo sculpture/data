@@ -9,7 +9,7 @@ date-precision: year
 location:
   latitude: 43.63778366657426
   longitude: -79.38644796665649
-  precision: 50
+  precision: 50.0
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 tag-ids: []

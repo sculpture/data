@@ -2,7 +2,11 @@ id: 010683af-d9eb-46b9-9cdb-f1e541a455ad
 type: artist
 slug: hamilton-maccarthy
 name: Hamilton MacCarthy
+birth-date: 1846-07-28T00:00:00Z
+birth-date-precision: year
+death-date: 1939-10-24T00:00:00Z
 gender: male
-link-website: https://en.wikipedia.org/wiki/Hamilton_MacCarthy
+link-website: ''
+link-wikipedia: https://en.wikipedia.org/wiki/Hamilton_MacCarthy
 nationality: English Canadian
 tag-ids: []

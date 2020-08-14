@@ -4,11 +4,12 @@ slug: torah-torah
 title: Torah Torah
 artist-ids:
 - 2f0762a2-1b34-42c0-b2a2-73947952a06c
+date: 1991-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 43.6980987
   longitude: -79.4378624
-  precision: 19
+  precision: 19.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 note: (photo courtesy, Anne Harris)

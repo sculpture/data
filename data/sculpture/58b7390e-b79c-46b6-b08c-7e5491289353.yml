@@ -1,0 +1,16 @@
+id: 58b7390e-b79c-46b6-b08c-7e5491289353
+type: sculpture
+slug: day-of-mourning-cvetch
+title: Day of Mourning
+artist-ids:
+- 0ec9e14b-95c9-4228-8726-fd4ce68e7d36
+date: 1990-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.25598647472828
+  longitude: -79.87363125662237
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

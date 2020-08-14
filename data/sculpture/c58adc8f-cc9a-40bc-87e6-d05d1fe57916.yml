@@ -1,0 +1,16 @@
+id: c58adc8f-cc9a-40bc-87e6-d05d1fe57916
+type: sculpture
+slug: red-square
+title: Red Square
+artist-ids:
+- 5b77a9c5-76ad-4ad8-8b91-8331a4c28eb9
+commissioned-by: 'Greenwin Property Management '
+date: 1968-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.69884486529225
+  longitude: -79.39165954288335
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

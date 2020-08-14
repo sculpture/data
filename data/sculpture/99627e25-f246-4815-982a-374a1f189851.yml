@@ -9,7 +9,7 @@ date-precision: year
 location:
   latitude: 43.73657545913759
   longitude: -79.34466494232788
-  precision: 50
+  precision: 50.0
 material-ids: []
 note: (fot.2002)
 tag-ids: []

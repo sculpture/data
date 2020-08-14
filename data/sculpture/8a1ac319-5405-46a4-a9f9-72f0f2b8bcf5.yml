@@ -13,4 +13,6 @@ location:
   precision: 57.0
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1
-tag-ids: []
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a

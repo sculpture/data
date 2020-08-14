@@ -1,0 +1,17 @@
+id: 2551fc07-a45a-4c19-8de6-a3e4c500bfc0
+type: sculpture
+slug: canadianfallenkoreanwar
+title: Monument to Canadian Fallen
+artist-ids:
+- fc836382-3138-44ef-8ba7-54e3e3dfbd8f
+date: 2002-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.42265242482544
+  longitude: -75.69210989675915
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: Korean War Memorial
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753

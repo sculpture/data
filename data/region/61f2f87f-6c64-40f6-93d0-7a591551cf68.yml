@@ -2,6 +2,6 @@ id: 61f2f87f-6c64-40f6-93d0-7a591551cf68
 type: region
 slug: parliament-hill
 name: Parliament Hill
-geojson: '{"type":"Point","coordinates":[-75.69908,45.42415]}'
+geojson: '{"type":"Point","coordinates":[-75.69923,45.42427]}'
 tag-ids:
 - 5b81e8eb-ff28-45a9-9f26-50353cd28215

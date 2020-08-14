@@ -1,0 +1,15 @@
+id: fbb36e2b-7ade-440b-9c2e-04376fa32c3e
+type: sculpture
+slug: salutation-hicks-windsor
+title: Salutation
+artist-ids:
+- 5493b62b-d6cb-4fe6-9582-992981e6724f
+date: 2003-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 42.312176813598526
+  longitude: -83.06615698567508
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

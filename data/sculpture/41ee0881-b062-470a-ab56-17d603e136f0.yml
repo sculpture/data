@@ -1,0 +1,19 @@
+id: 41ee0881-b062-470a-ab56-17d603e136f0
+type: sculpture
+slug: lesterpearsonottawa
+title: Lester B. Pearson
+artist-ids:
+- b067b5f1-9795-4bce-bdc3-efa893057e94
+date: 1990-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.42383504955945
+  longitude: -75.70140076986699
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fb97341d-10db-41e3-821a-33d920fb5638

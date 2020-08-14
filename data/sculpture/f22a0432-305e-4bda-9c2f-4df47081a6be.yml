@@ -1,0 +1,15 @@
+id: f22a0432-305e-4bda-9c2f-4df47081a6be
+type: sculpture
+slug: fountain-archambault
+title: 'Fountain  '
+artist-ids:
+- a7929085-aa59-43c6-bb5e-7b70e8d2df9b
+date: 1958-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.44022361665708
+  longitude: -75.69515688620012
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids: []

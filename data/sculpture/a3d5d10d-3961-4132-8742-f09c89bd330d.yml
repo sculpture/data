@@ -1,0 +1,18 @@
+id: a3d5d10d-3961-4132-8742-f09c89bd330d
+type: sculpture
+slug: kinetic-clock-stonyer
+title: Kinetic Clock
+artist-ids:
+- 1230b895-0bc3-40cc-8aff-06ddc7c64fbe
+commissioned-by: City of Ottawa
+date: 1989-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.422069603683234
+  longitude: -75.69920824467475
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 85105298-6047-4f80-88ec-76aa0b77d815
+- f512d675-0554-4a67-987c-1da560f2c95a

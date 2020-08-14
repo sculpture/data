@@ -1,0 +1,14 @@
+id: 10a779e1-da4d-4da5-ad5a-0a2b78887d40
+type: sculpture
+slug: can-cieloszczyk
+title: Can
+artist-ids:
+- a95f270e-a14a-4291-ab9f-3fb6f7c85b0a
+date: 2017-01-01T00:00:00Z
+location:
+  latitude: 43.64009640877298
+  longitude: -79.42052126477091
+  precision: 30.0
+material-ids:
+- 8bf76e91-b9b1-40fb-a748-631edc817f8a
+tag-ids: []

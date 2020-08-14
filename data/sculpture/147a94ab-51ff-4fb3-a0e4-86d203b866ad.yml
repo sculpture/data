@@ -1,0 +1,15 @@
+id: 147a94ab-51ff-4fb3-a0e4-86d203b866ad
+type: sculpture
+slug: split-rock-gap
+title: Split Rock Gap
+artist-ids:
+- 7cef7dae-912d-4c7e-93a7-f6ac83700461
+date: 2014-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.638683839130444
+  longitude: -79.4172811562807
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

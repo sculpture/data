@@ -1,0 +1,15 @@
+id: 77dca985-848a-43b0-9b5d-f093dba8e296
+type: sculpture
+slug: ambiguous-respnse
+title: Ambiguous Respnse
+artist-ids:
+- 80b2b77e-30d5-4558-b7a7-9bc5c54c54d0
+date: 2013-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.726395588721786
+  longitude: -79.44944608459478
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

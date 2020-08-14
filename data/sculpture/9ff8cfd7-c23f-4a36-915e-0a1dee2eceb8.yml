@@ -1,0 +1,17 @@
+id: 9ff8cfd7-c23f-4a36-915e-0a1dee2eceb8
+type: sculpture
+slug: rinterzo-deangelis
+title: Rinterzo
+artist-ids:
+- a8d505f3-4b6d-4681-85de-a6398c9cca1c
+date: 1997-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 42.31162144192737
+  longitude: -83.06780922642822
+  precision: 50.0
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 1e26a067-323e-4793-bf68-54948cd433cb
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

@@ -8,10 +8,10 @@ commissioned-by: A.E.LePage
 date: 1983-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.647547428858694
-  longitude: -79.37650961383063
-  precision: 50
+  latitude: 42.313731828207416
+  longitude: -83.0626379274476
+  precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
-tag-ids:
-- 6f13c768-5619-419e-97af-60440cab7f89
+note: photo at old location
+tag-ids: []

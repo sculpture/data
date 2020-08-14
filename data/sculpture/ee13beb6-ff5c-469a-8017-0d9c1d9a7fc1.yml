@@ -1,0 +1,16 @@
+id: ee13beb6-ff5c-469a-8017-0d9c1d9a7fc1
+type: sculpture
+slug: new-life-petriska
+title: New Life
+artist-ids:
+- d58fe723-5c31-4f17-8975-301cc62f9c93
+date: 1981-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.46722824270978
+  longitude: -79.68751546733402
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

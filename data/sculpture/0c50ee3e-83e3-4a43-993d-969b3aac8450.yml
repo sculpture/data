@@ -1,0 +1,19 @@
+id: 0c50ee3e-83e3-4a43-993d-969b3aac8450
+type: sculpture
+slug: sirwilfridlaurier
+title: Sir Wilfrid Laurier
+artist-ids:
+- 33dad29c-af0e-4e38-bb90-26663d2dfcca
+date: 1927-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.424693089534095
+  longitude: -75.69633705816662
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fb97341d-10db-41e3-821a-33d920fb5638

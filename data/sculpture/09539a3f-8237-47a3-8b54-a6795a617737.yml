@@ -4,12 +4,13 @@ slug: the-sisters-ii
 title: The Sisters II
 artist-ids:
 - 4daeec4c-2b4d-46ed-81b7-5717b21bfe33
+date: 2000-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 42.30916187990741
   longitude: -83.07081330052493
-  precision: 35
+  precision: 35.0
 material-ids:
-- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids:
 - 6d1d3b0a-67e4-40ca-b465-0aecf567affd

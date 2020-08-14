@@ -1,0 +1,18 @@
+id: bf519e10-c199-429b-9c4e-dceeb63dafbe
+type: sculpture
+slug: sir-john-a-macdonald-ottawa
+title: Sir John A. MacDonald  (Ottawa)
+artist-ids:
+- f6ba5000-2ac9-4069-bee4-09ca21d36852
+date: 1895-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.42547620326823
+  longitude: -75.69859011373903
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fb97341d-10db-41e3-821a-33d920fb5638

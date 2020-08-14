@@ -1,0 +1,17 @@
+id: 0084de09-0761-43e9-add4-f5ec9cfaad3d
+type: sculpture
+slug: osmosis-ottawa
+title: Osmosis
+artist-ids:
+- a2e943e2-3027-4bb7-b3f2-d304af8f1ae8
+commissioned-by: Helen and George Vari Foundation
+date: 1993-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.443876248690145
+  longitude: -75.68854792318743
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- b056b6a2-cc0e-43ec-84ae-887480ee3706
+tag-ids: []

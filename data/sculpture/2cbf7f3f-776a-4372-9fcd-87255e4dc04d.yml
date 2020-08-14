@@ -1,0 +1,15 @@
+id: 2cbf7f3f-776a-4372-9fcd-87255e4dc04d
+type: sculpture
+slug: dagain-garner
+title: Dagain
+artist-ids:
+- d8c774c0-7772-4702-af4c-e54d4746d511
+date: 2000-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.42774316641716
+  longitude: -75.69145543775974
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

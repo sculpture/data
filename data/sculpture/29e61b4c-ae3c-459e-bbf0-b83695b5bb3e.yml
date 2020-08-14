@@ -1,0 +1,16 @@
+id: 29e61b4c-ae3c-459e-bbf0-b83695b5bb3e
+type: sculpture
+slug: terryfoxottawa
+title: Terry Fox
+artist-ids:
+- f85ca70a-75d2-45a0-b0a7-9e30e97141e8
+date: 1983-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.4232175774554
+  longitude: -75.69809628836062
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 39f7789b-145c-4ccf-897a-34a56abe6fa0

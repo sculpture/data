@@ -9,7 +9,7 @@ date: 2009-01-01T00:00:00Z
 location:
   latitude: 43.66653488049971
   longitude: -79.35573163995058
-  precision: 10
+  precision: 10.0
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids:

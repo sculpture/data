@@ -3,7 +3,9 @@ type: sculpture
 slug: immaculate-conception
 title: Immaculate Conception
 artist-ids:
-- a3d6d80d-13fe-49df-b080-871f789c2fa1
+- 50bc4209-fc35-4fd9-a825-03a68359b98d
+commissioned-by: Andrew Calixte Foundation
+date: 1984-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 43.65565489999999
@@ -11,4 +13,5 @@ location:
   precision: 50.0
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
-tag-ids: []
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2

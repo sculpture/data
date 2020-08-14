@@ -1,0 +1,19 @@
+id: f0ae1591-f198-4104-9287-da3c35a96550
+type: sculpture
+slug: robert-raikes-toronto
+title: Robet Raikes
+artist-ids:
+- 2f0e75f8-1887-4c49-b467-a0721f938555
+date: 1880-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 43.66119239662953
+  longitude: -79.3922737047549
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 55813685-eb72-43a6-9ddb-f20fd4d26866
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

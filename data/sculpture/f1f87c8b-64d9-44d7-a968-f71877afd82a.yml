@@ -1,0 +1,19 @@
+id: f1f87c8b-64d9-44d7-a968-f71877afd82a
+type: sculpture
+slug: simon-bolivar-ottawa
+title: Simon Bolivar (Ottawa)
+artist-ids:
+- 5ebe2bdd-6965-4580-afd8-8942a8f766e2
+commissioned-by: gift of Venezuelan government
+date: 2008-01-01T00:00:00Z
+date-precision: year
+location:
+  latitude: 45.426383096087584
+  longitude: -75.6889341612856
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

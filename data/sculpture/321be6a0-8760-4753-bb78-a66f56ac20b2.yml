@@ -4,11 +4,15 @@ slug: howling-wolf
 title: Howling Wolf
 artist-ids:
 - d1c91d4b-7b5d-4f5e-95f2-a9bbc369eded
+date: 1999-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 43.64614218817644
   longitude: -79.41331390213016
-  precision: 50
+  precision: 50.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
-tag-ids: []
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
