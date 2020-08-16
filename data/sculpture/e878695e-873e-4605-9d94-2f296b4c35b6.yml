@@ -4,14 +4,14 @@ slug: mask
 title: Mask
 artist-ids:
 - 30ea1df3-24ef-4c4b-9de4-2d3fc38ed2f7
+city-id: bc863b0f-3035-4fab-888c-89e017daabea
 commissioned-by: du Maurier Arts Ltd funds
 date: 1989-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 43.5330895
   longitude: -80.23265409999999
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
-tag-ids:
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
+tag-ids: []
