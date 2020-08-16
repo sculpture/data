@@ -4,14 +4,14 @@ slug: conflict---korean-war-memorial
 title: Conflict - Korean War Memorial
 artist-ids:
 - a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 80f5f02b-13d3-457b-a873-44e2b7a53cfc
 date: 1997-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 43.641991987651735
   longitude: -79.74929607409668
-  precision: 50.0
+  precision: 50
 material-ids:
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
 tag-ids:
 - 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
