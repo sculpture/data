@@ -5,7 +5,12 @@ title: Legacy (the mud benetth our feet)
 artist-ids:
 - 695872c2-c59d-40e4-8398-809b2ef1faf2
 date: 2010-01-01T00:00:00Z
+location:
+  latitude: 43.68423556331713
+  longitude: -79.36618152627265
+  precision: 50
 material-ids:
 - 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 - 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids: []
