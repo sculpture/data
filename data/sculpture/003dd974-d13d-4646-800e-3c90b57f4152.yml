@@ -2,11 +2,14 @@ id: 003dd974-d13d-4646-800e-3c90b57f4152
 type: sculpture
 slug: the-wessel
 title: The Wessel
-city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+artist-ids:
+- 934aca8b-0460-4ebb-8c92-6f821fd92520
 commissioned-by: City of Toronto
 date: 2011-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 43.67011358234915
   longitude: -79.39852066137695
-  precision: 50.0
+  precision: 50
+material-ids: []
+tag-ids: []
