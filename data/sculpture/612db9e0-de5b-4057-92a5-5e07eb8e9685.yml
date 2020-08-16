@@ -4,13 +4,14 @@ slug: Jumbo the Elephant
 title: Jumbo the Elephant
 artist-ids:
 - 6ee26da8-68a2-40bb-8aaa-7e3022702d6a
+city-id: b1bfcadf-e142-4773-a974-cad980bc87bd
 commissioned-by: City of St.Thomas
 date: 1985-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 42.77891796961118
   longitude: -81.20836688095096
-  precision: 50.0
+  precision: 50
 material-ids:
 - 18829464-3bed-4f42-b206-8d99f402dc1b
 tag-ids:
