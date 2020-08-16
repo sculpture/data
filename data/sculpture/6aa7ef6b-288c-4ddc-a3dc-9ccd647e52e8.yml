@@ -4,12 +4,13 @@ slug: untitled-2-baird
 title: Untitled (2)
 artist-ids:
 - daa3739f-f25b-4e27-a19d-689c6f3740ac
+city-id: 6f7a5190-23d9-4c9c-9bab-42fd4c93f1df
 date: 1977-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 44.392751981964885
   longitude: -79.68569406284338
-  precision: 19.0
+  precision: 19
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids:
