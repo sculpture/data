@@ -6,6 +6,10 @@ artist-ids:
 - f2b1f592-2b29-44a0-8cec-ec2ac4cce2f8
 date: 2010-01-01T00:00:00Z
 date-precision: year
+location:
+  latitude: 43.82427658664635
+  longitude: -79.18146207601329
+  precision: 300
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
