@@ -4,15 +4,15 @@ slug: mindemoya
 title: Mindemoya
 artist-ids:
 - f7df93d7-c56d-426c-899c-325f08f15eb9
+city-id: bc863b0f-3035-4fab-888c-89e017daabea
 date: 1990-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 43.5330895
   longitude: -80.23265409999999
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 5e46697e-16c7-4478-a438-202749e4888d
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 - 89f78d37-2315-4104-bfe7-610b444b2485
