@@ -7,6 +7,7 @@ artist-ids:
 city-id: 6f7a5190-23d9-4c9c-9bab-42fd4c93f1df
 date: 1986-01-01T00:00:00Z
 date-precision: year
+link-wikipedia: https://en.wikipedia.org/wiki/Spirit_Catcher
 location:
   latitude: 44.38935559999999
   longitude: -79.6903316
