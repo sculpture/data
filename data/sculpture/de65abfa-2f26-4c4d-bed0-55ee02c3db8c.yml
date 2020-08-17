@@ -6,10 +6,11 @@ artist-ids:
 - c48a5321-53f5-4a8e-9301-c394ede176a4
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 date: 2013-01-01T00:00:00Z
+link-wikipedia: https://en.wikipedia.org/wiki/Homeless_Jesus
 location:
   latitude: 43.663898164892935
   longitude: -79.38993121163945
-  precision: 14.0
+  precision: 14
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
