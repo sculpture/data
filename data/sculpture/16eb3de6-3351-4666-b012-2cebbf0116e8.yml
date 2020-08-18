@@ -1,0 +1,11 @@
+id: 16eb3de6-3351-4666-b012-2cebbf0116e8
+type: sculpture
+slug: northern-dancer
+title: Northern Dancer
+artist-ids:
+- 2301ceb4-2383-4bbd-8cdb-c0ea6d235205
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: 2001-01-01T00:00:00Z
+date-precision: year
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
