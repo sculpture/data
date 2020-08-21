@@ -1,6 +1,6 @@
 id: 7896e95d-ccd7-4e71-a76a-86cb1909d171
 type: sculpture
-slug: 'mariner-lind-north-york '
+slug: mariner-lind-north-york
 title: Mariner
 artist-ids:
 - c60ea4ef-7b74-4184-a1e6-abafb0ccd4e4
@@ -14,3 +14,4 @@ location:
   precision: 50
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []
