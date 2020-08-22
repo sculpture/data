@@ -2,7 +2,9 @@ id: 962afd1e-a44c-406d-855f-3382f0a43c10
 type: artist
 slug: alan-chung-hung
 name: Alan Chung Hung
+birth-date: 1946-01-01T00:00:00Z
 birth-date-precision: year
+death-date: 1994-01-01T00:00:00Z
 gender: male
 nationality: Chinese, Canadan
 tag-ids: []
