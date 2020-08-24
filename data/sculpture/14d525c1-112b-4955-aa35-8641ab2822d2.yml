@@ -8,5 +8,9 @@ city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
 commissioned-by: gift of artist
 date: 1997-01-01T00:00:00Z
 date-precision: year
+location:
+  latitude: 46.799014689058374
+  longitude: -71.22347811639403
+  precision: 50
 material-ids:
 - 76c8ed4b-b169-44ca-bf45-466a20c85838
