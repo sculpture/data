@@ -7,5 +7,9 @@ artist-ids:
 city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
 date: 1960-01-01T00:00:00Z
 date-precision: year
+location:
+  latitude: 46.80020564262991
+  longitude: -71.22590283334355
+  precision: 50
 material-ids:
 - b65eab11-b682-4db3-9658-2ddeec44eaef
