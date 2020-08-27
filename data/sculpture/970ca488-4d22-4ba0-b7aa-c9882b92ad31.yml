@@ -1,16 +1,17 @@
 id: 970ca488-4d22-4ba0-b7aa-c9882b92ad31
 type: sculpture
 slug: queen-victoria-montreal-wood
-title: Queen Victoria  (Montreal)
+title: Victoria Memorial (Montreal)
 artist-ids:
 - f58e771e-e02a-494e-80a1-7af0a3222538
 city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
 date: 1872-01-01T00:00:00Z
 date-precision: year
+link-wikipedia: Victoria Memorial (Montreal)
 location:
   latitude: 45.50126333584566
   longitude: -73.5610791807984
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
