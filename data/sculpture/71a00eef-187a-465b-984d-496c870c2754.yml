@@ -8,6 +8,10 @@ city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
 date: 1970-01-01T00:00:00Z
 date-precision: year
 link-wikipedia: https://en.wikipedia.org/wiki/La_Joute
+location:
+  latitude: 45.5034511705864
+  longitude: -73.56147990074172
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
