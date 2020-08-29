@@ -5,10 +5,12 @@ title: Bear (3)
 artist-ids:
 - 56d243ae-7954-4107-b7fa-6290ac7cb48f
 city-id: b42c1a11-89ad-4f4a-97cf-66ab0c2852be
+date: 1981-01-01T00:00:00Z
+date-precision: year
 location:
   latitude: 43.97157776714138
   longitude: -79.24795745396732
-  precision: 26.0
+  precision: 26
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 tag-ids:
