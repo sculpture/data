@@ -7,9 +7,9 @@ artist-ids:
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 date-precision: year
 location:
-  latitude: 43.7098717
-  longitude: -79.5457336
-  precision: 50.0
+  latitude: 43.711151313936526
+  longitude: -79.54227891478885
+  precision: 50
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids: []
