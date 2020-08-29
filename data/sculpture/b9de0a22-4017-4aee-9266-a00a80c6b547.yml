@@ -1,6 +1,6 @@
 id: b9de0a22-4017-4aee-9266-a00a80c6b547
 type: sculpture
-slug: guitar player
+slug: guitar-player-al-green
 title: Guitar Player
 artist-ids:
 - 620e37ba-c0dd-4919-b8e0-e94e5a7fadb7
@@ -11,3 +11,4 @@ location:
   precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
