@@ -8,5 +8,9 @@ city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
 date: 1887-01-01T00:00:00Z
 date-precision: year
 link-wikipedia: https://en.wikipedia.org/wiki/Jean_d%27Aire
+location:
+  latitude: 45.49864655540582
+  longitude: -73.5799619322632
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
