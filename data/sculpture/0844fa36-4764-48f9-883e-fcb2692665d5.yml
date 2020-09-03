@@ -7,6 +7,10 @@ artist-ids:
 city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
 date: 1952-01-01T00:00:00Z
 date-precision: year
+location:
+  latitude: 45.49898495984969
+  longitude: -73.5799619322632
+  precision: 50
 material-ids:
 - 590bc2f1-fd09-4c83-96da-39fa51cef820
 note: cast 2000
