@@ -1,17 +1,18 @@
 id: 01a9b1a0-a42c-4b09-a641-78e0a68740c0
 type: sculpture
-slug: untitled-1
-title: Untitled (1)
+slug: untitled-1-sentinel
+title: Sentinel
 artist-ids:
 - daa3739f-f25b-4e27-a19d-689c6f3740ac
-city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+city-id: b42c1a11-89ad-4f4a-97cf-66ab0c2852be
 commissioned-by: School of Architecture
-date: 1966-01-01T00:00:00Z
+date: 1964-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 43.6585682
   longitude: -79.3978995
-  precision: 50.0
+  precision: 50
 material-ids:
-- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+note: photo at old location
 tag-ids: []
