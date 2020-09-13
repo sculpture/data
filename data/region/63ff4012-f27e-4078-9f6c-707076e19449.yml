@@ -1,7 +1,7 @@
 id: 63ff4012-f27e-4078-9f6c-707076e19449
 type: region
-slug: agnes-etherington-art-centre
-name: Agnes Etherington Art Centre
-geojson: '{"type":"Polygon","coordinates":[[[-76.4965,44.22532],[-76.4965,44.22554],[-76.4962,44.22555],[-76.49619,44.22532],[-76.4965,44.22532]]]}'
+slug: queens-university-kingston
+name: Queen's University
+geojson: '{"type":"Polygon","coordinates":[[[-76.49906873703004,44.224736088300034],[-76.49964809417725,44.22730395336531],[-76.49190187454225,44.22770373066318],[-76.49166584014894,44.225151259704255],[-76.49906873703004,44.224736088300034]]]}'
 tag-ids:
 - c6980378-c006-49d9-a681-effc4d36aea9
