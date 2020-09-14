@@ -1,19 +1,17 @@
 id: 2e32402f-3e60-4eef-8a75-a0b0885fcf53
 type: sculpture
-slug: study-in-bronze
-title: Study in Bronze
+slug: saskatchewan-bentham
+title: Saskatchewan
 artist-ids:
-- 2f0762a2-1b34-42c0-b2a2-73947952a06c
+- 8bca309f-6269-4ccc-8273-8f56f9d15690
 city-id: 719fac10-c7ca-498c-9078-90bdcf119147
-date: 1978-01-01T00:00:00Z
+date: 2006-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.89485
-  longitude: -78.866181
-  precision: 50.0
+  latitude: 43.915999198602634
+  longitude: -78.87669525933845
+  precision: 50
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
 note: (photo courtesy, Anne Harris)
-tag-ids:
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
-- 6f13c768-5619-419e-97af-60440cab7f89
+tag-ids: []
