@@ -9,8 +9,8 @@ date: 1986-01-01T00:00:00Z
 date-precision: year
 link-wikipedia: https://en.wikipedia.org/wiki/Spirit_of_Haida_Gwaii
 location:
-  latitude: 38.8422606
-  longitude: -77.1625592
+  latitude: 38.89271552384783
+  longitude: -77.0181490666383
   precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
