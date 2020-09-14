@@ -1,10 +1,11 @@
 id: aa24a7bb-74c8-4271-8725-f20d2a4935f2
 type: sculpture
-slug: naked-in-babylon
-title: Naked in Babylon
+slug: queen-victoria-montreal-louise
+title: Queen Victoria (2)
 artist-ids:
-- 2f0762a2-1b34-42c0-b2a2-73947952a06c
-city-id: 666b6fb8-bb4d-480e-bf5c-9eb3b39a8659
+- 30e0dd17-236d-445c-a1e7-fb94179d69fb
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: 1900-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 44.6482488
@@ -12,6 +13,5 @@ location:
   precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
-note: (photo courtesy, Anne Harris)
-tag-ids:
-- 6f13c768-5619-419e-97af-60440cab7f89
+note: ' '
+tag-ids: []
