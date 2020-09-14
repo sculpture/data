@@ -8,8 +8,8 @@ city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
 date: 1900-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 44.6482488
-  longitude: -63.57278170000001
+  latitude: 45.5
+  longitude: -73.5610791807984
   precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
