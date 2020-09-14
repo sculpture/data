@@ -1,13 +1,15 @@
 id: 5a293fe7-d691-4b8c-8bcd-4d6303837863
 type: sculpture
-slug: monarch
-title: Monarch
+slug: flamingo-calder-chicago
+title: Flaningo
 artist-ids:
-- 2f0762a2-1b34-42c0-b2a2-73947952a06c
+- 7ad71af4-c9b7-49d0-9765-ba2a674856a0
+commissioned-by: ' General Services Administration '
 date: 1974-01-01T00:00:00Z
 date-precision: year
+link-wikipedia: https://en.wikipedia.org/wiki/Flamingo_(sculpture)
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
-note: (photo courtesy, Anne Harris)
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+note: ''
 tag-ids:
-- 6f13c768-5619-419e-97af-60440cab7f89
+- f512d675-0554-4a67-987c-1da560f2c95a
