@@ -1,6 +1,6 @@
 id: 0e312c0f-5b62-4f4f-9735-d0255fa871b6
 type: region
-slug: 'wellington-street-ottawa '
+slug: wellington-street-ottawa
 name: Wellington Street West
 geojson: '{"type":"Polygon","coordinates":[[[-75.70994138717651,45.41903525790011],[-75.6951141357422,45.42472068533194],[-75.69507122039796,45.42309418442868],[-75.70876121520998,45.41752155754024],[-75.70994138717651,45.41903525790011]]]}'
 tag-ids: []
