@@ -8,8 +8,8 @@ city-id: 719fac10-c7ca-498c-9078-90bdcf119147
 date: 2006-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.915999198602634
-  longitude: -78.87669525933845
+  latitude: 43.943
+  longitude: -78.8959642489015
   precision: 50
 material-ids:
 - 95a48ae8-6d9b-4ae1-8704-f9685d804a35
