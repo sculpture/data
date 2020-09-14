@@ -1,7 +1,7 @@
 id: 1a0e67d7-7762-4584-a32f-785f81339773
 type: region
-slug: mississauga-central-library
-name: Mississauga Central Library
-geojson: '{"type":"Polygon","coordinates":[[[-79.64897,43.58838],[-79.64597,43.59087],[-79.64194,43.58819],[-79.645,43.5855],[-79.64897,43.58838]]]}'
+slug: mississauga-city-hall
+name: Mississauga City Hall
+geojson: '{"type":"Polygon","coordinates":[[[-79.64993476867677,43.58903275816314],[-79.64742422103883,43.591581571621475],[-79.64240312576295,43.588504332108606],[-79.6453642845154,43.58583104685358],[-79.64993476867677,43.58903275816314]]]}'
 tag-ids:
-- ef6d25e7-396f-479d-adb5-4bca77066e4a
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215
