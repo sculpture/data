@@ -1,7 +1,6 @@
 id: 327bc116-cea9-4ea7-b31d-c31ff91bec40
 type: region
-slug: official-residence-of-prime-minister-of-canada
-name: Residence of Prime Minister of Canada
-geojson: '{"type":"Polygon","coordinates":[[[-75.69489,45.44398],[-75.69395,45.44461],[-75.69271,45.44461],[-75.69343,45.44361],[-75.69489,45.44398]]]}'
-tag-ids:
-- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+slug: parliament-hill-ottawa
+name: Parliament Hill
+geojson: '{"type":"Polygon","coordinates":[[[-75.70228,45.42388],[-75.70140123367311,45.42574475445204],[-75.69934,45.42642],[-75.69635,45.42452],[-75.70084,45.42257],[-75.70228,45.42388]]]}'
+tag-ids: []
