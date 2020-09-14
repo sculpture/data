@@ -1,8 +1,10 @@
 id: 8bca309f-6269-4ccc-8273-8f56f9d15690
 type: artist
-slug: tom-benner
-name: Tom Benner
+slug: douglas-bentam
+name: Douglas Bentham
+birth-date: 1947-01-01T00:00:00Z
+birth-date-precision: year
 gender: male
-link-website: http://www.tombenner.ca/
+link-website: https://douglasbentham.com/
 nationality: Canadian
 tag-ids: []
