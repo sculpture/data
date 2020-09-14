@@ -8,8 +8,10 @@ date: 1967-01-01T00:00:00Z
 date-precision: year
 link-wikipedia: https://en.wikipedia.org/wiki/Are_Years_What%3F_(for_Marianne_Moore)
 location:
-  latitude: 38.777
+  latitude: 38.88895
   longitude: -77.02291
   precision: 50
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
