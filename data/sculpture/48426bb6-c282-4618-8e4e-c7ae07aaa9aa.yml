@@ -1,19 +1,17 @@
 id: 48426bb6-c282-4618-8e4e-c7ae07aaa9aa
 type: sculpture
-slug: opus-87
-title: Opus 87
+slug: bond-librman-buffalo
+title: Bond
 artist-ids:
-- 2f0762a2-1b34-42c0-b2a2-73947952a06c
+- b2c54f03-b05b-43b4-8811-e4d959f022ac
 city-id: 21f56f64-52ee-47e4-8113-8503789209f1
-date: 1985-01-01T00:00:00Z
+date: 1969-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 42.93245
   longitude: -78.875618
-  precision: 50.0
+  precision: 50
 material-ids:
-- cb200a7c-ec52-458c-bc2b-00633fa39eaf
-note: (photo courtesy, Anne Harris)
-tag-ids:
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
-- 6f13c768-5619-419e-97af-60440cab7f89
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+note: ' '
+tag-ids: []
