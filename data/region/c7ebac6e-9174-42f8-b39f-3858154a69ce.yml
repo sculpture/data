@@ -1,7 +1,7 @@
 id: c7ebac6e-9174-42f8-b39f-3858154a69ce
 type: region
 slug: musee-beaux-arts-montreal
-name: Musée des beaux-arts
+name: Musée des beaux-arts de Montréal
 geojson: '{"type":"Polygon","coordinates":[[[-73.58158171176912,45.49919202958191],[-73.58114182949068,45.4995905907418],[-73.57961833477022,45.498876186659075],[-73.58004212379457,45.49846258015243],[-73.58158171176912,45.49919202958191]]]}'
 tag-ids:
 - 7416cb28-4978-4edc-8118-4330860dbd09
