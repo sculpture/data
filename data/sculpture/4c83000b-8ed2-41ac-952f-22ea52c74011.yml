@@ -8,9 +8,9 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 date: 1990-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.69659936722411
-  longitude: -79.3767232909546
-  precision: 58.0
+  latitude: 43.69619600000003
+  longitude: -79.37672329095459
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
