@@ -1,7 +1,7 @@
 id: 17566dbd-bfdc-43f5-a4e1-6a5aabd051dd
 type: region
-slug: prosserman-jewish-community-centre
-name: Prosserman Jewish Community Centre
-geojson: '{"type":"Point","coordinates":[-79.44156,43.76284]}'
+slug: jewish-community-centre
+name: Jewish Community Centre
+geojson: '{"type":"Polygon","coordinates":[[[-79.44391965866089,43.76112984102017],[-79.43986415863039,43.76133130644402],[-79.43917751312257,43.75861921499001],[-79.44254636764526,43.75812327640034],[-79.44391965866089,43.76112984102017]]]}'
 tag-ids:
 - ae775bfc-ecf1-4353-97db-35d424171903
