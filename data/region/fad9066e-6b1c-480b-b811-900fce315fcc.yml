@@ -1,7 +1,7 @@
 id: fad9066e-6b1c-480b-b811-900fce315fcc
 type: region
-slug: windsor-city-hall
-name: Windsor City Hall
-geojson: '{"type":"Point","coordinates":[-83.03537889,42.31719]}'
+slug: gatineau-quebec
+name: Gatineau
+geojson: '{"type":"Polygon","coordinates":[[[-75.71383595466615,45.43636461115203],[-75.71026325225836,45.43783640100178],[-75.70700168609628,45.43423778818451],[-75.71069240570078,45.43262661937422],[-75.71383595466615,45.43636461115203]]]}'
 tag-ids:
-- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
