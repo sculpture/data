@@ -11,4 +11,5 @@ location:
   latitude: 43.768613175284756
   longitude: -79.40959197882087
   precision: 50
-material-ids: []
+material-ids:
+- 1aaa34d0-a277-480a-b85e-4f7dc8a8f257
