@@ -1,19 +1,17 @@
 id: 9705952e-0db7-4ae1-843f-9ec6129f0781
 type: sculpture
-slug: curtain-call-no2
-title: Curtain Call no.2
+slug: joie-de-vivre-suvero-ny
+title: Joie de Vivre
 artist-ids:
-- 2f0762a2-1b34-42c0-b2a2-73947952a06c
-city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
-date: 1981-01-01T00:00:00Z
+- bd9de07c-dcbb-4c62-9d26-d63b6736a547
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: 1997-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 45.444368
   longitude: -75.69383510000002
-  precision: 50.0
+  precision: 50
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
-note: (photo courtesy, Anne Harris)
-tag-ids:
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
-- 6f13c768-5619-419e-97af-60440cab7f89
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+note: ''
+tag-ids: []
