@@ -1,6 +1,6 @@
 id: 2d7e02de-fb60-4365-85d3-41646aac16dd
 type: sculpture
-slug: ben-webster
+slug: ben-webster-suvero
 title: Ben Webster
 artist-ids:
 - bd9de07c-dcbb-4c62-9d26-d63b6736a547
@@ -15,4 +15,5 @@ location:
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 note: ' '
-tag-ids: []
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
