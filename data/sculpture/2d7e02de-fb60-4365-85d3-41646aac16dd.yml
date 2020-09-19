@@ -9,9 +9,9 @@ commissioned-by: Gift of Fred and Lena Meijer
 date: 2001-01-01T00:00:00Z
 date-precision: year
 location:
-  latitude: 43.6980987
-  longitude: -79.4378624
-  precision: 19
+  latitude: 42.9795
+  longitude: -85.5856389
+  precision: 500
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 note: ' '
