@@ -1,7 +1,7 @@
 id: 79c0c361-6141-4663-8e2d-6ac88f326040
 type: region
-slug: gallery-moos
-name: Gallery Moos
+slug: frederik-meijer-sculpture-park
+name: Frederik Meijer Gardens & Sculpture Park
 geojson: '{"type":"Polygon","coordinates":[[[-79.3931563,43.6621611],[-79.3928041,43.6621611],[-79.3928041,43.661711],[-79.3931563,43.661711],[-79.3931563,43.6621611]]]}'
 tag-ids:
-- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
+- 0fc87402-1a39-4ec0-bc47-89c311a8711d
