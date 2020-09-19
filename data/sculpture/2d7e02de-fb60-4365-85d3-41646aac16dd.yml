@@ -1,18 +1,18 @@
 id: 2d7e02de-fb60-4365-85d3-41646aac16dd
 type: sculpture
-slug: torah-torah
-title: Torah Torah
+slug: ben-webster
+title: Ben Webster
 artist-ids:
-- 2f0762a2-1b34-42c0-b2a2-73947952a06c
-city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 1991-01-01T00:00:00Z
+- bd9de07c-dcbb-4c62-9d26-d63b6736a547
+city-id: dfc812fa-0588-474a-98a2-4cdccf6bad2f
+commissioned-by: Gift of Fred and Lena Meijer
+date: 2001-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 43.6980987
   longitude: -79.4378624
-  precision: 19.0
+  precision: 19
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
-note: (photo courtesy, Anne Harris)
-tag-ids:
-- 6f13c768-5619-419e-97af-60440cab7f89
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+note: ' '
+tag-ids: []
