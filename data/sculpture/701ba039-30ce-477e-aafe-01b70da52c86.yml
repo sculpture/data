@@ -8,6 +8,10 @@ city-id: f9f2eb35-87e5-4962-99d3-6ec97261f092
 date: 1983-01-01T00:00:00Z
 date-precision: year
 link-wikipedia: https://en.wikipedia.org/wiki/Iroquois_(di_Suvero)
+location:
+  latitude: 39.96472708233733
+  longitude: -75.17792164973756
+  precision: 50
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids:
