@@ -1,0 +1,14 @@
+id: 701ba039-30ce-477e-aafe-01b70da52c86
+type: sculpture
+slug: iroquois-suvero
+title: Iroquois
+artist-ids:
+- bd9de07c-dcbb-4c62-9d26-d63b6736a547
+city-id: f9f2eb35-87e5-4962-99d3-6ec97261f092
+date: 1983-01-01T00:00:00Z
+date-precision: year
+link-wikipedia: https://en.wikipedia.org/wiki/Iroquois_(di_Suvero)
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
