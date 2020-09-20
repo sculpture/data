@@ -1,0 +1,11 @@
+id: 16cc76ed-220e-40b2-94f4-11afbd0eb201
+type: sculpture
+slug: magic-wood
+title: Magic Wood
+artist-ids:
+- dea1365d-8e02-4567-8b32-ad9fe2f0b621
+city-id: bc863b0f-3035-4fab-888c-89e017daabea
+date: 1987-01-01T00:00:00Z
+date-precision: year
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
