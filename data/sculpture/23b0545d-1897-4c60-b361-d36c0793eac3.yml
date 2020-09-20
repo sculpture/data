@@ -1,18 +1,17 @@
 id: 23b0545d-1897-4c60-b361-d36c0793eac3
 type: sculpture
-slug: langorous
-title: Langorous
+slug: pioneer-family-guelph
+title: Pioneer Family
 artist-ids:
-- 2f0762a2-1b34-42c0-b2a2-73947952a06c
-city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 1994-01-01T00:00:00Z
+- ce07fcd9-f19e-468d-b8b4-6a61ac046c14
+city-id: bc863b0f-3035-4fab-888c-89e017daabea
+date: 1988-01-01T00:00:00Z
 date-precision: year
 location:
   latitude: 43.721986581745476
   longitude: -79.37567446823125
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
-note: (photo courtesy, Anne Harris)
-tag-ids:
-- 6f13c768-5619-419e-97af-60440cab7f89
+note: ' '
+tag-ids: []
