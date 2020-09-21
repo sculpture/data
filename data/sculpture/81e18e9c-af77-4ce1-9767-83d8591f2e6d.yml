@@ -7,5 +7,9 @@ artist-ids:
 city-id: bc863b0f-3035-4fab-888c-89e017daabea
 date: 1999-01-01T00:00:00Z
 date-precision: year
+location:
+  latitude: 43.53278221090772
+  longitude: -80.23265410000002
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
