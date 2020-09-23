@@ -1,7 +1,7 @@
 id: 5f4ed07e-3b20-4571-969b-8e4df363b6e4
 type: sculpture
 slug: elation-lishman-ajax
-title: Elation
+title: Elation (Ajax)
 artist-ids:
 - 0def9a7f-1eb2-43b5-923b-f06f4fcf5001
 - e9a53550-eb14-4cde-9d11-68e2f4305b47
@@ -9,6 +9,10 @@ city-id: 0705f50b-5e16-45b3-8bd1-649b1082ea1e
 commissioned-by: ''
 date: 2004-01-01T00:00:00Z
 date-precision: year
+location:
+  latitude: 0
+  longitude: 0
+  precision: 50
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids:
