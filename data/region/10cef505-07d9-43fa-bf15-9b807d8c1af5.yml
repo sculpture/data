@@ -1,7 +1,7 @@
 id: 10cef505-07d9-43fa-bf15-9b807d8c1af5
 type: region
-slug: baycrest-terrace
-name: Baycrest Terrace
+slug: hamilton-nj-us
+name: Hamilton NJ
 geojson: '{"type":"Polygon","coordinates":[[[-79.4447629,43.7296311],[-79.4321589,43.7296311],[-79.4321589,43.7269349],[-79.4447629,43.7269349],[-79.4447629,43.7296311]]]}'
 tag-ids:
-- f78a6462-d5a5-424d-a03c-fb328cbdee3d
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
