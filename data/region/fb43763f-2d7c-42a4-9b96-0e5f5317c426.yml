@@ -3,4 +3,6 @@ type: region
 slug: grounds-for-sculpture-hamilton-nj
 name: Grounds For Sculpture
 geojson: '{"type":"Polygon","coordinates":[[[-79.3803256,43.6468326],[-79.3798749,43.6468326],[-79.3798749,43.6460641],[-79.3803256,43.6460641],[-79.3803256,43.6468326]]]}'
-tag-ids: []
+tag-ids:
+- 0fc87402-1a39-4ec0-bc47-89c311a8711d
+- 7416cb28-4978-4edc-8118-4330860dbd09
