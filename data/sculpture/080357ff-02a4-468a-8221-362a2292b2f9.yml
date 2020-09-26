@@ -8,5 +8,9 @@ city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
 date: 1974-01-01T00:00:00Z
 date-precision: year
 link-wikipedia: https://en.wikipedia.org/wiki/Personnage_Gothique,_Oiseau-Eclair
+location:
+  latitude: 38.89158454668898
+  longitude: -77.02329682275392
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
