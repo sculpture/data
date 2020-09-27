@@ -8,6 +8,10 @@ city-id: 8fa25799-a952-4ff5-9506-2f3b95f48200
 date: 1981-01-01T00:00:00Z
 date-precision: year
 link-wikipedia: https://en.wikipedia.org/wiki/Mir%C3%B3%27s_Chicago
+location:
+  latitude: 41.8803
+  longitude: -87.6337
+  precision: 50
 material-ids:
 - 18829464-3bed-4f42-b206-8d99f402dc1b
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
