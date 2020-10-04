@@ -7,6 +7,7 @@ artist-ids:
 city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
 date: 1997-01-01T00:00:00Z
 date-precision: year
+link-wikipedia: https://en.wikipedia.org/wiki/Joie_de_Vivre
 location:
   latitude: 40.70897
   longitude: -74.01094
