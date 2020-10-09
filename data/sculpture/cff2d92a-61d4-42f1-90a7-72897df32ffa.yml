@@ -5,7 +5,7 @@ title: Young Canada
 artist-ids:
 - 6f865dfb-70da-490c-a8d7-519c815d6eeb
 city-id: 80f5f02b-13d3-457b-a873-44e2b7a53cfc
-date: 1991-01-01T00:00:00Z
+date: 1990-12-31T23:00:00Z
 date-precision: year
 location:
   latitude: 43.68457369811355
@@ -13,4 +13,6 @@ location:
   precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
-tag-ids: []
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
