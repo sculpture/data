@@ -5,7 +5,7 @@ title: Red Spring
 artist-ids:
 - 962afd1e-a44c-406d-855f-3382f0a43c10
 city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
-date: 1981-01-01T00:00:00Z
+date: 1980-12-31T23:00:00Z
 date-precision: year
 location:
   latitude: 49.28277446300382
@@ -13,3 +13,5 @@ location:
   precision: 50
 material-ids:
 - d5e04d12-19d1-4983-86c9-8ef02568d71c
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
