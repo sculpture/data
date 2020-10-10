@@ -6,12 +6,13 @@ artist-ids:
 - daa3739f-f25b-4e27-a19d-689c6f3740ac
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Environment Canada
-date: 1971-01-01T00:00:00Z
+date: 1970-12-31T23:00:00Z
 date-precision: year
 location:
   latitude: 43.781425739509224
   longitude: -79.46951639524538
-  precision: 50.0
+  precision: 50
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
-tag-ids: []
+tag-ids:
+- 85105298-6047-4f80-88ec-76aa0b77d815
