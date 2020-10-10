@@ -2,9 +2,14 @@ id: 610933af-6bbf-4e96-9e1e-60d9f99655e4
 type: sculpture
 slug: grande-rouge-henry
 title: Grande Rouge
+artist-ids: []
 city-id: 4c133344-0cec-4448-b5cb-d702cc6e1913
-date: 1998-01-02T00:00:00Z
+date: 1998-01-01T23:00:00Z
 date-precision: year
+location:
+  latitude: 40.237
+  longitude: -74.71895883677062
+  precision: 150
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 - d0c52472-81c0-4c1d-abd7-3a32fd760700
