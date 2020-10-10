@@ -6,7 +6,12 @@ artist-ids:
 - 5d03633b-428d-4c4b-a49a-211d70bad4a2
 city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
 commissioned-by: ''
-date: 1994-01-01T00:00:00Z
+date: 1993-12-31T23:00:00Z
 date-precision: year
+location:
+  latitude: 45.45963609094522
+  longitude: -73.57620285888682
+  precision: 363
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
