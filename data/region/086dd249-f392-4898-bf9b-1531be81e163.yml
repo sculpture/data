@@ -1,7 +1,6 @@
 id: 086dd249-f392-4898-bf9b-1531be81e163
 type: region
-slug: vari-hall
-name: Vari Hall
+slug: willowdale-north-york
+name: Willowdale
 geojson: '{"type":"Polygon","coordinates":[[[-79.50392,43.77319],[-79.50339,43.77331],[-79.5029,43.77212],[-79.50343,43.772],[-79.50392,43.77319]]]}'
-tag-ids:
-- c6980378-c006-49d9-a681-effc4d36aea9
+tag-ids: []
