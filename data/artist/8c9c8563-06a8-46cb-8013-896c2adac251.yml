@@ -2,9 +2,9 @@ id: 8c9c8563-06a8-46cb-8013-896c2adac251
 type: artist
 slug: norman-slater-montreal
 name: Norman Slater
-birth-date: 1921-01-01T00:00:00Z
+birth-date: '1921-01-01'
 birth-date-precision: year
-death-date: 2003-01-01T00:00:00Z
+death-date: '2003-01-01'
 gender: male
 nationality: Canadian
 tag-ids:

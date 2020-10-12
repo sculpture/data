@@ -5,7 +5,7 @@ title: Canadian Phalanx
 artist-ids:
 - ffa03678-310d-4685-8cc4-5ffd96ac1c91
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
-date: 1920-01-01T00:00:00Z
+date: '1920-01-01'
 date-precision: year
 location:
   latitude: 45.41986444871423

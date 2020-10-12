@@ -6,7 +6,7 @@ artist-ids:
 - 7ad71af4-c9b7-49d0-9765-ba2a674856a0
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Gift of International Nickel Company
-date: 1967-01-01T00:00:00Z
+date: '1967-01-01'
 date-precision: year
 location:
   latitude: 43.7723722008222

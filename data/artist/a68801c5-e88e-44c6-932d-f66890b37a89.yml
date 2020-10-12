@@ -2,7 +2,7 @@ id: a68801c5-e88e-44c6-932d-f66890b37a89
 type: artist
 slug: john-greer
 name: John Greer
-birth-date: 1944-01-01T00:00:00Z
+birth-date: '1944-01-01'
 birth-date-precision: year
 gender: male
 link-website: https://www.artistjohngreer.com/

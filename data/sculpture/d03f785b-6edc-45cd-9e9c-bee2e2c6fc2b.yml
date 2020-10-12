@@ -6,7 +6,7 @@ artist-ids:
 - 29376452-21d0-46dc-93e7-5f73c1c88acf
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Visual Arts Ontario
-date: 1982-01-01T00:00:00Z
+date: '1982-01-01'
 date-precision: year
 location:
   latitude: 43.65095306200729

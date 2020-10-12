@@ -5,7 +5,7 @@ title: Bond
 artist-ids:
 - b2c54f03-b05b-43b4-8811-e4d959f022ac
 city-id: 21f56f64-52ee-47e4-8113-8503789209f1
-date: 1969-01-01T00:00:00Z
+date: '1969-01-01'
 date-precision: year
 location:
   latitude: 42.93245

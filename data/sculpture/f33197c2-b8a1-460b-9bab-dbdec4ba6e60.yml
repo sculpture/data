@@ -5,7 +5,7 @@ title: Pillars of Justice
 artist-ids:
 - 8abe61d6-a1d8-4f09-abee-806e1f399de0
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 2007-01-01T00:00:00Z
+date: '2007-01-01'
 date-precision: year
 location:
   latitude: 43.65274106853381

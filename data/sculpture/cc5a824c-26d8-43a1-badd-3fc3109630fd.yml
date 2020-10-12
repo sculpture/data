@@ -6,7 +6,7 @@ artist-ids:
 - 7a8178a5-4c8f-4020-8064-52135f999e71
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Daniels Corporation
-date: 2012-01-01T00:00:00Z
+date: '2012-01-01'
 date-precision: year
 location:
   latitude: 43.646781

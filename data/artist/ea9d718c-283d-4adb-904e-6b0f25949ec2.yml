@@ -2,9 +2,9 @@ id: ea9d718c-283d-4adb-904e-6b0f25949ec2
 type: artist
 slug: joaquim-correia
 name: Joaquim Correia
-birth-date: 1920-01-01T00:00:00Z
+birth-date: '1920-01-01'
 birth-date-precision: year
-death-date: 2013-01-01T00:00:00Z
+death-date: '2013-01-01'
 gender: male
 nationality: Portuguese
 tag-ids: []

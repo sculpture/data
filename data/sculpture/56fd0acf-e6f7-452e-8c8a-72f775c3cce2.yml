@@ -6,7 +6,7 @@ artist-ids:
 - 293138b4-7a78-4d25-9254-39e440e27a70
 - b5dd1add-61c2-4013-a02f-32248c279b8f
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 2012-01-01T00:00:00Z
+date: '2012-01-01'
 date-precision: year
 location:
   latitude: 43.63913362271529

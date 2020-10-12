@@ -2,9 +2,9 @@ id: 823a7ad8-c175-4f0b-892e-a24e69b1c02f
 type: artist
 slug: henryhunt
 name: Henry Hunt
-birth-date: 1923-10-16T00:00:00Z
+birth-date: '1923-10-16'
 birth-date-precision: year
-death-date: 1985-03-13T00:00:00Z
+death-date: '1985-03-13'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Henry_Hunt_(artist)
 nationality: Canadian

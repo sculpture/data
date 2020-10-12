@@ -5,7 +5,7 @@ title: Women are Persons!
 artist-ids:
 - 22fa7cfa-dc68-46df-8c8c-65e0a62e6a29
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
-date: 2000-01-01T00:00:00Z
+date: '2000-01-01'
 date-precision: year
 location:
   latitude: 45.425400904342816

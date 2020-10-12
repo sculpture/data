@@ -6,7 +6,7 @@ artist-ids:
 - 80b2b77e-30d5-4558-b7a7-9bc5c54c54d0
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: JPI Canada
-date: 2002-01-01T00:00:00Z
+date: '2002-01-01'
 date-precision: year
 location:
   latitude: 43.6456206

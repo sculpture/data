@@ -6,7 +6,7 @@ artist-ids:
 - 5c6b1f45-ad1e-474b-aa91-0dc477e2bc3e
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: York University
-date: 1972-01-01T00:00:00Z
+date: '1972-01-01'
 date-precision: year
 location:
   latitude: 43.7725576

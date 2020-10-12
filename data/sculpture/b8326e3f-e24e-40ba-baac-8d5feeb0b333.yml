@@ -5,7 +5,7 @@ title: Mercury
 artist-ids:
 - d7261014-c529-4391-a807-1676b6cf3ac1
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 1926-01-01T00:00:00Z
+date: '1926-01-01'
 date-precision: year
 location:
   latitude: 43.631486998767585

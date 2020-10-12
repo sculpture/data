@@ -5,7 +5,7 @@ title: Pioneer Family
 artist-ids:
 - ce07fcd9-f19e-468d-b8b4-6a61ac046c14
 city-id: bc863b0f-3035-4fab-888c-89e017daabea
-date: 1988-01-01T00:00:00Z
+date: '1988-01-01'
 date-precision: year
 location:
   latitude: 43.53299616205245

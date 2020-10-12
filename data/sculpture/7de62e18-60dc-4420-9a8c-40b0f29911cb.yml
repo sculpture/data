@@ -6,7 +6,7 @@ artist-ids:
 - 4a20cb7d-b810-41fa-9bf0-4f40f677b43d
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Municipality of Metropolitan Toronto Marathon Realty Company
-date: 1992-01-01T00:00:00Z
+date: '1992-01-01'
 date-precision: year
 location:
   latitude: 43.6460427

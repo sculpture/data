@@ -5,7 +5,7 @@ title: Daedalus
 artist-ids:
 - b2c54f03-b05b-43b4-8811-e4d959f022ac
 city-id: 4c133344-0cec-4448-b5cb-d702cc6e1913
-date: 1989-12-31T23:00:00Z
+date: '1989-12-31'
 date-precision: year
 location:
   latitude: 40.23763759599207

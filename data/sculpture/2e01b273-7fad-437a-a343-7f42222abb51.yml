@@ -5,7 +5,7 @@ title: Untitled
 artist-ids:
 - 715e1f4a-2c5c-45a9-8477-de054ea2cd96
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 2002-01-01T00:00:00Z
+date: '2002-01-01'
 date-precision: year
 location:
   latitude: 43.66809383568313

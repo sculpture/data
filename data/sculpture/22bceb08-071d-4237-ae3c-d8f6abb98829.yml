@@ -5,7 +5,7 @@ title: Claudia
 artist-ids:
 - 0af22cae-23ce-47ec-91c7-fe2a4b9c5441
 city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
-date: 2003-01-01T00:00:00Z
+date: '2003-01-01'
 date-precision: year
 location:
   latitude: 45.49823294721239

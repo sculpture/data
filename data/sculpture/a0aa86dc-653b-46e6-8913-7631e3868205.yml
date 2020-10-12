@@ -6,7 +6,7 @@ artist-ids:
 - a791e704-3cf6-4e29-b923-0e8213816522
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Gift of Mr & Mrs Samuel Zachs
-date: 1962-01-01T00:00:00Z
+date: '1962-01-01'
 date-precision: year
 location:
   latitude: 43.6639085

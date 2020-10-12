@@ -5,7 +5,7 @@ title: Becca's H
 artist-ids:
 - ddaf3797-99ee-4144-8ab7-e8ddd5638a70
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 1973-01-01T00:00:00Z
+date: '1973-01-01'
 date-precision: year
 location:
   latitude: 43.659854152857015

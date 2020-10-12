@@ -5,7 +5,7 @@ title: Eumenides
 artist-ids:
 - dda91122-e092-4076-ab8d-22231463ab03
 city-id: 9feeba88-1b66-4091-a267-5a2cbf0bfd66
-date: 1985-01-01T00:00:00Z
+date: '1985-01-01'
 date-precision: year
 location:
   latitude: 43.157027570723194

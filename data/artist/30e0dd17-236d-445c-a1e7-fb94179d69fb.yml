@@ -2,9 +2,9 @@ id: 30e0dd17-236d-445c-a1e7-fb94179d69fb
 type: artist
 slug: princess-louise
 name: Princess Louise
-birth-date: 1848-03-18T00:00:00Z
+birth-date: '1848-03-18'
 birth-date-precision: year
-death-date: 1939-12-03T00:00:00Z
+death-date: '1939-12-03'
 gender: female
 link-wikipedia: https://en.wikipedia.org/wiki/Princess_Louise,_Duchess_of_Argyll
 nationality: English

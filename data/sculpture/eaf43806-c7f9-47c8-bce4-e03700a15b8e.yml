@@ -6,7 +6,7 @@ artist-ids:
 - c65b02f1-105d-4cb6-b39c-b1ac75c20bcf
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: H&R Developers
-date: 1987-01-01T00:00:00Z
+date: '1987-01-01'
 date-precision: year
 location:
   latitude: 43.64594054709768

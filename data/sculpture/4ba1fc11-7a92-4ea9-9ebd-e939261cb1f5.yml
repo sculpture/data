@@ -5,7 +5,7 @@ title: Twin 6' Hearts
 artist-ids:
 - eb7fbec1-62a5-4389-b7e9-babbcde37195
 city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
-date: 1999-01-01T00:00:00Z
+date: '1999-01-01'
 date-precision: year
 location:
   latitude: 45.49850367291884

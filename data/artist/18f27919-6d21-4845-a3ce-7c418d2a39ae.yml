@@ -2,9 +2,9 @@ id: 18f27919-6d21-4845-a3ce-7c418d2a39ae
 type: artist
 slug: Mungo Martin
 name: Mungo Martin
-birth-date: 1879-01-01T00:00:00Z
+birth-date: '1879-01-01'
 birth-date-precision: year
-death-date: 1962-01-01T00:00:00Z
+death-date: '1962-01-01'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Mungo_Martin
 nationality: Canadian

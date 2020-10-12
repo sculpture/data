@@ -5,7 +5,7 @@ title: Monument
 artist-ids:
 - 4daeec4c-2b4d-46ed-81b7-5717b21bfe33
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 2007-01-01T00:00:00Z
+date: '2007-01-01'
 date-precision: year
 location:
   latitude: 43.66098763515386

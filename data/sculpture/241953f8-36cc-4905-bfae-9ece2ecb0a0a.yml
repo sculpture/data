@@ -5,7 +5,7 @@ title: Stand by Me
 artist-ids:
 - 47876e1f-bdb0-489a-a3d1-cc98526218f1
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 2004-01-01T00:00:00Z
+date: '2004-01-01'
 date-precision: year
 location:
   latitude: 43.76858599330687

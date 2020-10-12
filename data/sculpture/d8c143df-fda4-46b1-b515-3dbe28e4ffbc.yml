@@ -6,7 +6,7 @@ artist-ids:
 - ef6b5179-6f6f-44cd-ad13-f7ef324d7533
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Etobicoke public art competition
-date: 1996-01-01T00:00:00Z
+date: '1996-01-01'
 date-precision: year
 location:
   latitude: 43.613417082154754

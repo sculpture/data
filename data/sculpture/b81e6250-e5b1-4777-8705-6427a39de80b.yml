@@ -6,7 +6,7 @@ artist-ids:
 - aee9b5c3-7165-4ae9-95a8-aeb8bfc2e348
 city-id: 0ee02da1-45f2-450a-90de-ae994dd75a5e
 commissioned-by: gift of Irving Zucker
-date: 1973-01-01T00:00:00Z
+date: '1973-01-01'
 date-precision: year
 location:
   latitude: 43.25663501705659

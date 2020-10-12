@@ -6,7 +6,7 @@ artist-ids:
 - c58d3ad6-45d9-4ab0-8eae-be88bf5eaa35
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: The Devonian Group
-date: 1977-01-01T00:00:00Z
+date: '1977-01-01'
 date-precision: year
 location:
   latitude: 43.658777297713485

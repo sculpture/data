@@ -6,7 +6,7 @@ artist-ids:
 - 32d9be80-86da-49c3-8123-d373d530b2a1
 city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
 commissioned-by: donated by Friends of the Library/Mississauga
-date: 1987-01-01T00:00:00Z
+date: '1987-01-01'
 date-precision: year
 location:
   latitude: 43.59028998627248

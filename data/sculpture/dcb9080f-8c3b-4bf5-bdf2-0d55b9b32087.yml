@@ -5,7 +5,7 @@ title: Early Morning Dream
 artist-ids:
 - 38e32996-ada5-4a2d-9794-ab53222ceb4e
 city-id: b50c816a-bc64-45db-b0db-f86504c9b799
-date: 1972-01-01T00:00:00Z
+date: '1972-01-01'
 date-precision: year
 location:
   latitude: 43.4722854

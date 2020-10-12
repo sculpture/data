@@ -6,7 +6,7 @@ artist-ids:
 - 31bc0a9c-d23f-417f-a390-0b08bfe778f6
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Bell Canada Comission
-date: 1980-01-01T00:00:00Z
+date: '1980-01-01'
 date-precision: year
 location:
   latitude: 43.77322816129424

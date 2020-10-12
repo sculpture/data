@@ -5,7 +5,7 @@ title: La Halte dans la forêt
 artist-ids:
 - f6ba5000-2ac9-4069-bee4-09ca21d36852
 city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
-date: 1889-01-01T00:00:00Z
+date: '1889-01-01'
 location:
   latitude: 46.80896095142502
   longitude: -71.21369399657297

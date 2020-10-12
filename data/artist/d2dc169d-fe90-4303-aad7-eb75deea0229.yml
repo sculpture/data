@@ -3,7 +3,7 @@ type: artist
 slug: oryst-sawchuk
 name: Oryst Sawchuk
 birth-date-precision: year
-death-date: 2019-05-02T00:00:00Z
+death-date: '2019-05-02'
 gender: male
 nationality: Canadian
 tag-ids: []

@@ -6,7 +6,7 @@ artist-ids:
 - c60ea4ef-7b74-4184-a1e6-abafb0ccd4e4
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Monarch development inc
-date: 2014-01-01T00:00:00Z
+date: '2014-01-01'
 date-precision: year
 location:
   latitude: 43.775208522304084

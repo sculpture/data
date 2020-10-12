@@ -6,7 +6,7 @@ artist-ids:
 - e430aa7d-470d-47a3-9b6a-11fd7e078d72
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Fine Arts Council
-date: 1976-01-01T00:00:00Z
+date: '1976-01-01'
 date-precision: year
 location:
   latitude: 43.7453223

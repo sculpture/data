@@ -2,9 +2,9 @@ id: 0d0131e9-ece4-417f-80bd-904e881f478e
 type: artist
 slug: auguste-rodin
 name: Auguste Rodin
-birth-date: 1840-11-12T00:00:00Z
+birth-date: '1840-11-12'
 birth-date-precision: year
-death-date: 1917-11-17T00:00:00Z
+death-date: '1917-11-17'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Auguste_Rodin
 nationality: French

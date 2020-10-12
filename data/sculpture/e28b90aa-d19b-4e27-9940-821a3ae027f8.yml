@@ -6,7 +6,7 @@ artist-ids:
 - 00e97f17-71dc-4ad2-b660-855ae823bc24
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Victoria College
-date: 1976-01-01T00:00:00Z
+date: '1976-01-01'
 date-precision: year
 location:
   latitude: 43.6669181

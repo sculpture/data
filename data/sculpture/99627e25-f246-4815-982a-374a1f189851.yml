@@ -5,7 +5,7 @@ title: Don Mills Montage
 artist-ids:
 - 660b42be-fe7f-4347-ab48-57144c22e6b7
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 1962-01-01T00:00:00Z
+date: '1962-01-01'
 date-precision: year
 location:
   latitude: 43.73657545913759

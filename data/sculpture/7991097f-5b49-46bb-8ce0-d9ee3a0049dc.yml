@@ -5,7 +5,7 @@ title: Crusacean
 artist-ids:
 - 95d76544-1acb-4dd7-b458-21a12128f863
 city-id: 4c133344-0cec-4448-b5cb-d702cc6e1913
-date: 1998-01-01T23:00:00Z
+date: '1998-01-01'
 date-precision: year
 location:
   latitude: 40.2376961607599

@@ -5,7 +5,7 @@ title: Pool of Knowledge
 artist-ids:
 - d0c04e64-b017-460c-bed0-06b7ad33c2a7
 city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
-date: 1997-01-01T00:00:00Z
+date: '1997-01-01'
 date-precision: year
 location:
   latitude: 43.59027723315083

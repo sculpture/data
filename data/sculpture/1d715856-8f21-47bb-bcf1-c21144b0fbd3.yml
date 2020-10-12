@@ -6,7 +6,7 @@ artist-ids:
 - 38e32996-ada5-4a2d-9794-ab53222ceb4e
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Donated by Rio Algom Ltd
-date: 1965-01-01T00:00:00Z
+date: '1965-01-01'
 date-precision: year
 location:
   latitude: 43.780437

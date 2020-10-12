@@ -5,7 +5,7 @@ title: The Compass
 artist-ids:
 - 4fda7392-4dca-4113-8373-40114a0bc8bf
 city-id: 719fac10-c7ca-498c-9078-90bdcf119147
-date: 2005-01-01T00:00:00Z
+date: '2005-01-01'
 date-precision: year
 location:
   latitude: 43.94364158921372

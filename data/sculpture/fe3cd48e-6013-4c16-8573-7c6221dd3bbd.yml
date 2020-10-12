@@ -5,7 +5,7 @@ title: Four Arches
 artist-ids:
 - 7ad71af4-c9b7-49d0-9765-ba2a674856a0
 city-id: fd14bdab-7cb5-49d7-a9e8-84595c2d2088
-date: 1973-01-01T00:00:00Z
+date: '1973-01-01'
 date-precision: year
 location:
   latitude: 34.0537492

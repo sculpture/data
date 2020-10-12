@@ -2,9 +2,9 @@ id: 7dfcc415-fab6-492d-90d9-6c0ca0cc5583
 type: artist
 slug: magdalena-abakanowicz
 name: Magdalena Abakanowicz
-birth-date: 1930-06-20T00:00:00Z
+birth-date: '1930-06-20'
 birth-date-precision: year
-death-date: 2017-04-20T00:00:00Z
+death-date: '2017-04-20'
 gender: female
 link-website: http://www.abakanowicz.art.pl/
 link-wikipedia: https://en.wikipedia.org/wiki/Magdalena_Abakanowicz

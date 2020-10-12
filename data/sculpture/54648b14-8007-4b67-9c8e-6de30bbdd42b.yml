@@ -6,7 +6,7 @@ artist-ids:
 - 0d4fa466-31ef-4ee4-a172-bbf99f4f215b
 - 3adfebe7-9e1f-402c-a40b-80b7d9eb4569
 city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
-date: 1966-01-01T00:00:00Z
+date: '1966-01-01'
 date-precision: year
 location:
   latitude: 49.28325037243976

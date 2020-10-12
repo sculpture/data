@@ -5,7 +5,7 @@ title: Nihgtlights
 artist-ids:
 - c5d4d597-b585-4476-96ee-f25b34038f4f
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 2010-01-01T00:00:00Z
+date: '2010-01-01'
 date-precision: year
 location:
   latitude: 43.649955106599656

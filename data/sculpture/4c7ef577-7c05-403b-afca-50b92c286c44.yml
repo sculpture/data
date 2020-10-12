@@ -5,7 +5,7 @@ title: Boer War Memorial
 artist-ids:
 - 8ec33c59-ca3d-47fb-bf62-7e4e3059bd01
 city-id: 052407cb-5737-4173-8a61-27dcd97825ac
-date: 1912-01-01T00:00:00Z
+date: '1912-01-01'
 date-precision: year
 location:
   latitude: 42.98857671555218

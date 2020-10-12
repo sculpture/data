@@ -6,7 +6,7 @@ artist-ids:
 - 2fb2873a-8083-45af-b967-a8ffd1e0b75d
 city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
 commissioned-by: ' gift of Nathan Cummings 1969'
-date: 1968-01-01T00:00:00Z
+date: '1968-01-01'
 date-precision: year
 location:
   latitude: 45.49856383401018

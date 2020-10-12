@@ -5,7 +5,7 @@ title: Bronze Form
 artist-ids:
 - 2fb2873a-8083-45af-b967-a8ffd1e0b75d
 city-id: dfc812fa-0588-474a-98a2-4cdccf6bad2f
-date: 1985-01-01T00:00:00Z
+date: '1985-01-01'
 date-precision: year
 location:
   latitude: 42.9795

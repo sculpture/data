@@ -5,7 +5,7 @@ title: War Memorial 1914-1919
 artist-ids:
 - 8ec33c59-ca3d-47fb-bf62-7e4e3059bd01
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 1921-01-01T00:00:00Z
+date: '1921-01-01'
 date-precision: year
 location:
   latitude: 43.6612981

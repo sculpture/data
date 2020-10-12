@@ -6,7 +6,7 @@ artist-ids:
 - 6c415c22-af7b-4d96-958b-2d657fd519a7
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: The Finnish People of Canada
-date: 1959-01-01T00:00:00Z
+date: '1959-01-01'
 date-precision: year
 location:
   latitude: 43.671433

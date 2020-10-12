@@ -5,7 +5,7 @@ title: Flight Stop
 artist-ids:
 - 48982755-59b3-4475-8f1c-6b8cac124e78
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 1979-01-01T00:00:00Z
+date: '1979-01-01'
 date-precision: year
 link-wikipedia: https://en.wikipedia.org/wiki/Flight_Stop
 location:

@@ -5,7 +5,7 @@ title: Mother and Child
 artist-ids:
 - ab263bc0-6a20-4e7d-a2ce-948da0fd9977
 city-id: 5899c2fb-c707-426d-a651-491dec175f49
-date: 1989-01-01T00:00:00Z
+date: '1989-01-01'
 date-precision: year
 location:
   latitude: 43.84369083890619

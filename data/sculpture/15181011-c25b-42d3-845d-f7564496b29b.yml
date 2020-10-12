@@ -6,7 +6,7 @@ artist-ids:
 - 18976fc2-9dba-483c-8b02-4f7c9a7f5f6e
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: University of Toronto
-date: 1962-01-01T00:00:00Z
+date: '1962-01-01'
 date-precision: year
 location:
   latitude: 43.66006035898698

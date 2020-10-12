@@ -5,7 +5,7 @@ title: Untitled
 artist-ids:
 - c9ba98ff-8410-440b-8acd-be9091a01190
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 1987-01-01T00:00:00Z
+date: '1987-01-01'
 date-precision: year
 location:
   latitude: 43.6871687

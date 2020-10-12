@@ -5,7 +5,7 @@ title: Mythic Messengers
 artist-ids:
 - 9ea692e0-a951-49cf-b0ba-9a8ce3c6973a
 city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
-date: 1984-01-01T00:00:00Z
+date: '1984-01-01'
 date-precision: year
 location:
   latitude: 45.42985671838666

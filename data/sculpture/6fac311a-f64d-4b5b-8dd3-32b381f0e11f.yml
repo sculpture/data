@@ -5,7 +5,7 @@ title: Event Horizon
 artist-ids:
 - 42313942-4cca-4594-a834-c9079367626f
 city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
-date: 1991-01-01T00:00:00Z
+date: '1991-01-01'
 date-precision: year
 location:
   latitude: 46.799881214533656
