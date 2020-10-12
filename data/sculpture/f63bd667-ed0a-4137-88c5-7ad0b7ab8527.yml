@@ -5,7 +5,7 @@ title: Window
 artist-ids:
 - 01b509a2-b82b-46c2-80e7-910b2d2472e6
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 1980-01-01T00:00:00Z
+date: '1980-01-01'
 date-precision: year
 location:
   latitude: 43.6384203637094

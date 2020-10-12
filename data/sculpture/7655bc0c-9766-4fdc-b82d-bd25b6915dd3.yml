@@ -6,7 +6,7 @@ artist-ids:
 - 30ea1df3-24ef-4c4b-9de4-2d3fc38ed2f7
 city-id: bc863b0f-3035-4fab-888c-89e017daabea
 commissioned-by: Gift of Artist
-date: 1990-01-01T00:00:00Z
+date: '1990-01-01'
 date-precision: year
 location:
   latitude: 43.5330895

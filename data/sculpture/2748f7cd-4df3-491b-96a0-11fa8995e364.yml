@@ -6,7 +6,7 @@ artist-ids:
 - 26be158f-691f-4035-9530-7abd1f1e52c3
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: ''
-date: 2015-01-01T00:00:00Z
+date: '2015-01-01'
 date-precision: year
 location:
   latitude: 43.6390530173284

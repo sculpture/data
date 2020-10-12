@@ -5,7 +5,7 @@ title: Procession
 artist-ids:
 - d6c61866-dcae-407f-babb-083b3261c84d
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 1994-01-01T00:00:00Z
+date: '1994-01-01'
 date-precision: year
 location:
   latitude: 43.773889428119105

@@ -2,9 +2,9 @@ id: 7b3fa779-2af1-416f-bca6-ac3a22ca92ec
 type: artist
 slug: jacques-hurtubise
 name: Jacques Hurtubise
-birth-date: 1939-02-28T00:00:00Z
+birth-date: '1939-02-28'
 birth-date-precision: year
-death-date: 2014-12-27T00:00:00Z
+death-date: '2014-12-27'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Jacques_Hurtubise_(painter)
 nationality: Canadian

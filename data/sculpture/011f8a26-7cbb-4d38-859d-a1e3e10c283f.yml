@@ -6,7 +6,7 @@ artist-ids:
 - 2f0762a2-1b34-42c0-b2a2-73947952a06c
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Gary and Diane Harris
-date: 1997-01-01T00:00:00Z
+date: '1997-01-01'
 date-precision: year
 location:
   latitude: 43.72947269927164

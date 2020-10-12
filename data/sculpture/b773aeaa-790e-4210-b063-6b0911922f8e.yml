@@ -6,7 +6,7 @@ artist-ids:
 - dda91122-e092-4076-ab8d-22231463ab03
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: St. Michael's College
-date: 1978-01-01T00:00:00Z
+date: '1978-01-01'
 date-precision: year
 location:
   latitude: 43.66561038263877

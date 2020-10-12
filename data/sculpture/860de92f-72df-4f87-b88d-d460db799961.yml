@@ -5,7 +5,7 @@ title: Turkey
 artist-ids:
 - 339eed06-1891-429d-bbd7-16d68b860892
 city-id: bc863b0f-3035-4fab-888c-89e017daabea
-date: 1932-01-01T00:00:00Z
+date: '1932-01-01'
 date-precision: year
 location:
   latitude: 43.5330895

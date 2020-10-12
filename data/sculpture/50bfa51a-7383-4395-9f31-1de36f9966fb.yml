@@ -5,7 +5,7 @@ title: Sentinelles
 artist-ids:
 - f92f0d47-d131-4c6a-ad07-1d026752bc0f
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 2009-01-01T00:00:00Z
+date: '2009-01-01'
 date-precision: year
 location:
   latitude: 43.7761289

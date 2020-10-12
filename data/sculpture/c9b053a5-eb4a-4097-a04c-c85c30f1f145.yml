@@ -6,7 +6,7 @@ artist-ids:
 - 91e7275a-b3ad-4f6b-be41-97e3bfe0b17c
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: TTC
-date: 1978-01-01T00:00:00Z
+date: '1978-01-01'
 date-precision: year
 location:
   latitude: 43.749355

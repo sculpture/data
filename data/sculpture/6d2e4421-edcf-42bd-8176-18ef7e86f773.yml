@@ -5,7 +5,7 @@ title: Keep
 artist-ids:
 - c14ea17c-4379-4394-8db2-6b414734f230
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 2000-01-01T00:00:00Z
+date: '2000-01-01'
 date-precision: year
 location:
   latitude: 43.77263109961484

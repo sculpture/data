@@ -6,7 +6,7 @@ artist-ids:
 - b1418698-769e-4278-8188-dcfdd196de5d
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: International Sculpture Symposium
-date: 1967-01-01T00:00:00Z
+date: '1967-01-01'
 date-precision: year
 location:
   latitude: 43.64999479852371

@@ -6,7 +6,7 @@ artist-ids:
 - 30ea1df3-24ef-4c4b-9de4-2d3fc38ed2f7
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Hart House
-date: 1990-01-01T00:00:00Z
+date: '1990-01-01'
 date-precision: year
 location:
   latitude: 43.66365189766224

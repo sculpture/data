@@ -2,9 +2,9 @@ id: c3374a2c-b7d4-465c-839d-a3da3ef84ca5
 type: artist
 slug: graham-coughtry
 name: Graham Coughtry
-birth-date: 1931-06-06T00:00:00Z
+birth-date: '1931-06-06'
 birth-date-precision: year
-death-date: 1999-01-13T00:00:00Z
+death-date: '1999-01-13'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Graham_Coughtry
 nationality: Canadian

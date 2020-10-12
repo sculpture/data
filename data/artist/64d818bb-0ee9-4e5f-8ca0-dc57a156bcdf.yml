@@ -2,7 +2,7 @@ id: 64d818bb-0ee9-4e5f-8ca0-dc57a156bcdf
 type: artist
 slug: roseline-granet
 name: Roseline Granet
-birth-date: 1936-01-01T00:00:00Z
+birth-date: '1936-01-01'
 birth-date-precision: year
 gender: female
 link-website: http://roselinegranet.fr/

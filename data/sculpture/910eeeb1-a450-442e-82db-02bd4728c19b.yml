@@ -5,7 +5,7 @@ title: Time
 artist-ids:
 - f01c816e-53e3-4023-85a5-21c300a9b6b3
 city-id: c9158de3-fe56-4802-a882-9b81b08d3470
-date: 1973-01-01T00:00:00Z
+date: '1973-01-01'
 date-precision: year
 location:
   latitude: 44.22211507423693

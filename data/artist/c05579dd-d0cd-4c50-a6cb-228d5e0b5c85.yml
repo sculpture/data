@@ -2,9 +2,9 @@ id: c05579dd-d0cd-4c50-a6cb-228d5e0b5c85
 type: artist
 slug: edwin-alexander-gardner
 name: Edwin Gardner
-birth-date: 1902-01-01T00:00:00Z
+birth-date: '1902-01-01'
 birth-date-precision: year
-death-date: 1986-01-01T00:00:00Z
+death-date: '1986-01-01'
 gender: male
 nationality: Canadian
 tag-ids:

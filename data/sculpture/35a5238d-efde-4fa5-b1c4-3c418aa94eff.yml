@@ -5,7 +5,7 @@ title: Louis St.Laurent
 artist-ids:
 - d0868807-e079-4437-89e2-637adb41c11e
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
-date: 1976-01-01T00:00:00Z
+date: '1976-01-01'
 date-precision: year
 location:
   latitude: 45.420766839502726

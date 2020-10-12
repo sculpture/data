@@ -5,7 +5,7 @@ title: David of Sassoun
 artist-ids:
 - 9f9db0f8-1ff3-461c-9eb9-c6254e7e34d8
 city-id: b50c816a-bc64-45db-b0db-f86504c9b799
-date: 1977-01-01T00:00:00Z
+date: '1977-01-01'
 date-precision: year
 location:
   latitude: 43.471946540790405

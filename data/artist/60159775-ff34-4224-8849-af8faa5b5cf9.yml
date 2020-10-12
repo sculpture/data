@@ -2,9 +2,9 @@ id: 60159775-ff34-4224-8849-af8faa5b5cf9
 type: artist
 slug: vernon-march
 name: Vernon March
-birth-date: 1891-01-01T00:00:00Z
+birth-date: '1891-01-01'
 birth-date-precision: year
-death-date: 1930-01-01T00:00:00Z
+death-date: '1930-01-01'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Vernon_March
 nationality: British

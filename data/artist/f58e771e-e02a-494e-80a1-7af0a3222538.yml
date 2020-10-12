@@ -2,9 +2,9 @@ id: f58e771e-e02a-494e-80a1-7af0a3222538
 type: artist
 slug: marshall-wood
 name: Marshall Wood
-birth-date: 1834-01-01T00:00:00Z
+birth-date: '1834-01-01'
 birth-date-precision: year
-death-date: 1882-07-16T00:00:00Z
+death-date: '1882-07-16'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Marshall_Wood_(sculptor)
 nationality: English

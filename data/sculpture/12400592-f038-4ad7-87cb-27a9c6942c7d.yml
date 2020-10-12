@@ -6,7 +6,7 @@ artist-ids:
 - d534f5aa-828c-4b2f-8757-9aeafc9bf966
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Greenwin Developments
-date: 1973-01-01T00:00:00Z
+date: '1973-01-01'
 date-precision: year
 location:
   latitude: 43.69842239999999

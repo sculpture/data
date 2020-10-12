@@ -5,7 +5,7 @@ title: Day of Mourning
 artist-ids:
 - 0ec9e14b-95c9-4228-8726-fd4ce68e7d36
 city-id: 0ee02da1-45f2-450a-90de-ae994dd75a5e
-date: 1990-01-01T00:00:00Z
+date: '1990-01-01'
 date-precision: year
 location:
   latitude: 43.25598647472828

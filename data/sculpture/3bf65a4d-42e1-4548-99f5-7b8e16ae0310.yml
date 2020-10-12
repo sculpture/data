@@ -6,7 +6,7 @@ artist-ids:
 - 5cc2c0d6-c9d2-44f0-9ff4-b57e2e9e4460
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Government of Ontario
-date: 1980-01-01T00:00:00Z
+date: '1980-01-01'
 date-precision: year
 location:
   latitude: 43.66305089253403

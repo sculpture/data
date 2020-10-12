@@ -6,7 +6,7 @@ artist-ids:
 - 35afd1d7-072f-4c06-b5cb-c2316c1b8875
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Gift of the artist
-date: 1974-01-01T00:00:00Z
+date: '1974-01-01'
 date-precision: year
 location:
   latitude: 43.77270745355062

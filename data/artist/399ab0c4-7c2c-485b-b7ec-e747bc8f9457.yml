@@ -2,9 +2,9 @@ id: 399ab0c4-7c2c-485b-b7ec-e747bc8f9457
 type: artist
 slug: raoul-hunter
 name: Raoul Hunter
-birth-date: 1926-01-01T00:00:00Z
+birth-date: '1926-01-01'
 birth-date-precision: year
-death-date: 2018-12-10T00:00:00Z
+death-date: '2018-12-10'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Raoul_Hunter
 nationality: Canadian

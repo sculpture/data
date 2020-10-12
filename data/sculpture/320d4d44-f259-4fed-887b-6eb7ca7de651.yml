@@ -6,7 +6,7 @@ artist-ids:
 - c3374a2c-b7d4-465c-839d-a3da3ef84ca5
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Trizec Corp.
-date: 1964-01-01T00:00:00Z
+date: '1964-01-01'
 date-precision: year
 location:
   latitude: 43.72718291419676

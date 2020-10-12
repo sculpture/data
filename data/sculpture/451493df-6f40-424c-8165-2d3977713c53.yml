@@ -5,7 +5,7 @@ title: Bienvenue
 artist-ids:
 - fdc726f0-95cb-45aa-a338-38c7c7db1774
 city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
-date: 1994-01-01T00:00:00Z
+date: '1994-01-01'
 date-precision: year
 location:
   latitude: 46.81450843055665

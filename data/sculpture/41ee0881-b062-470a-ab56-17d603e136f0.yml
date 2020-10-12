@@ -5,7 +5,7 @@ title: Lester B. Pearson
 artist-ids:
 - b067b5f1-9795-4bce-bdc3-efa893057e94
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
-date: 1990-01-01T00:00:00Z
+date: '1990-01-01'
 date-precision: year
 location:
   latitude: 45.42383504955945

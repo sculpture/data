@@ -5,7 +5,7 @@ title: Migration
 artist-ids:
 - 6674d065-825f-4c37-82b7-a2000ca4e135
 city-id: 0ee02da1-45f2-450a-90de-ae994dd75a5e
-date: 1992-01-01T00:00:00Z
+date: '1992-01-01'
 date-precision: year
 location:
   latitude: 43.25629121234525

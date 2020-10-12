@@ -5,7 +5,7 @@ title: William Lyon Mackenzie King
 artist-ids:
 - 399ab0c4-7c2c-485b-b7ec-e747bc8f9457
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
-date: 1968-01-01T00:00:00Z
+date: '1968-01-01'
 date-precision: year
 location:
   latitude: 45.42517500696379

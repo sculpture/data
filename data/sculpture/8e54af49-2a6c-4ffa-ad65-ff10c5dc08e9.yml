@@ -6,7 +6,7 @@ artist-ids:
 - a7929085-aa59-43c6-bb5e-7b70e8d2df9b
 city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
 commissioned-by: Expo 67
-date: 1966-12-31T23:00:00Z
+date: '1966-12-31'
 date-precision: year
 location:
   latitude: 45.42934193667108

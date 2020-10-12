@@ -6,7 +6,7 @@ artist-ids:
 - 5e9e4190-3cc6-4e20-b1e4-429c0815013d
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: International Stone Sculpture Symposium
-date: 2005-01-01T00:00:00Z
+date: '2005-01-01'
 date-precision: year
 location:
   latitude: 43.6360684419777

@@ -5,7 +5,7 @@ title: Owls
 artist-ids:
 - e1cf0366-a083-4cc6-a9d8-5454990d2fe5
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 1998-01-01T00:00:00Z
+date: '1998-01-01'
 date-precision: year
 location:
   latitude: 43.77409521279688

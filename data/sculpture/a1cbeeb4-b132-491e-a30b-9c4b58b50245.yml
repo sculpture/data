@@ -5,7 +5,7 @@ title: Julia
 artist-ids:
 - 7b35f543-f2f8-47f0-850f-97c29456ec93
 city-id: dfc812fa-0588-474a-98a2-4cdccf6bad2f
-date: 1987-01-01T00:00:00Z
+date: '1987-01-01'
 date-precision: year
 location:
   latitude: 42.979

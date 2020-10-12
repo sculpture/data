@@ -5,7 +5,7 @@ title: Franklin and Rabbit
 artist-ids:
 - 9b34a8b7-35f0-4c56-95c0-344829c668db
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 2003-01-01T00:00:00Z
+date: '2003-01-01'
 date-precision: year
 location:
   latitude: 43.6162868
