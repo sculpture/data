@@ -6,12 +6,12 @@ artist-ids:
 - 2e1bd586-4498-4048-9316-457fbbf8c70c
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Canadian Heritage
-date: 2004-01-01T00:00:00Z
+date: 2003-12-31T23:00:00Z
 date-precision: year
 location:
-  latitude: 43.713119088547124
-  longitude: -79.45659576375428
-  precision: 50.0
+  latitude: 43.71295623545602
+  longitude: -79.45632754285279
+  precision: 50
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids: []
