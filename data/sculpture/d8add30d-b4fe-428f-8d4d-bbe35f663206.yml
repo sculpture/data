@@ -6,12 +6,12 @@ artist-ids:
 - ab263bc0-6a20-4e7d-a2ce-948da0fd9977
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Donated by Alicia Boccia
-date: 1989-01-01T00:00:00Z
+date: 1988-12-31T23:00:00Z
 date-precision: year
 location:
-  latitude: 43.71302602969209
-  longitude: -79.45660649259034
-  precision: 50.0
+  latitude: 43.71290195099397
+  longitude: -79.4562202544922
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
