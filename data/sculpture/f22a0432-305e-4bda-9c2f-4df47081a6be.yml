@@ -6,7 +6,6 @@ artist-ids:
 - a7929085-aa59-43c6-bb5e-7b70e8d2df9b
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
 date: '1958'
-date-precision: year
 location:
   latitude: 45.44022361665708
   longitude: -75.69515688620012

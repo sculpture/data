@@ -3,7 +3,6 @@ type: artist
 slug: bill-reid-haida
 name: Bill Reid
 birth-date: '1920-01-12'
-birth-date-precision: year
 death-date: '1998-03-13'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Bill_Reid

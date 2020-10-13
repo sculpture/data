@@ -7,7 +7,6 @@ artist-ids:
 city-id: 9a82bb0d-d00a-491c-911b-64b5be0e734a
 commissioned-by: A.E.LePage
 date: '1983'
-date-precision: year
 location:
   latitude: 42.313731828207416
   longitude: -83.0626379274476

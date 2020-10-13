@@ -3,7 +3,6 @@ type: artist
 slug: ivan-mestrovic
 name: Ivan Mestrovic
 birth-date: '1883-08-15'
-birth-date-precision: year
 death-date: '1962-01-16'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Ivan_Me%C5%A1trovi%C4%87

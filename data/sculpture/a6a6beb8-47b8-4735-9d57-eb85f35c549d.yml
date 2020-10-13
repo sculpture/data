@@ -7,7 +7,6 @@ artist-ids:
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Bell Canada
 date: '1983-12-31'
-date-precision: year
 location:
   latitude: 43.65321776738228
   longitude: -79.38320023173833

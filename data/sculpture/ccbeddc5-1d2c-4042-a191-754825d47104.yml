@@ -7,7 +7,6 @@ artist-ids:
 city-id: 5899c2fb-c707-426d-a651-491dec175f49
 commissioned-by: Loan of artist
 date: '1989'
-date-precision: year
 location:
   latitude: 43.842116515917205
   longitude: -79.61857277514649

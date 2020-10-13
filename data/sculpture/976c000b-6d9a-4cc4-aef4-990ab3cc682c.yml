@@ -7,7 +7,6 @@ artist-ids:
 city-id: c9158de3-fe56-4802-a882-9b81b08d3470
 commissioned-by: Gift of Dr. Michel D'Avirro
 date: '1992'
-date-precision: year
 location:
   latitude: 44.22635141135396
   longitude: -76.49425851911016

@@ -6,7 +6,6 @@ artist-ids:
 - 191ef210-a59a-4209-8a2d-8310e6789c33
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 date: '1870'
-date-precision: year
 location:
   latitude: 43.662251452601026
   longitude: -79.39077166770633

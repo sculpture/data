@@ -7,7 +7,6 @@ artist-ids:
 city-id: c9158de3-fe56-4802-a882-9b81b08d3470
 commissioned-by: Queens Department of Mathematics and Statistics
 date: '1972'
-date-precision: year
 location:
   latitude: 44.22567036809353
   longitude: -76.49609851449436

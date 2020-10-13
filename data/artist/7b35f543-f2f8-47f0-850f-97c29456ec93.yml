@@ -3,7 +3,6 @@ type: artist
 slug: keith-haring
 name: Keith Haring
 birth-date: '1958-05-04'
-birth-date-precision: year
 death-date: '1990-02-16'
 gender: male
 link-website: https://www.haring.com/

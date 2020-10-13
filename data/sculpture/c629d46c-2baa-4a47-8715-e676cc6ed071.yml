@@ -7,7 +7,6 @@ artist-ids:
 city-id: dac6b750-3737-4336-8cbe-6adaee26d9ef
 commissioned-by: Alert care Corp.
 date: '1995'
-date-precision: year
 location:
   latitude: 43.892067
   longitude: -78.94731139999999

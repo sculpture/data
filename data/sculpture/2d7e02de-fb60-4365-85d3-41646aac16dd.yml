@@ -7,7 +7,6 @@ artist-ids:
 city-id: dfc812fa-0588-474a-98a2-4cdccf6bad2f
 commissioned-by: Gift of Fred and Lena Meijer
 date: '2001'
-date-precision: year
 location:
   latitude: 42.9795
   longitude: -85.5856389

@@ -7,7 +7,6 @@ artist-ids:
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
 commissioned-by: Bank of Canada
 date: '1967'
-date-precision: year
 location:
   latitude: 45.421365811030356
   longitude: -75.70231183806767

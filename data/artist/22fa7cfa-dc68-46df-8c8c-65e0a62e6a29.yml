@@ -3,7 +3,6 @@ type: artist
 slug: barbara-paterson
 name: Barbara Paterson
 birth-date: '1935'
-birth-date-precision: year
 gender: female
 link-wikipedia: https://en.wikipedia.org/wiki/Barbara_Paterson
 nationality: Canadian

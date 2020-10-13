@@ -6,7 +6,6 @@ artist-ids:
 - 9ea692e0-a951-49cf-b0ba-9a8ce3c6973a
 city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
 date: '1986'
-date-precision: year
 link-wikipedia: https://en.wikipedia.org/wiki/Spirit_of_Haida_Gwaii
 location:
   latitude: 38.89271552384783

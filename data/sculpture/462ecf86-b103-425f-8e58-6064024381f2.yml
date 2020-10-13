@@ -7,7 +7,6 @@ artist-ids:
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Toronto Public Art Commission
 date: '2001'
-date-precision: year
 location:
   latitude: 43.64304896767605
   longitude: -79.39241297576301

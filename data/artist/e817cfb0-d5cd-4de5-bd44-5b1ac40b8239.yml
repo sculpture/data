@@ -3,7 +3,6 @@ type: artist
 slug: yves-trudeau
 name: Yves Trudeau
 birth-date: '1930-12-03'
-birth-date-precision: year
 death-date: '2017-12-18'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Yves_Trudeau_(artist)

@@ -7,7 +7,6 @@ artist-ids:
 city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
 commissioned-by: UBC
 date: '1961'
-date-precision: year
 location:
   latitude: 49.267858581245086
   longitude: -123.25706605881358

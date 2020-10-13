@@ -3,7 +3,6 @@ type: artist
 slug: jim-hart-haida
 name: Jim Hart
 birth-date: '1950'
-birth-date-precision: year
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Jim_Hart_(artist)
 nationality: Canadian

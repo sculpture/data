@@ -3,7 +3,6 @@ type: artist
 slug: alex-wyse
 name: Alex Wyse
 birth-date: '1938'
-birth-date-precision: year
 gender: male
 nationality: Canadian
 tag-ids: []

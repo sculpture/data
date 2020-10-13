@@ -7,7 +7,6 @@ artist-ids:
 - f1c37639-130e-4ba1-9a92-cb6efd243306
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 date: '1938'
-date-precision: year
 location:
   latitude: 43.64954019060898
   longitude: -79.37128978092045

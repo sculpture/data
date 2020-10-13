@@ -3,7 +3,6 @@ type: artist
 slug: noel-harding
 name: Noel Harding
 birth-date: '1045-12-15'
-birth-date-precision: year
 death-date: '2016-05-26'
 gender: male
 link-website: http://noelharding.ca/

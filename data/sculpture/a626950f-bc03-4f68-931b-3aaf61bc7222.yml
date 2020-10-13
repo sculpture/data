@@ -7,7 +7,6 @@ artist-ids:
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: The Macdonald Memorial Committee
 date: '1894'
-date-precision: year
 location:
   latitude: 43.66394014294279
   longitude: -79.39160279416508

@@ -3,7 +3,6 @@ type: artist
 slug: walter-redinger
 name: Walter Redinger
 birth-date: '1940'
-birth-date-precision: year
 death-date: '2014'
 gender: male
 link-website: http://www.walterredinger.com/

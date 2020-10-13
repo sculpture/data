@@ -3,7 +3,6 @@ type: artist
 slug: marcel-braitstein
 name: Marcel Braitstein
 birth-date: '1935'
-birth-date-precision: year
 gender: male
 link-website: http://braitstein.com/
 nationality: Canadian

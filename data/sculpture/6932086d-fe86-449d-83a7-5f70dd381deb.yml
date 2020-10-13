@@ -6,7 +6,6 @@ artist-ids:
 - 8960bd7c-0062-45b2-99a3-1b1a29281153
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
 date: '1905'
-date-precision: year
 location:
   latitude: 45.423368181030334
   longitude: -75.69856835714727

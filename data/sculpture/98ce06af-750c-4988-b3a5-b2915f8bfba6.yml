@@ -7,7 +7,6 @@ artist-ids:
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: EXPO 67, The House of Seagram
 date: '1966'
-date-precision: year
 location:
   latitude: 43.78336017548016
   longitude: -79.18721481531375

@@ -6,7 +6,6 @@ artist-ids:
 - 9b34a8b7-35f0-4c56-95c0-344829c668db
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 date: '1999'
-date-precision: year
 location:
   latitude: 43.64420320822711
   longitude: -79.38770913121338

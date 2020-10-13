@@ -7,7 +7,6 @@ artist-ids:
 city-id: 1f6f6b19-76cc-45cb-a3de-95d4bbf08095
 commissioned-by: Gairloch Gardens
 date: '1973'
-date-precision: year
 location:
   latitude: 43.46128034747373
   longitude: -79.64894530080268

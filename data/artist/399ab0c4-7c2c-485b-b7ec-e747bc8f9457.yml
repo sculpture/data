@@ -3,7 +3,6 @@ type: artist
 slug: raoul-hunter
 name: Raoul Hunter
 birth-date: '1926'
-birth-date-precision: year
 death-date: '2018-12-10'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Raoul_Hunter

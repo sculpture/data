@@ -3,6 +3,5 @@ type: artist
 slug: kim-adams
 name: Kim Adams
 birth-date: '1951'
-birth-date-precision: year
 gender: male
 nationality: Canadian

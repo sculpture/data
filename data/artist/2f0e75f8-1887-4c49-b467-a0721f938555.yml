@@ -3,7 +3,6 @@ type: artist
 slug: thomas-brock
 name: Thomas Brock
 birth-date: '1847-03-01'
-birth-date-precision: year
 death-date: '1922-08-22'
 gender: male
 link-wikipedia: http://en.wikipedia.org/wiki/Thomas_Brock

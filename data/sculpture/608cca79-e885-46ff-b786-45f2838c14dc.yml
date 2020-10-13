@@ -7,7 +7,6 @@ artist-ids:
 city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
 commissioned-by: BC Gas
 date: '1991-12-31'
-date-precision: year
 location:
   latitude: 49.285874673874844
   longitude: -123.12307828465576

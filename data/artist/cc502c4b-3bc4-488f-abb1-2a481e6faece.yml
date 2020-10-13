@@ -3,7 +3,6 @@ type: artist
 slug: alan-dickson
 name: Alan Dickson
 birth-date: '1937'
-birth-date-precision: year
 gender: male
 nationality: English, Canadian
 tag-ids: []

@@ -6,7 +6,6 @@ artist-ids:
 - 823a7ad8-c175-4f0b-892e-a24e69b1c02f
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
 date: '1971'
-date-precision: year
 location:
   latitude: 45.42260724322234
   longitude: -75.69223864279186

@@ -3,7 +3,6 @@ type: artist
 slug: alice-aycock
 name: Alice Aycock
 birth-date: '1946-11-20'
-birth-date-precision: year
 death-date: '1946-11-20'
 gender: female
 link-website: https://www.aaycock.com/

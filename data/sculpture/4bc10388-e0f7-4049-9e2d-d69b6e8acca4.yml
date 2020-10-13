@@ -7,7 +7,6 @@ artist-ids:
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: The Government of Ontario
 date: '1927'
-date-precision: year
 location:
   latitude: 43.66346223093405
   longitude: -79.39233807777102

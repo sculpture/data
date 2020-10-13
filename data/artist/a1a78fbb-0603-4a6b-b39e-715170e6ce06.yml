@@ -3,7 +3,6 @@ type: artist
 slug: fernand-leger
 name: Fernand Leger
 birth-date: '1881-02-04'
-birth-date-precision: year
 death-date: '1955-08-17'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Fernand_L%C3%A9ger

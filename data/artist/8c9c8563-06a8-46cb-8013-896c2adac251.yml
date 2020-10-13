@@ -3,7 +3,6 @@ type: artist
 slug: norman-slater-montreal
 name: Norman Slater
 birth-date: '1921'
-birth-date-precision: year
 death-date: '2003'
 gender: male
 nationality: Canadian

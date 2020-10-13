@@ -3,7 +3,6 @@ type: artist
 slug: berenicci-hershorn
 name: Berenicci Hershorn
 birth-date: '1945'
-birth-date-precision: year
 gender: female
 nationality: Canadian
 tag-ids: []

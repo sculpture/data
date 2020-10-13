@@ -7,7 +7,6 @@ artist-ids:
 city-id: 80f5f02b-13d3-457b-a873-44e2b7a53cfc
 commissioned-by: Mount Pleasant Group of Cemeteries
 date: '2003'
-date-precision: year
 location:
   latitude: 43.64169695125978
   longitude: -79.7478584100647

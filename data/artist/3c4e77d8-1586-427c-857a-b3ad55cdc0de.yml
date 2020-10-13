@@ -3,7 +3,6 @@ type: artist
 slug: john-mccombe-reynolds
 name: John McCombe Reynolds
 birth-date: '1996-05-08'
-birth-date-precision: year
 death-date: '1999-11-24'
 gender: male
 nationality: Canadian

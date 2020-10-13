@@ -3,7 +3,6 @@ type: artist
 slug: william-epp
 name: William Epp
 birth-date: '1930'
-birth-date-precision: year
 death-date: '1995'
 gender: male
 nationality: Canadian

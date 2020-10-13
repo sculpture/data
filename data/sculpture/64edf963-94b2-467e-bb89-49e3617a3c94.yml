@@ -6,7 +6,6 @@ artist-ids:
 - 89bf1e47-6505-448a-b81f-6b95b0482afe
 city-id: bc863b0f-3035-4fab-888c-89e017daabea
 date: '2002'
-date-precision: year
 location:
   latitude: 43.533
   longitude: -80.232654

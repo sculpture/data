@@ -3,7 +3,6 @@ type: artist
 slug: bruce-watson
 name: Bruce Watson
 birth-date: '1925-12-30'
-birth-date-precision: year
 death-date: '2016-05-10'
 gender: male
 nationality: Canadian

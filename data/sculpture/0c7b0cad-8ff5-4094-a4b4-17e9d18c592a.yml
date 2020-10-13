@@ -7,7 +7,6 @@ artist-ids:
 city-id: b50c816a-bc64-45db-b0db-f86504c9b799
 commissioned-by: Shore, Moffat & Partners Architects
 date: '1965'
-date-precision: year
 location:
   latitude: 43.4722854
   longitude: -80.5448576

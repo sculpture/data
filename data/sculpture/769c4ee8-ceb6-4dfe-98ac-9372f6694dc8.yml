@@ -7,7 +7,6 @@ artist-ids:
 city-id: 9feeba88-1b66-4091-a267-5a2cbf0bfd66
 commissioned-by: Gift of A.and M.Torgov
 date: '1966'
-date-precision: year
 location:
   latitude: 43.150149007911
   longitude: -79.24595380859833

@@ -3,7 +3,6 @@ type: artist
 slug: john-raymond-henry
 name: John Henry
 birth-date: '1943-01-02'
-birth-date-precision: year
 gender: male
 link-website: http://www.johnhenrysculpture.com/
 link-wikipedia: https://en.wikipedia.org/wiki/John_Raymond_Henry

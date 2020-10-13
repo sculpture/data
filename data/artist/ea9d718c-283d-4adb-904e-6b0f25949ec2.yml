@@ -3,7 +3,6 @@ type: artist
 slug: joaquim-correia
 name: Joaquim Correia
 birth-date: '1920'
-birth-date-precision: year
 death-date: '2013'
 gender: male
 nationality: Portuguese
