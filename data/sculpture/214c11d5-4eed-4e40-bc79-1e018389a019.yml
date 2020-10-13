@@ -8,9 +8,9 @@ city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
 date: 2005-01-01T23:00:00Z
 date-precision: year
 location:
-  latitude: 46.810540722341386
-  longitude: -71.21075429549265
-  precision: 50
+  latitude: 46.81079038222248
+  longitude: -71.21105470290235
+  precision: 100
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 note: (after Carlo Balboni bust of Dante in Montreal)
