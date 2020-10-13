@@ -6,7 +6,7 @@ artist-ids:
 - c2ca8701-ecbe-4e10-a7ea-284fb66743a2
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: City of Toronto
-date: '1995-01-01'
+date: '1995'
 date-precision: year
 location:
   latitude: 43.734022525522875

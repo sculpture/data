@@ -6,7 +6,7 @@ artist-ids:
 - d0c04e64-b017-460c-bed0-06b7ad33c2a7
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: One Financial Place, The Twig Group
-date: '1991-01-01'
+date: '1991'
 date-precision: year
 location:
   latitude: 43.649976914473704

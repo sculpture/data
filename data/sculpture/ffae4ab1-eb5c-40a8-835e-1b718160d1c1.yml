@@ -5,7 +5,7 @@ title: Affirmation
 artist-ids:
 - ae0ba7e2-3eea-4eb3-9f4d-a0ae0cf5b59c
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: '2000-01-01'
+date: '2000'
 date-precision: year
 location:
   latitude: 43.6962425425105

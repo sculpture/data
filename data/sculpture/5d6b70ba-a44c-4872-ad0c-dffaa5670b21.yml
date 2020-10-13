@@ -6,7 +6,7 @@ artist-ids:
 - 6ece4769-210e-4e1b-94ac-5c366bd4bb43
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Oxford Development Group
-date: '1992-01-01'
+date: '1992'
 date-precision: year
 location:
   latitude: 43.64197643268796

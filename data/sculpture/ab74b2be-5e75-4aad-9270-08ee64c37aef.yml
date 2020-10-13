@@ -6,7 +6,7 @@ artist-ids:
 - e817cfb0-d5cd-4de5-bd44-5b1ac40b8239
 city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
 commissioned-by: National Capital Connision
-date: '1978-01-01'
+date: '1978'
 date-precision: year
 location:
   latitude: 45.42647596000919

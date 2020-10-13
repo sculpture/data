@@ -6,7 +6,7 @@ artist-ids:
 - 18f27919-6d21-4845-a3ce-7c418d2a39ae
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
 commissioned-by: ''
-date: '1946-01-01'
+date: '1946'
 date-precision: year
 location:
   latitude: 45.443951522967865

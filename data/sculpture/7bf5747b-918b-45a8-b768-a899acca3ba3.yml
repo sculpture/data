@@ -5,7 +5,7 @@ title: Goat
 artist-ids:
 - e9a53550-eb14-4cde-9d11-68e2f4305b47
 city-id: b42c1a11-89ad-4f4a-97cf-66ab0c2852be
-date: '1981-01-01'
+date: '1981'
 date-precision: year
 location:
   latitude: 43.97170903037005

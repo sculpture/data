@@ -5,7 +5,7 @@ title: Penguins
 artist-ids:
 - 6f317700-9647-4659-bd02-83324108c991
 city-id: 9a82bb0d-d00a-491c-911b-64b5be0e734a
-date: '2000-01-01'
+date: '2000'
 date-precision: year
 location:
   latitude: 42.31079630925292

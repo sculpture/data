@@ -6,7 +6,7 @@ artist-ids:
 - 5505f1bd-30d4-4243-87fa-b75c3b68ebff
 - a538c120-580e-4216-9ee6-27cf6462048f
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: '1995-01-01'
+date: '1995'
 date-precision: year
 location:
   latitude: 43.63977022474676

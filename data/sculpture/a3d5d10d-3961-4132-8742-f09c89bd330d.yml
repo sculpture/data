@@ -6,7 +6,7 @@ artist-ids:
 - 1230b895-0bc3-40cc-8aff-06ddc7c64fbe
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
 commissioned-by: City of Ottawa
-date: '1989-01-01'
+date: '1989'
 date-precision: year
 location:
   latitude: 45.422069603683234
