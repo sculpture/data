@@ -7,7 +7,6 @@ artist-ids:
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Tridel
 date: '1987'
-date-precision: year
 location:
   latitude: 43.66660710458613
   longitude: -79.38609430660705

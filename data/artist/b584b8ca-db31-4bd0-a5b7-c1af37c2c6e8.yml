@@ -3,7 +3,6 @@ type: artist
 slug: brian-scott
 name: Brian Scott
 birth-date: '1955'
-birth-date-precision: year
 gender: male
 link-website: https://www.brianscott.art/
 nationality: Canadian

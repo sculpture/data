@@ -7,7 +7,6 @@ artist-ids:
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: The Ontario Bicentennial Commission
 date: '1984'
-date-precision: year
 location:
   latitude: 43.631943577659776
   longitude: -79.41024255872826

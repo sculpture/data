@@ -7,7 +7,6 @@ artist-ids:
 city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
 commissioned-by: Royal bank and Trizec Co
 date: '1972'
-date-precision: year
 location:
   latitude: 45.501830867598756
   longitude: -73.56958017196658

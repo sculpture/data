@@ -3,7 +3,6 @@ type: artist
 slug: ' francisco-zuniga'
 name: ' Francisco Zúñiga'
 birth-date: '1912-12-27'
-birth-date-precision: year
 death-date: '1998-08-09'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Francisco_Z%C3%BA%C3%B1iga

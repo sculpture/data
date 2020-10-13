@@ -7,7 +7,6 @@ artist-ids:
 city-id: bc863b0f-3035-4fab-888c-89e017daabea
 commissioned-by: du Maurier Arts Ltd funds
 date: '1989'
-date-precision: year
 location:
   latitude: 43.5330895
   longitude: -80.23265409999999

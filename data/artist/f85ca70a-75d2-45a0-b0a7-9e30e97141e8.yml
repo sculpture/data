@@ -3,7 +3,6 @@ type: artist
 slug: johnhooper
 name: John Hooper
 birth-date: '1926'
-birth-date-precision: year
 death-date: '2006'
 death-date-precision: '0'
 gender: male

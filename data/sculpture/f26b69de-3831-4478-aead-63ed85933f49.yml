@@ -6,7 +6,6 @@ artist-ids:
 - fab08af5-e5fa-4e61-9716-330c659dcb5f
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
 date: '2010'
-date-precision: year
 location:
   latitude: 45.4251975967424
   longitude: -75.6933115263978

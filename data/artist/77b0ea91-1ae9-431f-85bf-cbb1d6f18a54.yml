@@ -3,7 +3,6 @@ type: artist
 slug: bert-vandergugten
 name: Bert Vandergugten
 birth-date: '1944'
-birth-date-precision: year
 death-date: '2119'
 gender: male
 link-website: https://bertvandergugten.weebly.com/

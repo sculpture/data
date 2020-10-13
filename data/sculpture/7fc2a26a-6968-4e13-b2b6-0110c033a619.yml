@@ -7,7 +7,6 @@ artist-ids:
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
 commissioned-by: Sparks St. Businees Improvement
 date: '1970'
-date-precision: year
 location:
   latitude: 45.423465359825066
   longitude: -75.695881041742

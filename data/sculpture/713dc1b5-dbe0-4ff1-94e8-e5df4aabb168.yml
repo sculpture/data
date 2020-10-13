@@ -7,7 +7,6 @@ artist-ids:
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
 commissioned-by: National Capital Commission
 date: '1981'
-date-precision: year
 location:
   latitude: 45.423654326715855
   longitude: -75.6937644060822

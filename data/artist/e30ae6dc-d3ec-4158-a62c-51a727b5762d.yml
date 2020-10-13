@@ -3,7 +3,6 @@ type: artist
 slug: may-marx
 name: May Marx
 birth-date: '1928-01-16'
-birth-date-precision: year
 death-date: '2008-03-28'
 gender: female
 nationality: Canadian

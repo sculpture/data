@@ -3,7 +3,6 @@ type: artist
 slug: john-greer
 name: John Greer
 birth-date: '1944'
-birth-date-precision: year
 gender: male
 link-website: https://www.artistjohngreer.com/
 link-wikipedia: https://en.wikipedia.org/wiki/John_Greer_(sculptor)

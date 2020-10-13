@@ -6,7 +6,6 @@ artist-ids:
 - 2fb2873a-8083-45af-b967-a8ffd1e0b75d
 city-id: 21f56f64-52ee-47e4-8113-8503789209f1
 date: '1959'
-date-precision: year
 location:
   latitude: 42.93245
   longitude: -78.875618

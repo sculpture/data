@@ -6,7 +6,6 @@ artist-ids:
 - df11e7b0-87b0-49f3-831b-5274a827148b
 city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
 date: '2014'
-date-precision: year
 location:
   latitude: 43.588357868598315
   longitude: -79.64681180160524

@@ -3,7 +3,6 @@ type: artist
 slug: ernest-herzig
 name: Ernest Herzig
 birth-date: '1931'
-birth-date-precision: year
 death-date: '2015'
 gender: female
 nationality: Canadian

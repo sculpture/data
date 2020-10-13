@@ -7,7 +7,6 @@ artist-ids:
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
 commissioned-by: The Minto Group
 date: '2009'
-date-precision: year
 location:
   latitude: 45.41826836366096
   longitude: -75.70193607486878

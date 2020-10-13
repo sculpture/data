@@ -3,7 +3,6 @@ type: artist
 slug: Mungo Martin
 name: Mungo Martin
 birth-date: '1879'
-birth-date-precision: year
 death-date: '1962'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Mungo_Martin

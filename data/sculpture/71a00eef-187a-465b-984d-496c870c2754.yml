@@ -6,7 +6,6 @@ artist-ids:
 - 022b1b00-5de3-41d8-89d1-e188d4d6fbbb
 city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
 date: '1970'
-date-precision: year
 link-wikipedia: https://en.wikipedia.org/wiki/La_Joute
 location:
   latitude: 45.5034511705864

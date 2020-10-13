@@ -7,7 +7,6 @@ artist-ids:
 city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
 commissioned-by: private comission
 date: '2011'
-date-precision: year
 location:
   latitude: 43.59398937942568
   longitude: -79.634934219574

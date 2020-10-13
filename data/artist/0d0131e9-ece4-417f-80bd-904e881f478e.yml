@@ -3,7 +3,6 @@ type: artist
 slug: auguste-rodin
 name: Auguste Rodin
 birth-date: '1840-11-12'
-birth-date-precision: year
 death-date: '1917-11-17'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Auguste_Rodin

@@ -3,7 +3,6 @@ type: artist
 slug: igor-mitoraj
 name: Igor Mitoraj
 birth-date: '1944-03-26'
-birth-date-precision: year
 death-date: '2014-10-06'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Igor_Mitoraj

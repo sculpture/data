@@ -3,7 +3,6 @@ type: artist
 slug: al-green
 name: Al Green
 birth-date: '1925-02-01'
-birth-date-precision: year
 death-date: '2016-01-22'
 gender: male
 nationality: Canadian

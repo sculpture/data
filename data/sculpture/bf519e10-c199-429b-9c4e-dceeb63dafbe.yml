@@ -6,7 +6,6 @@ artist-ids:
 - f6ba5000-2ac9-4069-bee4-09ca21d36852
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
 date: '1895'
-date-precision: year
 location:
   latitude: 45.42547620326823
   longitude: -75.69859011373903

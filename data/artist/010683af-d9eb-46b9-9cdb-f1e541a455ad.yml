@@ -3,7 +3,6 @@ type: artist
 slug: hamilton-maccarthy
 name: Hamilton MacCarthy
 birth-date: '1846-07-28'
-birth-date-precision: year
 death-date: '1939-10-24'
 gender: male
 link-website: ''

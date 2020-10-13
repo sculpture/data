@@ -3,7 +3,6 @@ type: artist
 slug: sigmund-reszetnik
 name: Sigmund Reszetnik
 birth-date: '1929'
-birth-date-precision: year
 death-date: '2013-12-07'
 gender: male
 nationality: Canadian

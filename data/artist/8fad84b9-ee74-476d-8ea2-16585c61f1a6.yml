@@ -3,7 +3,6 @@ type: artist
 slug: mark-gomes
 name: Mark Gomes
 birth-date: '1949'
-birth-date-precision: year
 gender: male
 nationality: Canadian
 tag-ids: []

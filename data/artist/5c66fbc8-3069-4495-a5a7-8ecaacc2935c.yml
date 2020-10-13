@@ -3,7 +3,6 @@ type: artist
 slug: louise-bourgeois
 name: Louise Bourgeois
 birth-date: '1911-12-25'
-birth-date-precision: year
 death-date: '2010-05-31'
 gender: female
 link-wikipedia: https://en.wikipedia.org/wiki/Louise_Bourgeois

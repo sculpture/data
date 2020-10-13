@@ -7,7 +7,6 @@ artist-ids:
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: City of Toronto & Plastic Industry Assoc.
 date: '1998'
-date-precision: year
 location:
   latitude: 43.70250600713644
   longitude: -79.33403524603287

@@ -3,7 +3,6 @@ type: artist
 slug: tombenner
 name: Tom Benner
 birth-date: '1950'
-birth-date-precision: year
 gender: male
 link-website: http://www.tombenner.ca/
 nationality: Canadian

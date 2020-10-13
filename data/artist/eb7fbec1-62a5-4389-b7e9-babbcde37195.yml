@@ -3,7 +3,6 @@ type: artist
 slug: jim-dine
 name: Jim Dine
 birth-date: '1935-06-16'
-birth-date-precision: year
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Jim_Dine
 nationality: American

@@ -6,7 +6,6 @@ artist-ids:
 - 38e32996-ada5-4a2d-9794-ab53222ceb4e
 city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
 date: '1967'
-date-precision: year
 location:
   latitude: 43.61250910694583
   longitude: -79.62766161132824
