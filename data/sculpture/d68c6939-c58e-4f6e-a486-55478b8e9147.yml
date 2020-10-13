@@ -6,7 +6,7 @@ artist-ids:
 - e314a84d-406c-434e-85db-2419b0fbacb1
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Harbour Castle Hotel
-date: '1975-01-01'
+date: '1975'
 date-precision: year
 location:
   latitude: 43.641106840742005

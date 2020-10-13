@@ -6,7 +6,7 @@ artist-ids:
 - 7b3fa779-2af1-416f-bca6-ac3a22ca92ec
 city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
 commissioned-by: gift of arist
-date: '1960-01-01'
+date: '1960'
 date-precision: year
 location:
   latitude: 46.800293774944976

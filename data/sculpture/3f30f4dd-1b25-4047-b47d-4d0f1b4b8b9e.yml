@@ -6,7 +6,7 @@ artist-ids:
 - ab263bc0-6a20-4e7d-a2ce-948da0fd9977
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Gift of artist
-date: '1983-01-01'
+date: '1983'
 date-precision: year
 location:
   latitude: 43.639625

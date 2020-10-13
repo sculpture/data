@@ -6,7 +6,7 @@ artist-ids:
 - ce6088f9-4af0-4f94-abf8-b392ff152bdd
 city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
 commissioned-by: National Capital Commision
-date: '2001-01-01'
+date: '2001'
 date-precision: year
 location:
   latitude: 45.434586551277185

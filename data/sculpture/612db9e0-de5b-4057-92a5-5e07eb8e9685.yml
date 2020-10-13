@@ -6,7 +6,7 @@ artist-ids:
 - 6ee26da8-68a2-40bb-8aaa-7e3022702d6a
 city-id: b1bfcadf-e142-4773-a974-cad980bc87bd
 commissioned-by: City of St.Thomas
-date: '1985-01-01'
+date: '1985'
 date-precision: year
 location:
   latitude: 42.77891796961118

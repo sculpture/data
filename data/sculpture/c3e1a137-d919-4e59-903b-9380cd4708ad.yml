@@ -6,7 +6,7 @@ artist-ids:
 - e9a53550-eb14-4cde-9d11-68e2f4305b47
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: J.M.Tanenbaum
-date: '1999-01-01'
+date: '1999'
 date-precision: year
 location:
   latitude: 43.7234953351733

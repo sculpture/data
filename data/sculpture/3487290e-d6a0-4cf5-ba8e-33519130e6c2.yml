@@ -6,7 +6,7 @@ artist-ids:
 - bc329d87-d430-45ca-a9bc-e7acd01d129a
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Bank of Canada
-date: '1954-01-01'
+date: '1954'
 date-precision: year
 location:
   latitude: 43.65012116630375

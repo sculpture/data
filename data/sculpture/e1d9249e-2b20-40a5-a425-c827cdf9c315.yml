@@ -6,7 +6,7 @@ artist-ids:
 - 5b6de0c4-cb12-4b97-bac8-62915da2f969
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Royal Bank of Canada
-date: '1975-01-01'
+date: '1975'
 date-precision: year
 location:
   latitude: 43.64699822451179

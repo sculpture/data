@@ -5,7 +5,7 @@ title: Ancestor 1
 artist-ids:
 - 3a4702d2-d46e-4c0a-8c65-590a5b788eea
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
-date: '1970-01-01'
+date: '1970'
 date-precision: year
 location:
   latitude: 45.418930642125105

@@ -5,7 +5,7 @@ title: Tembo
 artist-ids:
 - 5bef635e-7581-4921-b0e2-8b87d3c0dcb8
 city-id: 9a82bb0d-d00a-491c-911b-64b5be0e734a
-date: '2001-01-01'
+date: '2001'
 date-precision: year
 location:
   latitude: 42.31124061280636

@@ -6,7 +6,7 @@ artist-ids:
 - 2801d4dc-c2f5-45e4-8e6a-cffa7d2079c5
 - f38a366e-21c4-4c50-9e8d-12010e7a448a
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: '2006-01-01'
+date: '2006'
 date-precision: year
 location:
   latitude: 43.71814995104273
