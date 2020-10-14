@@ -6,12 +6,12 @@ artist-ids:
 - 065529a8-54c0-4d18-b13e-1ea593be9884
 city-id: 5899c2fb-c707-426d-a651-491dec175f49
 commissioned-by: Gift of City of Toronto
-date: 1967-01-01T00:00:00Z
+date: 1966-12-31T23:00:00Z
 date-precision: year
 location:
-  latitude: 43.84288259146278
-  longitude: -79.61728531481931
-  precision: 36.0
+  latitude: 43.84351711123403
+  longitude: -79.61698490740966
+  precision: 36
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 tag-ids:
