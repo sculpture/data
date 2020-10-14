@@ -6,6 +6,10 @@ artist-ids:
 - a68801c5-e88e-44c6-932d-f66890b37a89
 city-id: bc863b0f-3035-4fab-888c-89e017daabea
 date: '1992'
+location:
+  latitude: 43.532968887320706
+  longitude: -80.23234296375433
+  precision: 50
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
