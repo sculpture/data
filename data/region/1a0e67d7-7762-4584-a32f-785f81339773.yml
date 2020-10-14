@@ -1,7 +1,7 @@
 id: 1a0e67d7-7762-4584-a32f-785f81339773
 type: region
-slug: mississauga-city-hall
-name: Mississauga City Hall
+slug: living-art-center
+name: Living Arts Center
 geojson: '{"type":"Polygon","coordinates":[[[-79.64746713638307,43.58966997164691],[-79.64609384536745,43.59091329560618],[-79.64423775672913,43.58979430519861],[-79.6458148956299,43.5885198741176],[-79.64746713638307,43.58966997164691]]]}'
 tag-ids:
-- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+- 17d9bb08-20d9-41c9-aa61-5b47aa78faf3
