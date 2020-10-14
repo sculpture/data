@@ -6,8 +6,7 @@ artist-ids:
 - 15b4136f-bb32-4f26-ab9f-b01879f48140
 city-id: 5899c2fb-c707-426d-a651-491dec175f49
 commissioned-by: gift of artist
-date: 2010-01-01T00:00:00Z
-date-precision: year
+date: '2010'
 location:
   latitude: 43.841969047185486
   longitude: -79.62080437304685

@@ -5,8 +5,7 @@ title: Dante Alighieri
 artist-ids:
 - f9fc5a26-f69b-48de-b10f-a75d948497ea
 city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
-date: 2005-01-01T23:00:00Z
-date-precision: year
+date: '2005'
 location:
   latitude: 46.81079038222248
   longitude: -71.21105470290235
