@@ -1,0 +1,16 @@
+id: 4ccc061c-58da-44cf-b350-5d9ac3eb42ee
+type: sculpture
+slug: king-and-queen-moore-hirshorn
+title: King and Queen
+artist-ids:
+- 2fb2873a-8083-45af-b967-a8ffd1e0b75d
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1952'
+link-wikipedia: https://en.wikipedia.org/wiki/King_and_Queen_(sculpture)
+location:
+  latitude: 38.889021
+  longitude: -77.023022
+  precision: 30
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
