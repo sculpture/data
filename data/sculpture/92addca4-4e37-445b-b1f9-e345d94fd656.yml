@@ -8,8 +8,8 @@ city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
 commissioned-by: gift of Andrew & Florence Kapos
 date: '2009'
 location:
-  latitude: 43.53529425801683
-  longitude: -79.59921794967654
+  latitude: 43.535294
+  longitude: -79.599217
   precision: 50.0
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf

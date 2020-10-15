@@ -7,8 +7,8 @@ artist-ids:
 city-id: 0ee02da1-45f2-450a-90de-ae994dd75a5e
 date: '1972'
 location:
-  latitude: 43.25248368719276
-  longitude: -79.83087684492507
+  latitude: 43.252483
+  longitude: -79.830876
   precision: 100.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125

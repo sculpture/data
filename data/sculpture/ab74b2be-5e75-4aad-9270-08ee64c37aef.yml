@@ -8,8 +8,8 @@ city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
 commissioned-by: National Capital Connision
 date: '1978'
 location:
-  latitude: 45.42647596000919
-  longitude: -75.71521839170998
+  latitude: 45.426475
+  longitude: -75.715218
   precision: 50.0
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab

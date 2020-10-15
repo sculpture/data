@@ -7,8 +7,8 @@ artist-ids:
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 date: '1976'
 location:
-  latitude: 43.6673881
-  longitude: -79.40186779999999
+  latitude: 43.667388
+  longitude: -79.401867
   precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

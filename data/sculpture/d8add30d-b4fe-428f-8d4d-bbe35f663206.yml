@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Donated by Alicia Boccia
 date: '1989'
 location:
-  latitude: 43.71290195099397
-  longitude: -79.4562202544922
+  latitude: 43.712901
+  longitude: -79.456220
   precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

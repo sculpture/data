@@ -7,8 +7,8 @@ artist-ids:
 city-id: 9a82bb0d-d00a-491c-911b-64b5be0e734a
 date: '1998'
 location:
-  latitude: 42.313620757009474
-  longitude: -83.06336748829965
+  latitude: 42.313620
+  longitude: -83.063367
   precision: 34.0
 material-ids:
 - 295447b1-9e9f-4bb5-8eeb-37a5ae10394c

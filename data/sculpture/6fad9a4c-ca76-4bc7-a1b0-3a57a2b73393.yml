@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Sun Life Assurance Company of Canada
 date: '1984'
 location:
-  latitude: 43.64774971437203
-  longitude: -79.38479112723091
+  latitude: 43.647749
+  longitude: -79.384791
   precision: 29.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

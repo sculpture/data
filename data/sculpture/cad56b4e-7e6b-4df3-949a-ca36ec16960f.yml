@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Minto
 date: '2008'
 location:
-  latitude: 43.7046667
-  longitude: -79.3978794
+  latitude: 43.704666
+  longitude: -79.397879
   precision: 50.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125

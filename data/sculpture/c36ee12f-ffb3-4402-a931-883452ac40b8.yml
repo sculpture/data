@@ -8,8 +8,8 @@ city-id: 5899c2fb-c707-426d-a651-491dec175f49
 commissioned-by: gift of artist
 date: '2010'
 location:
-  latitude: 43.841969047185486
-  longitude: -79.62080437304685
+  latitude: 43.841969
+  longitude: -79.620804
   precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

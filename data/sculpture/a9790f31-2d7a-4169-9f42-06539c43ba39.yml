@@ -5,11 +5,10 @@ title: Queen Victoria
 artist-ids:
 - f6ba5000-2ac9-4069-bee4-09ca21d36852
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
-commissioned-by: ''
 date: '1901'
 location:
-  latitude: 45.424065902721125
-  longitude: -75.70130421034247
+  latitude: 45.424065
+  longitude: -75.701304
   precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

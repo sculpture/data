@@ -8,8 +8,8 @@ city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
 commissioned-by: Oracle Corp.
 date: '1990'
 location:
-  latitude: 43.617772013709164
-  longitude: -79.67343785634462
+  latitude: 43.617772
+  longitude: -79.673437
   precision: 10.0
 material-ids:
 - 841b0164-544d-4dfd-93d7-65633264d764

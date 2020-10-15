@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Amica Corp.
 date: '2003'
 location:
-  latitude: 43.7663805
-  longitude: -79.38435869999999
+  latitude: 43.766380
+  longitude: -79.384358
   precision: 50.0
 material-ids:
 - 295447b1-9e9f-4bb5-8eeb-37a5ae10394c

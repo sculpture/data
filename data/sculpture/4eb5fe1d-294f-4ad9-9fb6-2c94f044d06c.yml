@@ -8,8 +8,8 @@ city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
 date: '1996'
 link-wikipedia: https://en.wikipedia.org/wiki/House_I
 location:
-  latitude: 38.891434235142725
-  longitude: -77.02282475396733
+  latitude: 38.891434
+  longitude: -77.022824
   precision: 100
 material-ids:
 - 76c8ed4b-b169-44ca-bf45-466a20c85838

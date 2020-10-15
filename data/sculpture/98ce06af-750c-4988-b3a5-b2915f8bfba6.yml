@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: EXPO 67, The House of Seagram
 date: '1966'
 location:
-  latitude: 43.78336017548016
-  longitude: -79.18721481531375
+  latitude: 43.783360
+  longitude: -79.187214
   precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

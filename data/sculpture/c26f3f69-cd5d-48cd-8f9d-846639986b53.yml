@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: donated by municipality of Caracas, Venezuela
 date: '1983'
 location:
-  latitude: 43.64944452785022
-  longitude: -79.41749794708255
+  latitude: 43.649444
+  longitude: -79.417497
   precision: 37.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

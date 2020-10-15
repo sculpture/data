@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Hockey Hall of Fame
 date: '1993'
 location:
-  latitude: 43.646832863678455
-  longitude: -79.37721649567877
+  latitude: 43.646832
+  longitude: -79.377216
   precision: 39.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

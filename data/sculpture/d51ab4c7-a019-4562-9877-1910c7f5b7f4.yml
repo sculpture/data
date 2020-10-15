@@ -8,8 +8,8 @@ city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
 commissioned-by: Library and Archives Canada
 date: '1993'
 location:
-  latitude: 45.41961119222974
-  longitude: -75.707772815622
+  latitude: 45.419611
+  longitude: -75.707772
   precision: 26.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

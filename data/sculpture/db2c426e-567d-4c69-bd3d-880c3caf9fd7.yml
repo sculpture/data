@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Shore, Tilbe, Irwin and Partners architects
 date: '1977'
 location:
-  latitude: 43.763470777418405
-  longitude: -79.41169301268921
+  latitude: 43.763470
+  longitude: -79.411693
   precision: 41.0
 material-ids:
 - 18829464-3bed-4f42-b206-8d99f402dc1b

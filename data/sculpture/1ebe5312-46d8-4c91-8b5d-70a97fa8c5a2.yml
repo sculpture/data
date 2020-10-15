@@ -9,12 +9,11 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: donation by Tauba & Solomon Spiro Foundation
 date: '2009'
 location:
-  latitude: 43.66653488049971
-  longitude: -79.35573163995058
+  latitude: 43.666534
+  longitude: -79.355731
   precision: 27.0
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
-note: ''
 tag-ids:
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

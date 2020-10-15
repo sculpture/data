@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: International Sculpture Symposium
 date: '1967'
 location:
-  latitude: 43.65271180884
-  longitude: -79.35277559281646
+  latitude: 43.652711
+  longitude: -79.352775
   precision: 40.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984

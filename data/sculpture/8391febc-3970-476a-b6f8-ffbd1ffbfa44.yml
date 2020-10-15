@@ -8,8 +8,8 @@ city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
 commissioned-by: Public Works and Government Services Canada
 date: '1975'
 location:
-  latitude: 45.426539248230085
-  longitude: -75.71463903456278
+  latitude: 45.426539
+  longitude: -75.714639
   precision: 50.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984

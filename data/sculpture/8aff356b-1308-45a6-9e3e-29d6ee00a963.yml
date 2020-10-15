@@ -9,8 +9,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Municipality of Metro Toronto
 date: '1988'
 location:
-  latitude: 43.66162951563263
-  longitude: -79.38555925819703
+  latitude: 43.661629
+  longitude: -79.385559
   precision: 50.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984

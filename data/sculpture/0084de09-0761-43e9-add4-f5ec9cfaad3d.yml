@@ -8,8 +8,8 @@ city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
 commissioned-by: Helen and George Vari Foundation
 date: '1993'
 location:
-  latitude: 45.443876248690145
-  longitude: -75.68854792318743
+  latitude: 45.443876
+  longitude: -75.688547
   precision: 50.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125

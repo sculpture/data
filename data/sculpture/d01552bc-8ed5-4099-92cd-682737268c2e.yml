@@ -8,8 +8,8 @@ city-id: c9158de3-fe56-4802-a882-9b81b08d3470
 commissioned-by: Queens Department of Mathematics and Statistics
 date: '1972'
 location:
-  latitude: 44.22567036809353
-  longitude: -76.49609851449436
+  latitude: 44.225670
+  longitude: -76.496098
   precision: 10.0
 material-ids:
 - 1e26a067-323e-4793-bf68-54948cd433cb

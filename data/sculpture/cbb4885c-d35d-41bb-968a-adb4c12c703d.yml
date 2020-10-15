@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: St. Michael's College
 date: '1973'
 location:
-  latitude: 43.66529511133845
-  longitude: -79.38922447354125
+  latitude: 43.665295
+  longitude: -79.389224
   precision: 46.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

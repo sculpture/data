@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Hart House
 date: '1993'
 location:
-  latitude: 43.66360530995364
-  longitude: -79.39460361719667
+  latitude: 43.663605
+  longitude: -79.394603
   precision: 10.0
 material-ids:
 - 7105d225-28c2-48a3-9a24-a67f3908fba6

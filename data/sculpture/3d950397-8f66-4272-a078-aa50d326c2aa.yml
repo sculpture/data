@@ -8,8 +8,8 @@ city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
 commissioned-by: Dr. O.J.Firestone collection
 date: '1971'
 location:
-  latitude: 45.425179183057736
-  longitude: -75.68900567672121
+  latitude: 45.425179
+  longitude: -75.689005
   precision: 50.0
 material-ids:
 - 210d2a46-7c5d-4d3e-b639-0c700e86ccf2

@@ -9,11 +9,10 @@ commissioned-by: ' General Services Administration '
 date: '1974'
 link-wikipedia: https://en.wikipedia.org/wiki/Flamingo_(sculpture)
 location:
-  latitude: 41.8788196
-  longitude: -87.6296793
+  latitude: 41.878819
+  longitude: -87.629679
   precision: 50
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
-note: ''
 tag-ids:
 - f512d675-0554-4a67-987c-1da560f2c95a

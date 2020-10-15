@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Spencer Clark, The Guild of All Arts
 date: '1979'
 location:
-  latitude: 43.7477326
-  longitude: -79.1919502
+  latitude: 43.747732
+  longitude: -79.191950
   precision: 50.0
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1

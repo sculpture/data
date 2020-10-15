@@ -8,8 +8,8 @@ city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
 commissioned-by: Camrost Group
 date: '1989'
 location:
-  latitude: 43.5433846
-  longitude: -79.6658212
+  latitude: 43.543384
+  longitude: -79.665821
   precision: 50.0
 material-ids:
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed

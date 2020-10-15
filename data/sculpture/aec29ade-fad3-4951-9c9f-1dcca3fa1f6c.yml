@@ -8,8 +8,8 @@ city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
 commissioned-by: National Capital Commission
 date: '1967'
 location:
-  latitude: 45.42881857011685
-  longitude: -75.69489712908324
+  latitude: 45.428818
+  longitude: -75.694897
   precision: 93.0
 material-ids:
 - c1c07f0b-8700-44fb-9a0f-241032b370e8

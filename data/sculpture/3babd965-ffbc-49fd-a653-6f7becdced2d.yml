@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: York University
 date: '1993'
 location:
-  latitude: 43.7730422
-  longitude: -79.5035561
+  latitude: 43.773042
+  longitude: -79.503556
   precision: 50.0
 material-ids:
 - c1c07f0b-8700-44fb-9a0f-241032b370e8

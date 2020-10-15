@@ -7,8 +7,8 @@ artist-ids:
 city-id: c9158de3-fe56-4802-a882-9b81b08d3470
 date: '1999'
 location:
-  latitude: 44.226312970463965
-  longitude: -76.49633991330569
+  latitude: 44.226312
+  longitude: -76.496339
   precision: 69.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125

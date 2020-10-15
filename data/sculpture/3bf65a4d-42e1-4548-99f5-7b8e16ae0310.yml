@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Government of Ontario
 date: '1980'
 location:
-  latitude: 43.66305089253403
-  longitude: -79.38833735347298
+  latitude: 43.663050
+  longitude: -79.388337
   precision: 50.0
 material-ids:
 - 35913622-405e-4e52-b409-6acc87a4dd77

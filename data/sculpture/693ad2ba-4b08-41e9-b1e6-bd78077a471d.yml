@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: College Park
 date: '1983'
 location:
-  latitude: 43.6597276051122
-  longitude: -79.38382758360596
+  latitude: 43.659727
+  longitude: -79.383827
   precision: 55.0
 material-ids:
 - 35913622-405e-4e52-b409-6acc87a4dd77

@@ -8,8 +8,8 @@ artist-ids:
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 date: '1995'
 location:
-  latitude: 43.768531353040366
-  longitude: -79.41306198104259
+  latitude: 43.768531
+  longitude: -79.413061
   precision: 56.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125

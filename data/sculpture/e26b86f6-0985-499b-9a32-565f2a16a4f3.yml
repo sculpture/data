@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: City of Toronto & Plastic Industry Assoc.
 date: '1998'
 location:
-  latitude: 43.70250600713644
-  longitude: -79.33403524603287
+  latitude: 43.702506
+  longitude: -79.334035
   precision: 81
 material-ids:
 - 18829464-3bed-4f42-b206-8d99f402dc1b

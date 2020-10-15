@@ -8,8 +8,8 @@ city-id: 80f5f02b-13d3-457b-a873-44e2b7a53cfc
 commissioned-by: Mount Pleasant Group of Cemeteries
 date: '2003'
 location:
-  latitude: 43.64169695125978
-  longitude: -79.7478584100647
+  latitude: 43.641696
+  longitude: -79.747858
   precision: 50
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125

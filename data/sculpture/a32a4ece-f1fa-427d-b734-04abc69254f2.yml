@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Webb Zerafa Menkes Housden Part. Architects
 date: '1991'
 location:
-  latitude: 43.64874636250622
-  longitude: -79.38560969465945
+  latitude: 43.648746
+  longitude: -79.385609
   precision: 50.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984

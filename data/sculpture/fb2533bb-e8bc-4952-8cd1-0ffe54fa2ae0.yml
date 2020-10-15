@@ -8,7 +8,7 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 date: '1986'
 location:
   latitude: 43.657476
-  longitude: -79.3903925
+  longitude: -79.390392
   precision: 50.0
 material-ids:
 - 09ce43ff-ce77-44b9-a5ce-74ec820e632d

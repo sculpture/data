@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Mary Pickford Foundation
 date: '1982'
 location:
-  latitude: 43.65517282696004
-  longitude: -79.38823764319474
+  latitude: 43.655172
+  longitude: -79.388237
   precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

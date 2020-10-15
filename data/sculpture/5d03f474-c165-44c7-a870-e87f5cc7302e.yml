@@ -8,8 +8,8 @@ city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
 commissioned-by: donated by Friends of the Library/Mississauga
 date: '1987'
 location:
-  latitude: 43.59028998627248
-  longitude: -79.64749084235845
+  latitude: 43.590289
+  longitude: -79.647490
   precision: 50.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984

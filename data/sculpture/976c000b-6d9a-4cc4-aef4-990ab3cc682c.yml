@@ -8,8 +8,8 @@ city-id: c9158de3-fe56-4802-a882-9b81b08d3470
 commissioned-by: Gift of Dr. Michel D'Avirro
 date: '1992'
 location:
-  latitude: 44.22635141135396
-  longitude: -76.49425851911016
+  latitude: 44.226351
+  longitude: -76.494258
   precision: 20.0
 material-ids:
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed

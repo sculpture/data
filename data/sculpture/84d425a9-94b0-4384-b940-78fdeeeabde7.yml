@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Donated by P.Mills-Tucker
 date: '1972'
 location:
-  latitude: 43.76934526479767
-  longitude: -79.36342047354127
+  latitude: 43.769345
+  longitude: -79.363420
   precision: 95.0
 material-ids:
 - a267fb56-e090-4da4-b72c-152f966877d9

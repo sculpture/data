@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Exhibition Place
 date: '1979'
 location:
-  latitude: 43.63378260767256
-  longitude: -79.4197450741272
+  latitude: 43.633782
+  longitude: -79.419745
   precision: 64.0
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1

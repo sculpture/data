@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Maple Leafs Sports
 date: '1999'
 location:
-  latitude: 43.643391111450256
-  longitude: -79.37997298678589
+  latitude: 43.643391
+  longitude: -79.379972
   precision: 50.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984

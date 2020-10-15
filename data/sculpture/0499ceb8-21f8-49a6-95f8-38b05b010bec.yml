@@ -8,8 +8,8 @@ city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
 commissioned-by: gift of R.Eloul Inc.
 date: '1979'
 location:
-  latitude: 46.7989705
-  longitude: -71.22455099999999
+  latitude: 46.798970
+  longitude: -71.224550
   precision: 50.0
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab

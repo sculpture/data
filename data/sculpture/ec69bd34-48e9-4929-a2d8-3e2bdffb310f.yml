@@ -8,8 +8,8 @@ city-id: 9a82bb0d-d00a-491c-911b-64b5be0e734a
 commissioned-by: Gift. Mr. and Mrs. Louis Odette
 date: '1998'
 location:
-  latitude: 42.311573838413246
-  longitude: -83.0675302766907
+  latitude: 42.311573
+  longitude: -83.067530
   precision: 43.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984

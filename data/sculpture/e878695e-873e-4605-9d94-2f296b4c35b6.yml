@@ -8,8 +8,8 @@ city-id: bc863b0f-3035-4fab-888c-89e017daabea
 commissioned-by: du Maurier Arts Ltd funds
 date: '1989'
 location:
-  latitude: 43.5330895
-  longitude: -80.23265409999999
+  latitude: 43.533089
+  longitude: -80.232654
   precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

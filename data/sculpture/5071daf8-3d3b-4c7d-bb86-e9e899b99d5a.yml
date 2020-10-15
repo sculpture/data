@@ -7,8 +7,8 @@ artist-ids:
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 date: '1951'
 location:
-  latitude: 43.66181589254795
-  longitude: -79.3929996883606
+  latitude: 43.661815
+  longitude: -79.392999
   precision: 30
 material-ids:
 - a267fb56-e090-4da4-b72c-152f966877d9

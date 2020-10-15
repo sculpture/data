@@ -7,8 +7,8 @@ artist-ids:
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
 date: '1915'
 location:
-  latitude: 45.4297766
-  longitude: -75.70118959999999
+  latitude: 45.429776
+  longitude: -75.701189
   precision: 25.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

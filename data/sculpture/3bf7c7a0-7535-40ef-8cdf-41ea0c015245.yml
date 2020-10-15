@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Cadillac Faiview Co
 date: '1990'
 location:
-  latitude: 43.65448477490915
-  longitude: -79.38089251904908
+  latitude: 43.654484
+  longitude: -79.380892
   precision: 27.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984

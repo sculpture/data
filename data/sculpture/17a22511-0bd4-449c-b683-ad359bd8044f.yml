@@ -8,8 +8,8 @@ city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
 commissioned-by: private comission
 date: '2011'
 location:
-  latitude: 43.59398937942568
-  longitude: -79.634934219574
+  latitude: 43.593989
+  longitude: -79.634934
   precision: 50.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125

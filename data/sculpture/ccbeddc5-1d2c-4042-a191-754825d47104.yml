@@ -8,8 +8,8 @@ city-id: 5899c2fb-c707-426d-a651-491dec175f49
 commissioned-by: Loan of artist
 date: '1989'
 location:
-  latitude: 43.842116515917205
-  longitude: -79.61857277514649
+  latitude: 43.842116
+  longitude: -79.618572
   precision: 50.0
 material-ids:
 - a267fb56-e090-4da4-b72c-152f966877d9

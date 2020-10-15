@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: International Stone Sculpture Symposium
 date: '2005'
 location:
-  latitude: 43.63600632304974
-  longitude: -79.41214758484199
+  latitude: 43.636006
+  longitude: -79.412147
   precision: 48.0
 material-ids:
 - a267fb56-e090-4da4-b72c-152f966877d9

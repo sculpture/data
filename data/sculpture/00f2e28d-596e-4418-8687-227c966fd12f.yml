@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: JDS Investments
 date: '1970'
 location:
-  latitude: 43.76659950000001
-  longitude: -79.4752554
+  latitude: 43.766599
+  longitude: -79.475255
   precision: 50.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125

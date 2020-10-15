@@ -8,8 +8,8 @@ city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
 commissioned-by: UBC
 date: '1961'
 location:
-  latitude: 49.267858581245086
-  longitude: -123.25706605881358
+  latitude: 49.267858
+  longitude: -123.257066
   precision: 120
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

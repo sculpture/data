@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Hammerson Canada Inc.
 date: '1988'
 location:
-  latitude: 43.670861405407315
-  longitude: -79.38733423217184
+  latitude: 43.670861
+  longitude: -79.387334
   precision: 65.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125

@@ -8,8 +8,8 @@ city-id: b1bfcadf-e142-4773-a974-cad980bc87bd
 commissioned-by: City of St.Thomas
 date: '1985'
 location:
-  latitude: 42.77891796961118
-  longitude: -81.20836688095096
+  latitude: 42.778917
+  longitude: -81.208366
   precision: 50
 material-ids:
 - 18829464-3bed-4f42-b206-8d99f402dc1b

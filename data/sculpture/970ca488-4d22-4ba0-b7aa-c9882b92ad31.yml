@@ -6,10 +6,10 @@ artist-ids:
 - f58e771e-e02a-494e-80a1-7af0a3222538
 city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
 date: '1872'
-link-wikipedia: Victoria Memorial (Montreal)
+link-wikipedia: https://en.wikipedia.org/wiki/Victoria_Memorial_(Montreal)
 location:
-  latitude: 45.50126333584566
-  longitude: -73.5610791807984
+  latitude: 45.501263
+  longitude: -73.561079
   precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

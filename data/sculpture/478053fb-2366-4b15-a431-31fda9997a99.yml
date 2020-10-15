@@ -6,8 +6,8 @@ artist-ids:
 - 3d260aa5-b003-41d3-85d5-f090d9a8abfa
 date: '1994'
 location:
-  latitude: 43.53314000685831
-  longitude: -80.23256826931151
+  latitude: 43.533140
+  longitude: -80.232568
   precision: 50
 material-ids:
 - 295447b1-9e9f-4bb5-8eeb-37a5ae10394c

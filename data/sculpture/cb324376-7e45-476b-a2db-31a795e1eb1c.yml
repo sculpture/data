@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Stadium Corporation of Ontario
 date: '1989'
 location:
-  latitude: 43.642167627371585
-  longitude: -79.3887738428528
+  latitude: 43.642167
+  longitude: -79.388773
   precision: 19.0
 material-ids:
 - 69e5a178-1413-4cf2-8805-5ac28641e955

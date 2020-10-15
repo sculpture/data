@@ -6,8 +6,8 @@ artist-ids:
 - a3d6d80d-13fe-49df-b080-871f789c2fa1
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 location:
-  latitude: 43.6771659
-  longitude: -79.4468406
+  latitude: 43.677165
+  longitude: -79.446840
   precision: 50.0
 material-ids:
 - 32495469-6b62-477a-b272-a0e4e2c0e5c9

@@ -8,8 +8,8 @@ city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
 date: '2001'
 link-wikipedia: https://en.wikipedia.org/wiki/National_Aboriginal_Veterans_Monument
 location:
-  latitude: 45.42167348199594
-  longitude: -75.69296820364391
+  latitude: 45.421673
+  longitude: -75.692968
   precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

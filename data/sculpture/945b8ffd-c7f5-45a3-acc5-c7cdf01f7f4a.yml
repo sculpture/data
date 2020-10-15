@@ -8,8 +8,8 @@ city-id: 1f6f6b19-76cc-45cb-a3de-95d4bbf08095
 commissioned-by: Oakvile galleries
 date: '1990'
 location:
-  latitude: 43.46140494593368
-  longitude: -79.64932081006476
+  latitude: 43.461404
+  longitude: -79.649320
   precision: 50.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984

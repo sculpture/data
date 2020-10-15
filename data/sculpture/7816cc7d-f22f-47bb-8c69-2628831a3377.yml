@@ -8,8 +8,8 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: TTC
 date: '1984'
 location:
-  latitude: 43.65621547548578
-  longitude: -79.3807151349182
+  latitude: 43.656215
+  longitude: -79.380715
   precision: 40.0
 material-ids:
 - 4cd09e5a-9808-4c0d-98e6-e66a16333a95

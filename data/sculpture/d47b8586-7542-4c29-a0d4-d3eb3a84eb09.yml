@@ -8,8 +8,8 @@ city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
 commissioned-by: ' gift of Nathan Cummings 1969'
 date: '1968'
 location:
-  latitude: 45.49856383401018
-  longitude: -73.58000484760744
+  latitude: 45.498563
+  longitude: -73.580004
   precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

@@ -8,8 +8,8 @@ city-id: 6f7a5190-23d9-4c9c-9bab-42fd4c93f1df
 commissioned-by: donated by Alexander Sellers
 date: '1986'
 location:
-  latitude: 44.387668867665525
-  longitude: -79.68554653911747
+  latitude: 44.387668
+  longitude: -79.685546
   precision: 24
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
