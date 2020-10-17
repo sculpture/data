@@ -1,0 +1,15 @@
+id: 1bc492be-6bcc-410e-a3e8-df30cf4e244a
+type: sculpture
+slug: cubi-xxi-smith
+title: Cubi XXI
+artist-ids:
+- ca17b203-f940-4f45-853d-3c61feb898a9
+city-id: 4c133344-0cec-4448-b5cb-d702cc6e1913
+location:
+  latitude: 40.23697
+  longitude: -74.719206
+  precision: 100
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
