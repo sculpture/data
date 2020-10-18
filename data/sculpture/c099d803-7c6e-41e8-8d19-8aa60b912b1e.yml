@@ -1,0 +1,15 @@
+id: c099d803-7c6e-41e8-8d19-8aa60b912b1e
+type: sculpture
+slug: disk-form-desert-rose
+title: Disk in the Form of a Desert Rose
+artist-ids:
+- b0f670b0-dd0d-4118-9e1c-68d5837a902f
+city-id: dfc812fa-0588-474a-98a2-4cdccf6bad2f
+date: '1994'
+location:
+  latitude: 42.979704
+  longitude: -85.584952
+  precision: 100
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
