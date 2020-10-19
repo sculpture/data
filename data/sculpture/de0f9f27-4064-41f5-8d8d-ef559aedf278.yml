@@ -1,0 +1,14 @@
+id: de0f9f27-4064-41f5-8d8d-ef559aedf278
+type: sculpture
+slug: cubi-xxii-smith
+title: Cubi XII
+artist-ids:
+- ca17b203-f940-4f45-853d-3c61feb898a9
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+location:
+  latitude: 38.88905
+  longitude: -77.02337
+  precision: 50
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []
