@@ -1,0 +1,16 @@
+id: 3008b23d-8cc8-4d1b-865d-b37ee4fe0d9e
+type: sculpture
+slug: haven-lavelle
+title: Haven
+artist-ids:
+- df268301-ac69-440c-9138-bb552b69d930
+city-id: caadc47a-8078-4666-a53b-11150dbdcc9d
+date: '2014'
+location:
+  latitude: 43.292044
+  longitude: -79.875098
+  precision: 50
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+note: (designed in collaboration with Douglas Senft)
+tag-ids: []
