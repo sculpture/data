@@ -1,0 +1,15 @@
+id: 963b04fa-c921-452c-9a42-eb58bd5c4350
+type: sculpture
+slug: lady-love-eyre
+title: Lady Love
+artist-ids:
+- 15b4136f-bb32-4f26-ab9f-b01879f48140
+commissioned-by: gift of artist
+date: '2010'
+location:
+  latitude: 43.84198
+  longitude: -79.620581
+  precision: 30
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
