@@ -8,9 +8,9 @@ city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
 date: '1962'
 link-wikipedia: https://en.wikipedia.org/wiki/Sky_Hooks
 location:
-  latitude: 38.888161
-  longitude: -77.022968
-  precision: 10
+  latitude: 38.889042
+  longitude: -77.022469
+  precision: 30
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids: []
