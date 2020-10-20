@@ -8,9 +8,9 @@ city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
 date: '1958'
 link-wikipedia: https://en.wikipedia.org/wiki/The_Whirling_Ear
 location:
-  latitude: 50.842585
-  longitude: 4.359874
-  precision: 50
+  latitude: 50.843384
+  longitude: 4.358522
+  precision: 20
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids:
