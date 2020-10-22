@@ -1,0 +1,17 @@
+id: a2cb6ea6-d3f9-4633-a9dc-cd9c23712047
+type: sculpture
+slug: sir-ernest-macmillan
+title: Sir Ernest MacMillan
+artist-ids:
+- f7df93d7-c56d-426c-899c-325f08f15eb9
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1967'
+location:
+  latitude: 43.747237
+  longitude: -79.191713
+  precision: 50
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 025aebba-7303-441f-b755-ade5bb67ef90
+- 8edbb59e-b498-4210-9981-8781235cafcd
