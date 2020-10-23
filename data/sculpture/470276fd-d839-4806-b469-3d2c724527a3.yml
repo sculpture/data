@@ -1,0 +1,15 @@
+id: 470276fd-d839-4806-b469-3d2c724527a3
+type: sculpture
+slug: big-red-rosati
+title: Big Red
+artist-ids:
+- 9f0dc453-05c8-43a3-b100-0fbfd90dbbff
+date: '1971'
+location:
+  latitude: 42.932281
+  longitude: -78.876042
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
