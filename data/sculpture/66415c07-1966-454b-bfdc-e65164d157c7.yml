@@ -1,0 +1,15 @@
+id: 66415c07-1966-454b-bfdc-e65164d157c7
+type: sculpture
+slug: crescendo-otasevic
+title: Crescendo
+artist-ids:
+- 5afe82b7-0327-4dae-9a46-6805a4d5aa0d
+city-id: caadc47a-8078-4666-a53b-11150dbdcc9d
+date: '2017'
+location:
+  latitude: 43.29847
+  longitude: -79.863823
+  precision: 50
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []
