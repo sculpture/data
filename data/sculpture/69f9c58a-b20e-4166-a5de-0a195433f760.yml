@@ -1,0 +1,17 @@
+id: 69f9c58a-b20e-4166-a5de-0a195433f760
+type: sculpture
+slug: love-negotiatons
+title: Love Negotiatons
+artist-ids:
+- 6eecf6d6-4345-4540-9b9a-063c21205a88
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2019'
+location:
+  latitude: 43.670749
+  longitude: -79.39304
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
