@@ -1,0 +1,17 @@
+id: a1589ee5-fb06-493f-9c52-e6e2d96e431e
+type: sculpture
+slug: walrus-jones-guildwood
+title: Walrus
+artist-ids:
+- 95aab595-ad7a-4581-8ebd-bcbe6be27384
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1948'
+location:
+  latitude: 43.747822
+  longitude: -79.192594
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
