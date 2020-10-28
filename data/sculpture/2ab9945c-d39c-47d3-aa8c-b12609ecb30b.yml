@@ -1,0 +1,17 @@
+id: 2ab9945c-d39c-47d3-aa8c-b12609ecb30b
+type: sculpture
+slug: the-illuminated-crowd
+title: The Illuminated Crowd
+artist-ids:
+- 2f612023-973f-4a6b-b018-47d848538404
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1986'
+location:
+  latitude: 45.503101
+  longitude: -73.573226
+  precision: 50
+material-ids:
+- 02f666a5-a96a-466a-9a4a-3ff26ba1bad5
+- 813407d6-0182-4b87-a4ea-66df2291a0f8
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
