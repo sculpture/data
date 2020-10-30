@@ -1,0 +1,15 @@
+id: 3d478957-45df-4214-951d-cddd4e774a88
+type: sculpture
+slug: john-galt-guelph
+title: John Galt
+artist-ids:
+- 0b2f104d-e897-4b57-8e20-ea784f9a2fd7
+city-id: bc863b0f-3035-4fab-888c-89e017daabea
+location:
+  latitude: 43.544625
+  longitude: -80.247145
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
