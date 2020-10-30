@@ -1,0 +1,19 @@
+id: 51d07b74-d96e-4ef6-8ccf-46de2a2c1137
+type: sculpture
+slug: frederic-chopin-lazienki
+title: Frederic Chopin Monument
+artist-ids:
+- 25914234-bab4-4b2e-b046-7d4aefd574d8
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1926'
+link-wikipedia: https://en.wikipedia.org/wiki/Frederic_Chopin_Monument,_Warsaw
+location:
+  latitude: 52.214691
+  longitude: 21.028037
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: design in 1907
+tag-ids:
+- 025aebba-7303-441f-b755-ade5bb67ef90
+- 2d488599-d808-40db-80a2-88b41c7bdb67
