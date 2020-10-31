@@ -1,0 +1,17 @@
+id: 2b1a9129-d1d5-45f7-95d5-3ebdb5ef3318
+type: sculpture
+slug: jean-paul-lemieux
+title: Jean-Paul Lemieux
+artist-ids:
+- 7ae662c3-8945-4c29-a71f-242a825fa18e
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1999'
+location:
+  latitude: 46.813213
+  longitude: -71.204312
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- b078f909-a131-4d37-8b36-59061078b159
