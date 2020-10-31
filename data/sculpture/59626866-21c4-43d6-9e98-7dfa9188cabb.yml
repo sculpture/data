@@ -1,0 +1,17 @@
+id: 59626866-21c4-43d6-9e98-7dfa9188cabb
+type: sculpture
+slug: geometric-mouse-moma
+title: Geometric Mouse, Scale A
+artist-ids:
+- 88ecb931-e524-412b-80a4-8cc409acd192
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1975'
+location:
+  latitude: 40.761311
+  longitude: -73.976753
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- df4890c4-2701-4782-a670-d019b3b95547
