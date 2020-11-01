@@ -9,9 +9,9 @@ city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
 date: '1989'
 link-wikipedia: https://en.wikipedia.org/wiki/Warsaw_Uprising_Monument
 location:
-  latitude: 52.249237
-  longitude: 21.006527
-  precision: 10
+  latitude: 52.249178
+  longitude: 21.006184
+  precision: 30
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
