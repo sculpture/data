@@ -1,0 +1,16 @@
+id: ad54ab15-ae65-4c41-9ce3-5e62c5751a58
+type: sculpture
+slug: draped-reclining-woman
+title: Draped Reclining Woman
+artist-ids:
+- 2fb2873a-8083-45af-b967-a8ffd1e0b75d
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: gift of artist
+date: '1958'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 30
+material-ids:
+- 035cb954-0ab7-4eea-ac9e-4d20c2716a49
+tag-ids: []
