@@ -1,0 +1,18 @@
+id: 97a6af71-b7ba-43d1-b225-4add527f2e5a
+type: sculpture
+slug: la-tenderesse-montreal
+title: La Tenderesse
+artist-ids:
+- 7ae662c3-8945-4c29-a71f-242a825fa18e
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1995'
+link-wikipedia: https://en.wikipedia.org/wiki/Tenderness_(sculpture)
+location:
+  latitude: 45.501893
+  longitude: -73.576708
+  precision: 50.0
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- ce5eba46-3dff-4d8c-89c8-4fab2da9a37d
+- df4890c4-2701-4782-a670-d019b3b95547

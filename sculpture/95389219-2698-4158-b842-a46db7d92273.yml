@@ -1,0 +1,18 @@
+id: 95389219-2698-4158-b842-a46db7d92273
+type: sculpture
+slug: commonwealth-air-force-ottawa
+title: Commonwealth Air Force Memorial
+artist-ids:
+- 6edfb78a-84b2-4fdd-ab9b-28765f62ef8d
+- c05579dd-d0cd-4c50-a6cb-228d5e0b5c85
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+commissioned-by: Commonwealth War Graves
+date: '1959'
+location:
+  latitude: 45.440775
+  longitude: -75.696133
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753

@@ -1,0 +1,15 @@
+id: f33197c2-b8a1-460b-9bab-dbdec4ba6e60
+type: sculpture
+slug: pillars-of-justice
+title: Pillars of Justice
+artist-ids:
+- 8abe61d6-a1d8-4f09-abee-806e1f399de0
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2007'
+location:
+  latitude: 43.652741
+  longitude: -79.386842
+  precision: 28.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

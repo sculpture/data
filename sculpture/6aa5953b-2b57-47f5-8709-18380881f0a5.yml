@@ -1,0 +1,16 @@
+id: 6aa5953b-2b57-47f5-8709-18380881f0a5
+type: sculpture
+slug: break-watson-waterloo
+title: Break
+artist-ids:
+- 0704d933-1cf1-43e1-9750-fe3e58153194
+city-id: b50c816a-bc64-45db-b0db-f86504c9b799
+date: '1971'
+location:
+  latitude: 43.471365
+  longitude: -80.543559
+  precision: 100.0
+material-ids:
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288

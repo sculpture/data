@@ -1,0 +1,16 @@
+id: e878695e-873e-4605-9d94-2f296b4c35b6
+type: sculpture
+slug: mask
+title: Mask
+artist-ids:
+- 30ea1df3-24ef-4c4b-9de4-2d3fc38ed2f7
+city-id: bc863b0f-3035-4fab-888c-89e017daabea
+commissioned-by: du Maurier Arts Ltd funds
+date: '1989'
+location:
+  latitude: 43.533089
+  longitude: -80.232654
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

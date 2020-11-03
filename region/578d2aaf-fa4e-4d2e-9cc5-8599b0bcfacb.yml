@@ -1,0 +1,7 @@
+id: 578d2aaf-fa4e-4d2e-9cc5-8599b0bcfacb
+type: region
+slug: rodman-hall
+name: Rodman Hall
+geojson: '{"type":"Polygon","coordinates":[[[-79.2475176,43.149911],[-79.2466866,43.149911],[-79.2466866,43.1490162],[-79.2475176,43.1490162],[-79.2475176,43.149911]]]}'
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78

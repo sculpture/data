@@ -1,0 +1,17 @@
+id: dcb9080f-8c3b-4bf5-bdf2-0d55b9b32087
+type: sculpture
+slug: early-morning-dream
+title: Early Morning Dream
+artist-ids:
+- 38e32996-ada5-4a2d-9794-ab53222ceb4e
+city-id: b50c816a-bc64-45db-b0db-f86504c9b799
+date: '1972'
+location:
+  latitude: 43.472285
+  longitude: -80.544857
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
+- f512d675-0554-4a67-987c-1da560f2c95a

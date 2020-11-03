@@ -1,0 +1,16 @@
+id: 15146fbd-1eeb-4a72-a439-5dcc641d0beb
+type: sculpture
+slug: mythic-messengers-hull
+title: Mythic Messengers
+artist-ids:
+- 9ea692e0-a951-49cf-b0ba-9a8ce3c6973a
+city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
+date: '1984'
+location:
+  latitude: 45.429856
+  longitude: -75.708459
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 8edbb59e-b498-4210-9981-8781235cafcd

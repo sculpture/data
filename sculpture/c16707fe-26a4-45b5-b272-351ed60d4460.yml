@@ -1,0 +1,16 @@
+id: c16707fe-26a4-45b5-b272-351ed60d4460
+type: sculpture
+slug: compass-bolahood
+title: The Compass
+artist-ids:
+- 4fda7392-4dca-4113-8373-40114a0bc8bf
+city-id: 719fac10-c7ca-498c-9078-90bdcf119147
+date: '2005'
+location:
+  latitude: 43.943641
+  longitude: -78.895964
+  precision: 50.0
+material-ids:
+- 6ffae26a-1977-4e67-ae07-fbd423e0951b
+- 9339f849-4d51-42a5-9eed-ef78bd340899
+tag-ids: []

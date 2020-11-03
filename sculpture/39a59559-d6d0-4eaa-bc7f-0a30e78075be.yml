@@ -1,0 +1,18 @@
+id: 39a59559-d6d0-4eaa-bc7f-0a30e78075be
+type: sculpture
+slug: the-hippie
+title: The Hippie
+artist-ids:
+- f5dc3f1c-9156-4d43-ba28-e69407c07b86
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: International Sculpture Symposium
+date: '1967'
+location:
+  latitude: 43.65164
+  longitude: -79.464934
+  precision: 50.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

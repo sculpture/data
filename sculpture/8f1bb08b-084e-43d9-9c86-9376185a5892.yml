@@ -1,0 +1,16 @@
+id: 8f1bb08b-084e-43d9-9c86-9376185a5892
+type: sculpture
+slug: without-title
+title: Without Title
+artist-ids:
+- 33244cbd-8e62-4e49-8127-5dd44f2d0bf1
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: International Stone Sculpture Symposium
+date: '2005'
+location:
+  latitude: 43.636006
+  longitude: -79.412147
+  precision: 48.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []

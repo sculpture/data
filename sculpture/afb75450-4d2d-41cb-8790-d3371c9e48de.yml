@@ -1,0 +1,17 @@
+id: afb75450-4d2d-41cb-8790-d3371c9e48de
+type: sculpture
+slug: tryptich
+title: Tryptich
+artist-ids:
+- 31bc0a9c-d23f-417f-a390-0b08bfe778f6
+city-id: 9a82bb0d-d00a-491c-911b-64b5be0e734a
+commissioned-by: A.E.LePage
+date: '1983'
+location:
+  latitude: 42.313731
+  longitude: -83.062637
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: photo at old location
+tag-ids: []

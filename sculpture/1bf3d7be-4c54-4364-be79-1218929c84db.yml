@@ -1,0 +1,18 @@
+id: 1bf3d7be-4c54-4364-be79-1218929c84db
+type: sculpture
+slug: christalides
+title: Chrysalides
+artist-ids:
+- 35fa2e5e-2554-41c0-9f47-d77a4fdab704
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Spencer Clark
+date: 196*
+location:
+  latitude: 43.747709
+  longitude: -79.191799
+  precision: 35.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+note: (fot.2002) Sculpture not anymore at this location
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57

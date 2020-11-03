@@ -1,0 +1,16 @@
+id: f0b2efb6-77f2-4910-87af-d3daaaf229fc
+type: sculpture
+slug: mudra
+title: Mudra
+artist-ids:
+- 91e7275a-b3ad-4f6b-be41-97e3bfe0b17c
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Government of Ontario
+date: '1974'
+location:
+  latitude: 43.662665
+  longitude: -79.385171
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

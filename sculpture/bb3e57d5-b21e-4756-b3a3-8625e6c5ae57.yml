@@ -1,0 +1,18 @@
+id: bb3e57d5-b21e-4756-b3a3-8625e6c5ae57
+type: sculpture
+slug: dona-i-ocell-miro-barcelona
+title: Dona i Ocell
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+city-id: 16e2f36d-eb09-4c02-9fd2-334682ca2e1c
+date: '1983'
+link-wikipedia: https://en.wikipedia.org/wiki/Dona_i_Ocell
+location:
+  latitude: 41.378055
+  longitude: 2.147021
+  precision: 50.0
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 1aaa34d0-a277-480a-b85e-4f7dc8a8f257
+size: 20
+tag-ids: []

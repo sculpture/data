@@ -1,0 +1,19 @@
+id: c9e2e4fd-875f-45e2-b132-a2d41499eaf4
+type: sculpture
+slug: the-sculptors-palette
+title: The Sculptor's Palette
+artist-ids:
+- 9a0a94d9-c4d1-45f5-ac3a-0bfb0563a15d
+- a72315fc-ea46-41f6-a11e-90d825b4acfe
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2002'
+location:
+  latitude: 43.671699
+  longitude: -79.393434
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- b078f909-a131-4d37-8b36-59061078b159

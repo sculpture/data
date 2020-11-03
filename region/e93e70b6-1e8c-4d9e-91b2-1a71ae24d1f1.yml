@@ -1,0 +1,7 @@
+id: e93e70b6-1e8c-4d9e-91b2-1a71ae24d1f1
+type: region
+slug: northrop-frye-hall
+name: Northrop Frye Hall
+geojson: '{"type":"Polygon","coordinates":[[[-79.3923768,43.6665589],[-79.3918752,43.6665589],[-79.3918752,43.6662719],[-79.3923768,43.6662719],[-79.3923768,43.6665589]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

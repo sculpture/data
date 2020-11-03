@@ -1,0 +1,17 @@
+id: 0adc59ae-1c2c-46bf-a01d-422754d81b0d
+type: sculpture
+slug: monument-pour-une-feuille
+title: Monument pour une feuille
+artist-ids:
+- f92f0d47-d131-4c6a-ad07-1d026752bc0f
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1991'
+location:
+  latitude: 46.818156
+  longitude: -71.214998
+  precision: 10.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

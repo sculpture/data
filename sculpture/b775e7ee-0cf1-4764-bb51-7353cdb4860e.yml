@@ -1,0 +1,15 @@
+id: b775e7ee-0cf1-4764-bb51-7353cdb4860e
+type: sculpture
+slug: cloud-sensor
+title: Cloud Sensor
+artist-ids:
+- 6bdaf906-3a04-4fe8-aa0f-29037c354935
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1994'
+location:
+  latitude: 43.770956
+  longitude: -79.258413
+  precision: 34.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

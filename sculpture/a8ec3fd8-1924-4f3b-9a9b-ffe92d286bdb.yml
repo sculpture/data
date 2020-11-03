@@ -1,0 +1,19 @@
+id: a8ec3fd8-1924-4f3b-9a9b-ffe92d286bdb
+type: sculpture
+slug: inversion
+title: Inversion
+artist-ids:
+- 9f3d942f-d242-4f96-bd09-6b3563f23221
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Tridel
+date: '2011'
+location:
+  latitude: 43.670826
+  longitude: -79.376586
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485

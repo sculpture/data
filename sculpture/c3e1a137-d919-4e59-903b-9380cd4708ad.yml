@@ -1,0 +1,18 @@
+id: c3e1a137-d919-4e59-903b-9380cd4708ad
+type: sculpture
+slug: hope
+title: Hope
+artist-ids:
+- e9a53550-eb14-4cde-9d11-68e2f4305b47
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: J.M.Tanenbaum
+date: '1999'
+location:
+  latitude: 43.723495
+  longitude: -79.378742
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

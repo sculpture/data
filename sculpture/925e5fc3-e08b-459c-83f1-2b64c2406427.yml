@@ -1,0 +1,21 @@
+id: 925e5fc3-e08b-459c-83f1-2b64c2406427
+type: sculpture
+slug: warsaw-uprising-monument
+title: Warsaw Uprising Monument
+artist-ids:
+- a9be2fa2-8156-487f-a6d8-d0a3948c1e70
+- b38e419e-7a6b-4bab-af45-cf87ba363fa5
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1989'
+link-wikipedia: https://en.wikipedia.org/wiki/Warsaw_Uprising_Monument
+location:
+  latitude: 52.249277
+  longitude: 21.00583
+  precision: 30.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753

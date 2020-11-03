@@ -1,0 +1,17 @@
+id: 0c7b0cad-8ff5-4094-a4b4-17e9d18c592a
+type: sculpture
+slug: triad
+title: Triad
+artist-ids:
+- daa3739f-f25b-4e27-a19d-689c6f3740ac
+city-id: b50c816a-bc64-45db-b0db-f86504c9b799
+commissioned-by: Shore, Moffat & Partners Architects
+date: '1965'
+location:
+  latitude: 43.472285
+  longitude: -80.544857
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

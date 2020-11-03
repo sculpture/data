@@ -1,0 +1,16 @@
+id: a09eb4e8-d95b-465b-8bc2-20896f4ff859
+type: sculpture
+slug: northern-gateway
+title: Northern Gateway
+artist-ids:
+- c2ca8701-ecbe-4e10-a7ea-284fb66743a2
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: City of Toronto
+date: '1995'
+location:
+  latitude: 43.734022
+  longitude: -79.404841
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

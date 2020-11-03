@@ -1,0 +1,16 @@
+id: e817f43a-38af-4f79-9205-0d7db01e1381
+type: sculpture
+slug: adonai-liberman
+title: Adonai
+artist-ids:
+- b2c54f03-b05b-43b4-8811-e4d959f022ac
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1971'
+location:
+  latitude: 41.42
+  longitude: -74.063376
+  precision: 100.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc

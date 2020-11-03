@@ -1,0 +1,16 @@
+id: 9bdf683d-a70f-48ee-9463-fbb72cfa6787
+type: sculpture
+slug: cordella
+title: Cordella
+artist-ids:
+- d534f5aa-828c-4b2f-8757-9aeafc9bf966
+city-id: 9a82bb0d-d00a-491c-911b-64b5be0e734a
+date: '1998'
+location:
+  latitude: 42.31362
+  longitude: -83.063367
+  precision: 34.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

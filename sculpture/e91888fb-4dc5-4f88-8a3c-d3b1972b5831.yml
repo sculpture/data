@@ -1,0 +1,19 @@
+id: e91888fb-4dc5-4f88-8a3c-d3b1972b5831
+type: sculpture
+slug: steve-stavro-tomb
+title: Steve Stavro Tomb
+artist-ids:
+- 28aa528e-e561-45d9-ad7f-ce0c068ba723
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2006'
+location:
+  latitude: 43.695963
+  longitude: -79.386744
+  precision: 37.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- bf6e2af4-6918-408e-9ebf-f559bf8f16cb
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be

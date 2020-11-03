@@ -1,0 +1,17 @@
+id: 9705952e-0db7-4ae1-843f-9ec6129f0781
+type: sculpture
+slug: joie-de-vivre-suvero-ny
+title: Joie de Vivre
+artist-ids:
+- bd9de07c-dcbb-4c62-9d26-d63b6736a547
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1997'
+link-wikipedia: https://en.wikipedia.org/wiki/Joie_de_Vivre
+location:
+  latitude: 40.70897
+  longitude: -74.01094
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a

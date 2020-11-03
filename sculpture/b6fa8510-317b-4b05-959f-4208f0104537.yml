@@ -1,0 +1,15 @@
+id: b6fa8510-317b-4b05-959f-4208f0104537
+type: sculpture
+slug: audio-corridor
+title: Audio Corridor
+artist-ids:
+- 5e3025ae-ccaa-4bab-9f5c-f9a207ecd7d4
+city-id: 9a82bb0d-d00a-491c-911b-64b5be0e734a
+date: '2000'
+location:
+  latitude: 42.315046
+  longitude: -83.059462
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

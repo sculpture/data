@@ -1,0 +1,7 @@
+id: 8ae90352-ecad-4630-9c01-3bcb0338e702
+type: region
+slug: stratford
+name: Stratford
+geojson: '{"type":"Polygon","coordinates":[[[-81.0262299,43.3989362],[-80.9422661,43.3989362],[-80.9422661,43.338711],[-81.0262299,43.338711],[-81.0262299,43.3989362]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc

@@ -1,0 +1,16 @@
+id: 0844fa36-4764-48f9-883e-fcb2692665d5
+type: sculpture
+slug: le-tournesol-leger
+title: Le Tournesol
+artist-ids:
+- a1a78fbb-0603-4a6b-b39e-715170e6ce06
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1952'
+location:
+  latitude: 45.498984
+  longitude: -73.579961
+  precision: 50.0
+material-ids:
+- 590bc2f1-fd09-4c83-96da-39fa51cef820
+note: cast 2000
+tag-ids: []

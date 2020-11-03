@@ -1,0 +1,16 @@
+id: 4cbfa161-bf56-4bc0-8aeb-caf3378f8753
+type: sculpture
+slug: monoceros-fastwurms
+title: Monoceros
+artist-ids:
+- e41958c2-2a1a-4641-8b8a-a6272b053cc8
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2013'
+location:
+  latitude: 43.639933
+  longitude: -79.416379
+  precision: 30.0
+material-ids:
+- 590bc2f1-fd09-4c83-96da-39fa51cef820
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d

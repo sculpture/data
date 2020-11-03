@@ -1,0 +1,17 @@
+id: 8e54af49-2a6c-4ffa-ad65-ff10c5dc08e9
+type: sculpture
+slug: people
+title: People
+artist-ids:
+- a7929085-aa59-43c6-bb5e-7b70e8d2df9b
+city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
+commissioned-by: Expo 67
+date: '1967'
+location:
+  latitude: 45.429341
+  longitude: -75.708051
+  precision: 53.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- df4890c4-2701-4782-a670-d019b3b95547

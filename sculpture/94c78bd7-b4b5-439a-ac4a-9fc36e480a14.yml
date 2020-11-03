@@ -1,0 +1,19 @@
+id: 94c78bd7-b4b5-439a-ac4a-9fc36e480a14
+type: sculpture
+slug: wwi-memorial-stratford
+title: WWI Memorial
+artist-ids:
+- 5f5e73b4-75e3-41bb-b698-1b7ab285d8b1
+city-id: 275b42cc-8227-4857-824d-40918fb1a44b
+date: '1922'
+location:
+  latitude: 43.37131
+  longitude: -80.982421
+  precision: 136.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

@@ -1,0 +1,19 @@
+id: 303517f0-10c3-4b83-b898-9d569e597e62
+type: sculpture
+slug: lightmare
+title: Lightmare
+artist-ids:
+- 19e026a9-1808-44b0-a3ad-05c276371e6e
+city-id: bc863b0f-3035-4fab-888c-89e017daabea
+date: '1989'
+location:
+  latitude: 43.533089
+  longitude: -80.232654
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 89f78d37-2315-4104-bfe7-610b444b2485

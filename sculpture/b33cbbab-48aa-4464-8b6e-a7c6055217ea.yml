@@ -1,0 +1,17 @@
+id: b33cbbab-48aa-4464-8b6e-a7c6055217ea
+type: sculpture
+slug: chinese-rail-workers-monument
+title: Chinese Rail Workers Monument
+artist-ids:
+- 9f3d942f-d242-4f96-bd09-6b3563f23221
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1989'
+location:
+  latitude: 43.64191
+  longitude: -79.39153
+  precision: 34.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []

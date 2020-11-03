@@ -1,0 +1,17 @@
+id: 3511ce5a-e691-489a-89ac-62e62b8f791e
+type: sculpture
+slug: six-dots-over-mountain-calder-washington
+title: Six Dots over a Mountain
+artist-ids:
+- 7ad71af4-c9b7-49d0-9765-ba2a674856a0
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1956'
+location:
+  latitude: 38.888991
+  longitude: -77.022948
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+- 983d1c37-99da-4b1d-baba-681a83e66d30
+tag-ids:
+- 85105298-6047-4f80-88ec-76aa0b77d815

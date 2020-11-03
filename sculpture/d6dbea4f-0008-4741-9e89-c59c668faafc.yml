@@ -1,0 +1,16 @@
+id: d6dbea4f-0008-4741-9e89-c59c668faafc
+type: sculpture
+slug: salmon-run-ottawa
+title: Salmon Run
+artist-ids:
+- 77b0ea91-1ae9-431f-85bf-cbb1d6f18a54
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1978'
+location:
+  latitude: 45.423947
+  longitude: -75.692109
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288

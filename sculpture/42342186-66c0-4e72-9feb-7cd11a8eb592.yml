@@ -1,0 +1,17 @@
+id: 42342186-66c0-4e72-9feb-7cd11a8eb592
+type: sculpture
+slug: scope-of-change
+title: The Scope of Change
+artist-ids:
+- a4c96e19-921f-4916-a7e2-2d51345eb6e0
+city-id: caadc47a-8078-4666-a53b-11150dbdcc9d
+date: '2014'
+location:
+  latitude: 43.293051
+  longitude: -79.877437
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- d5e04d12-19d1-4983-86c9-8ef02568d71c
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a

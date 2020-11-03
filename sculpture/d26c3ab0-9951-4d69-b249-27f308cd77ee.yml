@@ -1,0 +1,24 @@
+id: d26c3ab0-9951-4d69-b249-27f308cd77ee
+type: sculpture
+slug: sir-john-colborne
+title: Sir John Colborne
+artist-ids:
+- 149b325d-c3cd-4185-becd-182eb5f06dfa
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: gift of Massey Fundation 1934
+date: '1866'
+location:
+  latitude: 43.691086
+  longitude: -79.404375
+  precision: 100.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+note: unveiled in 1934
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 521f00f2-f976-4b69-89cf-6e8db0c94f29
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fd6a0174-5f1e-444f-92b0-5459282b2638

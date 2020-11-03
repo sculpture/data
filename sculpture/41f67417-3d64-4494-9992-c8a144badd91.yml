@@ -1,0 +1,17 @@
+id: 41f67417-3d64-4494-9992-c8a144badd91
+type: sculpture
+slug: solstice
+title: Solstice
+artist-ids:
+- f01c816e-53e3-4023-85a5-21c300a9b6b3
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Spencer Clark, The Guild of All Arts
+date: '1981'
+location:
+  latitude: 43.747732
+  longitude: -79.19195
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+note: (fot.2002) Sculpture not anymore at this location
+tag-ids: []

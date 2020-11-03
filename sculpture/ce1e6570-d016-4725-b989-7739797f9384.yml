@@ -1,0 +1,17 @@
+id: ce1e6570-d016-4725-b989-7739797f9384
+type: sculpture
+slug: flight
+title: Flight
+artist-ids:
+- a791e704-3cf6-4e29-b923-0e8213816522
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+commissioned-by: Bank of Canada
+date: '1967'
+location:
+  latitude: 45.421365
+  longitude: -75.702311
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

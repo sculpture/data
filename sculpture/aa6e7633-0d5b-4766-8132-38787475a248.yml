@@ -1,0 +1,15 @@
+id: aa6e7633-0d5b-4766-8132-38787475a248
+type: sculpture
+slug: hands-2
+title: Hands (2)
+artist-ids:
+- 620e37ba-c0dd-4919-b8e0-e94e5a7fadb7
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1998'
+location:
+  latitude: 43.706829
+  longitude: -79.39851
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

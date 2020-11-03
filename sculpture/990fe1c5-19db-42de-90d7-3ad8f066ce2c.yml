@@ -1,0 +1,17 @@
+id: 990fe1c5-19db-42de-90d7-3ad8f066ce2c
+type: sculpture
+slug: memoire-du-futur
+title: Memoire du futur
+artist-ids:
+- 34dcb7e7-8c13-4fea-8b8d-21c5ebe39ae5
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: he Municipality of Metro Toronto, Marathon Realty Co
+date: '1992'
+location:
+  latitude: 43.646408
+  longitude: -79.388202
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

@@ -1,0 +1,15 @@
+id: aabb8cb4-fc77-48b8-9f27-85aae543560d
+type: sculpture
+slug: the-laws-of-nature
+title: The Laws of Nature
+artist-ids:
+- fd72acc5-f62b-48af-94e4-3fdb4be5bb0e
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1997'
+location:
+  latitude: 43.650647
+  longitude: -79.372752
+  precision: 50.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

@@ -1,0 +1,16 @@
+id: 5c19fb36-b039-4bfe-bed9-12c2d527ca16
+type: sculpture
+slug: messenger
+title: Messenger
+artist-ids:
+- 5d933260-0a42-46d3-87c4-ff880cbd9263
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: John C. Parkin, architect, Don Mills Post Office
+date: '1964'
+location:
+  latitude: 43.734386
+  longitude: -79.347429
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

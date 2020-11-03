@@ -1,0 +1,15 @@
+id: 64caa4fb-55cf-4093-b715-deb9c68e49b4
+type: sculpture
+slug: venus
+title: Venus
+artist-ids:
+- 2801b3aa-7b8b-4dd9-877b-1eb5c7e7a3fb
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1990'
+location:
+  latitude: 43.670581
+  longitude: -79.393893
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

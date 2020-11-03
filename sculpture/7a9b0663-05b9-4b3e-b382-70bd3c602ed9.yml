@@ -1,0 +1,16 @@
+id: 7a9b0663-05b9-4b3e-b382-70bd3c602ed9
+type: sculpture
+slug: davids-shadow
+title: David's Shadow
+artist-ids:
+- 2e1bd586-4498-4048-9316-457fbbf8c70c
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Canadian Heritage
+date: '2004'
+location:
+  latitude: 43.712956
+  longitude: -79.456327
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

@@ -1,0 +1,7 @@
+id: 25eb1ec6-0be0-4c88-a0dc-90e83aab9975
+type: region
+slug: gzowski-park
+name: Gzowski Park
+geojson: '{"type":"Polygon","coordinates":[[[-80.52702,43.44433],[-80.52306,43.44562],[-80.52276,43.44347],[-80.52516,43.44266],[-80.52702,43.44433]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d

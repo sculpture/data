@@ -1,0 +1,16 @@
+id: ebf3589f-8ddf-4cb9-8dd1-96c286a22472
+type: sculpture
+slug: concept-ii
+title: Concept II
+artist-ids:
+- 2f0762a2-1b34-42c0-b2a2-73947952a06c
+city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
+date: '1985'
+location:
+  latitude: 43.589668
+  longitude: -79.645001
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

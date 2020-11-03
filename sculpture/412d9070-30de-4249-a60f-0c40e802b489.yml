@@ -1,0 +1,15 @@
+id: 412d9070-30de-4249-a60f-0c40e802b489
+type: sculpture
+slug: untitled-1-spiers
+title: Untitled 1
+artist-ids:
+- d876c84b-4cab-4a10-8a15-40ff0edbcc65
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1975'
+location:
+  latitude: 43.727558
+  longitude: -79.380333
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

@@ -1,0 +1,18 @@
+id: 583dfb26-8451-4e39-bca7-d7d04630cd84
+type: sculpture
+slug: young-girl-smith
+title: Young Girl
+artist-ids:
+- e430aa7d-470d-47a3-9b6a-11fd7e078d72
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+commissioned-by: National Capital Commission
+date: '1986'
+location:
+  latitude: 45.430876
+  longitude: -75.695816
+  precision: 10.0
+material-ids:
+- 2c971567-aa58-40f7-bf83-b5a97ed653c9
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

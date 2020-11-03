@@ -1,0 +1,15 @@
+id: a44b8a4e-e6a3-477b-b90e-a6b9948ea204
+type: sculpture
+slug: datawall
+title: Data Wall
+artist-ids:
+- d0c04e64-b017-460c-bed0-06b7ad33c2a7
+city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
+date: '1997'
+location:
+  latitude: 43.590186
+  longitude: -79.645794
+  precision: 50.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []

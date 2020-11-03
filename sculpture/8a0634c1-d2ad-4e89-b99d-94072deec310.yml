@@ -1,0 +1,18 @@
+id: 8a0634c1-d2ad-4e89-b99d-94072deec310
+type: sculpture
+slug: colonel-by-ottawa
+title: Colonel By
+artist-ids:
+- 33dad29c-af0e-4e38-bb90-26663d2dfcca
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1971'
+location:
+  latitude: 45.426432
+  longitude: -75.696798
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 05f12a7a-8656-445c-ad89-8617853c6f35
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

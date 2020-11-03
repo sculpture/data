@@ -1,0 +1,15 @@
+id: 1a5beee8-a095-4113-9f17-b53b0a31a684
+type: sculpture
+slug: homage
+title: Homage
+artist-ids:
+- f01c816e-53e3-4023-85a5-21c300a9b6b3
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1978'
+location:
+  latitude: 43.704941
+  longitude: -79.396557
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

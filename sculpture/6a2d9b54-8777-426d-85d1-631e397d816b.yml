@@ -1,0 +1,15 @@
+id: 6a2d9b54-8777-426d-85d1-631e397d816b
+type: sculpture
+slug: british-columbia-jones
+title: British Columbia
+artist-ids:
+- 95aab595-ad7a-4581-8ebd-bcbe6be27384
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1948'
+location:
+  latitude: 43.748315
+  longitude: -79.192719
+  precision: 50.0
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids: []

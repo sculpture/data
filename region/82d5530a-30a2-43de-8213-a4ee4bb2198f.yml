@@ -1,0 +1,7 @@
+id: 82d5530a-30a2-43de-8213-a4ee4bb2198f
+type: region
+slug: chinese-cultural-centre
+name: Chinese Cultural Centre
+geojson: '{"type":"Polygon","coordinates":[[[-79.2344176769257,43.7945870434307],[-79.23312,43.79481],[-79.233,43.79455],[-79.2342513799668,43.7942695242913],[-79.2344176769257,43.7945870434307]]]}'
+tag-ids:
+- ae775bfc-ecf1-4353-97db-35d424171903

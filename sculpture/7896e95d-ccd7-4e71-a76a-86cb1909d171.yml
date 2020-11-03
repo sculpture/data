@@ -1,0 +1,16 @@
+id: 7896e95d-ccd7-4e71-a76a-86cb1909d171
+type: sculpture
+slug: mariner-lind-north-york
+title: Mariner
+artist-ids:
+- c60ea4ef-7b74-4184-a1e6-abafb0ccd4e4
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Monarch development inc
+date: '2014'
+location:
+  latitude: 43.775208
+  longitude: -79.337285
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []

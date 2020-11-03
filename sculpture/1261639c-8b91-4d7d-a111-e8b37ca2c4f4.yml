@@ -1,0 +1,17 @@
+id: 1261639c-8b91-4d7d-a111-e8b37ca2c4f4
+type: sculpture
+slug: mooseconstrue
+title: Mooseconstrue
+artist-ids:
+- dbd7a34d-5d39-41b5-8bf6-b69d77cf1ea8
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2002'
+location:
+  latitude: 43.663938
+  longitude: -79.398488
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485

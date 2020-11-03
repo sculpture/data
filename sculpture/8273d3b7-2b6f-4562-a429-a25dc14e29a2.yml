@@ -1,0 +1,16 @@
+id: 8273d3b7-2b6f-4562-a429-a25dc14e29a2
+type: sculpture
+slug: hour-glass-fullerton
+title: (H)our Glass
+artist-ids:
+- b5277516-b5b0-4035-86bc-42380586b776
+city-id: caadc47a-8078-4666-a53b-11150dbdcc9d
+date: '2009'
+location:
+  latitude: 43.295156
+  longitude: -79.878234
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc

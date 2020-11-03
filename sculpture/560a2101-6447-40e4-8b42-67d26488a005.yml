@@ -1,0 +1,18 @@
+id: 560a2101-6447-40e4-8b42-67d26488a005
+type: sculpture
+slug: monument-to-multiculturalism
+title: Monument to Multiculturalism
+artist-ids:
+- 3f7e64ea-2128-4731-942c-5d8242df7a0c
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: National Congress of Italian Canadians
+date: '1985'
+location:
+  latitude: 43.645544
+  longitude: -79.380435
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

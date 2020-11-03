@@ -1,0 +1,18 @@
+id: 321be6a0-8760-4753-bb78-a66f56ac20b2
+type: sculpture
+slug: howling-wolf
+title: Howling Wolf
+artist-ids:
+- d1c91d4b-7b5d-4f5e-95f2-a9bbc369eded
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1999'
+location:
+  latitude: 43.646142
+  longitude: -79.413313
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485

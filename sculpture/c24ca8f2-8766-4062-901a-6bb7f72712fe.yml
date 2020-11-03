@@ -1,0 +1,15 @@
+id: c24ca8f2-8766-4062-901a-6bb7f72712fe
+type: sculpture
+slug: wings
+title: Whirpool
+artist-ids:
+- 4daeec4c-2b4d-46ed-81b7-5717b21bfe33
+city-id: 9a82bb0d-d00a-491c-911b-64b5be0e734a
+location:
+  latitude: 42.307722
+  longitude: -83.068477
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

@@ -1,0 +1,17 @@
+id: 339aedb1-58c2-427c-ae1f-21beede87a1a
+type: sculpture
+slug: owls
+title: Owls
+artist-ids:
+- e1cf0366-a083-4cc6-a9d8-5454990d2fe5
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1998'
+location:
+  latitude: 43.774095
+  longitude: -79.40987
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- b982214e-52f9-48b0-b977-4a4359b49fdb

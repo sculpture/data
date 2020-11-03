@@ -1,0 +1,15 @@
+id: 439a106c-7220-40f5-965d-d2ed37aa3504
+type: sculpture
+slug: untitled-hershoran
+title: Untitled
+artist-ids:
+- c9ba98ff-8410-440b-8acd-be9091a01190
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1987'
+location:
+  latitude: 43.687168
+  longitude: -79.415066
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

@@ -1,0 +1,17 @@
+id: 94985031-c614-44c3-964d-b600f840fc2c
+type: sculpture
+slug: shorline-commemorative
+title: Shorline Commemorative
+artist-ids:
+- 2bb1c559-406f-454c-92ae-9a8d09860aca
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2014'
+location:
+  latitude: 43.647487
+  longitude: -79.373508
+  precision: 31.0
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
+tag-ids: []

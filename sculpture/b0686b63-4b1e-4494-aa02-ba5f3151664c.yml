@@ -1,0 +1,15 @@
+id: b0686b63-4b1e-4494-aa02-ba5f3151664c
+type: sculpture
+slug: inuksuk
+title: Inuksuk
+artist-ids:
+- 298597b3-828a-434b-b0f2-3f98185945fc
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1987'
+location:
+  latitude: 43.727297
+  longitude: -79.34173
+  precision: 50.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []

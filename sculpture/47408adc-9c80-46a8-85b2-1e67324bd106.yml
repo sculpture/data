@@ -1,0 +1,18 @@
+id: 47408adc-9c80-46a8-85b2-1e67324bd106
+type: sculpture
+slug: charity-baird
+title: Charity
+artist-ids:
+- daa3739f-f25b-4e27-a19d-689c6f3740ac
+city-id: fd82132d-7125-459c-a76c-677aede6390c
+date: '2017'
+location:
+  latitude: 43.901991
+  longitude: -79.37545
+  precision: 47.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- bbcb416f-d400-4a07-8a83-79a445209a57

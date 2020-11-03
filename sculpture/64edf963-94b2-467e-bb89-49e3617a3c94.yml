@@ -1,0 +1,15 @@
+id: 64edf963-94b2-467e-bb89-49e3617a3c94
+type: sculpture
+slug: sickle-and-cellphone
+title: The Sickle and The Cellphone
+artist-ids:
+- 89bf1e47-6505-448a-b81f-6b95b0482afe
+city-id: bc863b0f-3035-4fab-888c-89e017daabea
+date: '2002'
+location:
+  latitude: 43.533
+  longitude: -80.232654
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

@@ -1,0 +1,18 @@
+id: aa24a7bb-74c8-4271-8725-f20d2a4935f2
+type: sculpture
+slug: queen-victoria-montreal-louise
+title: Queen Victoria (Montreal)
+artist-ids:
+- 30e0dd17-236d-445c-a1e7-fb94179d69fb
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1900'
+location:
+  latitude: 45.505587
+  longitude: -73.57302
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9c3360b2-448e-4f0e-a2c0-b4339e34d6a4

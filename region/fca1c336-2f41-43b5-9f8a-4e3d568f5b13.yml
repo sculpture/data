@@ -1,0 +1,7 @@
+id: fca1c336-2f41-43b5-9f8a-4e3d568f5b13
+type: region
+slug: beaches-toronto
+name: Beaches
+geojson: '{"type":"Polygon","coordinates":[[[-79.32129,43.6779],[-79.28679,43.68916],[-79.28009,43.67043],[-79.31047,43.65235],[-79.32129,43.6779]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25

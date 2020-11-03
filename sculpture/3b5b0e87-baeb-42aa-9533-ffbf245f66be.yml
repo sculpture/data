@@ -1,0 +1,15 @@
+id: 3b5b0e87-baeb-42aa-9533-ffbf245f66be
+type: sculpture
+slug: contemplating-child
+title: Contemplating Child
+artist-ids:
+- df11e7b0-87b0-49f3-831b-5274a827148b
+city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
+date: '2014'
+location:
+  latitude: 43.588357
+  longitude: -79.646811
+  precision: 50.0
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids: []

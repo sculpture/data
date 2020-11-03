@@ -1,0 +1,7 @@
+id: d01925a7-ae26-4164-ba5c-ac438b520e51
+type: region
+slug: art-gallery-of-nova-scotia
+name: Art Gallery of Nova Scotia
+geojson: '{"type":"Polygon","coordinates":[[[-63.57303,44.64817],[-63.57258,44.64829],[-63.5723,44.64777],[-63.57276,44.64765],[-63.57303,44.64817]]]}'
+tag-ids:
+- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78

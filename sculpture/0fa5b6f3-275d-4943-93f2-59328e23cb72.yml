@@ -1,0 +1,15 @@
+id: 0fa5b6f3-275d-4943-93f2-59328e23cb72
+type: sculpture
+slug: ex-ovo-omnia
+title: Ex Ovo Omnia
+artist-ids:
+- e41958c2-2a1a-4641-8b8a-a6272b053cc8
+city-id: bc863b0f-3035-4fab-888c-89e017daabea
+date: '2000'
+location:
+  latitude: 43.533089
+  longitude: -80.232654
+  precision: 50.0
+material-ids:
+- 1df5830e-aa31-460c-a366-f07356994824
+tag-ids: []

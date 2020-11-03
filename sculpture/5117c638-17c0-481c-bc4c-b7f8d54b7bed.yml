@@ -1,0 +1,15 @@
+id: 5117c638-17c0-481c-bc4c-b7f8d54b7bed
+type: sculpture
+slug: untitled-4
+title: Untitled (4)
+artist-ids:
+- daa3739f-f25b-4e27-a19d-689c6f3740ac
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1963'
+location:
+  latitude: 43.717433
+  longitude: -79.371598
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

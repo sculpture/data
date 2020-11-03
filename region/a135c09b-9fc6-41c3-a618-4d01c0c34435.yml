@@ -1,0 +1,7 @@
+id: a135c09b-9fc6-41c3-a618-4d01c0c34435
+type: region
+slug: canadiana-building
+name: Canadiana Building
+geojson: '{"type":"Polygon","coordinates":[[[-79.3880897,43.6430319],[-79.3865875,43.6430319],[-79.3865875,43.6416096],[-79.3880897,43.6416096],[-79.3880897,43.6430319]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

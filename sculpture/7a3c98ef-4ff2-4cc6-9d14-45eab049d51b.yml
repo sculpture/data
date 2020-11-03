@@ -1,0 +1,16 @@
+id: 7a3c98ef-4ff2-4cc6-9d14-45eab049d51b
+type: sculpture
+slug: grande-odalisque-2
+title: Grande Odalisque (2)
+artist-ids:
+- a791e704-3cf6-4e29-b923-0e8213816522
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Greenwin Developments
+date: '1965'
+location:
+  latitude: 43.697936
+  longitude: -79.392104
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

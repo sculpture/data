@@ -1,0 +1,17 @@
+id: fdf37f05-dcdd-452b-a6e6-a228ceb49b9f
+type: sculpture
+slug: reflection-greer-ottawa
+title: Reflection
+artist-ids:
+- a68801c5-e88e-44c6-932d-f66890b37a89
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '2001'
+location:
+  latitude: 45.442159
+  longitude: -75.694835
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

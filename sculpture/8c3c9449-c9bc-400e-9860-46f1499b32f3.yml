@@ -1,0 +1,16 @@
+id: 8c3c9449-c9bc-400e-9860-46f1499b32f3
+type: sculpture
+slug: lyrical-space
+title: Lyrical Space
+artist-ids:
+- 5e3025ae-ccaa-4bab-9f5c-f9a207ecd7d4
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: McDonalds Restaurants
+date: '1985'
+location:
+  latitude: 43.727881
+  longitude: -79.328177
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids: []

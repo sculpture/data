@@ -1,0 +1,18 @@
+id: 553295b8-9f0b-4268-8124-5a6829c5c013
+type: sculpture
+slug: remembered-sustenance
+title: Remembered Sustenance
+artist-ids:
+- 19e026a9-1808-44b0-a3ad-05c276371e6e
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Municipality of Metropolitan Toronto Marathon Realty Company
+date: '1992'
+location:
+  latitude: 43.645524
+  longitude: -79.38862
+  precision: 41.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485

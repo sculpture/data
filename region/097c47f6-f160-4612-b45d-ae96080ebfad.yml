@@ -1,0 +1,7 @@
+id: 097c47f6-f160-4612-b45d-ae96080ebfad
+type: region
+slug: mount-pleasant-cemetery-toronto
+name: Midtown - Mount Pleasant Cemetery
+geojson: '{"type":"Polygon","coordinates":[[[-79.3951463699341,43.6910872863705],[-79.39587,43.69559],[-79.37321,43.70035],[-79.3718433380127,43.6967346616826],[-79.3951463699341,43.6910872863705]]]}'
+tag-ids:
+- 11ad1af4-ee67-4372-bd83-ae817b188c21

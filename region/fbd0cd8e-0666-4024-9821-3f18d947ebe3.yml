@@ -1,0 +1,7 @@
+id: fbd0cd8e-0666-4024-9821-3f18d947ebe3
+type: region
+slug: hart-house
+name: Hart House
+geojson: '{"type":"Polygon","coordinates":[[[-79.5052087,43.7701746],[-79.5049565,43.7701746],[-79.5049565,43.7700253],[-79.5052087,43.7700253],[-79.5052087,43.7701746]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

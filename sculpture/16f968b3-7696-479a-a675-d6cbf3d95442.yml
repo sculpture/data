@@ -1,0 +1,19 @@
+id: 16f968b3-7696-479a-a675-d6cbf3d95442
+type: sculpture
+slug: woman
+title: Woman
+artist-ids:
+- f7df93d7-c56d-426c-899c-325f08f15eb9
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Women's College Hospital
+date: '1971'
+location:
+  latitude: 43.661456
+  longitude: -79.387014
+  precision: 14.0
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

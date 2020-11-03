@@ -1,0 +1,15 @@
+id: 014388e8-c173-4bcc-b102-c01b694c9f99
+type: sculpture
+slug: monument-anti-poverty-ottawa
+title: Dorothy O’Connell Monument to Anti-Poverty
+artist-ids:
+- f2494f22-a149-424a-808c-3bb4b425972c
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '2004-10-17'
+location:
+  latitude: 45.419508
+  longitude: -75.691299
+  precision: 50.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

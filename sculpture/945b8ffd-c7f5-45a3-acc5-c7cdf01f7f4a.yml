@@ -1,0 +1,16 @@
+id: 945b8ffd-c7f5-45a3-acc5-c7cdf01f7f4a
+type: sculpture
+slug: wind-bower
+title: Wind Bower
+artist-ids:
+- d4e37a04-c8e7-4c97-8473-106dd551f120
+city-id: 1f6f6b19-76cc-45cb-a3de-95d4bbf08095
+commissioned-by: Oakvile galleries
+date: '1990'
+location:
+  latitude: 43.461404
+  longitude: -79.64932
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

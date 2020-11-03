@@ -1,0 +1,16 @@
+id: 73d90b68-b45b-41ca-a0c6-ec2ff0b560e3
+type: sculpture
+slug: spirit-catcher
+title: Spirit Catcher
+artist-ids:
+- daa3739f-f25b-4e27-a19d-689c6f3740ac
+city-id: 6f7a5190-23d9-4c9c-9bab-42fd4c93f1df
+date: '1986'
+link-wikipedia: https://en.wikipedia.org/wiki/Spirit_Catcher
+location:
+  latitude: 44.386472
+  longitude: -79.689344
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

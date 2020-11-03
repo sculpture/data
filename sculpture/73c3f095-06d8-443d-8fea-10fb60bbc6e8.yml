@@ -1,0 +1,20 @@
+id: 73c3f095-06d8-443d-8fea-10fb60bbc6e8
+type: sculpture
+slug: boer-war-memorial-quebec
+title: Boer War Memorial
+artist-ids:
+- 010683af-d9eb-46b9-9cdb-f1e541a455ad
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1905'
+location:
+  latitude: 46.810135
+  longitude: -71.210206
+  precision: 19.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

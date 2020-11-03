@@ -1,0 +1,16 @@
+id: 23f04d7c-49bf-4e4b-8b38-292c6bd9cf80
+type: sculpture
+slug: musica-nierman-ottawa
+title: Musica
+artist-ids:
+- d77e747d-0158-4786-a64a-6148d038d74d
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+commissioned-by: gift from Mexico
+date: '2006'
+location:
+  latitude: 45.423646
+  longitude: -75.694362
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

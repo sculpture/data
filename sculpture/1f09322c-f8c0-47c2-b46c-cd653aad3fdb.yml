@@ -1,0 +1,19 @@
+id: 1f09322c-f8c0-47c2-b46c-cd653aad3fdb
+type: sculpture
+slug: george-brown
+title: George Brown
+artist-ids:
+- 8ec33c59-ca3d-47fb-bf62-7e4e3059bd01
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1913'
+location:
+  latitude: 45.425385
+  longitude: -75.698439
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

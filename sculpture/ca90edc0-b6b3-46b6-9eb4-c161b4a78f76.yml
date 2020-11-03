@@ -1,0 +1,16 @@
+id: ca90edc0-b6b3-46b6-9eb4-c161b4a78f76
+type: sculpture
+slug: rune
+title: Rune
+artist-ids:
+- 8472f684-4b5d-4d5e-8eb8-5373b86fe4a1
+- 8dbed0ca-9de0-4167-bb1a-57a7586ecd43
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2001'
+location:
+  latitude: 43.663721
+  longitude: -79.394442
+  precision: 16.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

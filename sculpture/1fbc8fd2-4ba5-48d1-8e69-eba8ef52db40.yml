@@ -1,0 +1,17 @@
+id: 1fbc8fd2-4ba5-48d1-8e69-eba8ef52db40
+type: sculpture
+slug: the-three-watchmen
+title: The Three Watchmen
+artist-ids:
+- c9d009a1-cf67-4075-b50d-06a661ad7afa
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1984'
+location:
+  latitude: 43.660684
+  longitude: -79.384873
+  precision: 50.0
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- cade9829-ef07-4263-827c-a161323c585f

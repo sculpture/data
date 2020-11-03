@@ -1,0 +1,7 @@
+id: 46b6a70b-ed3d-4cfe-8f08-d311a8fb6267
+type: region
+slug: jean-sibelious-square
+name: Jean Sibelius Square
+geojson: '{"type":"Polygon","coordinates":[[[-79.4094,43.67166],[-79.40844,43.67185],[-79.40819,43.67119],[-79.40913,43.67099],[-79.4094,43.67166]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d

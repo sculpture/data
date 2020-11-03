@@ -1,0 +1,16 @@
+id: e6637c1c-98c1-4fee-a214-5ec02bf302f3
+type: sculpture
+slug: courtship
+title: Courtship
+artist-ids:
+- a97516ce-5cab-4852-a20e-f82cb895073d
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1986'
+location:
+  latitude: 43.730573
+  longitude: -79.433653
+  precision: 50.0
+material-ids:
+- bacc3a78-5f97-488e-823f-ca328a20b3ca
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

@@ -1,0 +1,7 @@
+id: 476dd765-526c-4414-b698-99df762c9f7f
+type: region
+slug: little-norway-park
+name: Little Norway Park
+geojson: '{"type":"Polygon","coordinates":[[[-79.39954,43.63493],[-79.3984,43.63554],[-79.39762,43.63363],[-79.39822,43.63331],[-79.39954,43.63493]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d

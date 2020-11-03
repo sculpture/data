@@ -1,0 +1,16 @@
+id: 4c83000b-8ed2-41ac-952f-22ea52c74011
+type: sculpture
+slug: leap-frog
+title: Leap Frog
+artist-ids:
+- bdf49cdc-7628-47af-8115-fe447b6249e0
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1990'
+location:
+  latitude: 43.696196
+  longitude: -79.376723
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

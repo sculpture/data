@@ -1,0 +1,20 @@
+id: 29760014-3375-42a0-b45f-49ba76421d13
+type: sculpture
+slug: dialog-with-history
+title: Dialog with History
+artist-ids:
+- e508864a-444b-4034-8122-a5f45cf86ae3
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+commissioned-by: gif of Jacques Chirac
+date: '1987'
+location:
+  latitude: 46.806814
+  longitude: -71.220341
+  precision: 50.0
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 4a979cf3-40f3-4be9-aa71-b79765408367
+note: photo at old location. scuplture destroyed and reconstructed in new place and
+  under new name Autoportrait
+tag-ids:
+- df4890c4-2701-4782-a670-d019b3b95547

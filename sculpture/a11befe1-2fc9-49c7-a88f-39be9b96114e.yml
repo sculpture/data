@@ -1,0 +1,16 @@
+id: a11befe1-2fc9-49c7-a88f-39be9b96114e
+type: sculpture
+slug: maisonneuve-iroquois-montreal
+title: Maisonneuve Monument - Iroquois
+artist-ids:
+- f6ba5000-2ac9-4069-bee4-09ca21d36852
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1895'
+link-wikipedia: https://en.wikipedia.org/wiki/Maisonneuve_Monument
+location:
+  latitude: 45.504827
+  longitude: -73.557242
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

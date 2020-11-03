@@ -1,0 +1,16 @@
+id: 1ffca2b5-2a36-411e-b79a-462032087728
+type: sculpture
+slug: wife-of-lot
+title: Wife of Lot
+artist-ids:
+- 500d1034-9981-4f95-86cc-1e1d0b0cecfc
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2005'
+location:
+  latitude: 43.729991
+  longitude: -79.434147
+  precision: 50.0
+material-ids:
+- 1df5830e-aa31-460c-a366-f07356994824
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

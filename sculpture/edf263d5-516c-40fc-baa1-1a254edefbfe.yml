@@ -1,0 +1,20 @@
+id: edf263d5-516c-40fc-baa1-1a254edefbfe
+type: sculpture
+slug: piazza-johnny-lombardi
+title: Piazza Johnny Lombardi
+artist-ids:
+- 9a0a94d9-c4d1-45f5-ac3a-0bfb0563a15d
+- a72315fc-ea46-41f6-a11e-90d825b4acfe
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2004'
+location:
+  latitude: 43.654946
+  longitude: -79.415561
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 21b5d04c-9fea-4c3d-a0d6-2b9dff10c299
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

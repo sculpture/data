@@ -1,0 +1,18 @@
+id: 09e455c1-7c51-4456-886a-dd2e3e79c74d
+type: sculpture
+slug: spring-break-up
+title: Spring Break-Up
+artist-ids:
+- 56d243ae-7954-4107-b7fa-6290ac7cb48f
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Park Plaza Hotel
+date: '1959'
+location:
+  latitude: 43.669088
+  longitude: -79.394662
+  precision: 50.0
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 5e46697e-16c7-4478-a438-202749e4888d

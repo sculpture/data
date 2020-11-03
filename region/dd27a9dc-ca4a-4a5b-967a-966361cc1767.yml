@@ -1,0 +1,7 @@
+id: dd27a9dc-ca4a-4a5b-967a-966361cc1767
+type: region
+slug: x-the-condominium
+name: X The Condominium
+geojson: '{"type":"Polygon","coordinates":[[[-79.3807283,43.6703602],[-79.3801302,43.6703602],[-79.3801302,43.6699144],[-79.3807283,43.6699144],[-79.3807283,43.6703602]]]}'
+tag-ids:
+- f78a6462-d5a5-424d-a03c-fb328cbdee3d

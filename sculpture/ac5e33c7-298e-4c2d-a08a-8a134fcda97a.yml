@@ -1,0 +1,19 @@
+id: ac5e33c7-298e-4c2d-a08a-8a134fcda97a
+type: sculpture
+slug: the-dancer
+title: The Dancer
+artist-ids:
+- 31569ea3-c21b-430e-84a9-2f6e29649444
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Cloverdale Mall
+date: '1964'
+location:
+  latitude: 43.631953
+  longitude: -79.554233
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: (fot.2002) Sculpture not anymore at this location
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- bbcb416f-d400-4a07-8a83-79a445209a57

@@ -1,0 +1,16 @@
+id: 648d71ac-c54c-4274-a761-174e60e9a6f2
+type: sculpture
+slug: double-you
+title: Double You
+artist-ids:
+- f01c816e-53e3-4023-85a5-21c300a9b6b3
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Greenwin Developments
+date: '1970'
+location:
+  latitude: 43.699256
+  longitude: -79.391255
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

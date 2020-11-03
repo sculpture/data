@@ -1,0 +1,16 @@
+id: 28981514-fd77-42a4-b6bb-8588af11d26a
+type: sculpture
+slug: four-squares-in-a-square
+title: Four Squares in a Square
+artist-ids:
+- 4159affb-ccdd-4a2a-b6a8-4c86b17744f6
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: York University
+date: '1972'
+location:
+  latitude: 43.772399
+  longitude: -79.504786
+  precision: 47.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

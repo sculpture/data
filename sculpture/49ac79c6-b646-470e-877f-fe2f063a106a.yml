@@ -1,0 +1,18 @@
+id: 49ac79c6-b646-470e-877f-fe2f063a106a
+type: sculpture
+slug: jean-daire
+title: Jean d'Aire
+artist-ids:
+- 0d0131e9-ece4-417f-80bd-904e881f478e
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1887'
+link-wikipedia: https://en.wikipedia.org/wiki/Jean_d%27Aire
+location:
+  latitude: 45.498646
+  longitude: -73.579961
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

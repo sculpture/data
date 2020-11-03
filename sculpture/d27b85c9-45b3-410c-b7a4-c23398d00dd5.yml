@@ -1,0 +1,17 @@
+id: d27b85c9-45b3-410c-b7a4-c23398d00dd5
+type: sculpture
+slug: quarry-barkhouse
+title: Quarry
+artist-ids:
+- d1c91d4b-7b5d-4f5e-95f2-a9bbc369eded
+city-id: fd82132d-7125-459c-a76c-677aede6390c
+date: '2016'
+location:
+  latitude: 43.871341
+  longitude: -79.315495
+  precision: 20.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485

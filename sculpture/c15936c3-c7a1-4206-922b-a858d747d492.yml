@@ -1,0 +1,17 @@
+id: c15936c3-c7a1-4206-922b-a858d747d492
+type: sculpture
+slug: dancing-images
+title: Dancing Images
+artist-ids:
+- 29824379-b3ba-4530-952c-7c6e13297a07
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2000'
+location:
+  latitude: 43.73003
+  longitude: -79.433739
+  precision: 50.0
+material-ids:
+- 82d9ed4b-e837-4b5e-8c17-40469885764c
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- d0c52472-81c0-4c1d-abd7-3a32fd760700
+tag-ids: []

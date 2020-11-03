@@ -1,0 +1,16 @@
+id: ae184a0e-85a1-478f-a1a0-ad2969a965ab
+type: sculpture
+slug: babylon
+title: Babylon
+artist-ids:
+- 1242cb12-a0c1-41d6-a5d9-b2a97fa35f4d
+city-id: 5899c2fb-c707-426d-a651-491dec175f49
+date: '1991'
+location:
+  latitude: 43.841009
+  longitude: -79.624419
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

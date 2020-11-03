@@ -1,0 +1,7 @@
+id: a7fcf063-e0d4-4d6f-ad24-9c7d85b557c8
+type: region
+slug: high-park
+name: Toronto West - High Park
+geojson: '{"type":"Polygon","coordinates":[[[-79.4754409790039,43.6512302532932],[-79.4603133201599,43.6545682086147],[-79.4543,43.63984],[-79.4676303863525,43.6374106972371],[-79.4754409790039,43.6512302532932]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d

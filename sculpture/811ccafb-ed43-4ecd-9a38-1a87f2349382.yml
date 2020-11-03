@@ -1,0 +1,17 @@
+id: 811ccafb-ed43-4ecd-9a38-1a87f2349382
+type: sculpture
+slug: relief-figures
+title: Relief Figures
+artist-ids:
+- 37ade9a0-8190-4586-96c6-feeb5e0c6d15
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: St. John's Latvian Lutheran Church
+date: '1968'
+location:
+  latitude: 43.683994
+  longitude: -79.402955
+  precision: 50.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 8edbb59e-b498-4210-9981-8781235cafcd

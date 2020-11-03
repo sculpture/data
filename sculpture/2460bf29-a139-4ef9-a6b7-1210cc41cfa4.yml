@@ -1,0 +1,22 @@
+id: 2460bf29-a139-4ef9-a6b7-1210cc41cfa4
+type: sculpture
+slug: untitled12-bodybuilders
+title: 'Untitled 12 (Bodybuilders) '
+artist-ids:
+- 3309cd95-b58f-4fbb-982b-a05567a4dd58
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '2015'
+location:
+  latitude: 50.841978
+  longitude: 4.357904
+  precision: 10.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 56560105-70a1-4867-aaea-6d76d31576c0
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+- b46e929f-a326-483e-8abb-82c3f2695a69
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- df4890c4-2701-4782-a670-d019b3b95547

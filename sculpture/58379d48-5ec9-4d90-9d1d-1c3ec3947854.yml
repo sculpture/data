@@ -1,0 +1,16 @@
+id: 58379d48-5ec9-4d90-9d1d-1c3ec3947854
+type: sculpture
+slug: two-forms
+title: Two Forms
+artist-ids:
+- 2fb2873a-8083-45af-b967-a8ffd1e0b75d
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Art Gallery of Ontario
+date: '1969'
+location:
+  latitude: 43.654142
+  longitude: -79.391543
+  precision: 36.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

@@ -1,0 +1,15 @@
+id: 4ba1fc11-7a92-4ea9-9ebd-e939261cb1f5
+type: sculpture
+slug: twin-6-hearts
+title: Twin 6' Hearts
+artist-ids:
+- eb7fbec1-62a5-4389-b7e9-babbcde37195
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1999'
+location:
+  latitude: 45.498503
+  longitude: -73.579725
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

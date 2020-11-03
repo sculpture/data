@@ -1,0 +1,17 @@
+id: 95b37e92-23aa-4d27-83c4-6e5d8e317511
+type: sculpture
+slug: reflections-farrow-brampton
+title: Reflections
+artist-ids:
+- 770f58a2-6d5c-4049-82f9-07766ba6689a
+city-id: 80f5f02b-13d3-457b-a873-44e2b7a53cfc
+date: '1998'
+location:
+  latitude: 43.684511
+  longitude: -79.759016
+  precision: 50.0
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

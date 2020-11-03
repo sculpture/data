@@ -1,0 +1,15 @@
+id: 5d19885f-64cf-4404-b420-62b351be4938
+type: sculpture
+slug: ombres-plensa-montreal
+title: Ombres II
+artist-ids:
+- 24827920-a2c6-4427-ada2-0c28680fad21
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '2007'
+location:
+  latitude: 45.498954
+  longitude: -73.580069
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

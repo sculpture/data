@@ -1,0 +1,17 @@
+id: 81e18e9c-af77-4ce1-9767-83d8591f2e6d
+type: sculpture
+slug: canadiana-begging-bear
+title: Canadiana/Begging Bear
+artist-ids:
+- 8d40673e-cf48-48e2-bde6-fea3e33a2a4b
+city-id: bc863b0f-3035-4fab-888c-89e017daabea
+date: '1999'
+location:
+  latitude: 43.532782
+  longitude: -80.232654
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485

@@ -1,0 +1,18 @@
+id: 9e16d743-e56e-47ac-847e-dfee1055c177
+type: sculpture
+slug: three-muses
+title: Three Muses
+artist-ids:
+- e9a53550-eb14-4cde-9d11-68e2f4305b47
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: 'donation by Tauba & Solomon Spiro Foundation '
+date: '2009'
+location:
+  latitude: 43.666534
+  longitude: -79.355731
+  precision: 10.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

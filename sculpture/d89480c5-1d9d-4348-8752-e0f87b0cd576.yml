@@ -1,0 +1,16 @@
+id: d89480c5-1d9d-4348-8752-e0f87b0cd576
+type: sculpture
+slug: north-shore
+title: North Shore
+artist-ids:
+- 2c8a8669-9d4a-4ce5-8da6-20ef89c38145
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+commissioned-by: The Minto Group
+date: '2009'
+location:
+  latitude: 45.418268
+  longitude: -75.701936
+  precision: 10.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

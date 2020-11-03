@@ -1,0 +1,18 @@
+id: daf8dab2-a0e2-44de-8434-f90fbffa8ecb
+type: sculpture
+slug: lambada-lishman
+title: 'Lambada '
+artist-ids:
+- 288b8cf4-eea4-47e3-9975-fd289514d71b
+- e9a53550-eb14-4cde-9d11-68e2f4305b47
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: donation by Tauba & Solomon Spiro Foundation
+date: '2009'
+location:
+  latitude: 43.666503
+  longitude: -79.35572
+  precision: 22.0
+material-ids: []
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

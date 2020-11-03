@@ -1,0 +1,17 @@
+id: 82b516b7-38ac-4512-b11a-20ab92a04986
+type: sculpture
+slug: frances-loring
+title: Frances Loring
+artist-ids:
+- ace1f5d4-d008-45de-9b78-fa7ebf47f733
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1914'
+location:
+  latitude: 43.690527
+  longitude: -79.383186
+  precision: 21.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 88a0e756-4193-4ff2-9d96-f1844c05f5e5

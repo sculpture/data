@@ -1,0 +1,7 @@
+id: e1618bdc-d8de-4fbe-a98f-e3fcb6f8dafb
+type: region
+slug: toronto-west-liberty-village
+name: Toronto West - Liberty Village
+geojson: '{"type":"Polygon","coordinates":[[[-79.4278478622437,43.6405786066501],[-79.4117546081543,43.6400195759494],[-79.410982131958,43.6380629275348],[-79.4255304336548,43.6342736811827],[-79.4278478622437,43.6405786066501]]]}'
+tag-ids:
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25

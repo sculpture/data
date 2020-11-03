@@ -1,0 +1,7 @@
+id: ae01c59d-a795-4191-ac78-32329975613f
+type: region
+slug: womens-college-hospital
+name: Women's College Hospital
+geojson: '{"type":"Polygon","coordinates":[[[-79.3878400325775,43.6620197184682],[-79.3869,43.6622],[-79.38664,43.66156],[-79.3875503540039,43.661356105884],[-79.3878400325775,43.6620197184682]]]}'
+tag-ids:
+- 06d088ca-1894-44c9-9e2a-e0491945abe0

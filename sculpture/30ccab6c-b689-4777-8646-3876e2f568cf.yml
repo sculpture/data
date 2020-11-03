@@ -1,0 +1,15 @@
+id: 30ccab6c-b689-4777-8646-3876e2f568cf
+type: sculpture
+slug: atlantis-kingston-redingr
+title: Atlantis
+artist-ids:
+- 7a849a94-18d9-41ce-b5ac-85d595fd6999
+city-id: c9158de3-fe56-4802-a882-9b81b08d3470
+date: '1976'
+location:
+  latitude: 44.229795
+  longitude: -76.479431
+  precision: 50.0
+material-ids:
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+tag-ids: []

@@ -1,0 +1,16 @@
+id: b45616a9-7153-47c7-a51b-ee11243be39c
+type: sculpture
+slug: daealus-liberman
+title: Daedalus
+artist-ids:
+- b2c54f03-b05b-43b4-8811-e4d959f022ac
+city-id: 4c133344-0cec-4448-b5cb-d702cc6e1913
+date: '1990'
+location:
+  latitude: 40.237637
+  longitude: -74.719173
+  precision: 200.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a

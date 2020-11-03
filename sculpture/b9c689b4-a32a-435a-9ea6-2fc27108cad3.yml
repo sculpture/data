@@ -1,0 +1,15 @@
+id: b9c689b4-a32a-435a-9ea6-2fc27108cad3
+type: sculpture
+slug: nest-jarnuszkiewicz
+title: Nest
+artist-ids:
+- 33372f97-76f6-4190-b20c-aaef860221e0
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '2012'
+location:
+  latitude: 45.419792
+  longitude: -75.697345
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

@@ -1,0 +1,17 @@
+id: e8b9d02e-4a5b-4759-967e-59b7481f8d69
+type: sculpture
+slug: composition-with-five-elements
+title: Composition with Five Elements
+artist-ids:
+- fc345e06-1486-4396-a28a-0be0df1a09e4
+city-id: 9a82bb0d-d00a-491c-911b-64b5be0e734a
+date: '1980'
+location:
+  latitude: 42.309288
+  longitude: -83.071478
+  precision: 62.0
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
+- a1fb9feb-ce7c-4fa1-8ec3-523421dcdc2c

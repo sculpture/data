@@ -1,0 +1,20 @@
+id: 5071daf8-3d3b-4c7d-bb86-e9e899b99d5a
+type: sculpture
+slug: simcoe
+title: Simcoe
+artist-ids:
+- 95aab595-ad7a-4581-8ebd-bcbe6be27384
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1951'
+location:
+  latitude: 43.661815
+  longitude: -79.392999
+  precision: 30.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2d7e8f2e-e187-462b-a638-06a4ef145363
+- 521f00f2-f976-4b69-89cf-6e8db0c94f29
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

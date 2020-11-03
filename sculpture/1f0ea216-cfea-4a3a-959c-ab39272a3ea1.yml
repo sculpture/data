@@ -1,0 +1,18 @@
+id: 1f0ea216-cfea-4a3a-959c-ab39272a3ea1
+type: sculpture
+slug: robert-gourlay
+title: Robert Gourlay
+artist-ids:
+- f92c8362-deea-4c7e-8ead-409d7f12fb98
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: North York Historical Society
+date: '2004'
+location:
+  latitude: 43.650285
+  longitude: -79.373084
+  precision: 69.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 20ba399b-d962-4b4b-8695-6723679a005b

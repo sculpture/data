@@ -1,0 +1,7 @@
+id: 0f2cf251-981c-4b32-9f2f-19adc5394f81
+type: region
+slug: chicago-illinois-us
+name: Chicago
+geojson: '{"type":"Polygon","coordinates":[[[-87.68394,41.9079],[-87.66369,41.82327],[-87.5988,41.82353],[-87.62009,41.91199],[-87.68394,41.9079]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc

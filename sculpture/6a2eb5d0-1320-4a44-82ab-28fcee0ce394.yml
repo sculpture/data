@@ -1,0 +1,16 @@
+id: 6a2eb5d0-1320-4a44-82ab-28fcee0ce394
+type: sculpture
+slug: twelve-points-clasical-balance
+title: Twelve Points in a Classical Balance
+artist-ids:
+- 962afd1e-a44c-406d-855f-3382f0a43c10
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1982'
+location:
+  latitude: 45.418402
+  longitude: -75.708756
+  precision: 50.0
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+note: sculpture moved to Sparks Street lookout
+tag-ids: []

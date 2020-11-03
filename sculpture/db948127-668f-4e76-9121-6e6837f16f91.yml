@@ -1,0 +1,17 @@
+id: db948127-668f-4e76-9121-6e6837f16f91
+type: sculpture
+slug: school-of-fish
+title: School of Fish
+artist-ids:
+- 243a876d-5570-46bc-b6c0-801783103b8e
+city-id: caadc47a-8078-4666-a53b-11150dbdcc9d
+date: '2019'
+location:
+  latitude: 43.294824
+  longitude: -79.878489
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc

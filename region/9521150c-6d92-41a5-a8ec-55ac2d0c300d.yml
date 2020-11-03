@@ -1,0 +1,7 @@
+id: 9521150c-6d92-41a5-a8ec-55ac2d0c300d
+type: region
+slug: newmarket-ontario
+name: Newmarket
+geojson: '{"type":"Polygon","coordinates":[[[-79.50943,44.06369],[-79.49939,44.01606],[-79.41174,44.03547],[-79.4171,44.05211],[-79.42259,44.08345],[-79.50943,44.06369]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc

@@ -1,0 +1,17 @@
+id: 4b7ed519-ef0d-4ab1-a455-372218671401
+type: sculpture
+slug: piramidal-structure---sakkarah
+title: Piramidal Structure - Sakkarah
+artist-ids:
+- 753d8ebe-da7c-4197-aae9-8d1ee4783a6c
+city-id: c9158de3-fe56-4802-a882-9b81b08d3470
+date: '1971'
+location:
+  latitude: 44.226343
+  longitude: -76.496211
+  precision: 34.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
+- f512d675-0554-4a67-987c-1da560f2c95a

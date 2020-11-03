@@ -1,0 +1,6 @@
+id: 1c214592-65ef-478c-97fc-bd7c50d51e57
+type: region
+slug: entertainment-district-toronto
+name: Downtown - Entertainment District
+geojson: '{"type":"Polygon","coordinates":[[[-79.396562576294,43.6488392317229],[-79.3867778778076,43.6509507881521],[-79.3835163116455,43.6451748840932],[-79.3938803672791,43.642768093479],[-79.396562576294,43.6488392317229]]]}'
+tag-ids: []

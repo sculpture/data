@@ -1,0 +1,16 @@
+id: 4d7b6f8e-8a7e-4750-98cc-52fc9ebc50d4
+type: sculpture
+slug: straight-line-no2-2
+title: Straight Line no.2 (2)
+artist-ids:
+- c64f7245-0dac-40b4-9a83-0ee7dac9c4a1
+city-id: 1f6f6b19-76cc-45cb-a3de-95d4bbf08095
+date: '1971'
+location:
+  latitude: 43.444336
+  longitude: -79.671186
+  precision: 35.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

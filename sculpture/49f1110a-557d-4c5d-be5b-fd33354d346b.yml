@@ -1,0 +1,15 @@
+id: 49f1110a-557d-4c5d-be5b-fd33354d346b
+type: sculpture
+slug: passages
+title: Passages
+artist-ids:
+- f01c816e-53e3-4023-85a5-21c300a9b6b3
+city-id: bc863b0f-3035-4fab-888c-89e017daabea
+date: '1983'
+location:
+  latitude: 43.533089
+  longitude: -80.232654
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []

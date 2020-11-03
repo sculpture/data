@@ -1,0 +1,15 @@
+id: e01819e6-16ca-4cc4-860a-2e69edd45a9b
+type: sculpture
+slug: icon-north-eyre
+title: Icon North
+artist-ids:
+- 15b4136f-bb32-4f26-ab9f-b01879f48140
+commissioned-by: gift of artist
+date: '2010'
+location:
+  latitude: 43.841992
+  longitude: -79.620708
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

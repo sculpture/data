@@ -1,0 +1,17 @@
+id: c1b686c5-a864-4f09-8d4f-aacd428388e3
+type: sculpture
+slug: migratonmiss
+title: Migration
+artist-ids:
+- f0767258-7f90-4e21-9212-0b08698bf9ae
+city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
+date: '2013'
+location:
+  latitude: 43.588149
+  longitude: -79.641107
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
+tag-ids: []

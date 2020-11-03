@@ -1,0 +1,16 @@
+id: 2e01b273-7fad-437a-a343-7f42222abb51
+type: sculpture
+slug: untitled-kaneko
+title: Untitled
+artist-ids:
+- 715e1f4a-2c5c-45a9-8477-de054ea2cd96
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2002'
+location:
+  latitude: 43.668093
+  longitude: -79.393254
+  precision: 39.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 4a979cf3-40f3-4be9-aa71-b79765408367
+tag-ids: []

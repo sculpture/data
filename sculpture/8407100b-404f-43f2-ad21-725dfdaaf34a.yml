@@ -1,0 +1,15 @@
+id: 8407100b-404f-43f2-ad21-725dfdaaf34a
+type: sculpture
+slug: procession
+title: Procession
+artist-ids:
+- d6c61866-dcae-407f-babb-083b3261c84d
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1994'
+location:
+  latitude: 43.773889
+  longitude: -79.256928
+  precision: 40.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

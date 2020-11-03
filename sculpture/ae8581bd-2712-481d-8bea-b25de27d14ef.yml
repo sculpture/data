@@ -1,0 +1,16 @@
+id: ae8581bd-2712-481d-8bea-b25de27d14ef
+type: sculpture
+slug: quatro
+title: Quatro
+artist-ids:
+- b23dd87f-6ca8-462d-bb20-93579abd96f8
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1991'
+location:
+  latitude: 43.65231
+  longitude: -79.378973
+  precision: 37.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

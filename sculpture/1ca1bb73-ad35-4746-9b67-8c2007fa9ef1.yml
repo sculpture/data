@@ -1,0 +1,15 @@
+id: 1ca1bb73-ad35-4746-9b67-8c2007fa9ef1
+type: sculpture
+slug: fibonacci-cadenza
+title: Fibonacci Cadenza
+artist-ids:
+- caba99ad-2b2f-42d3-a3e1-beb15cd3d9ba
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1994'
+location:
+  latitude: 43.771644
+  longitude: -79.257621
+  precision: 48.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

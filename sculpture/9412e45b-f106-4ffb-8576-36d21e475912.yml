@@ -1,0 +1,16 @@
+id: 9412e45b-f106-4ffb-8576-36d21e475912
+type: sculpture
+slug: touchdown-gsellmann
+title: Touchdown
+artist-ids:
+- a07de777-e425-4602-8bf8-29f4d01eba33
+city-id: 0ee02da1-45f2-450a-90de-ae994dd75a5e
+date: '1972'
+location:
+  latitude: 43.252483
+  longitude: -79.830876
+  precision: 100.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 39f7789b-145c-4ccf-897a-34a56abe6fa0

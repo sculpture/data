@@ -1,0 +1,16 @@
+id: 7bf5747b-918b-45a8-b768-a899acca3ba3
+type: sculpture
+slug: goat
+title: Goat
+artist-ids:
+- e9a53550-eb14-4cde-9d11-68e2f4305b47
+city-id: b42c1a11-89ad-4f4a-97cf-66ab0c2852be
+date: '1981'
+location:
+  latitude: 43.971709
+  longitude: -79.248075
+  precision: 26.0
+material-ids:
+- d0c52472-81c0-4c1d-abd7-3a32fd760700
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

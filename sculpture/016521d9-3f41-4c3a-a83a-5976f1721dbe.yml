@@ -1,0 +1,16 @@
+id: 016521d9-3f41-4c3a-a83a-5976f1721dbe
+type: sculpture
+slug: sails
+title: Sails
+artist-ids:
+- 31bc0a9c-d23f-417f-a390-0b08bfe778f6
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: George Weston Limited
+date: '1982'
+location:
+  latitude: 43.688499
+  longitude: -79.3931
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

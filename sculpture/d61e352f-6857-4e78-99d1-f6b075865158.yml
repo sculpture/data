@@ -1,0 +1,16 @@
+id: d61e352f-6857-4e78-99d1-f6b075865158
+type: sculpture
+slug: sphere-des-songes
+title: Sphere des Songes
+artist-ids:
+- 5d03633b-428d-4c4b-a49a-211d70bad4a2
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1994'
+location:
+  latitude: 45.503352
+  longitude: -73.573949
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76

@@ -1,0 +1,17 @@
+id: 9076150a-96b8-4fa8-95a8-6cbf39e2bdc4
+type: sculpture
+slug: pool-lane
+title: Pool Lane
+artist-ids:
+- 8fecb176-fbaa-4137-a87f-5645e5372ce1
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2015'
+location:
+  latitude: 43.789831
+  longitude: -79.19356
+  precision: 10.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- 983d1c37-99da-4b1d-baba-681a83e66d30
+tag-ids:
+- 85105298-6047-4f80-88ec-76aa0b77d815

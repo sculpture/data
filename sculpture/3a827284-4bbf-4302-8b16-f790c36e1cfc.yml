@@ -1,0 +1,17 @@
+id: 3a827284-4bbf-4302-8b16-f790c36e1cfc
+type: sculpture
+slug: sturdust-and-time
+title: Stardust and Time
+artist-ids:
+- 1242cb12-a0c1-41d6-a5d9-b2a97fa35f4d
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2009'
+location:
+  latitude: 43.640537
+  longitude: -79.395667
+  precision: 18.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485

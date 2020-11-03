@@ -1,0 +1,16 @@
+id: cfb7caf9-8702-4582-bafc-e6b87025710f
+type: sculpture
+slug: horizon-fullerton
+title: Horizon
+artist-ids:
+- b5277516-b5b0-4035-86bc-42380586b776
+city-id: db43bed6-d601-40c5-9b64-1fd42d6971f9
+date: 200*
+location:
+  latitude: 44.052415
+  longitude: -79.457495
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 56560105-70a1-4867-aaea-6d76d31576c0
+tag-ids: []

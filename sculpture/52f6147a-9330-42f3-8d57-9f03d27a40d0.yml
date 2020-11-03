@@ -1,0 +1,15 @@
+id: 52f6147a-9330-42f3-8d57-9f03d27a40d0
+type: sculpture
+slug: mourning-victory
+title: Mourning Victory
+artist-ids:
+- 77ad7204-9b5f-49a7-885e-2ab9a4359a8e
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1997'
+location:
+  latitude: 43.766135
+  longitude: -79.415181
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

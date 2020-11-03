@@ -1,0 +1,18 @@
+id: 95279adf-911e-4314-ba6d-603830213c36
+type: sculpture
+slug: rafaga---unleashed
+title: Rafaga - Unleashed
+artist-ids:
+- 9a0a94d9-c4d1-45f5-ac3a-0bfb0563a15d
+- a72315fc-ea46-41f6-a11e-90d825b4acfe
+city-id: 0ee02da1-45f2-450a-90de-ae994dd75a5e
+date: '2004'
+location:
+  latitude: 43.276672
+  longitude: -79.861913
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

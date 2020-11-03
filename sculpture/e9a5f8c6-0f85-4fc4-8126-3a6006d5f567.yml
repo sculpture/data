@@ -1,0 +1,14 @@
+id: e9a5f8c6-0f85-4fc4-8126-3a6006d5f567
+type: sculpture
+slug: things-as-they-are
+title: Things as They are
+artist-ids:
+- cd98a97c-f074-444c-8a84-df8794a68bbe
+date: '1990'
+location:
+  latitude: 43.53309
+  longitude: -80.232654
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

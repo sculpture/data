@@ -1,0 +1,17 @@
+id: 976c000b-6d9a-4cc4-aef4-990ab3cc682c
+type: sculpture
+slug: the-three-observed
+title: The Three Observed
+artist-ids:
+- 42313942-4cca-4594-a834-c9079367626f
+city-id: c9158de3-fe56-4802-a882-9b81b08d3470
+commissioned-by: Gift of Dr. Michel D'Avirro
+date: '1992'
+location:
+  latitude: 44.226351
+  longitude: -76.494258
+  precision: 20.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

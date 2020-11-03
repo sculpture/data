@@ -1,0 +1,17 @@
+id: 769c4ee8-ceb6-4dfe-98ac-9372f6694dc8
+type: sculpture
+slug: the-race
+title: The Race
+artist-ids:
+- 002417af-f23d-4e54-ad58-b0f3e0085ad8
+city-id: 9feeba88-1b66-4091-a267-5a2cbf0bfd66
+commissioned-by: Gift of A.and M.Torgov
+date: '1966'
+location:
+  latitude: 43.150149
+  longitude: -79.245953
+  precision: 35.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

@@ -1,0 +1,16 @@
+id: 236522bd-bf34-436c-86ff-79a209290f07
+type: sculpture
+slug: babylonian-flight
+title: Babylonian Flight
+artist-ids:
+- d534f5aa-828c-4b2f-8757-9aeafc9bf966
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1976'
+location:
+  latitude: 43.691582
+  longitude: -79.401543
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: ded. Peter John Miller
+tag-ids: []

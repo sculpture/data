@@ -1,0 +1,16 @@
+id: 3f8a092b-a7af-4379-a2ac-808fb42715ed
+type: sculpture
+slug: sail-forms
+title: Sail Forms
+artist-ids:
+- d8c774c0-7772-4702-af4c-e54d4746d511
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Camrost Development Corp.
+date: '1991'
+location:
+  latitude: 43.619964
+  longitude: -79.483117
+  precision: 37.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

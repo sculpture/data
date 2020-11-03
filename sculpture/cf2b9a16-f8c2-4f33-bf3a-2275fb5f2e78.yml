@@ -1,0 +1,20 @@
+id: cf2b9a16-f8c2-4f33-bf3a-2275fb5f2e78
+type: sculpture
+slug: angel-of-peace
+title: Angel of Peace
+artist-ids:
+- 0592109f-3f2e-4efb-a8e8-64e5ea9eb52a
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: The Shriners
+date: '1930'
+link-wikipedia: https://en.wikipedia.org/wiki/Shrine_Peace_Memorial
+location:
+  latitude: 43.630772
+  longitude: -79.422221
+  precision: 43.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

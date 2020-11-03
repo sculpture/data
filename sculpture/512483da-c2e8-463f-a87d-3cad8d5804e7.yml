@@ -1,0 +1,16 @@
+id: 512483da-c2e8-463f-a87d-3cad8d5804e7
+type: sculpture
+slug: canoe-landing-2
+title: Canoe Landing (2)
+artist-ids:
+- 6ad8785c-b0a4-42c1-ba63-ee0161533bab
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Concord Adex Developments
+date: '2009'
+location:
+  latitude: 43.639343
+  longitude: -79.396962
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []

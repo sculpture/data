@@ -1,0 +1,15 @@
+id: 83e37e56-6dfa-41e4-8d8f-6b38fb48b2cf
+type: sculpture
+slug: upstart2-meadmore-ohawa
+title: Upstart II
+artist-ids:
+- 1c7a5cc8-934c-4203-9c6a-4af00547ea08
+city-id: 719fac10-c7ca-498c-9078-90bdcf119147
+date: '1987'
+location:
+  latitude: 43.895262
+  longitude: -78.866009
+  precision: 50.0
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids: []

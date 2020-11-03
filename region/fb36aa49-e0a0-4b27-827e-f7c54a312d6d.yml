@@ -1,0 +1,7 @@
+id: fb36aa49-e0a0-4b27-827e-f7c54a312d6d
+type: region
+slug: university-of-waterloo
+name: University of Waterloo
+geojson: '{"type":"Polygon","coordinates":[[[-80.55765,43.47048],[-80.54003,43.47682],[-80.53239,43.47069],[-80.5417,43.46445],[-80.55765,43.47048]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

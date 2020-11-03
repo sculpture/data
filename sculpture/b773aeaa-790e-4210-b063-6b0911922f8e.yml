@@ -1,0 +1,17 @@
+id: b773aeaa-790e-4210-b063-6b0911922f8e
+type: sculpture
+slug: michael
+title: Michael
+artist-ids:
+- dda91122-e092-4076-ab8d-22231463ab03
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: St. Michael's College
+date: '1978'
+location:
+  latitude: 43.66561
+  longitude: -79.390427
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

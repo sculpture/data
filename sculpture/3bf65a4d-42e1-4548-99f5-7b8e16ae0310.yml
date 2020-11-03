@@ -1,0 +1,17 @@
+id: 3bf65a4d-42e1-4548-99f5-7b8e16ae0310
+type: sculpture
+slug: binary-spirit
+title: Binary Spirit
+artist-ids:
+- 5cc2c0d6-c9d2-44f0-9ff4-b57e2e9e4460
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Government of Ontario
+date: '1980'
+location:
+  latitude: 43.66305
+  longitude: -79.388337
+  precision: 50.0
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

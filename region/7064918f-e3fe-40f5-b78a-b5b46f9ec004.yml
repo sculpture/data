@@ -1,0 +1,7 @@
+id: 7064918f-e3fe-40f5-b78a-b5b46f9ec004
+type: region
+slug: etobicoke-civic-centre
+name: Etobicoke Civic Centre
+geojson: '{"type":"Polygon","coordinates":[[[-79.5662216,43.6443586],[-79.5649458,43.6443586],[-79.5649458,43.6430737],[-79.5662216,43.6430737],[-79.5662216,43.6443586]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215

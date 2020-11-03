@@ -1,0 +1,7 @@
+id: 41bbe653-32c5-437d-94ee-f9fb6b7a6670
+type: region
+slug: canadas-national-ballet-school
+name: Canada's National Ballet School
+geojson: '{"type":"Polygon","coordinates":[[[-79.37975,43.66467],[-79.37911,43.6648],[-79.37904,43.66444],[-79.37958,43.66431],[-79.37975,43.66467]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

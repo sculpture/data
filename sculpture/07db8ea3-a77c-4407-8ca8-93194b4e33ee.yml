@@ -1,0 +1,16 @@
+id: 07db8ea3-a77c-4407-8ca8-93194b4e33ee
+type: sculpture
+slug: spaceplough-i---black
+title: Spaceplough I - black
+artist-ids:
+- a791e704-3cf6-4e29-b923-0e8213816522
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Spencer Clark, The Guild of All Arts
+date: '1981'
+location:
+  latitude: 43.747732
+  longitude: -79.19195
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

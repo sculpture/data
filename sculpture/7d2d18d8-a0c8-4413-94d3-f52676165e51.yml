@@ -1,0 +1,16 @@
+id: 7d2d18d8-a0c8-4413-94d3-f52676165e51
+type: sculpture
+slug: galaxy-one
+title: Galaxy One
+artist-ids:
+- 5252a932-e93e-43d8-bc34-44eebcd9961c
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1986'
+location:
+  latitude: 43.657476
+  longitude: -79.390392
+  precision: 50.0
+material-ids:
+- 09ce43ff-ce77-44b9-a5ce-74ec820e632d
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

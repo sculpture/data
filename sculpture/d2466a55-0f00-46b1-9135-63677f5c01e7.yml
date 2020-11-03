@@ -1,0 +1,19 @@
+id: d2466a55-0f00-46b1-9135-63677f5c01e7
+type: sculpture
+slug: whirling-ear
+title: Whirling Ear
+artist-ids:
+- 7ad71af4-c9b7-49d0-9765-ba2a674856a0
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1958'
+link-wikipedia: https://en.wikipedia.org/wiki/The_Whirling_Ear
+location:
+  latitude: 50.84314
+  longitude: 4.358168
+  precision: 20.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
+- 85105298-6047-4f80-88ec-76aa0b77d815

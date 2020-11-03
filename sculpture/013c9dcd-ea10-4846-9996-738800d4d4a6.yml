@@ -1,0 +1,18 @@
+id: 013c9dcd-ea10-4846-9996-738800d4d4a6
+type: sculpture
+slug: response-national-war-memorial-ottawa
+title: The Response - National War Memorial
+artist-ids:
+- 60159775-ff34-4224-8849-af8faa5b5cf9
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1939'
+link-wikipedia: https://en.wikipedia.org/wiki/National_War_Memorial_(Canada)
+location:
+  latitude: 45.42394
+  longitude: -75.695414
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: design 1932, unveiled in 1939
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753

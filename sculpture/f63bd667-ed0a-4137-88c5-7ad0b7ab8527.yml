@@ -1,0 +1,15 @@
+id: f63bd667-ed0a-4137-88c5-7ad0b7ab8527
+type: sculpture
+slug: window
+title: Window
+artist-ids:
+- 01b509a2-b82b-46c2-80e7-910b2d2472e6
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1980'
+location:
+  latitude: 43.63842
+  longitude: -79.387928
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

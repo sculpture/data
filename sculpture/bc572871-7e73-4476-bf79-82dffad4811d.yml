@@ -1,0 +1,15 @@
+id: bc572871-7e73-4476-bf79-82dffad4811d
+type: sculpture
+slug: mother-and-child-bezalel
+title: Mother and Child
+artist-ids:
+- 3c972faa-4d81-4564-bf56-b535cb89e453
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2010'
+location:
+  latitude: 43.730712
+  longitude: -79.432709
+  precision: 50.0
+material-ids:
+- 3e4bf7e0-ae14-49c8-88f4-315ef2160400
+tag-ids: []

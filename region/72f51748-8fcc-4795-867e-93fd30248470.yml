@@ -1,0 +1,6 @@
+id: 72f51748-8fcc-4795-867e-93fd30248470
+type: region
+slug: one-financial-place
+name: One Financial Place
+geojson: '{"type":"Polygon","coordinates":[[[-79.378349,43.6502221],[-79.377654,43.6502221],[-79.377654,43.6501271],[-79.378349,43.6501271],[-79.378349,43.6502221]]]}'
+tag-ids: []

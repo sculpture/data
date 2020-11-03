@@ -1,0 +1,16 @@
+id: a7474812-38e2-4243-9d12-12e08a85d483
+type: sculpture
+slug: northern-eye
+title: Northern Eye
+artist-ids:
+- 2f0762a2-1b34-42c0-b2a2-73947952a06c
+city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
+date: '1990'
+location:
+  latitude: 43.588591
+  longitude: -79.644636
+  precision: 24.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

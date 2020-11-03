@@ -1,0 +1,19 @@
+id: cb6f61ab-9a19-41a2-9733-e640eaa41c6c
+type: sculpture
+slug: veritas
+title: Veritas
+artist-ids:
+- 5f5e73b4-75e3-41bb-b698-1b7ab285d8b1
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+commissioned-by: Public Works and Government Services Canada
+date: '1920'
+location:
+  latitude: 45.420055
+  longitude: -75.705981
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

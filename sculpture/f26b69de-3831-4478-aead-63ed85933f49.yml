@@ -1,0 +1,17 @@
+id: f26b69de-3831-4478-aead-63ed85933f49
+type: sculpture
+slug: angels-robertson-ottawa
+title: The Angels (Faith, Hope and Charity)
+artist-ids:
+- fab08af5-e5fa-4e61-9716-330c659dcb5f
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '2010'
+location:
+  latitude: 45.425197
+  longitude: -75.693311
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 56560105-70a1-4867-aaea-6d76d31576c0
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+tag-ids: []

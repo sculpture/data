@@ -1,0 +1,16 @@
+id: c3cfa23d-0edc-4af5-9f4f-4e06fff89495
+type: sculpture
+slug: helix-of-life
+title: Helix of Life
+artist-ids:
+- 91e7275a-b3ad-4f6b-be41-97e3bfe0b17c
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: University of Toronto
+date: '1971'
+location:
+  latitude: 43.660911
+  longitude: -79.393367
+  precision: 50.0
+material-ids:
+- c1c07f0b-8700-44fb-9a0f-241032b370e8
+tag-ids: []

@@ -1,0 +1,16 @@
+id: 37a54d3e-97b8-4662-aafc-dfb1e17019f6
+type: sculpture
+slug: flying-men-frink-windsor
+title: Flying Men
+artist-ids:
+- b373ce8a-c698-4668-8ec8-851c378ee92a
+city-id: 9a82bb0d-d00a-491c-911b-64b5be0e734a
+date: '1982'
+location:
+  latitude: 42.311954
+  longitude: -83.066671
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2

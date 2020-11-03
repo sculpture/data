@@ -1,0 +1,19 @@
+id: 95a3026e-519f-40bf-b1cd-b36dee9cbaca
+type: sculpture
+slug: girl-with-birds
+title: Girl with Birds
+artist-ids:
+- 674d03e9-2bad-4519-bb09-4a373d3a1425
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Gift by J.Gibson
+date: '1974'
+location:
+  latitude: 43.769252
+  longitude: -79.363098
+  precision: 50.0
+material-ids:
+- 56560105-70a1-4867-aaea-6d76d31576c0
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

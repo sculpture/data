@@ -1,0 +1,15 @@
+id: b59e78a5-57cc-450b-be93-4edc4b384c3d
+type: sculpture
+slug: unknown-4
+title: Unknown (4)
+artist-ids:
+- 620e37ba-c0dd-4919-b8e0-e94e5a7fadb7
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: 199*
+location:
+  latitude: 43.696663
+  longitude: -79.394172
+  precision: 50.0
+material-ids:
+- 27dc5990-9b49-44ba-9638-9ea019c297c2
+tag-ids: []

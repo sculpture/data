@@ -1,0 +1,17 @@
+id: c6cd2b63-8377-4a97-b8bc-0693255498e4
+type: sculpture
+slug: tower
+title: Tower
+artist-ids:
+- daa3739f-f25b-4e27-a19d-689c6f3740ac
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Environment Canada
+date: '1971'
+location:
+  latitude: 43.781425
+  longitude: -79.469516
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 85105298-6047-4f80-88ec-76aa0b77d815

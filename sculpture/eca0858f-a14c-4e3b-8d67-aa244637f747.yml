@@ -1,0 +1,15 @@
+id: eca0858f-a14c-4e3b-8d67-aa244637f747
+type: sculpture
+slug: falling-up-lazarus
+title: Falling Up
+artist-ids:
+- 5e3025ae-ccaa-4bab-9f5c-f9a207ecd7d4
+city-id: 1f6f6b19-76cc-45cb-a3de-95d4bbf08095
+date: '1985'
+location:
+  latitude: 43.461841
+  longitude: -79.650222
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

@@ -1,0 +1,15 @@
+id: 9c345922-1225-4983-a6dc-602e951f8ae0
+type: sculpture
+slug: rosa-nautica
+title: Rosa Nautica
+artist-ids:
+- 7cef7dae-912d-4c7e-93a7-f6ac83700461
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2007'
+location:
+  latitude: 43.639585
+  longitude: -79.392981
+  precision: 34.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

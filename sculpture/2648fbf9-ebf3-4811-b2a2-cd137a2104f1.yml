@@ -1,0 +1,16 @@
+id: 2648fbf9-ebf3-4811-b2a2-cd137a2104f1
+type: sculpture
+slug: big-brown-bird
+title: Big Brown Bird
+artist-ids:
+- 2f0762a2-1b34-42c0-b2a2-73947952a06c
+city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
+date: '1994'
+location:
+  latitude: 43.588774
+  longitude: -79.644394
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

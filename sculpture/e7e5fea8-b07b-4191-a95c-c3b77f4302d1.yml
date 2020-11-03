@@ -1,0 +1,16 @@
+id: e7e5fea8-b07b-4191-a95c-c3b77f4302d1
+type: sculpture
+slug: between-the-eyes
+title: Between the Eyes
+artist-ids:
+- 06543a40-b66c-4c8f-a681-c97c320f1859
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Camrost Development Corporation
+date: '1990'
+location:
+  latitude: 43.642018
+  longitude: -79.37499
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

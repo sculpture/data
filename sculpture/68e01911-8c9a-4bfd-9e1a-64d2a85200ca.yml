@@ -1,0 +1,15 @@
+id: 68e01911-8c9a-4bfd-9e1a-64d2a85200ca
+type: sculpture
+slug: ancestor1-ottawa
+title: Ancestor 1
+artist-ids:
+- 3a4702d2-d46e-4c0a-8c65-590a5b788eea
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1970'
+location:
+  latitude: 45.41893
+  longitude: -75.696937
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

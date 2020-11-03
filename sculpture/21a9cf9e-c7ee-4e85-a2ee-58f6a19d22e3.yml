@@ -1,0 +1,17 @@
+id: 21a9cf9e-c7ee-4e85-a2ee-58f6a19d22e3
+type: sculpture
+slug: kwakiutl-totem-ottawa-hunt
+title: Kwakiutl Totem
+artist-ids:
+- 823a7ad8-c175-4f0b-892e-a24e69b1c02f
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1971'
+location:
+  latitude: 45.422607
+  longitude: -75.692238
+  precision: 50.0
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+note: donated by government of BC
+tag-ids:
+- cade9829-ef07-4263-827c-a161323c585f

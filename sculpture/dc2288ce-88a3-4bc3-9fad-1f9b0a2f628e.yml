@@ -1,0 +1,16 @@
+id: dc2288ce-88a3-4bc3-9fad-1f9b0a2f628e
+type: sculpture
+slug: horizon
+title: Horizon
+artist-ids:
+- 18976fc2-9dba-483c-8b02-4f7c9a7f5f6e
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: University of Toronto
+date: '1964'
+location:
+  latitude: 43.663593
+  longitude: -79.398458
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

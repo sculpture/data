@@ -1,0 +1,16 @@
+id: d4062ff3-a70d-4303-9952-0903083a1f52
+type: sculpture
+slug: red-cube-ny
+title: Red Cube
+artist-ids:
+- 08511d84-b856-47b8-9c18-03cc69f05415
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1968'
+location:
+  latitude: 40.708876
+  longitude: -74.010404
+  precision: 20.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a

@@ -1,0 +1,16 @@
+id: 5e4f5c5f-114c-4f63-8d94-32361e14ec7b
+type: sculpture
+slug: spiral-fountain
+title: Spiral Fountain
+artist-ids:
+- fba8cae7-edae-4da4-a265-fe863b896535
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Stadium Corporation of Ontario
+date: '1989'
+location:
+  latitude: 43.642447
+  longitude: -79.390053
+  precision: 30.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

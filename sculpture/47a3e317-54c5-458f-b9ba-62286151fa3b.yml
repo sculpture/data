@@ -1,0 +1,19 @@
+id: 47a3e317-54c5-458f-b9ba-62286151fa3b
+type: sculpture
+slug: maisonneuve-monument-montreal
+title: Maisonneuve Monument
+artist-ids:
+- f6ba5000-2ac9-4069-bee4-09ca21d36852
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1895'
+link-wikipedia: https://en.wikipedia.org/wiki/Maisonneuve_Monument
+location:
+  latitude: 45.504827
+  longitude: -73.557242
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

@@ -1,0 +1,16 @@
+id: ccdf7305-22f9-45fa-a191-83b8e07fbfc4
+type: sculpture
+slug: bird-wrap-eyre-kleinburg
+title: Bird Wrap
+artist-ids:
+- 15b4136f-bb32-4f26-ab9f-b01879f48140
+city-id: 5899c2fb-c707-426d-a651-491dec175f49
+commissioned-by: gift of artist
+date: '2010'
+location:
+  latitude: 43.841897
+  longitude: -79.620933
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

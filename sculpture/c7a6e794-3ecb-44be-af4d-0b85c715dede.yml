@@ -1,0 +1,16 @@
+id: c7a6e794-3ecb-44be-af4d-0b85c715dede
+type: sculpture
+slug: bloor-parkette
+title: Bloor Parkette
+artist-ids:
+- 8fad84b9-ee74-476d-8ea2-16585c61f1a6
+- fd72acc5-f62b-48af-94e4-3fdb4be5bb0e
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1997'
+location:
+  latitude: 43.666629
+  longitude: -79.403697
+  precision: 50.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

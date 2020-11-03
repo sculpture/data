@@ -1,0 +1,16 @@
+id: 12400592-f038-4ad7-87cb-27a9c6942c7d
+type: sculpture
+slug: greenwin
+title: Greenwin
+artist-ids:
+- d534f5aa-828c-4b2f-8757-9aeafc9bf966
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Greenwin Developments
+date: '1973'
+location:
+  latitude: 43.698422
+  longitude: -79.394195
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

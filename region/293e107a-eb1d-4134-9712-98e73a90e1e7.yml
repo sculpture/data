@@ -1,0 +1,7 @@
+id: 293e107a-eb1d-4134-9712-98e73a90e1e7
+type: region
+slug: guildwood-park
+name: Guildwood Park
+geojson: '{"type":"Polygon","coordinates":[[[-79.19857,43.73982],[-79.19602,43.74812],[-79.18091,43.75168],[-79.19736,43.73924],[-79.19857,43.73982]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d

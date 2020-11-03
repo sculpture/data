@@ -1,0 +1,18 @@
+id: e1d9249e-2b20-40a5-a425-c827cdf9c315
+type: sculpture
+slug: foliage
+title: Foliage
+artist-ids:
+- 5b6de0c4-cb12-4b97-bac8-62915da2f969
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Royal Bank of Canada
+date: '1975'
+location:
+  latitude: 43.646998
+  longitude: -79.379732
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: (fot.2002) Sculpture not anymore at this location
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57

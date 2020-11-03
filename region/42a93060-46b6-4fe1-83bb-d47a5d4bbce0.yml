@@ -1,0 +1,7 @@
+id: 42a93060-46b6-4fe1-83bb-d47a5d4bbce0
+type: region
+slug: founders-college
+name: Founders College
+geojson: '{"type":"Polygon","coordinates":[[[-79.3894289,43.6656266],[-79.3892288,43.6656266],[-79.3892288,43.665407],[-79.3894289,43.665407],[-79.3894289,43.6656266]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

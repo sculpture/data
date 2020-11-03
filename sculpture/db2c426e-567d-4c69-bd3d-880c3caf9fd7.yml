@@ -1,0 +1,18 @@
+id: db2c426e-567d-4c69-bd3d-880c3caf9fd7
+type: sculpture
+slug: fountain
+title: Fountain
+artist-ids:
+- 2a69e11c-14b8-45df-b015-25e456af3d36
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Shore, Tilbe, Irwin and Partners architects
+date: '1977'
+location:
+  latitude: 43.76347
+  longitude: -79.411693
+  precision: 41.0
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288

@@ -1,0 +1,18 @@
+id: 214c11d5-4eed-4e40-bc79-1e018389a019
+type: sculpture
+slug: dante-alighieri-quebec-city
+title: Dante Alighieri
+artist-ids:
+- f9fc5a26-f69b-48de-b10f-a75d948497ea
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '2005'
+location:
+  latitude: 46.81079
+  longitude: -71.211054
+  precision: 100.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: (after Carlo Balboni bust of Dante in Montreal)
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445

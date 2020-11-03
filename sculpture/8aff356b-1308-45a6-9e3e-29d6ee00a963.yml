@@ -1,0 +1,21 @@
+id: 8aff356b-1308-45a6-9e3e-29d6ee00a963
+type: sculpture
+slug: to-serve-and-protect
+title: To Serve and Protect
+artist-ids:
+- 02738f90-d261-479b-b83a-b19c0a13e591
+- 9f3d942f-d242-4f96-bd09-6b3563f23221
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Municipality of Metro Toronto
+date: '1988'
+location:
+  latitude: 43.661629
+  longitude: -79.385559
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

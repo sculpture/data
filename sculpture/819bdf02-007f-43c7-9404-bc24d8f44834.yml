@@ -1,0 +1,17 @@
+id: 819bdf02-007f-43c7-9404-bc24d8f44834
+type: sculpture
+slug: entrance-gateway
+title: Entrance Gateway
+artist-ids:
+- 34df37ee-ab72-481d-93d2-cda27c916c73
+- daa3739f-f25b-4e27-a19d-689c6f3740ac
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1995'
+location:
+  latitude: 43.768531
+  longitude: -79.413061
+  precision: 56.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288

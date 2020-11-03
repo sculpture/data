@@ -1,0 +1,16 @@
+id: baac2efe-a987-49ce-aea9-e7791fc05fca
+type: sculpture
+slug: transformation
+title: Transformation
+artist-ids:
+- c65b02f1-105d-4cb6-b39c-b1ac75c20bcf
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: New Style Developers
+date: '1970'
+location:
+  latitude: 43.704443
+  longitude: -79.39772
+  precision: 31.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

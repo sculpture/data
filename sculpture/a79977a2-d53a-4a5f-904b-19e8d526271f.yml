@@ -1,0 +1,15 @@
+id: a79977a2-d53a-4a5f-904b-19e8d526271f
+type: sculpture
+slug: song-of-deborah
+title: Song of Deborah
+artist-ids:
+- d534f5aa-828c-4b2f-8757-9aeafc9bf966
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1979'
+location:
+  latitude: 43.72887
+  longitude: -79.44036
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

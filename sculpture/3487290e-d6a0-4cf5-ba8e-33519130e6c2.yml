@@ -1,0 +1,17 @@
+id: 3487290e-d6a0-4cf5-ba8e-33519130e6c2
+type: sculpture
+slug: relief-horne-1
+title: Relief (1)
+artist-ids:
+- bc329d87-d430-45ca-a9bc-e7acd01d129a
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Bank of Canada
+date: '1954'
+location:
+  latitude: 43.650121
+  longitude: -79.386544
+  precision: 15.0
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 8edbb59e-b498-4210-9981-8781235cafcd

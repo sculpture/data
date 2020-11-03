@@ -1,0 +1,16 @@
+id: 910eeeb1-a450-442e-82db-02bd4728c19b
+type: sculpture
+slug: time
+title: Time
+artist-ids:
+- f01c816e-53e3-4023-85a5-21c300a9b6b3
+city-id: c9158de3-fe56-4802-a882-9b81b08d3470
+date: '1973'
+location:
+  latitude: 44.222115
+  longitude: -76.498614
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

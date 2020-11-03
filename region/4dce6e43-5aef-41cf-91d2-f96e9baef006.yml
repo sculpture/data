@@ -1,0 +1,7 @@
+id: 4dce6e43-5aef-41cf-91d2-f96e9baef006
+type: region
+slug: bethune-college
+name: Bethune College
+geojson: '{"type":"Polygon","coordinates":[[[-79.5096207,43.7734548],[-79.5086639,43.7734548],[-79.5086639,43.7728752],[-79.5096207,43.7728752],[-79.5096207,43.7734548]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

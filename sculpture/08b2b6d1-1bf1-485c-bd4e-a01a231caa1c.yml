@@ -1,0 +1,17 @@
+id: 08b2b6d1-1bf1-485c-bd4e-a01a231caa1c
+type: sculpture
+slug: bird-wings
+title: Bird Wings
+artist-ids:
+- 4daeec4c-2b4d-46ed-81b7-5717b21bfe33
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2007'
+location:
+  latitude: 43.730573
+  longitude: -79.433653
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

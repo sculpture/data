@@ -1,0 +1,7 @@
+id: f177b8dc-1094-41c9-80c7-bc61ab7d2936
+type: region
+slug: medical-science-building
+name: Medical Science Building
+geojson: '{"type":"Polygon","coordinates":[[[-79.3945806,43.6614594],[-79.3921552,43.6614594],[-79.3921552,43.6603627],[-79.3945806,43.6603627],[-79.3945806,43.6614594]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

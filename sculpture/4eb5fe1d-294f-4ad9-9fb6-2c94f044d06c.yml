@@ -1,0 +1,16 @@
+id: 4eb5fe1d-294f-4ad9-9fb6-2c94f044d06c
+type: sculpture
+slug: house-i-lichtenstein
+title: House I
+artist-ids:
+- 6c982673-ff3d-44cb-96e7-d6f173d1a332
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1996'
+link-wikipedia: https://en.wikipedia.org/wiki/House_I
+location:
+  latitude: 38.891434
+  longitude: -77.022824
+  precision: 100.0
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids: []

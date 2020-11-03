@@ -1,0 +1,18 @@
+id: 042d55c5-a991-49df-99d8-082e3c8ccf07
+type: sculpture
+slug: robert-burns
+title: Robert Burns
+artist-ids:
+- 168ba2b8-9125-4377-a67c-3cfee1586d34
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1902'
+location:
+  latitude: 43.662286
+  longitude: -79.373351
+  precision: 45.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

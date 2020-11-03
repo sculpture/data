@@ -1,0 +1,16 @@
+id: 531c2c1e-9e55-473f-b77d-7c93396359e6
+type: sculpture
+slug: a-minute-of-my-time
+title: A Minute of My Time
+artist-ids:
+- 4a20cb7d-b810-41fa-9bf0-4f40f677b43d
+city-id: c9158de3-fe56-4802-a882-9b81b08d3470
+date: '1999'
+location:
+  latitude: 44.226312
+  longitude: -76.496339
+  precision: 69.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

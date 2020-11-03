@@ -1,0 +1,18 @@
+id: 3babd965-ffbc-49fd-a653-6f7becdced2d
+type: sculpture
+slug: noire-solaire-basse
+title: Noire, Solaire, Basse
+artist-ids:
+- 1c2fe051-a79f-4a81-bd60-2edbab5baae5
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: York University
+date: '1993'
+location:
+  latitude: 43.773042
+  longitude: -79.503556
+  precision: 50.0
+material-ids:
+- c1c07f0b-8700-44fb-9a0f-241032b370e8
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89

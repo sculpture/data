@@ -1,0 +1,17 @@
+id: ccbeddc5-1d2c-4042-a191-754825d47104
+type: sculpture
+slug: shibagav-shard
+title: Shibagav Shard
+artist-ids:
+- 42313942-4cca-4594-a834-c9079367626f
+city-id: 5899c2fb-c707-426d-a651-491dec175f49
+commissioned-by: Loan of artist
+date: '1989'
+location:
+  latitude: 43.842116
+  longitude: -79.618572
+  precision: 50.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd

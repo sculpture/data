@@ -1,0 +1,7 @@
+id: 3280d40e-c763-411e-b4f3-ca2786b25e8a
+type: region
+slug: fairview-mall
+name: Fairview Mall
+geojson: '{"type":"Polygon","coordinates":[[[-79.34798,43.77698],[-79.34875,43.77921],[-79.343,43.78],[-79.34099,43.77618],[-79.3473,43.77506],[-79.34798,43.77698]]]}'
+tag-ids:
+- 99897a64-64c9-4df0-8c74-1ea68a637759

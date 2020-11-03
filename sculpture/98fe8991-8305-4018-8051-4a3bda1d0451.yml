@@ -1,0 +1,16 @@
+id: 98fe8991-8305-4018-8051-4a3bda1d0451
+type: sculpture
+slug: shalom-ii
+title: Shalom II
+artist-ids:
+- f01c816e-53e3-4023-85a5-21c300a9b6b3
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Jewish Community Centre
+date: '1978'
+location:
+  latitude: 43.762036
+  longitude: -79.440807
+  precision: 50.0
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids: []

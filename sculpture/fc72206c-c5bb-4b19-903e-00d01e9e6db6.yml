@@ -1,0 +1,18 @@
+id: fc72206c-c5bb-4b19-903e-00d01e9e6db6
+type: sculpture
+slug: minyan
+title: Minyan
+artist-ids:
+- cf8f41be-5f9e-4444-ace2-25cf29cb07ac
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1995'
+location:
+  latitude: 43.762803
+  longitude: -79.441644
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 35913622-405e-4e52-b409-6acc87a4dd77
+note: (fot.2002) Sculpture not anymore at this location
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57

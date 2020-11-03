@@ -1,0 +1,17 @@
+id: e2feaefe-eff6-4ef5-8a12-ef07c298244c
+type: sculpture
+slug: royal-sweet-diamond
+title: Royal Sweet Diamond
+artist-ids:
+- 0af22cae-23ce-47ec-91c7-fe2a4b9c5441
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2001'
+location:
+  latitude: 43.671476
+  longitude: -79.393628
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485

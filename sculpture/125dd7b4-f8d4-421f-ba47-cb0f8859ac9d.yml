@@ -1,0 +1,15 @@
+id: 125dd7b4-f8d4-421f-ba47-cb0f8859ac9d
+type: sculpture
+slug: lost-child-ottawa
+title: The Lost Child
+artist-ids:
+- 7abba0af-7ecb-41d2-a30e-d926bad917af
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1990'
+location:
+  latitude: 45.420378
+  longitude: -75.691014
+  precision: 50.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

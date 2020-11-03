@@ -1,0 +1,15 @@
+id: 27138f83-6e5d-4bd0-a234-ec697c2afd36
+type: sculpture
+slug: it
+title: IT
+artist-ids:
+- c5d4d597-b585-4476-96ee-f25b34038f4f
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2009'
+location:
+  latitude: 43.649924
+  longitude: -79.361123
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

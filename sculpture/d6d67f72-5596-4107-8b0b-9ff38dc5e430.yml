@@ -1,0 +1,18 @@
+id: d6d67f72-5596-4107-8b0b-9ff38dc5e430
+type: sculpture
+slug: alexander-the-great
+title: Alexander the Great
+artist-ids:
+- 3e9b01f0-36c0-4fe2-be35-2767a12ca4e3
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Pan-Macedonian Association of Ontario Inc.
+date: '1990'
+location:
+  latitude: 43.678166
+  longitude: -79.349472
+  precision: 29.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb

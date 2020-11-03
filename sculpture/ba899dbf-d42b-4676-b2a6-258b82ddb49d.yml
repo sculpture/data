@@ -1,0 +1,19 @@
+id: ba899dbf-d42b-4676-b2a6-258b82ddb49d
+type: sculpture
+slug: the-endless-bench
+title: The Endless Bench
+artist-ids:
+- ab263bc0-6a20-4e7d-a2ce-948da0fd9977
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Gift of artist
+date: '1984'
+location:
+  latitude: 43.656957
+  longitude: -79.388855
+  precision: 41.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 21b5d04c-9fea-4c3d-a0d6-2b9dff10c299
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

@@ -1,0 +1,17 @@
+id: b0f6c099-6104-4131-a85a-6da300c4c02c
+type: sculpture
+slug: horse-and-rider-marini-hirshhorn
+title: Horse and Rider
+artist-ids:
+- cc102819-9d50-4efa-a8a2-d1450cfabade
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1953'
+link-wikipedia: https://en.wikipedia.org/wiki/Horse_and_Rider_(Marini)
+location:
+  latitude: 38.889046
+  longitude: -77.022947
+  precision: 25.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be

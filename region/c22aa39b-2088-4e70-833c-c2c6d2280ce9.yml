@@ -1,0 +1,7 @@
+id: c22aa39b-2088-4e70-833c-c2c6d2280ce9
+type: region
+slug: fields-institute
+name: Fields Institute
+geojson: '{"type":"Polygon","coordinates":[[[-79.397773,43.658978],[-79.397357,43.658978],[-79.397357,43.6586275],[-79.397773,43.6586275],[-79.397773,43.658978]]]}'
+tag-ids:
+- c6980378-c006-49d9-a681-effc4d36aea9

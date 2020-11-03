@@ -1,0 +1,16 @@
+id: 259ff418-ef97-48b1-b8b1-5b76eb33359e
+type: sculpture
+slug: sphere-within-sphere-ny
+title: Sphere within Sphere
+artist-ids:
+- b0f670b0-dd0d-4118-9e1c-68d5837a902f
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1965'
+link-wikipedia: https://en.wikipedia.org/wiki/Sphere_Within_Sphere
+location:
+  latitude: 40.74951
+  longitude: -73.969082
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

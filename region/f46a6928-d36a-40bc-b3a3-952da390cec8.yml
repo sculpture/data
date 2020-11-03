@@ -1,0 +1,7 @@
+id: f46a6928-d36a-40bc-b3a3-952da390cec8
+type: region
+slug: confederation-park
+name: Confederation Park
+geojson: '{"type":"Polygon","coordinates":[[[-79.23996,43.77458],[-79.23507,43.77563],[-79.23328,43.77243],[-79.23632,43.77202],[-79.23996,43.77458]]]}'
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d

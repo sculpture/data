@@ -1,0 +1,16 @@
+id: 255c6cda-5875-4958-bffb-93390b5fd214
+type: sculpture
+slug: hart-house-mask
+title: Hart House Mask
+artist-ids:
+- 30ea1df3-24ef-4c4b-9de4-2d3fc38ed2f7
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Hart House
+date: '1990'
+location:
+  latitude: 43.663651
+  longitude: -79.395222
+  precision: 36.0
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+tag-ids: []

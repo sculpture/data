@@ -1,0 +1,15 @@
+id: 48426bb6-c282-4618-8e4e-c7ae07aaa9aa
+type: sculpture
+slug: bond-librman-buffalo
+title: Bond
+artist-ids:
+- b2c54f03-b05b-43b4-8811-e4d959f022ac
+city-id: 21f56f64-52ee-47e4-8113-8503789209f1
+date: '1969'
+location:
+  latitude: 42.93245
+  longitude: -78.875618
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []

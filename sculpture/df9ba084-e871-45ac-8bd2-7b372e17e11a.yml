@@ -1,0 +1,18 @@
+id: df9ba084-e871-45ac-8bd2-7b372e17e11a
+type: sculpture
+slug: daniel-michael-bertoia
+title: Daniel Michael Bertoia
+artist-ids:
+- 8cca82af-79c3-4e89-92c1-383f1a5ed812
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2009'
+location:
+  latitude: 43.682249
+  longitude: -79.398399
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 39f7789b-145c-4ccf-897a-34a56abe6fa0
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

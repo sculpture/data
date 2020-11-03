@@ -1,0 +1,15 @@
+id: 3be2fdf0-c18f-4bc7-af54-ded7027701df
+type: sculpture
+slug: fanny-fanny
+title: Fanny Fanny
+artist-ids:
+- 679b234f-2f30-4884-ae65-b51164607ff5
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1990'
+location:
+  latitude: 45.498669
+  longitude: -73.579876
+  precision: 50.0
+material-ids:
+- 75dfd552-d16c-4149-9a5e-78848b93d168
+tag-ids: []

@@ -1,0 +1,17 @@
+id: cc091c2c-6fd2-422d-adb8-f776730eba6a
+type: sculpture
+slug: per-ardua-ad-astra
+title: Per ardua ad astra
+artist-ids:
+- dda6df5e-45b8-4ac4-9e2e-cdae58e89c9d
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: H.R.Jackman & Jackman Foundation
+date: '1984'
+location:
+  latitude: 43.654598
+  longitude: -79.388302
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753

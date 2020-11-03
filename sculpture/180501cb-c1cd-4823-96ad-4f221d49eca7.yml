@@ -1,0 +1,15 @@
+id: 180501cb-c1cd-4823-96ad-4f221d49eca7
+type: sculpture
+slug: primary-no9
+title: Primary No.9
+artist-ids:
+- 28502e9d-7cf6-435f-8270-214ab8c7a83c
+city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
+date: '1981'
+location:
+  latitude: 49.28269
+  longitude: -123.120739
+  precision: 50.0
+material-ids:
+- d5e04d12-19d1-4983-86c9-8ef02568d71c
+tag-ids: []

@@ -1,0 +1,6 @@
+id: b4a465a9-7d67-4b6b-a2c2-b4031ae8ae72
+type: region
+slug: fort-york
+name: Fort York
+geojson: '{"type":"Polygon","coordinates":[[[-79.40562,43.63919],[-79.40485,43.63793],[-79.40091,43.63909],[-79.4014120101929,43.6400583976938],[-79.40562,43.63919]]]}'
+tag-ids: []

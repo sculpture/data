@@ -1,0 +1,17 @@
+id: af1e22dd-ada8-41b3-9ca5-8a4e8c554318
+type: sculpture
+slug: larry-sefton-memorial
+title: Larry Sefton Memorial
+artist-ids:
+- 72bdff5c-b449-457c-90e7-93eacd420af3
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: United Steel Workers of America
+date: '1977'
+location:
+  latitude: 43.65429
+  longitude: -79.383478
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []

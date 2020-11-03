@@ -1,0 +1,18 @@
+id: d15aa62c-34f9-4949-88c6-4f400b06e491
+type: sculpture
+slug: bell-memorial-1
+title: Bell Memorial (1)
+artist-ids:
+- 5f5e73b4-75e3-41bb-b698-1b7ab285d8b1
+city-id: ceac255d-267b-4eb0-84ab-e518a441c459
+date: '1917'
+link-wikipedia: https://en.wikipedia.org/wiki/Bell_Memorial
+location:
+  latitude: 43.14139
+  longitude: -80.267936
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

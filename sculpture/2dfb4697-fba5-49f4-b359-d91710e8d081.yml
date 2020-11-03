@@ -1,0 +1,18 @@
+id: 2dfb4697-fba5-49f4-b359-d91710e8d081
+type: sculpture
+slug: morning-flight
+title: Morning Flight
+artist-ids:
+- c3033329-4633-4da7-9076-c95d10b09611
+city-id: 9a82bb0d-d00a-491c-911b-64b5be0e734a
+date: '1997'
+location:
+  latitude: 42.311684
+  longitude: -83.067766
+  precision: 45.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
+- b982214e-52f9-48b0-b977-4a4359b49fdb

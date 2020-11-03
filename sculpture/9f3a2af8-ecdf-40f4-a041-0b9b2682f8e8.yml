@@ -1,0 +1,16 @@
+id: 9f3a2af8-ecdf-40f4-a041-0b9b2682f8e8
+type: sculpture
+slug: mindshadows
+title: Mindshadows
+artist-ids:
+- d4e37a04-c8e7-4c97-8473-106dd551f120
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Tridel
+date: '2011'
+location:
+  latitude: 43.709802
+  longitude: -79.396305
+  precision: 26.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

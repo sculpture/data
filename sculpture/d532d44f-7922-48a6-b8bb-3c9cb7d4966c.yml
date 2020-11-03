@@ -1,0 +1,17 @@
+id: d532d44f-7922-48a6-b8bb-3c9cb7d4966c
+type: sculpture
+slug: stray-plow-scott
+title: Stray Plow
+artist-ids:
+- b584b8ca-db31-4bd0-a5b7-c1af37c2c6e8
+city-id: bc863b0f-3035-4fab-888c-89e017daabea
+date: '1991'
+location:
+  latitude: 43.532859
+  longitude: -80.23246
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 90961d65-c887-44b3-9153-7364b69806bc
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

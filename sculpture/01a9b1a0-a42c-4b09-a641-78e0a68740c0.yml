@@ -1,0 +1,17 @@
+id: 01a9b1a0-a42c-4b09-a641-78e0a68740c0
+type: sculpture
+slug: untitled-1-sentinel
+title: Sentinel
+artist-ids:
+- daa3739f-f25b-4e27-a19d-689c6f3740ac
+city-id: b42c1a11-89ad-4f4a-97cf-66ab0c2852be
+commissioned-by: School of Architecture
+date: '1964'
+location:
+  latitude: 43.970447
+  longitude: -79.24697
+  precision: 100.0
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+note: photo at old location
+tag-ids: []

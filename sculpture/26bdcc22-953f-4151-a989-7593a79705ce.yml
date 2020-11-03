@@ -1,0 +1,18 @@
+id: 26bdcc22-953f-4151-a989-7593a79705ce
+type: sculpture
+slug: champlain
+title: Champlain
+artist-ids:
+- 95aab595-ad7a-4581-8ebd-bcbe6be27384
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1951'
+location:
+  latitude: 43.661843
+  longitude: -79.392822
+  precision: 10.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 69050b3c-166a-422e-86ce-a9c6f896805a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

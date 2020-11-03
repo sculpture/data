@@ -1,0 +1,17 @@
+id: 7655bc0c-9766-4fdc-b82d-bd25b6915dd3
+type: sculpture
+slug: monad
+title: Monad
+artist-ids:
+- 30ea1df3-24ef-4c4b-9de4-2d3fc38ed2f7
+city-id: bc863b0f-3035-4fab-888c-89e017daabea
+commissioned-by: Gift of Artist
+date: '1990'
+location:
+  latitude: 43.533089
+  longitude: -80.232654
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- cbdcff43-243d-4838-b2fa-6d82c3b5f652
+tag-ids: []

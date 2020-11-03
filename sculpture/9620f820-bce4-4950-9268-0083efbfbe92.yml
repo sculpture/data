@@ -1,0 +1,16 @@
+id: 9620f820-bce4-4950-9268-0083efbfbe92
+type: sculpture
+slug: bear-cox-stouffville
+title: Bear (3)
+artist-ids:
+- 56d243ae-7954-4107-b7fa-6290ac7cb48f
+city-id: b42c1a11-89ad-4f4a-97cf-66ab0c2852be
+date: '1981'
+location:
+  latitude: 43.971577
+  longitude: -79.247957
+  precision: 26.0
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d

@@ -1,0 +1,15 @@
+id: b5ee0d00-d332-4b7e-b216-b33681a0fdfc
+type: sculpture
+slug: supernova
+title: Supernova
+artist-ids:
+- 6ad8785c-b0a4-42c1-ba63-ee0161533bab
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2009'
+location:
+  latitude: 43.734108
+  longitude: -79.344753
+  precision: 52.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []

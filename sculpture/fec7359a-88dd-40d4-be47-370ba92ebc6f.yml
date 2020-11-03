@@ -1,0 +1,17 @@
+id: fec7359a-88dd-40d4-be47-370ba92ebc6f
+type: sculpture
+slug: spirit-haida-gwaii
+title: Spirit of Haida Gwaii
+artist-ids:
+- 9ea692e0-a951-49cf-b0ba-9a8ce3c6973a
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1986'
+link-wikipedia: https://en.wikipedia.org/wiki/Spirit_of_Haida_Gwaii
+location:
+  latitude: 38.892715
+  longitude: -77.018149
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90

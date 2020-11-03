@@ -1,0 +1,17 @@
+id: d03f785b-6edc-45cd-9e9c-bee2e2c6fc2b
+type: sculpture
+slug: catch-basin
+title: Catch Basin
+artist-ids:
+- 29376452-21d0-46dc-93e7-5f73c1c88acf
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Visual Arts Ontario
+date: '1982'
+location:
+  latitude: 43.650953
+  longitude: -79.37262
+  precision: 50.0
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

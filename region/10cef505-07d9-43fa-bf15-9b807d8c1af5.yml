@@ -1,0 +1,7 @@
+id: 10cef505-07d9-43fa-bf15-9b807d8c1af5
+type: region
+slug: hamilton-nj-us
+name: Hamilton NJ
+geojson: '{"type":"Polygon","coordinates":[[[-74.71184,40.25726],[-74.69364,40.25752],[-74.6452331542969,40.1547364800568],[-74.76196,40.20431],[-74.71184,40.25726]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc

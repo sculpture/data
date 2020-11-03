@@ -1,0 +1,17 @@
+id: 8621c301-6053-449b-9cae-f79fe06d566c
+type: sculpture
+slug: pas-de-trois
+title: Pas de Trois
+artist-ids:
+- 002eabd4-132c-4826-a5c7-db88ce65416e
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Hammerson Canada Inc
+date: '1984'
+location:
+  latitude: 43.646518
+  longitude: -79.384243
+  precision: 50.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

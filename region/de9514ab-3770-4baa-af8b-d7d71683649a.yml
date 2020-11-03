@@ -1,0 +1,7 @@
+id: de9514ab-3770-4baa-af8b-d7d71683649a
+type: region
+slug: atmospheric-environment-service
+name: Atmospheric Environment Service
+geojson: '{"type":"Point","coordinates":[-79.4684,43.78146]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215

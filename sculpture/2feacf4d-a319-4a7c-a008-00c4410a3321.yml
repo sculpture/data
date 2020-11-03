@@ -1,0 +1,16 @@
+id: 2feacf4d-a319-4a7c-a008-00c4410a3321
+type: sculpture
+slug: centurione-mitoraj-toronto
+title: Centurione
+artist-ids:
+- e31569f5-c19d-41b1-98e8-4a14e439b562
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1987'
+location:
+  latitude: 43.670922
+  longitude: -79.393551
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57

@@ -1,0 +1,16 @@
+id: 37fd51d6-0256-4df9-9981-91eda44ca110
+type: sculpture
+slug: national-aboriginal-veterans-pinay
+title: National Aboriginal Veterans Monument
+artist-ids:
+- 57e20170-9b2d-44b1-a9c6-63a44da98cdb
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '2001'
+link-wikipedia: https://en.wikipedia.org/wiki/National_Aboriginal_Veterans_Monument
+location:
+  latitude: 45.421673
+  longitude: -75.692968
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

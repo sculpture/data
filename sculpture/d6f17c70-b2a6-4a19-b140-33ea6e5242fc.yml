@@ -1,0 +1,14 @@
+id: d6f17c70-b2a6-4a19-b140-33ea6e5242fc
+type: sculpture
+slug: unknown-11-tesolin
+title: Unknown (11)
+artist-ids:
+- fd8b3fb3-dd1c-45bc-b5b3-dbaaf4a59f20
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+location:
+  latitude: 43.696196
+  longitude: -79.383461
+  precision: 10.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

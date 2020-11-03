@@ -1,0 +1,15 @@
+id: bd9bf4ec-04d2-40ff-a656-ccd69fdbf1d9
+type: sculpture
+slug: natural-development
+title: Natural Development
+artist-ids:
+- f98e73b8-f48c-4795-bc11-bf729cb0c0f9
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1994'
+location:
+  latitude: 43.772463
+  longitude: -79.258141
+  precision: 27.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []

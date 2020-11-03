@@ -1,0 +1,18 @@
+id: 5ad25885-9a7d-4ac3-80b0-a4617dd751a0
+type: sculpture
+slug: bear-penny
+title: Bear (4)
+artist-ids:
+- 3ff3ecb5-4527-4fa4-ad4a-2773cb0397b4
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: College Park
+date: '1983'
+location:
+  latitude: 43.659774
+  longitude: -79.384042
+  precision: 50.0
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485

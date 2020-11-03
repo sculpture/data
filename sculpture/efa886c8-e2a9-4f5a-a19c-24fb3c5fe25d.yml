@@ -1,0 +1,15 @@
+id: efa886c8-e2a9-4f5a-a19c-24fb3c5fe25d
+type: sculpture
+slug: summer-dance-hepworth
+title: Summer Dance
+artist-ids:
+- 3a4702d2-d46e-4c0a-8c65-590a5b788eea
+city-id: dfc812fa-0588-474a-98a2-4cdccf6bad2f
+date: '1971'
+location:
+  latitude: 42.979
+  longitude: -85.585638
+  precision: 250.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

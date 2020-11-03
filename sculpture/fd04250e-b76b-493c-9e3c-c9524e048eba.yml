@@ -1,0 +1,19 @@
+id: fd04250e-b76b-493c-9e3c-c9524e048eba
+type: sculpture
+slug: jack-layton
+title: Jack's got Your Back
+artist-ids:
+- 28aa528e-e561-45d9-ad7f-ce0c068ba723
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Ontario Federation of Labour
+date: '2013'
+location:
+  latitude: 43.640422
+  longitude: -79.376735
+  precision: 24.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

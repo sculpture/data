@@ -1,0 +1,18 @@
+id: 4a9637fd-e8b0-480b-98d9-99d7e778117f
+type: sculpture
+slug: dr-william-d-young-memorial
+title: Dr. William D. Young Memorial
+artist-ids:
+- f7df93d7-c56d-426c-899c-325f08f15eb9
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1975'
+location:
+  latitude: 43.669231
+  longitude: -79.298115
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

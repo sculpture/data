@@ -1,0 +1,16 @@
+id: ae2839e4-7294-40f3-afea-44c41cf3c951
+type: sculpture
+slug: the-temple
+title: The Temple
+artist-ids:
+- e171c57e-5c83-433a-a8f8-7fadce8712b4
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: International Sculpture Symposium
+date: '1967'
+location:
+  latitude: 43.650786
+  longitude: -79.462896
+  precision: 115.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

@@ -1,0 +1,18 @@
+id: 0c00d25d-6d23-4299-a166-e9aa8ecda9c9
+type: sculpture
+slug: man
+title: Man
+artist-ids:
+- 7ad71af4-c9b7-49d0-9765-ba2a674856a0
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Gift of International Nickel Company
+date: '1967'
+location:
+  latitude: 43.772372
+  longitude: -79.501639
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+note: 1/6-scale model of Expo 67 sculpture
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de

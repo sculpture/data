@@ -1,0 +1,19 @@
+id: 6153c6ee-e1de-4e1f-a37e-0b27ebe88764
+type: sculpture
+slug: voice-of-the-land---al-purdy
+title: Voice of the Land - Al Purdy
+artist-ids:
+- 9a0a94d9-c4d1-45f5-ac3a-0bfb0563a15d
+- a72315fc-ea46-41f6-a11e-90d825b4acfe
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2008'
+location:
+  latitude: 43.665526
+  longitude: -79.392059
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

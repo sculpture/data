@@ -1,0 +1,15 @@
+id: 15525891-1048-413e-a012-2245e3227301
+type: sculpture
+slug: protection-veress
+title: Protection
+artist-ids:
+- 10cce037-10a5-4ec7-af46-1f07a2b96ba8
+city-id: 9feeba88-1b66-4091-a267-5a2cbf0bfd66
+date: '1985'
+location:
+  latitude: 43.157
+  longitude: -79.247681
+  precision: 150.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

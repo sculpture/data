@@ -1,0 +1,17 @@
+id: 2569282c-79f1-4bcf-9a04-e3cdff3f1fb6
+type: sculpture
+slug: braha
+title: Braha
+artist-ids:
+- f01c816e-53e3-4023-85a5-21c300a9b6b3
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1976'
+location:
+  latitude: 43.713249
+  longitude: -79.559711
+  precision: 50.0
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+note: (fot.2003) Sculpture not any more at this location
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57

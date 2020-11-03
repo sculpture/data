@@ -1,0 +1,15 @@
+id: fa1bc09e-0662-48c1-9758-0a699275b4e2
+type: sculpture
+slug: untitled-cox
+title: Untitled
+artist-ids:
+- 56d243ae-7954-4107-b7fa-6290ac7cb48f
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: 196*
+location:
+  latitude: 43.770877
+  longitude: -79.334753
+  precision: 50.0
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids: []

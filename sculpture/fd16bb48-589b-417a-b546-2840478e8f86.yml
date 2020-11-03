@@ -1,0 +1,15 @@
+id: fd16bb48-589b-417a-b546-2840478e8f86
+type: sculpture
+slug: eruption
+title: Eruption
+artist-ids:
+- 4de6104e-fed6-44cc-a10a-30cbeb009109
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1994'
+location:
+  latitude: 43.773718
+  longitude: -79.256542
+  precision: 26.0
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []

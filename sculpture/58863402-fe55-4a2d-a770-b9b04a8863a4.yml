@@ -1,0 +1,15 @@
+id: 58863402-fe55-4a2d-a770-b9b04a8863a4
+type: sculpture
+slug: inukshuk
+title: Inukshuk
+artist-ids:
+- af6c4f6d-2c69-4c4c-90c3-c1a5acd7eeab
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2002'
+location:
+  latitude: 43.632199
+  longitude: -79.409319
+  precision: 36.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []

@@ -1,0 +1,15 @@
+id: 6f127d48-ca40-4269-ace7-ca46fed442d9
+type: sculpture
+slug: agricultura-buyers
+title: Agricultura
+artist-ids:
+- 946c2b09-5551-4ed5-85c2-085edae212bc
+city-id: bc863b0f-3035-4fab-888c-89e017daabea
+date: '1997'
+location:
+  latitude: 43.532872
+  longitude: -80.232397
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []

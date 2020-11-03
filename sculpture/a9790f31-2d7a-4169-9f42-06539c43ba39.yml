@@ -1,0 +1,18 @@
+id: a9790f31-2d7a-4169-9f42-06539c43ba39
+type: sculpture
+slug: queenvictoriaottawa
+title: Queen Victoria
+artist-ids:
+- f6ba5000-2ac9-4069-bee4-09ca21d36852
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1901'
+location:
+  latitude: 45.424065
+  longitude: -75.701304
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9c3360b2-448e-4f0e-a2c0-b4339e34d6a4

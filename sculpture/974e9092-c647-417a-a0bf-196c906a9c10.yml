@@ -1,0 +1,21 @@
+id: 974e9092-c647-417a-a0bf-196c906a9c10
+type: sculpture
+slug: valiants-memorial-georgina-pope
+title: Valiants Memorial - Georgina Pope
+artist-ids:
+- 1242cb12-a0c1-41d6-a5d9-b2a97fa35f4d
+- 67bd08d2-7003-4396-9e5e-675adb4548fc
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+commissioned-by: Canadian Heritage and Valiants Foundation
+date: '2006'
+link-wikipedia: https://en.wikipedia.org/wiki/Valiants_Memorial
+location:
+  latitude: 45.424499
+  longitude: -75.694979
+  precision: 33.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
+- fc25d75b-ceae-4902-bb90-040e3dac5eac

@@ -1,0 +1,7 @@
+id: 8a534c1c-0c5f-48e0-a849-45c4c0f5e6e0
+type: region
+slug: guelph
+name: Guelph
+geojson: '{"type":"Polygon","coordinates":[[[-80.3269451,43.595021],[-80.153391,43.595021],[-80.153391,43.473845],[-80.3269451,43.473845],[-80.3269451,43.595021]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc

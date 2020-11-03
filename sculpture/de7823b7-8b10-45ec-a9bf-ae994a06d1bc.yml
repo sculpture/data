@@ -1,0 +1,18 @@
+id: de7823b7-8b10-45ec-a9bf-ae994a06d1bc
+type: sculpture
+slug: lichen
+title: Lichen
+artist-ids:
+- d1c91d4b-7b5d-4f5e-95f2-a9bbc369eded
+- fbbe17ae-aad2-447a-baf4-0fa2fc7a9906
+city-id: 5899c2fb-c707-426d-a651-491dec175f49
+date: '1998'
+location:
+  latitude: 43.84254
+  longitude: -79.61808
+  precision: 39.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485

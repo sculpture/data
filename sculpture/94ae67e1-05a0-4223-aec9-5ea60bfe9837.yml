@@ -1,0 +1,16 @@
+id: 94ae67e1-05a0-4223-aec9-5ea60bfe9837
+type: sculpture
+slug: reaching-for-the-cloud
+title: Reaching for the Clouds
+artist-ids:
+- f92f0d47-d131-4c6a-ad07-1d026752bc0f
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2005'
+location:
+  latitude: 43.672224
+  longitude: -79.388198
+  precision: 35.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids: []

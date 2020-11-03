@@ -1,0 +1,15 @@
+id: 32570f42-ee56-414a-994d-735a94b5ca0b
+type: sculpture
+slug: bookwall
+title: Book Wall
+artist-ids:
+- d0c04e64-b017-460c-bed0-06b7ad33c2a7
+city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
+date: '1997'
+location:
+  latitude: 43.590046
+  longitude: -79.644849
+  precision: 26.0
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []

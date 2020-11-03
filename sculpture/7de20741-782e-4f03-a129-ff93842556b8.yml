@@ -1,0 +1,18 @@
+id: 7de20741-782e-4f03-a129-ff93842556b8
+type: sculpture
+slug: woodpecker-column
+title: Woodpecker Column
+artist-ids:
+- e41958c2-2a1a-4641-8b8a-a6272b053cc8
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1997'
+location:
+  latitude: 43.642912
+  longitude: -79.385402
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- b982214e-52f9-48b0-b977-4a4359b49fdb

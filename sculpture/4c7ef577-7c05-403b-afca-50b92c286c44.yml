@@ -1,0 +1,19 @@
+id: 4c7ef577-7c05-403b-afca-50b92c286c44
+type: sculpture
+slug: boer-war-memorial-london
+title: Boer War Memorial
+artist-ids:
+- 8ec33c59-ca3d-47fb-bf62-7e4e3059bd01
+city-id: 052407cb-5737-4173-8a61-27dcd97825ac
+date: '1912'
+location:
+  latitude: 42.988576
+  longitude: -81.248574
+  precision: 26.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

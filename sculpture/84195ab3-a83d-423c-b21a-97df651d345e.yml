@@ -1,0 +1,17 @@
+id: 84195ab3-a83d-423c-b21a-97df651d345e
+type: sculpture
+slug: tree-bears
+title: Tree Bears
+artist-ids:
+- cec9248d-fb9e-4a84-be6e-31c0f447b9b4
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1997'
+location:
+  latitude: 43.671063
+  longitude: -79.393392
+  precision: 50.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485

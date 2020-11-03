@@ -1,0 +1,7 @@
+id: 1e72a5ea-6ae0-4b3a-8f10-4292645ccd95
+type: region
+slug: spadina-buthurst
+name: Downtown - Spadina Av Bathurst St
+geojson: '{"type":"Polygon","coordinates":[[[-79.4114112854004,43.6647051401031],[-79.4029998779297,43.6663815273882],[-79.3920993804932,43.638404569151],[-79.3996953964234,43.636354690316],[-79.4114112854004,43.6647051401031]]]}'
+tag-ids:
+- f78a6462-d5a5-424d-a03c-fb328cbdee3d

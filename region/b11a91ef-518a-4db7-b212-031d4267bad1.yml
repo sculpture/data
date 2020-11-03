@@ -1,0 +1,7 @@
+id: b11a91ef-518a-4db7-b212-031d4267bad1
+type: region
+slug: legislative-assembly-of-ontario
+name: Ontario Parliament
+geojson: '{"type":"Polygon","coordinates":[[[-79.3918526172638,43.6628773589536],[-79.39104,43.66303],[-79.39084,43.66254],[-79.3916219472885,43.6623883889565],[-79.3918526172638,43.6628773589536]]]}'
+tag-ids:
+- 5b81e8eb-ff28-45a9-9f26-50353cd28215

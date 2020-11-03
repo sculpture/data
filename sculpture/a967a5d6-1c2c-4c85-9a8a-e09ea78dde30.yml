@@ -1,0 +1,19 @@
+id: a967a5d6-1c2c-4c85-9a8a-e09ea78dde30
+type: sculpture
+slug: samuel-de-champlain-ottawa
+title: Samuel de Champlain
+artist-ids:
+- 010683af-d9eb-46b9-9cdb-f1e541a455ad
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1915'
+location:
+  latitude: 45.429776
+  longitude: -75.701189
+  precision: 25.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 69050b3c-166a-422e-86ce-a9c6f896805a
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

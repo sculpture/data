@@ -1,0 +1,16 @@
+id: 426bba32-0307-4ec2-b4b6-2772cc3f7a86
+type: sculpture
+slug: galaxy
+title: Galaxy
+artist-ids:
+- c3033329-4633-4da7-9076-c95d10b09611
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Costellation Hotel
+date: '1966'
+location:
+  latitude: 43.644153
+  longitude: -79.566244
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids: []

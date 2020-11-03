@@ -1,0 +1,15 @@
+id: ff4a4158-2825-4e37-aa72-b4cdbd570869
+type: sculpture
+slug: chaos-speaks
+title: Chaos Speaks
+artist-ids:
+- 42313942-4cca-4594-a834-c9079367626f
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1987'
+location:
+  latitude: 43.663528
+  longitude: -79.394934
+  precision: 23.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []

@@ -1,0 +1,15 @@
+id: ab83de0a-2313-47cf-bc89-fa64e4993fec
+type: sculpture
+slug: limelight-bandshell-raff
+title: Limelight Bandshell
+artist-ids:
+- 2bb1c559-406f-454c-92ae-9a8d09860aca
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2017'
+location:
+  latitude: 43.768613
+  longitude: -79.409591
+  precision: 50.0
+material-ids:
+- 1aaa34d0-a277-480a-b85e-4f7dc8a8f257
+tag-ids: []

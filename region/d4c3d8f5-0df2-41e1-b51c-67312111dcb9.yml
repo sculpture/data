@@ -1,0 +1,7 @@
+id: d4c3d8f5-0df2-41e1-b51c-67312111dcb9
+type: region
+slug: victoria-memorial-square-park
+name: Victoria Memorial Square Park
+geojson: '{"type":"Polygon","coordinates":[[[-79.40121,43.64282],[-79.39966,43.64312],[-79.39936,43.64249],[-79.40068,43.64222],[-79.40121,43.64282]]]}'
+tag-ids:
+- 11ad1af4-ee67-4372-bd83-ae817b188c21

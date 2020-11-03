@@ -1,0 +1,16 @@
+id: cae518d9-790e-43bd-bc12-04e75b12b43d
+type: sculpture
+slug: abstraction-zquebec
+title: Abstaction Z
+artist-ids:
+- 7b3fa779-2af1-416f-bca6-ac3a22ca92ec
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+commissioned-by: gift of arist
+date: '1960'
+location:
+  latitude: 46.800293
+  longitude: -71.226074
+  precision: 50.0
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

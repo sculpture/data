@@ -1,0 +1,17 @@
+id: 49fe962f-7414-4710-8675-2ecfe3cccc6a
+type: sculpture
+slug: man-and-woman
+title: Man and Woman
+artist-ids:
+- 00e97f17-71dc-4ad2-b660-855ae823bc24
+city-id: b50c816a-bc64-45db-b0db-f86504c9b799
+date: '1973'
+location:
+  latitude: 43.472285
+  longitude: -80.544857
+  precision: 50.0
+material-ids:
+- 2c971567-aa58-40f7-bf83-b5a97ed653c9
+tag-ids:
+- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
+- 6f13c768-5619-419e-97af-60440cab7f89

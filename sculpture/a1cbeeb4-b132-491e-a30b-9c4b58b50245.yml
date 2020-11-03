@@ -1,0 +1,17 @@
+id: a1cbeeb4-b132-491e-a30b-9c4b58b50245
+type: sculpture
+slug: jula-haring-grand-rapids
+title: Julia
+artist-ids:
+- 7b35f543-f2f8-47f0-850f-97c29456ec93
+city-id: dfc812fa-0588-474a-98a2-4cdccf6bad2f
+date: '1987'
+location:
+  latitude: 42.979
+  longitude: -85.585638
+  precision: 200.0
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- a1fb9feb-ce7c-4fa1-8ec3-523421dcdc2c

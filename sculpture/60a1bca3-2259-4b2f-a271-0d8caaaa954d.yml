@@ -1,0 +1,17 @@
+id: 60a1bca3-2259-4b2f-a271-0d8caaaa954d
+type: sculpture
+slug: are-years-what
+title: Are Years What? (for Marianne Moore)
+artist-ids:
+- bd9de07c-dcbb-4c62-9d26-d63b6736a547
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1967'
+link-wikipedia: https://en.wikipedia.org/wiki/Are_Years_What%3F_(for_Marianne_Moore)
+location:
+  latitude: 38.88895
+  longitude: -77.02291
+  precision: 50.0
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a

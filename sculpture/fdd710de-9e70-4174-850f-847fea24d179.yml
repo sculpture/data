@@ -1,0 +1,16 @@
+id: fdd710de-9e70-4174-850f-847fea24d179
+type: sculpture
+slug: whirlpool-field-manoeuvres
+title: A Series of Whirlpool Field Manoeuvres
+artist-ids:
+- 51a039d0-e260-41b6-a2e9-c3e93d72f7d9
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2017'
+location:
+  latitude: 43.641351
+  longitude: -79.372222
+  precision: 50.0
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []

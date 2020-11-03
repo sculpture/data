@@ -1,0 +1,7 @@
+id: 7d6ba823-6196-4340-a84c-60a75f9f28cd
+type: region
+slug: aga-khan-museum
+name: Aga Khan Museum
+geojson: '{"type":"Polygon","coordinates":[[[-79.33344,43.72445],[-79.33186,43.72594],[-79.331,43.72548],[-79.33257,43.7239],[-79.33344,43.72445]]]}'
+tag-ids:
+- 7416cb28-4978-4edc-8118-4330860dbd09

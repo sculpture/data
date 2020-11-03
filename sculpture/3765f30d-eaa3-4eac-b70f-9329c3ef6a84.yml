@@ -1,0 +1,17 @@
+id: 3765f30d-eaa3-4eac-b70f-9329c3ef6a84
+type: sculpture
+slug: midsummer-nights-dream
+title: Midsummer Night's Dream
+artist-ids:
+- 97e80475-725a-4d41-ba9c-d734695ae04a
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: International Sculpture Symposium
+date: '1967'
+location:
+  latitude: 43.646547
+  longitude: -79.46369
+  precision: 50.0
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 2076e8f9-39da-4625-8971-217ccfe1d637
+tag-ids: []

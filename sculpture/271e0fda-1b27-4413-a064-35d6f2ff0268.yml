@@ -1,0 +1,17 @@
+id: 271e0fda-1b27-4413-a064-35d6f2ff0268
+type: sculpture
+slug: mother-and-child
+title: Mother and Child
+artist-ids:
+- ace1f5d4-d008-45de-9b78-fa7ebf47f733
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Canadian Mothercraft Society
+date: '1947'
+location:
+  latitude: 43.690069
+  longitude: -79.396527
+  precision: 50.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445

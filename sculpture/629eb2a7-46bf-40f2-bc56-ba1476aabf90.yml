@@ -1,0 +1,19 @@
+id: 629eb2a7-46bf-40f2-bc56-ba1476aabf90
+type: sculpture
+slug: queen-elizabeth-ii
+title: Queen Elizabeth II
+artist-ids:
+- bb4e2f79-bea0-4746-8455-f789a36cb9b8
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1992'
+location:
+  latitude: 45.42534
+  longitude: -75.697903
+  precision: 61.0
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9c3360b2-448e-4f0e-a2c0-b4339e34d6a4
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be

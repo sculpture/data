@@ -1,0 +1,7 @@
+id: e4229f59-0582-4924-ac03-3c19807315b0
+type: region
+slug: north-york-general-hospital
+name: North York General Hospital
+geojson: '{"type":"Polygon","coordinates":[[[-79.3634104728699,43.7689709945124],[-79.36348,43.76953],[-79.36304,43.77016],[-79.36166,43.76989],[-79.36252,43.76877],[-79.3634104728699,43.7689709945124]]]}'
+tag-ids:
+- 06d088ca-1894-44c9-9e2a-e0491945abe0

@@ -1,0 +1,16 @@
+id: d9e82fbf-4f48-41e6-af97-27171cecd3d5
+type: sculpture
+slug: embracing-nature
+title: Embracing Nature
+artist-ids:
+- c905d08a-0982-45f3-98ad-af6d12c0b96a
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: International Stone Sculpture Symposium
+date: '2005'
+location:
+  latitude: 43.635866
+  longitude: -79.412544
+  precision: 46.0
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []
