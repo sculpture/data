@@ -1,0 +1,17 @@
+id: 5fd1c17d-5d4e-4154-b0f2-f0c9e1726fd5
+type: sculpture
+slug: continuum-perry
+title: Continuum
+artist-ids:
+- 82c749ec-d4ac-4e2f-a282-be2d511d7e17
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1976'
+link-wikipedia: https://en.wikipedia.org/wiki/Continuum_(sculpture)
+location:
+  latitude: 38.888486
+  longitude: -77.019841
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
