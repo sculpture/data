@@ -3,4 +3,3 @@ type: region
 slug: columbus-centre
 name: Columbus Centre
 geojson: '{"type":"Polygon","coordinates":[[[-79.4468037,43.6505869],[-79.4450987,43.6505869],[-79.4450987,43.6500321],[-79.4468037,43.6500321],[-79.4468037,43.6505869]]]}'
-tag-ids: []

@@ -3,4 +3,3 @@ type: region
 slug: sussex-drive-ottawa
 name: Sussex Drive
 geojson: '{"type":"Polygon","coordinates":[[[-75.70138,45.43484],[-75.69743,45.44026],[-75.68533,45.43629],[-75.68979,45.43044],[-75.70138,45.43484]]]}'
-tag-ids: []

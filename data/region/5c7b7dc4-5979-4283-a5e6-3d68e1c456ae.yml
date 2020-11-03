@@ -3,4 +3,3 @@ type: region
 slug: metro-toronto-convention-centre
 name: Metro Toronto Convention Centre
 geojson: '{"type":"Polygon","coordinates":[[[-79.38857,43.64396],[-79.38509,43.6447],[-79.38429,43.64299],[-79.38541531562807,43.64258952130069],[-79.3864130973816,43.64345908516828],[-79.38818,43.64299],[-79.38857,43.64396]]]}'
-tag-ids: []

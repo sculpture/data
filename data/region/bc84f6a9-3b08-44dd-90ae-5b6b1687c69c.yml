@@ -3,4 +3,3 @@ type: region
 slug: royal-bank-plaza
 name: Royal Bank Plaza
 geojson: '{"type":"Polygon","coordinates":[[[-79.3807563,43.6470228],[-79.3794011,43.6470228],[-79.3794011,43.6458588],[-79.3807563,43.6458588],[-79.3807563,43.6470228]]]}'
-tag-ids: []

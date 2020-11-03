@@ -3,4 +3,3 @@ type: region
 slug: parliament-hill-ottawa
 name: Parliament Hill
 geojson: '{"type":"Polygon","coordinates":[[[-75.70228,45.42388],[-75.70140123367311,45.42574475445204],[-75.69934,45.42642],[-75.69635,45.42452],[-75.70084,45.42257],[-75.70228,45.42388]]]}'
-tag-ids: []
