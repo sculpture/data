@@ -10,6 +10,6 @@ link-wikipedia: https://en.wikipedia.org/wiki/Figure_for_Landscape
 location:
   latitude: 38.889025
   longitude: -77.022485
-  precision: 30
+  precision: 30.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

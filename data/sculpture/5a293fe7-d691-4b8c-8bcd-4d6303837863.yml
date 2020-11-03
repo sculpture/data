@@ -11,7 +11,7 @@ link-wikipedia: https://en.wikipedia.org/wiki/Flamingo_(sculpture)
 location:
   latitude: 41.878819
   longitude: -87.629679
-  precision: 50
+  precision: 50.0
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids:

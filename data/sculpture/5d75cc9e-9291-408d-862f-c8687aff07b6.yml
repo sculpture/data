@@ -10,7 +10,7 @@ link-wikipedia: https://en.wikipedia.org/wiki/Statue_of_Oscar_Peterson
 location:
   latitude: 45.422901
   longitude: -75.694146
-  precision: 50
+  precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:

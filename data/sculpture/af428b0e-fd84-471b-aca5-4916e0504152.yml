@@ -10,6 +10,6 @@ link-wikipedia: https://en.wikipedia.org/wiki/Sky_Hooks
 location:
   latitude: 38.889042
   longitude: -77.022469
-  precision: 30
+  precision: 30.0
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab

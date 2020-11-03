@@ -9,8 +9,8 @@ date: '1992'
 link-wikipedia: https://en.wikipedia.org/wiki/Peacekeeping_Monument
 location:
   latitude: 45.428996
-  longitude: -75.696610
-  precision: 71
+  longitude: -75.69661
+  precision: 71.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:

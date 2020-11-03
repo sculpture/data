@@ -10,6 +10,6 @@ link-wikipedia: https://en.wikipedia.org/wiki/King_and_Queen_(sculpture)
 location:
   latitude: 38.889021
   longitude: -77.023022
-  precision: 30
+  precision: 30.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

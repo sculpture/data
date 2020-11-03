@@ -10,6 +10,6 @@ link-wikipedia: https://en.wikipedia.org/wiki/Upright_Motive_No._1:_Glenkiln_Cro
 location:
   latitude: 38.889038
   longitude: -77.022196
-  precision: 30
+  precision: 30.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

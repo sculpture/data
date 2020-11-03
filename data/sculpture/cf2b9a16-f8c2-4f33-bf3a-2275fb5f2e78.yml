@@ -11,7 +11,7 @@ link-wikipedia: https://en.wikipedia.org/wiki/Shrine_Peace_Memorial
 location:
   latitude: 43.630772
   longitude: -79.422221
-  precision: 43
+  precision: 43.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:

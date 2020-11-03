@@ -9,7 +9,7 @@ date: '1981'
 location:
   latitude: 43.971709
   longitude: -79.248075
-  precision: 26
+  precision: 26.0
 material-ids:
 - d0c52472-81c0-4c1d-abd7-3a32fd760700
 tag-ids:

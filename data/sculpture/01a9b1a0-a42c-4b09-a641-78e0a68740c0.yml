@@ -9,8 +9,8 @@ commissioned-by: School of Architecture
 date: '1964'
 location:
   latitude: 43.970447
-  longitude: -79.246970
-  precision: 100
+  longitude: -79.24697
+  precision: 100.0
 material-ids:
 - 95a48ae8-6d9b-4ae1-8704-f9685d804a35
 note: photo at old location

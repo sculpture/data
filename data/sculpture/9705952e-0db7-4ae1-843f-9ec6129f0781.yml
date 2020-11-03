@@ -10,6 +10,8 @@ link-wikipedia: https://en.wikipedia.org/wiki/Joie_de_Vivre
 location:
   latitude: 40.70897
   longitude: -74.01094
-  precision: 50
+  precision: 50.0
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a

@@ -10,7 +10,7 @@ link-wikipedia: https://en.wikipedia.org/wiki/Mir%C3%B3%27s_Chicago
 location:
   latitude: 41.88306
   longitude: -87.63037
-  precision: 50
+  precision: 50.0
 material-ids:
 - 18829464-3bed-4f42-b206-8d99f402dc1b
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984

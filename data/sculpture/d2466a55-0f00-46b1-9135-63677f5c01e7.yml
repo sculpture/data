@@ -10,7 +10,7 @@ link-wikipedia: https://en.wikipedia.org/wiki/The_Whirling_Ear
 location:
   latitude: 50.84314
   longitude: 4.358168
-  precision: 20
+  precision: 20.0
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids:

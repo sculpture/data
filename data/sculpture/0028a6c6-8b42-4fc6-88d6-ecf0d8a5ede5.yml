@@ -9,6 +9,6 @@ date: '1990'
 location:
   latitude: 43.641326
   longitude: -79.377311
-  precision: 50
+  precision: 50.0
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf

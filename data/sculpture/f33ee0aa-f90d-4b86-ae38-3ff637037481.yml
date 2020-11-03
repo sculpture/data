@@ -9,8 +9,8 @@ commissioned-by: Greenwin Developments
 date: '1976'
 location:
   latitude: 43.657941
-  longitude: -79.390050
-  precision: 50
+  longitude: -79.39005
+  precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 note: (fot.2005) Sculpture not anymore at this location

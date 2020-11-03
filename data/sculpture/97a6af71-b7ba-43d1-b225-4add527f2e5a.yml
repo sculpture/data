@@ -10,7 +10,7 @@ link-wikipedia: https://en.wikipedia.org/wiki/Tenderness_(sculpture)
 location:
   latitude: 45.501893
   longitude: -73.576708
-  precision: 50
+  precision: 50.0
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:

@@ -9,6 +9,6 @@ date: '1960'
 location:
   latitude: 46.800205
   longitude: -71.225902
-  precision: 50
+  precision: 50.0
 material-ids:
 - b65eab11-b682-4db3-9658-2ddeec44eaef

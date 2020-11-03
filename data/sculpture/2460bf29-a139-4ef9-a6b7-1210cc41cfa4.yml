@@ -9,7 +9,7 @@ date: '2015'
 location:
   latitude: 50.841978
   longitude: 4.357904
-  precision: 10
+  precision: 10.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 - 56560105-70a1-4867-aaea-6d76d31576c0

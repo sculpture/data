@@ -8,6 +8,6 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 location:
   latitude: 43.711151
   longitude: -79.542278
-  precision: 50
+  precision: 50.0
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984

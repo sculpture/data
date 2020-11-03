@@ -8,8 +8,8 @@ city-id: fd82132d-7125-459c-a76c-677aede6390c
 date: '2017'
 location:
   latitude: 43.901991
-  longitude: -79.375450
-  precision: 47
+  longitude: -79.37545
+  precision: 47.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids:

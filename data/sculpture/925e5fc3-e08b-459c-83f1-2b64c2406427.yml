@@ -11,7 +11,7 @@ link-wikipedia: https://en.wikipedia.org/wiki/Warsaw_Uprising_Monument
 location:
   latitude: 52.249277
   longitude: 21.00583
-  precision: 30
+  precision: 30.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed

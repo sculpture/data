@@ -10,7 +10,7 @@ link-wikipedia: https://en.wikipedia.org/wiki/Dona_i_Ocell
 location:
   latitude: 41.378055
   longitude: 2.147021
-  precision: 50
+  precision: 50.0
 material-ids:
 - 18829464-3bed-4f42-b206-8d99f402dc1b
 - 1aaa34d0-a277-480a-b85e-4f7dc8a8f257

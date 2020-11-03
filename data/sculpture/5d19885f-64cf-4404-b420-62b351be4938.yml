@@ -9,6 +9,6 @@ date: '2007'
 location:
   latitude: 45.498954
   longitude: -73.580069
-  precision: 50
+  precision: 50.0
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125

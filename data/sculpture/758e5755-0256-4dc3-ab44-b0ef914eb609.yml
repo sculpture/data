@@ -8,7 +8,7 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Modir family
 date: '2000'
 location:
-  latitude: 43.695450
+  latitude: 43.69545
   longitude: -79.382185
   precision: 248.0
 material-ids:

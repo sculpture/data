@@ -9,7 +9,7 @@ date: '1994'
 location:
   latitude: 45.503352
   longitude: -73.573949
-  precision: 50
+  precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:

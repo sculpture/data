@@ -9,7 +9,7 @@ date: '1990'
 location:
   latitude: 40.237637
   longitude: -74.719173
-  precision: 200
+  precision: 200.0
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids:

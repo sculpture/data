@@ -9,8 +9,8 @@ commissioned-by: Donated by Alicia Boccia
 date: '1989'
 location:
   latitude: 43.712901
-  longitude: -79.456220
-  precision: 50
+  longitude: -79.45622
+  precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:

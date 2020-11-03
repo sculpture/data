@@ -10,7 +10,7 @@ link-wikipedia: https://en.wikipedia.org/wiki/Flight_Stop
 location:
   latitude: 43.652983
   longitude: -79.380272
-  precision: 50
+  precision: 50.0
 material-ids:
 - 2c971567-aa58-40f7-bf83-b5a97ed653c9
 tag-ids:

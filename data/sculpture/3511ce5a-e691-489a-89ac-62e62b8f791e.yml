@@ -9,7 +9,7 @@ date: '1956'
 location:
   latitude: 38.888991
   longitude: -77.022948
-  precision: 50
+  precision: 50.0
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 - 983d1c37-99da-4b1d-baba-681a83e66d30

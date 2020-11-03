@@ -9,7 +9,7 @@ date: '2010'
 location:
   latitude: 43.824276
   longitude: -79.181462
-  precision: 300
+  precision: 300.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:

@@ -9,8 +9,8 @@ commissioned-by: gift of Joseph Hirshhorn
 date: '1966'
 link-wikipedia: https://en.wikipedia.org/wiki/Lunar_Bird
 location:
-  latitude: 38.888350
+  latitude: 38.88835
   longitude: -77.022716
-  precision: 50
+  precision: 50.0
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

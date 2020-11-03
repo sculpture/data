@@ -9,7 +9,7 @@ date: '1948'
 location:
   latitude: 43.748244
   longitude: -79.192583
-  precision: 30
+  precision: 30.0
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 tag-ids:
