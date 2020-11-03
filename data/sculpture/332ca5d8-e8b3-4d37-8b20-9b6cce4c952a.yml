@@ -1,0 +1,17 @@
+id: 332ca5d8-e8b3-4d37-8b20-9b6cce4c952a
+type: sculpture
+slug: love-indiana-montreal
+title: Love
+artist-ids:
+- b19815de-ff4e-46bf-a21a-7ff6212b3495
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1970'
+link-wikipedia: https://en.wikipedia.org/wiki/Love_(sculpture)
+location:
+  latitude: 45.474941
+  longitude: -73.595434
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
