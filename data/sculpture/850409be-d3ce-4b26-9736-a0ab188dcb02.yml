@@ -1,0 +1,15 @@
+id: 850409be-d3ce-4b26-9736-a0ab188dcb02
+type: sculpture
+slug: sun-moon-star-barcelona
+title: Sun, Moon and one Star
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+city-id: 16e2f36d-eb09-4c02-9fd2-334682ca2e1c
+date: '1968'
+location:
+  latitude: 41.36863
+  longitude: 2.159851
+  precision: 50
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
