@@ -1,0 +1,16 @@
+id: b9a4face-be5c-488f-b4ae-03a90c96dbbb
+type: sculpture
+slug: volumptuous-man-on-horse-montreal
+title: Volumptuous Man on Horse
+artist-ids:
+- 62e84dc2-a16e-45c0-88e6-a4b03bbbe63c
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1974'
+location:
+  latitude: 45.474941
+  longitude: -73.595434
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
