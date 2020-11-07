@@ -1,0 +1,15 @@
+id: 9bcdc80c-4826-4b5c-8906-8bb7862b60af
+type: sculpture
+slug: st-francis-wolf
+title: St. Francis and Wolf
+artist-ids:
+- 96ed2d71-bcb3-490b-9f69-a83c9a345f0b
+location:
+  latitude: 43.747361
+  longitude: -79.191542
+  precision: 50
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
