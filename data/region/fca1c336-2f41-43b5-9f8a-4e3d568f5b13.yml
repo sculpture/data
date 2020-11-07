@@ -1,7 +1,7 @@
 id: fca1c336-2f41-43b5-9f8a-4e3d568f5b13
 type: region
-slug: beaches
-name: The Beaches
-geojson: '{"type":"Point","coordinates":[-79.29671,43.67102]}'
+slug: ontario-science-center
+name: Ontario Science Center
+geojson: '{"type":"Polygon","coordinates":[[[-79.34177041053773,43.714689470373145],[-79.3392062187195,43.71358053867773],[-79.3375861644745,43.716465269296314],[-79.3395495414734,43.71748885000646],[-79.34177041053773,43.714689470373145]]]}'
 tag-ids:
-- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+- 7416cb28-4978-4edc-8118-4330860dbd09
