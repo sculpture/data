@@ -1,7 +1,7 @@
 id: 997a16c0-5647-4caa-88b3-a13dde00c306
 type: region
-slug: riverdale-park
-name: Riverdale Park
-geojson: '{"type":"Polygon","coordinates":[[[-79.3609175,43.6660169],[-79.3606325,43.6660169],[-79.3606325,43.665398],[-79.3609175,43.665398],[-79.3609175,43.6660169]]]}'
+slug: royal-ontario-museum-toronto
+name: Royal Ontario Museum
+geojson: '{"type":"Polygon","coordinates":[[[-79.3955,43.66818],[-79.39511,43.66693],[-79.39387,43.66721],[-79.39438,43.66842],[-79.3955,43.66818]]]}'
 tag-ids:
-- c41e20af-feb8-4c1a-b2df-c57887ca144d
+- 7416cb28-4978-4edc-8118-4330860dbd09
