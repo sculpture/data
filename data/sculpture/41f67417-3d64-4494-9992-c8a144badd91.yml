@@ -10,7 +10,9 @@ date: '1981'
 location:
   latitude: 43.747732
   longitude: -79.19195
-  precision: 50.0
+  precision: 50
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 note: (fot.2002) Sculpture not anymore at this location
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
