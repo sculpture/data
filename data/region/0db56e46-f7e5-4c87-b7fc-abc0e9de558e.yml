@@ -1,7 +1,7 @@
 id: 0db56e46-f7e5-4c87-b7fc-abc0e9de558e
 type: region
-slug: leaside
-name: Leaside
-geojson: '{"type":"Polygon","coordinates":[[[-79.37807,43.71836],[-79.36609,43.72028],[-79.35463,43.71575],[-79.35897,43.70251],[-79.37124,43.69692],[-79.37807,43.71836]]]}'
+slug: kids-rehabilitation-hospital
+name: Kids Rehabilitation Hospital
+geojson: '{"type":"Polygon","coordinates":[[[-79.37772,43.71845],[-79.36609,43.72028],[-79.36485,43.71758],[-79.37699,43.71547],[-79.37772,43.71845]]]}'
 tag-ids:
-- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+- 06d088ca-1894-44c9-9e2a-e0491945abe0
