@@ -1,0 +1,17 @@
+id: cfd4f484-b30e-4cf5-bf9c-d1943be615f6
+type: sculpture
+slug: safe-hands-arad
+title: Safe Hands
+artist-ids:
+- b15710f9-cbbd-4644-89cb-fffc3ae8d31b
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: 'commissioned by Great Gulf '
+date: '2019'
+location:
+  latitude: 43.670259
+  longitude: -79.387096
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 85105298-6047-4f80-88ec-76aa0b77d815
