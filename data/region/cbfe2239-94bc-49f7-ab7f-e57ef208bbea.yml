@@ -2,6 +2,6 @@ id: cbfe2239-94bc-49f7-ab7f-e57ef208bbea
 type: region
 slug: trinity-bellwoods-park
 name: Trinity Bellwoods Park
-geojson: '{"type":"Polygon","coordinates":[[[-10,10],[10,10],[10,-10],[-10,-10]]]}'
+geojson: '{"type":"Polygon","coordinates":[[[-79.41699028015138,43.64998817604592],[-79.4135570526123,43.650795529178524],[-79.41128253936769,43.645702812364746],[-79.41535949707033,43.64514382934453],[-79.41699028015138,43.64998817604592]]]}'
 tag-ids:
 - c41e20af-feb8-4c1a-b2df-c57887ca144d
