@@ -1,7 +1,7 @@
 id: 0db56e46-f7e5-4c87-b7fc-abc0e9de558e
 type: region
 slug: kids-rehabilitation-hospital
-name: Kids Rehabilitation Hospital
-geojson: '{"type":"Polygon","coordinates":[[[-79.37772,43.71845],[-79.36609,43.72028],[-79.36485,43.71758],[-79.37699,43.71547],[-79.37772,43.71845]]]}'
+name: Kids Rehab Hospital
+geojson: '{"type":"Polygon","coordinates":[[[-79.37772,43.71845],[-79.37184333801271,43.71947392639434],[-79.37117815017702,43.71724071083383],[-79.37712192535402,43.715999999557],[-79.37772,43.71845]]]}'
 tag-ids:
 - 06d088ca-1894-44c9-9e2a-e0491945abe0
