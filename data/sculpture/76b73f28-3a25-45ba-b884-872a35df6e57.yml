@@ -8,9 +8,9 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Women's Council of the Ukrainian Canadian Committee
 date: '1975'
 location:
-  latitude: 43.646547
-  longitude: -79.46369
-  precision: 50.0
+  latitude: 43.646555
+  longitude: -79.464184
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - a1d83c21-c2ec-4d6f-852d-a880fdd65176
