@@ -1,7 +1,7 @@
 id: 1e72a5ea-6ae0-4b3a-8f10-4292645ccd95
 type: region
-slug: amica-residence
-name: Amica Residence
+slug: liberty-village
+name: Liberty Village
 geojson: '{"type":"Polygon","coordinates":[[[-79.4254,43.63384],[-79.42720413208009,43.63905678866053],[-79.41227,43.64222],[-79.41004,43.638],[-79.4254,43.63384]]]}'
 tag-ids:
-- f78a6462-d5a5-424d-a03c-fb328cbdee3d
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
