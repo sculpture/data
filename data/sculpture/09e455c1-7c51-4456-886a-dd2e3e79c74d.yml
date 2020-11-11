@@ -8,9 +8,9 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Park Plaza Hotel
 date: '1959'
 location:
-  latitude: 43.669088
-  longitude: -79.394662
-  precision: 50.0
+  latitude: 43.668933
+  longitude: -79.394018
+  precision: 50
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 tag-ids:
