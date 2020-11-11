@@ -1,7 +1,7 @@
 id: 1f0662f0-0fde-45f3-8ca4-969ba47a4e80
 type: region
 slug: financial-district
-name: Financial District
-geojson: '{"type":"Polygon","coordinates":[[[-79.38678,43.65081],[-79.37925,43.65243],[-79.37652111053468,43.64590466606595],[-79.383602142334,43.6450506650021],[-79.38678,43.65081]]]}'
+name: Downtown - Financial District
+geojson: '{"type":"Polygon","coordinates":[[[-79.38678,43.65081],[-79.37925,43.65243],[-79.3765211105347,43.645904666066],[-79.383602142334,43.6450506650021],[-79.38678,43.65081]]]}'
 tag-ids:
 - 671ea77b-35e7-4e67-b704-8445c7ff5e25
