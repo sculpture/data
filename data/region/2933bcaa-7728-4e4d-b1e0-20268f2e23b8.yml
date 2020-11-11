@@ -1,6 +1,6 @@
 id: 2933bcaa-7728-4e4d-b1e0-20268f2e23b8
 type: region
-slug: toronto-city-hall
+slug: toronto-new-city-hall
 name: New City Hall
 geojson: '{"type":"Polygon","coordinates":[[[-79.38484,43.65385],[-79.38349,43.65415],[-79.3830978870392,43.6531476596086],[-79.3844336271286,43.6528216272268],[-79.38484,43.65385]]]}'
 tag-ids:
