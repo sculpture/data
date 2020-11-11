@@ -1,7 +1,7 @@
 id: d4c3d8f5-0df2-41e1-b51c-67312111dcb9
 type: region
-slug: victoria-memorial-square-park
-name: Victoria Memorial Square Park
-geojson: '{"type":"Polygon","coordinates":[[[-79.40121,43.64282],[-79.39966,43.64312],[-79.39936,43.64249],[-79.40068,43.64222],[-79.40121,43.64282]]]}'
+slug: university-avenue
+name: Downtown - University Av
+geojson: '{"type":"Polygon","coordinates":[[[-79.39184188842775,43.66020349817267],[-79.39008235931398,43.660669200922136],[-79.38240051269533,43.64528357558723],[-79.38351631164552,43.64495750051523],[-79.39184188842775,43.66020349817267]]]}'
 tag-ids:
 - 11ad1af4-ee67-4372-bd83-ae817b188c21
