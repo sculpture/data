@@ -1,5 +1,6 @@
 id: 72f51748-8fcc-4795-867e-93fd30248470
 type: region
-slug: one-financial-place
-name: One Financial Place
-geojson: '{"type":"Polygon","coordinates":[[[-79.378349,43.6502221],[-79.377654,43.6502221],[-79.377654,43.6501271],[-79.378349,43.6501271],[-79.378349,43.6502221]]]}'
+slug: allan-gardens
+name: Allan Gardens
+geojson: '{"type":"Polygon","coordinates":[[[-79.37641,43.6621],[-79.37595,43.66101],[-79.37239,43.66129],[-79.37314,43.66309],[-79.37641,43.6621]]]}'
+tag-ids: []
