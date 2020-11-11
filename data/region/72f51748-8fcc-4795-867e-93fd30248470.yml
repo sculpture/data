@@ -3,4 +3,5 @@ type: region
 slug: allan-gardens
 name: Allan Gardens
 geojson: '{"type":"Polygon","coordinates":[[[-79.37641,43.6621],[-79.37595,43.66101],[-79.37239,43.66129],[-79.37314,43.66309],[-79.37641,43.6621]]]}'
-tag-ids: []
+tag-ids:
+- c41e20af-feb8-4c1a-b2df-c57887ca144d
