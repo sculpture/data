@@ -1,0 +1,17 @@
+id: 54f87aaa-ec16-4211-9d1e-31d4b00b8a79
+type: sculpture
+slug: bloodroot-unnasch
+title: Bloodroot
+artist-ids:
+- 21a6d6ce-b465-402f-b3ed-21d4b1e4a98a
+city-id: caadc47a-8078-4666-a53b-11150dbdcc9d
+date: '2016'
+location:
+  latitude: 43.291153
+  longitude: -79.876311
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
