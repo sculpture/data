@@ -1,0 +1,16 @@
+id: 3259b2aa-3dab-4d00-a5d8-e8162f67ad90
+type: sculpture
+slug: reberth-tobin
+title: Reberth
+artist-ids:
+- a0a49baa-bae2-4870-87b2-bff562d83388
+city-id: 4c133344-0cec-4448-b5cb-d702cc6e1913
+date: '1994'
+location:
+  latitude: 40.23697
+  longitude: -74.719206
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
