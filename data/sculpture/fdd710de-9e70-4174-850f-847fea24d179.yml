@@ -9,7 +9,9 @@ date: '2017'
 location:
   latitude: 43.641351
   longitude: -79.372222
-  precision: 50.0
+  precision: 50
 material-ids:
 - 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- df4890c4-2701-4782-a670-d019b3b95547
