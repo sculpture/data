@@ -1,7 +1,7 @@
 id: 46b6a70b-ed3d-4cfe-8f08-d311a8fb6267
 type: region
-slug: jean-sibelious-square
-name: Jean Sibelius Square
+slug: annex-toronto
+name: Annex
 geojson: '{"type":"Polygon","coordinates":[[[-79.41428661346437,43.67316420909152],[-79.39767837524415,43.67699755969586],[-79.39424514770509,43.66861663761087],[-79.41130399703981,43.665294985412],[-79.41428661346437,43.67316420909152]]]}'
 tag-ids:
 - c41e20af-feb8-4c1a-b2df-c57887ca144d
