@@ -1,7 +1,7 @@
 id: 4866a377-0fe2-43a3-aa9a-8dfc43504c29
 type: region
-slug: gallery-68
-name: Gallery 68
-geojson: '{"type":"Point","coordinates":[-79.3611145019531,43.7026297058718]}'
+slug: fort-york-toronto
+name: Fort York
+geojson: '{"type":"Polygon","coordinates":[[[-79.40562,43.63919],[-79.40485,43.63793],[-79.40091,43.63909],[-79.40121,43.63975],[-79.40562,43.63919]]]}'
 tag-ids:
-- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
