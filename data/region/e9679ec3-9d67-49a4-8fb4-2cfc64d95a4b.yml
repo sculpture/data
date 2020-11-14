@@ -1,7 +1,7 @@
 id: e9679ec3-9d67-49a4-8fb4-2cfc64d95a4b
 type: region
 slug: the-annex
-name: Annex
+name: ZAnnex
 geojson: '{"type":"Polygon","coordinates":[[[-79.39759,43.67768],[-79.39528,43.66977],[-79.41154,43.66607],[-79.41442,43.67358],[-79.39759,43.67768]]]}'
 tag-ids:
 - 671ea77b-35e7-4e67-b704-8445c7ff5e25
