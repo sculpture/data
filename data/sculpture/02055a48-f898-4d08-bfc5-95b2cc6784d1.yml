@@ -1,0 +1,16 @@
+id: 02055a48-f898-4d08-bfc5-95b2cc6784d1
+type: sculpture
+slug: adam-liberman-storm-king
+title: Adam
+artist-ids:
+- b2c54f03-b05b-43b4-8811-e4d959f022ac
+date: '1970'
+location:
+  latitude: 41.424242
+  longitude: -74.060821
+  precision: 50
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- f512d675-0554-4a67-987c-1da560f2c95a
