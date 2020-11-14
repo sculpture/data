@@ -1,0 +1,16 @@
+id: 22eccd15-62c1-46a5-a712-c79787ebb396
+type: sculpture
+slug: personage-of-may-smith
+title: Personage of May
+artist-ids:
+- ca17b203-f940-4f45-853d-3c61feb898a9
+city-id: 21f56f64-52ee-47e4-8113-8503789209f1
+date: '1957'
+location:
+  latitude: 41.425063
+  longitude: -74.059384
+  precision: 50
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
