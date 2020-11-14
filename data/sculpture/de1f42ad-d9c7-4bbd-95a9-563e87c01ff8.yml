@@ -1,0 +1,19 @@
+id: de1f42ad-d9c7-4bbd-95a9-563e87c01ff8
+type: sculpture
+slug: three-fold-manifestation
+title: Three Fold Manifestation II
+artist-ids:
+- 51a039d0-e260-41b6-a2e9-c3e93d72f7d9
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+commissioned-by: gift of artist
+date: '1987'
+location:
+  latitude: 41.425063
+  longitude: -74.059384
+  precision: 50
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- df4890c4-2701-4782-a670-d019b3b95547
