@@ -1,7 +1,7 @@
 id: e9679ec3-9d67-49a4-8fb4-2cfc64d95a4b
 type: region
-slug: the-annex
-name: ZAnnex
-geojson: '{"type":"Polygon","coordinates":[[[-79.39759,43.67768],[-79.39528,43.66977],[-79.41154,43.66607],[-79.41442,43.67358],[-79.39759,43.67768]]]}'
+slug: aga-khan-museum
+name: Aga Khan Museum
+geojson: '{"type":"Point","coordinates":[-79.33233,43.72539]}'
 tag-ids:
-- 671ea77b-35e7-4e67-b704-8445c7ff5e25
+- 7416cb28-4978-4edc-8118-4330860dbd09
