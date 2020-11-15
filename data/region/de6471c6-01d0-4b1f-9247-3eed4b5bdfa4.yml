@@ -1,6 +1,7 @@
 id: de6471c6-01d0-4b1f-9247-3eed4b5bdfa4
 type: region
-slug: faculty-of-architecture
-name: Faculty of Architecture
+slug: toronto-downtown
+name: Downtown
+geojson: '{"type":"Polygon","coordinates":[[[-79.37536239624025,43.6699824973308],[-79.36188697814943,43.67196914689265],[-79.35012817382814,43.6503608019172],[-79.35991287231447,43.64601335623952],[-79.37536239624025,43.6699824973308]]]}'
 tag-ids:
-- c6980378-c006-49d9-a681-effc4d36aea9
+- 671ea77b-35e7-4e67-b704-8445c7ff5e25
