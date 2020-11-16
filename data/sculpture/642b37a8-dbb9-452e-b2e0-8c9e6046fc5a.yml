@@ -1,0 +1,16 @@
+id: 642b37a8-dbb9-452e-b2e0-8c9e6046fc5a
+type: sculpture
+slug: aquagraphie-variation
+title: 'Aquagraphie Variation 2 '
+artist-ids:
+- f04d684c-48f6-4be5-9f9f-49bd683e9221
+city-id: caadc47a-8078-4666-a53b-11150dbdcc9d
+date: '2017'
+location:
+  latitude: 43.292192
+  longitude: -79.874487
+  precision: 50
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
