@@ -1,7 +1,7 @@
 id: d4c3d8f5-0df2-41e1-b51c-67312111dcb9
 type: region
 slug: university-avenue
-name: Downtown - University Av
+name: University Av
 geojson: '{"type":"Polygon","coordinates":[[[-79.3918418884277,43.6602034981727],[-79.390082359314,43.6606692009221],[-79.3824005126953,43.6452835755872],[-79.3835163116455,43.6449575005152],[-79.3918418884277,43.6602034981727]]]}'
 tag-ids:
 - addf68bb-3906-44ef-86b8-0e0804e29116
