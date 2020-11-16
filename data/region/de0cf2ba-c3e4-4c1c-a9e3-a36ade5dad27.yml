@@ -1,7 +1,7 @@
 id: de0cf2ba-c3e4-4c1c-a9e3-a36ade5dad27
 type: region
 slug: cn-tower
-name: Downtown - CN Tower
+name: CN Tower
 geojson: '{"type":"Polygon","coordinates":[[[-79.38744,43.64264],[-79.38704,43.64233],[-79.3868,43.64275],[-79.38718,43.64279],[-79.38744,43.64264]]]}'
 tag-ids:
 - c6980378-c006-49d9-a681-effc4d36aea9
