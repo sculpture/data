@@ -2,6 +2,6 @@ id: 6e0f819f-7038-4843-974a-cf49a235e0cf
 type: region
 slug: old-toronto
 name: Old Toronto
-geojson: '{"type":"Polygon","coordinates":[[[-10,10],[10,10],[10,-10],[-10,-10]]]}'
+geojson: '{"type":"Polygon","coordinates":[[[-10.81055,0.17578],[-10,10],[0.13184,11.09217],[10,10],[11.7334,-0.04395],[10,-10],[0.13184,-12.29707],[-10,-10],[-10.81055,0.17578]]]}'
 tag-ids:
 - 671ea77b-35e7-4e67-b704-8445c7ff5e25
