@@ -1,6 +1,6 @@
 id: af3b5736-dcb3-42d1-8d6f-87362bebbb49
 type: region
-slug: ross-podium
-name: Ross Podium
-tag-ids:
-- c6980378-c006-49d9-a681-effc4d36aea9
+slug: jarvis-street
+name: Jarvis St
+geojson: '{"type":"Polygon","coordinates":[[[-79.38162803649904,43.670106664855],[-79.37785148620607,43.67072749862282],[-79.36944007873537,43.64874607311183],[-79.37270164489748,43.647752372270084],[-79.38162803649904,43.670106664855]]]}'
+tag-ids: []
