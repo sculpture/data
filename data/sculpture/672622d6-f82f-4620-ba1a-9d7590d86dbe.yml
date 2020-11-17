@@ -1,0 +1,17 @@
+id: 672622d6-f82f-4620-ba1a-9d7590d86dbe
+type: sculpture
+slug: danseuse-montreal
+title: Danseuse
+artist-ids:
+- 744e4437-578a-4e64-83a6-849c7f632855
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1985'
+location:
+  latitude: 45.502511
+  longitude: -73.57218
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
