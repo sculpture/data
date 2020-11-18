@@ -7,9 +7,9 @@ artist-ids:
 city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
 date: '1985'
 location:
-  latitude: 43.589668
-  longitude: -79.645001
-  precision: 50.0
+  latitude: 43.589839
+  longitude: -79.645494
+  precision: 10
 material-ids:
 - 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
 tag-ids:
