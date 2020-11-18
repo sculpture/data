@@ -1,0 +1,16 @@
+id: dfee7bfc-b723-4624-a5d6-f118205b681b
+type: sculpture
+slug: red-dog
+title: Red Dog
+artist-ids:
+- 7b35f543-f2f8-47f0-850f-97c29456ec93
+city-id: f227e8f5-fd61-47f8-82b2-6b747f8f7ebc
+date: '1987'
+location:
+  latitude: 32.526712
+  longitude: -92.073179
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
