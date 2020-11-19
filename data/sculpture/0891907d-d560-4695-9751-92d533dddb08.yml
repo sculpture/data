@@ -1,0 +1,15 @@
+id: 0891907d-d560-4695-9751-92d533dddb08
+type: sculpture
+slug: torse-gagnon-quebec
+title: Torse
+artist-ids:
+- 5d03633b-428d-4c4b-a49a-211d70bad4a2
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1986'
+location:
+  latitude: 46.81688
+  longitude: -71.209828
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
