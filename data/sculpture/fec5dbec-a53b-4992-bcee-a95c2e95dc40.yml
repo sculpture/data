@@ -1,0 +1,16 @@
+id: fec5dbec-a53b-4992-bcee-a95c2e95dc40
+type: sculpture
+slug: carmela-plensa-barcelona
+title: Carmela
+artist-ids:
+- 24827920-a2c6-4427-ada2-0c28680fad21
+city-id: 16e2f36d-eb09-4c02-9fd2-334682ca2e1c
+date: '2015'
+location:
+  latitude: 41.387338
+  longitude: 2.175297
+  precision: 30
+material-ids:
+- 2aa408c8-4b60-4a40-a151-67661b57b97b
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
