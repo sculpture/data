@@ -1,0 +1,17 @@
+id: 57c64e34-1b60-4277-bd55-838616be1c33
+type: sculpture
+slug: les-mirasses
+title: Les Mirasses
+artist-ids:
+- 790d09e4-b94d-4327-8b45-74fd3d9f5c56
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: 200*
+location:
+  latitude: 46.802824
+  longitude: -71.221197
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
