@@ -1,0 +1,17 @@
+id: a90d9ee9-819f-4fa3-b195-ed8ca0020a67
+type: sculpture
+slug: walking-man
+title: Walking Man
+artist-ids:
+- cc805b20-8959-4f76-abbe-33a4475102de
+city-id: c55fa4d1-d614-45ec-b130-747888a8163b
+date: '1995'
+location:
+  latitude: 48.135125
+  longitude: 11.581981
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
