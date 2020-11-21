@@ -1,0 +1,15 @@
+id: 8ccbf9aa-fe2d-409e-acf4-3ec90aaef4c2
+type: sculpture
+slug: tempus-fugit
+title: Tempus Fugit
+artist-ids:
+- 790d09e4-b94d-4327-8b45-74fd3d9f5c56
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: 200*
+location:
+  latitude: 46.80358
+  longitude: -71.221999
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []
