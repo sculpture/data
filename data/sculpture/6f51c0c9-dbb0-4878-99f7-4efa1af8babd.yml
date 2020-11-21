@@ -1,0 +1,17 @@
+id: 6f51c0c9-dbb0-4878-99f7-4efa1af8babd
+type: sculpture
+slug: walking-man-rodin-hirshorn
+title: Walking Man
+artist-ids:
+- 0d0131e9-ece4-417f-80bd-904e881f478e
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1907'
+link-wikipedia: https://en.wikipedia.org/wiki/The_Walking_Man
+location:
+  latitude: 38.889088
+  longitude: -77.022593
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
