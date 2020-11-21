@@ -2,4 +2,7 @@ id: 54ef1e4a-8914-4dfa-a39d-04240f68ea6e
 type: artist
 slug: john-byers
 name: John Byers
+birth-date: '1861'
+death-date: '1930'
 gender: male
+tag-ids: []
