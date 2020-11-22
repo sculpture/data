@@ -2,5 +2,8 @@ id: e9d6589a-6942-4c61-a3f5-bbe2783b751d
 type: artist
 slug: john-fillion
 name: John Fillion
+birth-date: '1933'
+death-date: '2019'
 gender: male
 nationality: Canadian
+tag-ids: []
