@@ -2,7 +2,10 @@ id: 0af22cae-23ce-47ec-91c7-fe2a4b9c5441
 type: artist
 slug: joe-fafard
 name: Joe Fafard
+birth-date: '1942'
+death-date: '2019'
 gender: male
 link-website: http://www.joefafard.com/
 link-wikipedia: http://en.wikipedia.org/wiki/Joe_Fafard
 nationality: Canadian
+tag-ids: []
