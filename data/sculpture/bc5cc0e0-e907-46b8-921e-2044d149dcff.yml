@@ -1,0 +1,15 @@
+id: bc5cc0e0-e907-46b8-921e-2044d149dcff
+type: sculpture
+slug: miracolo-marini-munich
+title: Miracolo
+artist-ids:
+- cc102819-9d50-4efa-a8a2-d1450cfabade
+city-id: c55fa4d1-d614-45ec-b130-747888a8163b
+date: '1960'
+location:
+  latitude: 48.149887
+  longitude: 11.571114
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
