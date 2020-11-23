@@ -1,0 +1,17 @@
+id: 154f8139-41f1-458d-a487-b75b2b24de3c
+type: sculpture
+slug: delta-solar
+title: Delta Solar
+artist-ids:
+- 6be4e5e7-54fd-421d-95ad-4370d012b9e7
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+commissioned-by: gift of Venesuela president
+date: '1977'
+location:
+  latitude: 38.887493
+  longitude: -77.022711
+  precision: 20
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []
