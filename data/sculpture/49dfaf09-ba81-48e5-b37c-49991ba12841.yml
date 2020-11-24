@@ -10,9 +10,8 @@ link-wikipedia: https://en.wikipedia.org/wiki/Monument_to_the_Ghetto_Heroes
 location:
   latitude: 52.249685
   longitude: 20.994104
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
