@@ -1,8 +1,10 @@
 id: f829930d-ea83-4852-ae19-9d67b0768ee0
 type: artist
-slug: percy-guy-wood
-name: Percy Guy Wood
-birth-date: '1860'
-death-date: '1904'
+slug: pablo-gargallo
+name: Pablo Gargallo
+birth-date: '1881'
+death-date: '1934'
 gender: male
-nationality: British
+link-wikipedia: https://en.wikipedia.org/wiki/Pablo_Gargallo
+nationality: Spanish
+tag-ids: []
