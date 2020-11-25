@@ -1,0 +1,18 @@
+id: 5a9d9587-6cc6-457e-b107-48ce20ad6e4a
+type: sculpture
+slug: prophet-gargallo-hirshorn
+title: The Prophet
+artist-ids:
+- f829930d-ea83-4852-ae19-9d67b0768ee0
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1933'
+link-wikipedia: https://en.wikipedia.org/wiki/The_Prophet_(4/7)
+location:
+  latitude: 38.889029
+  longitude: -77.023408
+  precision: 30
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
