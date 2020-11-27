@@ -1,0 +1,15 @@
+id: f792b90f-622d-4993-a381-f0a819166838
+type: sculpture
+slug: column-of-free-spirit
+title: Column of the Free Spirit
+artist-ids:
+- a59011d1-1859-4fe8-bcd7-e1807d32d4eb
+city-id: dfc812fa-0588-474a-98a2-4cdccf6bad2f
+location:
+  latitude: 42.9795
+  longitude: -85.585639
+  precision: 50
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
