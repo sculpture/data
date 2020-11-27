@@ -1,0 +1,19 @@
+id: aac79b32-4b69-439c-8a0a-d001af974a31
+type: sculpture
+slug: la-vivriere-quebec-city
+title: La Vivrière
+artist-ids:
+- 1aa328ad-78f1-442c-9d74-0e65efe976a3
+- d19e5a8a-f21c-4ced-884f-ff3b59c2b251
+- fc7ddf50-e329-42f8-93b4-1ae744aa9d9b
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1995'
+location:
+  latitude: 46.816171
+  longitude: -71.203578
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
