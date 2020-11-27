@@ -1,0 +1,18 @@
+id: 241eaa05-cc6f-41af-a4ea-9792ae9f52bd
+type: sculpture
+slug: spinoza-monument
+title: Spinoza Monument
+artist-ids:
+- c31950a5-ef0a-4e91-8a7f-beab428867d0
+city-id: 6ba859f5-a74a-4e05-87ae-c2c2bf55650b
+date: '2008'
+location:
+  latitude: 52.367898
+  longitude: 4.899636
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- cc034efc-b82b-42ee-a2d2-16753502bef1
