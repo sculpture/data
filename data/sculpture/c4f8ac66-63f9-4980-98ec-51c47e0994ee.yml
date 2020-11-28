@@ -1,0 +1,17 @@
+id: c4f8ac66-63f9-4980-98ec-51c47e0994ee
+type: sculpture
+slug: dreaming-plensa-toronto
+title: Dreaming
+artist-ids:
+- 24827920-a2c6-4427-ada2-0c28680fad21
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2017'
+location:
+  latitude: 43.64956
+  longitude: -79.383028
+  precision: 10
+material-ids:
+- 02f666a5-a96a-466a-9a4a-3ff26ba1bad5
+- 56560105-70a1-4867-aaea-6d76d31576c0
+tag-ids:
+- df4890c4-2701-4782-a670-d019b3b95547
