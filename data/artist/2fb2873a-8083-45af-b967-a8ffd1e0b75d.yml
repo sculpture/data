@@ -2,6 +2,8 @@ id: 2fb2873a-8083-45af-b967-a8ffd1e0b75d
 type: artist
 slug: henry-moore
 name: Henry Moore
+birth-date: '1898'
+death-date: '1986'
 gender: male
 link-website: http://www.henrymoore.com/
 link-wikipedia: http://en.wikipedia.org/wiki/Henry_Moore
