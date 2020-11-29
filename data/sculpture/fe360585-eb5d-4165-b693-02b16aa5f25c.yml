@@ -1,0 +1,16 @@
+id: fe360585-eb5d-4165-b693-02b16aa5f25c
+type: sculpture
+slug: phoenix-liberman-la
+title: Phoenix
+artist-ids:
+- b2c54f03-b05b-43b4-8811-e4d959f022ac
+city-id: fd14bdab-7cb5-49d7-a9e8-84595c2d2088
+date: '1974'
+location:
+  latitude: 34.063932
+  longitude: -118.359229
+  precision: 30
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
