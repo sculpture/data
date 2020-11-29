@@ -1,0 +1,16 @@
+id: ec77e5ea-bab9-4fe5-8395-daf5bf411d8f
+type: sculpture
+slug: eros-inside-eros
+title: Eros, Inside Eros
+artist-ids:
+- 713ba9d4-14da-47da-aefd-326765c175d1
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1986'
+location:
+  latitude: 38.889063
+  longitude: -77.023237
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
