@@ -7,4 +7,5 @@ death-date: '2005'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Arman
 nationality: French, American
-tag-ids: []
+tag-ids:
+- ba228b77-c711-47fc-85d1-9c8d48961343
