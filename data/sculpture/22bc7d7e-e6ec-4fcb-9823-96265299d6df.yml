@@ -1,0 +1,17 @@
+id: 22bc7d7e-e6ec-4fcb-9823-96265299d6df
+type: sculpture
+slug: visitations-kinnebrew
+title: Visitations
+artist-ids:
+- e18a083a-8338-4dd3-bf04-07196b04f1bd
+city-id: dfc812fa-0588-474a-98a2-4cdccf6bad2f
+commissioned-by: Gift of the Hoffius Family
+date: '1997'
+location:
+  latitude: 42.9795
+  longitude: -85.585639
+  precision: 50
+material-ids:
+- 32495469-6b62-477a-b272-a0e4e2c0e5c9
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
