@@ -1,0 +1,17 @@
+id: 293218f4-b8ae-4063-8470-eeb181800d08
+type: sculpture
+slug: rust-angel-suvero
+title: Rust Angel
+artist-ids:
+- bd9de07c-dcbb-4c62-9d26-d63b6736a547
+city-id: c93173fa-2f65-4768-8c3e-b7f034ba2ada
+date: '1995'
+location:
+  latitude: 41.262727
+  longitude: -73.673209
+  precision: 50
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- f512d675-0554-4a67-987c-1da560f2c95a
