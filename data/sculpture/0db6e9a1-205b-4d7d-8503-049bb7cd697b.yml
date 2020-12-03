@@ -1,0 +1,16 @@
+id: 0db6e9a1-205b-4d7d-8503-049bb7cd697b
+type: sculpture
+slug: brushstroke-lichtenstein-hirshhorn
+title: Brushstroke
+artist-ids:
+- 6c982673-ff3d-44cb-96e7-d6f173d1a332
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1996'
+link-wikipedia: https://en.wikipedia.org/wiki/Brushstroke
+location:
+  latitude: 38.888528
+  longitude: -77.023011
+  precision: 50
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids: []
