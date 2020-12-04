@@ -1,0 +1,18 @@
+id: 28cc4546-61c1-4f22-8f9f-4ca0c57f4427
+type: sculpture
+slug: franz-kafka-rona-prague
+title: Statue of Franz Kafka
+artist-ids:
+- 460adc8f-46fc-442c-b941-6865f66c5d6e
+city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
+date: '2003'
+location:
+  latitude: 50.090592
+  longitude: 14.421106
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
