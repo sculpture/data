@@ -1,0 +1,18 @@
+id: a64af3ae-8948-4c1a-b5fa-157d55990c35
+type: sculpture
+slug: la-riviere-maillol-brussels
+title: La Rivière
+artist-ids:
+- 65b29e60-e2c4-47e0-97e7-dd087727cc3f
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1943'
+link-wikipedia: https://en.wikipedia.org/wiki/La_Rivi%C3%A8re_(Maillol)
+location:
+  latitude: 50.841355
+  longitude: 4.357625
+  precision: 10
+material-ids:
+- b056b6a2-cc0e-43ec-84ae-887480ee3706
+tag-ids:
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
