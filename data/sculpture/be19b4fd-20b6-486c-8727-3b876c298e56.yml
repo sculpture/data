@@ -1,7 +1,7 @@
 id: be19b4fd-20b6-486c-8727-3b876c298e56
 type: sculpture
 slug: rokin-fontein
-title: Rokin fontein
+title: Rokin Fontein
 artist-ids:
 - ae25baba-61de-4b84-b8d2-5a057e00b19c
 date: '2017'
@@ -12,4 +12,5 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
 - 18d2fd29-8838-4290-a343-39182ae9b445
