@@ -7,4 +7,5 @@ death-date: '1944'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Aristide_Maillol
 nationality: French
-tag-ids: []
+tag-ids:
+- ba228b77-c711-47fc-85d1-9c8d48961343
