@@ -1,0 +1,16 @@
+id: 2d775be3-bb6c-4cfd-8cf9-dbb6add896b9
+type: sculpture
+slug: grande-nike
+title: 'Grande Niké '
+artist-ids:
+- 46279c9e-eafb-4413-91f7-ba6c3ad6d160
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1956'
+location:
+  latitude: 50.841294
+  longitude: 4.35755
+  precision: 50
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
