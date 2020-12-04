@@ -1,7 +1,7 @@
 id: 82275d62-e8cc-40d4-9298-e97b8441e676
 type: sculpture
-slug: advice-space-viii
-title: Advice to Space VIII
+slug: consejo-espacio-viii
+title: Consejo al espacio VIII
 artist-ids:
 - fd659bae-6fe7-4364-94f1-ab2a288cac22
 city-id: 6c2ff486-7a44-482f-923f-ad500130a742
@@ -12,5 +12,6 @@ location:
   precision: 50
 material-ids:
 - 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+note: advice-space-viii
 tag-ids:
 - 9010cc4c-c852-4176-a7fe-04f0885fcffc
