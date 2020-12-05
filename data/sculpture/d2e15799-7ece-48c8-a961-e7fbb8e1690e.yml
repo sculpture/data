@@ -1,7 +1,7 @@
 id: d2e15799-7ece-48c8-a961-e7fbb8e1690e
 type: sculpture
-slug: divka-s-absintem
-title: Dívka s absintem
+slug: girl-with-absinthe-stefan
+title: Girl with Absinthe
 artist-ids:
 - c5dd3509-6f22-4332-8930-0cd9347e35b7
 city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
@@ -12,6 +12,7 @@ location:
   precision: 30
 material-ids:
 - de275cc0-04a6-438a-a3ef-1d2b8deaeb14
+note: Dívka s absintem
 tag-ids:
 - 18d2fd29-8838-4290-a343-39182ae9b445
 - 6f13c768-5619-419e-97af-60440cab7f89
