@@ -1,0 +1,17 @@
+id: ed6eee06-16db-438e-8606-8ce0f3341dab
+type: sculpture
+slug: mermaid-warsaw-powisle
+title: Mermaid of Warsaw
+artist-ids:
+- 3d81b9c3-c420-41de-8a33-1e3b2cba7cb9
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1939'
+link-wikipedia: https://pl.wikipedia.org/wiki/Pomnik_Syreny_w_Warszawie_(Powi%C5%9Ble)
+location:
+  latitude: 52.240238
+  longitude: 21.032127
+  precision: 26
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
