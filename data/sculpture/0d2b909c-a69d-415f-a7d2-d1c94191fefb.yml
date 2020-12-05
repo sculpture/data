@@ -1,0 +1,16 @@
+id: 0d2b909c-a69d-415f-a7d2-d1c94191fefb
+type: sculpture
+slug: massassauga-lily
+title: Massassauga Lily
+artist-ids:
+- e41958c2-2a1a-4641-8b8a-a6272b053cc8
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1991'
+location:
+  latitude: 43.651756
+  longitude: -79.378194
+  precision: 27
+material-ids:
+- 3cd25954-9a6b-478f-a4a4-8470c3972f2c
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
