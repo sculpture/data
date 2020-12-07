@@ -1,0 +1,18 @@
+id: 01e6179c-23e3-4fa6-8f5e-6db427411b5e
+type: sculpture
+slug: rembrandt-amsterdam
+title: Rembrandt
+artist-ids:
+- 2c8c022d-cf10-4a52-a78a-74dddc1782f9
+city-id: 6ba859f5-a74a-4e05-87ae-c2c2bf55650b
+date: '1852'
+location:
+  latitude: 52.366009
+  longitude: 4.896676
+  precision: 30
+material-ids:
+- 2aa408c8-4b60-4a40-a151-67661b57b97b
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- b078f909-a131-4d37-8b36-59061078b159
