@@ -7,4 +7,5 @@ death-date: '1953'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Emil_Filla
 nationality: Czech
-tag-ids: []
+tag-ids:
+- 92f5b43c-299b-49c6-a5f6-f1aa2b4eaa61
