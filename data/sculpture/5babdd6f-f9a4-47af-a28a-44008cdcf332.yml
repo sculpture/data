@@ -1,0 +1,18 @@
+id: 5babdd6f-f9a4-47af-a28a-44008cdcf332
+type: sculpture
+slug: hlava-filla-prague
+title: Hlava
+artist-ids:
+- d82d740f-cc23-4516-881e-f765df9d3b67
+city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
+date: '1935'
+location:
+  latitude: 50.101202
+  longitude: 14.432452
+  precision: 30
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
