@@ -10,6 +10,8 @@ link-wikipedia: https://en.wikipedia.org/wiki/Maisonneuve_Monument
 location:
   latitude: 45.504827
   longitude: -73.557242
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
