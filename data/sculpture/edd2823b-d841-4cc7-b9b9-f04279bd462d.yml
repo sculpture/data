@@ -1,0 +1,16 @@
+id: edd2823b-d841-4cc7-b9b9-f04279bd462d
+type: sculpture
+slug: dream-south-eyre
+title: Dream South
+artist-ids:
+- 15b4136f-bb32-4f26-ab9f-b01879f48140
+city-id: 5899c2fb-c707-426d-a651-491dec175f49
+date: '2010'
+location:
+  latitude: 43.84193
+  longitude: -79.621332
+  precision: 50
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
