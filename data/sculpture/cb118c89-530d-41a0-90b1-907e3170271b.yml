@@ -10,6 +10,9 @@ link-wikipedia: https://en.wikipedia.org/wiki/Puellae
 location:
   latitude: 38.891212
   longitude: -77.023017
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
