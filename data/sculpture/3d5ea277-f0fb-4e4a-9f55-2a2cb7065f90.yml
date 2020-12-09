@@ -10,12 +10,11 @@ date: '1902'
 location:
   latitude: 45.422245
   longitude: -75.691978
-  precision: 31.0
+  precision: 31
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
 - 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
-- 5be20202-3d26-474b-bc9e-b27ec5de1b09
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
+- 2d7e8f2e-e187-462b-a638-06a4ef145363
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
