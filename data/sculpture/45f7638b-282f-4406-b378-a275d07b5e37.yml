@@ -9,11 +9,11 @@ date: '1896'
 location:
   latitude: 43.634784
   longitude: -79.466609
-  precision: 40.0
+  precision: 40
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 05f12a7a-8656-445c-ad89-8617853c6f35
 - 18d2fd29-8838-4290-a343-39182ae9b445
 - 20ba399b-d962-4b4b-8695-6723679a005b
-- 2d7e8f2e-e187-462b-a638-06a4ef145363
+- 3f7e079f-a6cd-41f4-838e-8276cea37ca7
