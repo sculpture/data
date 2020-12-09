@@ -10,8 +10,9 @@ date: '1954'
 location:
   latitude: 43.634732
   longitude: -79.415763
-  precision: 56.0
+  precision: 56
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
+- 399902cf-177a-4693-980d-eb86255cc25f
 - 5e46697e-16c7-4478-a438-202749e4888d
