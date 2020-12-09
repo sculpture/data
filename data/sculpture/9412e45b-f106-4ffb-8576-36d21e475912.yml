@@ -9,8 +9,8 @@ date: '1972'
 location:
   latitude: 43.252483
   longitude: -79.830876
-  precision: 100.0
+  precision: 100
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids:
-- 39f7789b-145c-4ccf-897a-34a56abe6fa0
+- e0decfe4-4a78-4f23-af47-3f549797b85a
