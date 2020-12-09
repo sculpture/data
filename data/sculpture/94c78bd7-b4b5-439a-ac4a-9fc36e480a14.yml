@@ -9,11 +9,10 @@ date: '1922'
 location:
   latitude: 43.37131
   longitude: -80.982421
-  precision: 136.0
+  precision: 136
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
 - 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
