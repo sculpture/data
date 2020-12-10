@@ -10,6 +10,8 @@ date: '1984'
 location:
   latitude: 43.663535
   longitude: -79.394162
-  precision: 50.0
+  precision: 50
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- df4890c4-2701-4782-a670-d019b3b95547
