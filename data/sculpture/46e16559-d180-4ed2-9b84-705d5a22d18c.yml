@@ -1,0 +1,19 @@
+id: 46e16559-d180-4ed2-9b84-705d5a22d18c
+type: sculpture
+slug: aglaia-munich
+title: Aglaia
+artist-ids:
+- dc9c4b6a-c947-4da0-a4d6-57ebd0d4ff36
+city-id: c55fa4d1-d614-45ec-b130-747888a8163b
+date: '1991'
+location:
+  latitude: 48.149415
+  longitude: 11.571447
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
