@@ -10,6 +10,8 @@ date: '2008'
 location:
   latitude: 43.66094
   longitude: -79.381829
-  precision: 40.0
+  precision: 40
 material-ids:
 - 56560105-70a1-4867-aaea-6d76d31576c0
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
