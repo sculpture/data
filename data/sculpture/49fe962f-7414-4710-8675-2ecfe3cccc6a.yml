@@ -9,9 +9,9 @@ date: '1973'
 location:
   latitude: 43.472285
   longitude: -80.544857
-  precision: 50.0
+  precision: 50
 material-ids:
 - 2c971567-aa58-40f7-bf83-b5a97ed653c9
 tag-ids:
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
 - 6f13c768-5619-419e-97af-60440cab7f89
+- e7c0d105-ed1d-4e46-8cd8-a5153a2a784d
