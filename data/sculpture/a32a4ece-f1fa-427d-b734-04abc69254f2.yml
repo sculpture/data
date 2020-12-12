@@ -10,6 +10,8 @@ date: '1991'
 location:
   latitude: 43.648746
   longitude: -79.385609
-  precision: 50.0
+  precision: 50
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 7847b3d8-40b7-4a02-8328-5d85a3254b00
