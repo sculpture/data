@@ -1,0 +1,18 @@
+id: da2b55da-d8f4-42ed-9766-129dfb5b3814
+type: sculpture
+slug: mozart-monument
+title: Mozart Monument
+artist-ids:
+- 301f89c0-3975-4323-9c2e-147cf0abca26
+city-id: 7e35b7d3-6c72-44b3-90ea-ae23cc140164
+date: '1842'
+location:
+  latitude: 47.798864
+  longitude: 13.047892
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- ac86ac3d-0564-479e-a5f0-5de5b5e7f7f4
