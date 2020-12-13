@@ -1,0 +1,15 @@
+id: 8c48211d-5b84-411b-86a5-bc33e57dc0d3
+type: sculpture
+slug: caldera-cragg
+title: Caldera
+artist-ids:
+- bf30a157-6a15-4521-9f41-3e4766f1eefc
+city-id: 7e35b7d3-6c72-44b3-90ea-ae23cc140164
+date: '2008'
+location:
+  latitude: 47.802791
+  longitude: 13.043411
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
