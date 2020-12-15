@@ -1,0 +1,17 @@
+id: 0f62c1ab-cbad-4004-b7e8-27eb57ec8c84
+type: sculpture
+slug: nicolaus-copernicus-torun
+title: Nicolaus Copernicus (Toruń)
+artist-ids:
+- b83b43f8-e305-4cf1-a152-3b1e05ba59af
+city-id: 04e0fe28-d11f-4df8-9b7d-2f1addbffd0d
+location:
+  latitude: 53.010311
+  longitude: 18.604952
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9905d2f9-00e0-443b-8640-dfb98d4795a1
