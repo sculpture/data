@@ -1,0 +1,17 @@
+id: 6fe89722-b0c4-426c-b8aa-d8013257b3f7
+type: sculpture
+slug: hearing-song-reim
+title: Hearing the Song
+artist-ids:
+- 9ff2eb23-43a1-43df-9903-2037e16dc7fe
+city-id: caadc47a-8078-4666-a53b-11150dbdcc9d
+date: '2017'
+location:
+  latitude: 43.29152
+  longitude: -79.877449
+  precision: 50
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
