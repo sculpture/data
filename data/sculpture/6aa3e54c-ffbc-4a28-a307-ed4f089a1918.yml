@@ -9,10 +9,11 @@ date: '1985'
 location:
   latitude: 43.545841
   longitude: -80.249382
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 176d1080-3cc3-41e0-b103-11b1df7b1288
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- ea310784-30d7-4a31-9c7b-22e86c3cf049
