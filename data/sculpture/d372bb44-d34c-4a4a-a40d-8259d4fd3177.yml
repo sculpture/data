@@ -10,8 +10,9 @@ date: '1968'
 location:
   latitude: 43.662876
   longitude: -79.388877
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 18d2fd29-8838-4290-a343-39182ae9b445
+- ea310784-30d7-4a31-9c7b-22e86c3cf049
