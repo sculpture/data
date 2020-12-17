@@ -9,7 +9,7 @@ date: '1870'
 location:
   latitude: 43.662794
   longitude: -79.393325
-  precision: 41.0
+  precision: 41
 material-ids:
 - 638725f5-0ac9-4b92-916d-b98af20b3df5
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
@@ -17,3 +17,4 @@ tag-ids:
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
 - 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
