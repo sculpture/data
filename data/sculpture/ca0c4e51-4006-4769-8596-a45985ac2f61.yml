@@ -10,11 +10,14 @@ date: '1951'
 location:
   latitude: 43.651902
   longitude: -79.385719
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
 - 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
 - 6f13c768-5619-419e-97af-60440cab7f89
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- ea310784-30d7-4a31-9c7b-22e86c3cf049
