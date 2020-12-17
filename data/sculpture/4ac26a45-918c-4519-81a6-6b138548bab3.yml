@@ -10,7 +10,11 @@ date: '1914'
 location:
   latitude: 43.685308
   longitude: -79.391114
-  precision: 50.0
+  precision: 50
 material-ids:
 - 2bbf7631-76ad-44dd-ac61-6d91ac0cedf8
 note: cast made in 1980's
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
