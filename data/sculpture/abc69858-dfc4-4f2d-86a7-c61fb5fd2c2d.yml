@@ -1,0 +1,20 @@
+id: abc69858-dfc4-4f2d-86a7-c61fb5fd2c2d
+type: sculpture
+slug: don-quixote-sancho-panza
+title: Don Quixote and Sancho Panza
+artist-ids:
+- 471829a9-aff6-4f4c-93a6-4ffac27eb4ca
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1930'
+location:
+  latitude: 50.846576
+  longitude: 4.355955
+  precision: 30
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 3d01002e-928d-47f0-9a30-5f38d5a8eb27
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
