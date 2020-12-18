@@ -1,0 +1,19 @@
+id: 1c4b1fc7-3473-482e-8653-22dde259bb0c
+type: sculpture
+slug: tanzschritt-manzu-salzburg
+title: Tanzschritt
+artist-ids:
+- 7e97b30b-c66c-4e4c-ae15-fc217a1067a1
+city-id: 7e35b7d3-6c72-44b3-90ea-ae23cc140164
+date: '1973'
+location:
+  latitude: 47.799203
+  longitude: 13.042226
+  precision: 30
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
