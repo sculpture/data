@@ -1,0 +1,18 @@
+id: e6dcf0b2-dd16-4708-a4a5-e9a9a3ffdb2c
+type: sculpture
+slug: young-girl-on-chair
+title: Young Girl on a Chair
+artist-ids:
+- 7e97b30b-c66c-4e4c-ae15-fc217a1067a1
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1955'
+link-wikipedia: https://en.wikipedia.org/wiki/Young_Girl_on_a_Chair
+location:
+  latitude: 38.889046
+  longitude: -77.023268
+  precision: 30
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
