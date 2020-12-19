@@ -1,0 +1,19 @@
+id: 0cf79e54-230d-46bd-bc14-be3353d5d293
+type: sculpture
+slug: nicolaus-copernicus-cracow
+title: Nicolaus Copernicus (Kraków)
+artist-ids:
+- 784992b8-9ba0-4662-aa9c-5af47c13bd4e
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '1900'
+link-wikipedia: https://en.wikipedia.org/wiki/Nicolaus_Copernicus_Monument,_Krak%C3%B3w
+location:
+  latitude: 50.061093
+  longitude: 19.932455
+  precision: 50
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9905d2f9-00e0-443b-8640-dfb98d4795a1
