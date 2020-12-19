@@ -1,0 +1,16 @@
+id: 6f0976ed-afae-4eb8-b18c-d2f2a51ff419
+type: sculpture
+slug: 30-carabob-quartet-1
+title: 30 Carabob Quartet (1)
+artist-ids:
+- 7b81070c-d211-4648-8f78-6eeb713750b8
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2014'
+location:
+  latitude: 43.782106
+  longitude: -79.296783
+  precision: 30
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab
