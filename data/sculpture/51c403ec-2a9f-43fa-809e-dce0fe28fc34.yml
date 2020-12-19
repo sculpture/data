@@ -1,0 +1,17 @@
+id: 51c403ec-2a9f-43fa-809e-dce0fe28fc34
+type: sculpture
+slug: jardin-fernandez
+title: Jardín
+artist-ids:
+- e7d4e119-41c3-4ee9-81d5-dc68aff6c94b
+city-id: caadc47a-8078-4666-a53b-11150dbdcc9d
+date: '2016'
+location:
+  latitude: 43.291107
+  longitude: -79.876161
+  precision: 20
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- f3c0c272-150c-42cd-9a87-bd121fdc1309
