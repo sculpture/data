@@ -10,9 +10,9 @@ date: '1999'
 location:
   latitude: 43.723495
   longitude: -79.378742
-  precision: 50.0
+  precision: 50
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids:
-- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 66ec2c31-c300-4e0f-bc36-93fa72a95fef
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
