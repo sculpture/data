@@ -1,4 +1,7 @@
 id: 594f7a4e-d9b3-4a16-8b12-43f43d8da36a
 type: region
-slug: esplanade-powder-magazine
-name: Esplanade Powder Magazine
+slug: cracow-poland
+name: Kraków
+geojson: '{"type":"Polygon","coordinates":[[[19.880447387695316,50.10428573276831],[20.023269653320316,50.10648772767332],[20.023269653320316,50.01612291059477],[19.883193969726566,50.015240464108395],[19.880447387695316,50.10428573276831]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
