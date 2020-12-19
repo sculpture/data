@@ -1,0 +1,14 @@
+id: cb198636-1de3-47bc-838c-e7cef367c8da
+type: sculpture
+slug: 1-1-1-daudelin
+title: 1 + 1 = 1
+artist-ids:
+- 48ee8f7b-e30b-4b78-854a-141e7d8b252d
+date: '1997'
+location:
+  latitude: 46.808507
+  longitude: -71.218384
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids: []
