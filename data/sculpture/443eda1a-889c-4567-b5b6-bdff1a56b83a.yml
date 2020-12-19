@@ -9,7 +9,9 @@ date: '1996'
 location:
   latitude: 43.657941
   longitude: -79.39837
-  precision: 23.0
+  precision: 23
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 note: design Ph.H.Carter
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
