@@ -1,0 +1,16 @@
+id: 71cf0687-9189-4441-8b11-599bff11637d
+type: sculpture
+slug: geometric-mouse-variation-i
+title: 'Geometric Mouse: Variation I, Scale A'
+artist-ids:
+- 88ecb931-e524-412b-80a4-8cc409acd192
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1971'
+location:
+  latitude: 38.888437
+  longitude: -77.022571
+  precision: 50
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
