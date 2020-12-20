@@ -1,0 +1,17 @@
+id: 00f49a9a-9e7b-42da-b240-a7144a793ad3
+type: sculpture
+slug: multatuli-amsterdam
+title: Multatuli
+artist-ids:
+- df40805a-40ff-41d2-a2c0-55768a96856f
+city-id: 6ba859f5-a74a-4e05-87ae-c2c2bf55650b
+date: '1987'
+location:
+  latitude: 52.374565
+  longitude: 4.889329
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
