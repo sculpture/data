@@ -1,0 +1,19 @@
+id: 38e91223-305e-49f3-8f85-57b8b767195e
+type: sculpture
+slug: adam-mickiewicz-krakow
+title: Adam Mickiewicz (Kraków)
+artist-ids:
+- 5b092d91-9661-43f4-88a8-c558bf9ac30b
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '1898'
+link-wikipedia: https://en.wikipedia.org/wiki/Adam_Mickiewicz_Monument,_Krak%C3%B3w
+location:
+  latitude: 50.061916
+  longitude: 19.938286
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
