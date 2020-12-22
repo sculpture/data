@@ -1,0 +1,18 @@
+id: 9f629cb9-3fe9-4b08-8fb4-6c3307dcc15a
+type: sculpture
+slug: adonis-thorvaldsen
+title: Adonis
+artist-ids:
+- c4c8ec33-facc-423a-a3a9-eb6c1e5df7d4
+city-id: c55fa4d1-d614-45ec-b130-747888a8163b
+location:
+  latitude: 48.149823
+  longitude: 11.570886
+  precision: 30
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
