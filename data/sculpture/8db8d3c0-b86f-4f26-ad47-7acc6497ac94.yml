@@ -1,0 +1,19 @@
+id: 8db8d3c0-b86f-4f26-ad47-7acc6497ac94
+type: sculpture
+slug: van-eyck-brothers-ghent
+title: 'Van Eyck brothers monument '
+artist-ids:
+- 8a6a2188-193b-4799-8155-8ef77c0fc01d
+city-id: ca0e48aa-9f11-4867-9698-3009bb1fa395
+date: '1913'
+location:
+  latitude: 51.053557
+  longitude: 3.733979
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- b078f909-a131-4d37-8b36-59061078b159
