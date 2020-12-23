@@ -1,0 +1,18 @@
+id: 7972586d-8e1d-49b1-949f-ff9099ca0659
+type: sculpture
+slug: toronto-man
+title: Toronto Man
+artist-ids:
+- 233bd861-4de0-4df5-95ca-a5530b7e0146
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2018'
+location:
+  latitude: 43.687469
+  longitude: -79.396017
+  precision: 30
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- c9884cff-1c92-48b5-816b-aa0479de54fa
