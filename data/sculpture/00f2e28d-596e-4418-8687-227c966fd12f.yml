@@ -10,6 +10,8 @@ date: '1970'
 location:
   latitude: 43.766599
   longitude: -79.475255
-  precision: 50.0
+  precision: 50
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
