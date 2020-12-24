@@ -9,6 +9,8 @@ date: '1961'
 location:
   latitude: 43.727263
   longitude: -79.378306
-  precision: 50.0
+  precision: 50
 material-ids:
 - 99b9110f-f812-4ad8-b12d-7e1dd5a071db
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
