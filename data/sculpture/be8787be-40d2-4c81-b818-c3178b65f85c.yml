@@ -1,0 +1,17 @@
+id: be8787be-40d2-4c81-b818-c3178b65f85c
+type: sculpture
+slug: family-group
+title: Family Group
+artist-ids:
+- 2fb2873a-8083-45af-b967-a8ffd1e0b75d
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1949'
+location:
+  latitude: 40.761425
+  longitude: -73.976839
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- ea310784-30d7-4a31-9c7b-22e86c3cf049
