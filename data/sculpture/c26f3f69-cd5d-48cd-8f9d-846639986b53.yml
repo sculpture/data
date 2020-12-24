@@ -10,9 +10,11 @@ date: '1983'
 location:
   latitude: 43.649444
   longitude: -79.417497
-  precision: 37.0
+  precision: 37
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 18d2fd29-8838-4290-a343-39182ae9b445
 - 20ba399b-d962-4b4b-8695-6723679a005b
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- b3e92e64-c83c-4c32-981a-18cb40402f4d
