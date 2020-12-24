@@ -1,6 +1,6 @@
 id: 05053bb2-97c8-4023-b17c-b0f0863912fb
 type: sculpture
-slug: family-group
+slug: family-group-lutkenhaus
 title: Family Group
 artist-ids:
 - 00e97f17-71dc-4ad2-b660-855ae823bc24
@@ -10,7 +10,7 @@ date: '1972'
 location:
   latitude: 43.648169
   longitude: -79.374616
-  precision: 9.0
+  precision: 9
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
