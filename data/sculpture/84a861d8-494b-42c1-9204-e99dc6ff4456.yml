@@ -1,0 +1,16 @@
+id: 84a861d8-494b-42c1-9204-e99dc6ff4456
+type: sculpture
+slug: monument-with-standing-beast
+title: Monument with Standing Beast
+artist-ids:
+- a7230cc1-62f3-42ae-bb7c-23d59d79e17b
+city-id: 8fa25799-a952-4ff5-9506-2f3b95f48200
+date: '1884'
+location:
+  latitude: 41.884744
+  longitude: -87.631207
+  precision: 10
+material-ids:
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+tag-ids:
+- df4890c4-2701-4782-a670-d019b3b95547
