@@ -1,7 +1,7 @@
 id: f7318516-8ede-43a6-88a1-88bc366ec7d0
 type: region
-slug: simcoe-county-court-house
-name: Simcoe County Court House
-geojson: '{"type":"Point","coordinates":[-79.6838861703873,44.3923457917255]}'
+slug: moma-ny
+name: MOMA
+geojson: '{"type":"Polygon","coordinates":[[[-73.97812,40.76148],[-73.97762,40.76127],[-73.97697,40.76162],[-73.97778,40.76196],[-73.97812,40.76148]]]}'
 tag-ids:
-- 5b81e8eb-ff28-45a9-9f26-50353cd28215
+- 7416cb28-4978-4edc-8118-4330860dbd09
