@@ -9,8 +9,9 @@ date: '1971'
 location:
   latitude: 43.472285
   longitude: -80.544857
-  precision: 50.0
+  precision: 50
 material-ids:
 - b17f6ec5-c516-460c-846c-15e4553f0be3
 tag-ids:
-- 6d1d3b0a-67e4-40ca-b465-0aecf567affd
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
