@@ -9,9 +9,10 @@ date: '1974'
 location:
   latitude: 43.660093
   longitude: -79.372027
-  precision: 50.0
+  precision: 50
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 note: (fot.2003) Sculpture not anymore at this location
 tag-ids:
+- 56a83313-95df-48f1-9e58-7c8495a99f05
 - bbcb416f-d400-4a07-8a83-79a445209a57
