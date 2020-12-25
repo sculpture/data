@@ -9,9 +9,10 @@ date: '1999'
 location:
   latitude: 43.76271
   longitude: -79.441129
-  precision: 50.0
+  precision: 50
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 note: (fot.2008) Sculpture not anymore at this location
 tag-ids:
+- 56a83313-95df-48f1-9e58-7c8495a99f05
 - bbcb416f-d400-4a07-8a83-79a445209a57
