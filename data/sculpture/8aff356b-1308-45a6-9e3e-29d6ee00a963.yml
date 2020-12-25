@@ -11,7 +11,7 @@ date: '1988'
 location:
   latitude: 43.661629
   longitude: -79.385559
-  precision: 50.0
+  precision: 50
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
@@ -19,3 +19,4 @@ material-ids:
 tag-ids:
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- c9884cff-1c92-48b5-816b-aa0479de54fa
