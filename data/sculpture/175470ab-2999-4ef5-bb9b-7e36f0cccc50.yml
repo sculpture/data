@@ -4,13 +4,11 @@ slug: koilos
 title: Koilos
 artist-ids:
 - c5d4d597-b585-4476-96ee-f25b34038f4f
-city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 date: '2009'
 location:
-  latitude: 43.649955
-  longitude: -79.361553
-  precision: 95
+  latitude: 45.029266
+  longitude: -79.43277
+  precision: 100
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
-tag-ids:
-- bbcb416f-d400-4a07-8a83-79a445209a57
+tag-ids: []
