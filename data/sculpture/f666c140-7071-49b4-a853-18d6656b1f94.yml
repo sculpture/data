@@ -1,0 +1,16 @@
+id: f666c140-7071-49b4-a853-18d6656b1f94
+type: sculpture
+slug: schooner-temporale
+title: Schooner
+artist-ids:
+- f1c37639-130e-4ba1-9a92-cb6efd243306
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1941'
+location:
+  latitude: 43.643093
+  longitude: -79.378605
+  precision: 50
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 8edbb59e-b498-4210-9981-8781235cafcd
