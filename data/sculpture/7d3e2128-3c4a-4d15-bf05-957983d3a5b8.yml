@@ -11,10 +11,12 @@ link-wikipedia: https://en.wikipedia.org/wiki/The_Hand_of_God_(Carl_Milles)
 location:
   latitude: 43.771424
   longitude: -79.257749
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - f464cfd0-cf7e-42d9-9f7c-9d7edfda1667
 tag-ids:
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
