@@ -1,7 +1,7 @@
 id: ed801323-b676-48ae-b2ae-bf9327743452
 type: sculpture
 slug: dog-sled-temporale
-title: Do g Sled
+title: Dog Sled
 artist-ids:
 - f1c37639-130e-4ba1-9a92-cb6efd243306
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
@@ -13,4 +13,5 @@ location:
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
 - 8edbb59e-b498-4210-9981-8781235cafcd
