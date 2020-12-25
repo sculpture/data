@@ -8,11 +8,10 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Coca Cola of Canada Ltd.
 date: '1964'
 location:
-  latitude: 43.707073
-  longitude: -79.347187
+  latitude: 43.68229
+  longitude: -79.699669
   precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 56a83313-95df-48f1-9e58-7c8495a99f05
-- bbcb416f-d400-4a07-8a83-79a445209a57
