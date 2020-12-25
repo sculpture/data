@@ -7,11 +7,10 @@ artist-ids:
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 date: '2006'
 location:
-  latitude: 43.649691
-  longitude: -79.360587
-  precision: 50
+  latitude: 46.047225
+  longitude: -73.106451
+  precision: 500
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 - 95a48ae8-6d9b-4ae1-8704-f9685d804a35
-tag-ids:
-- bbcb416f-d400-4a07-8a83-79a445209a57
+tag-ids: []
