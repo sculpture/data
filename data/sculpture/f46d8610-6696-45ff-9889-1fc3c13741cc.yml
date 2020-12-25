@@ -1,0 +1,19 @@
+id: f46d8610-6696-45ff-9889-1fc3c13741cc
+type: sculpture
+slug: polar-bear-cubs
+title: Polar Bear and Cubs
+artist-ids:
+- bc329d87-d430-45ca-a9bc-e7acd01d129a
+- f1c37639-130e-4ba1-9a92-cb6efd243306
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1953'
+location:
+  latitude: 43.670983
+  longitude: -79.384132
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- 8edbb59e-b498-4210-9981-8781235cafcd
