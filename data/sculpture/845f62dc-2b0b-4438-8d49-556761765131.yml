@@ -9,9 +9,10 @@ date: '2002'
 location:
   latitude: 43.652675
   longitude: -79.378221
-  precision: 30.0
+  precision: 30
 material-ids:
 - 2aa408c8-4b60-4a40-a151-67661b57b97b
 tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
