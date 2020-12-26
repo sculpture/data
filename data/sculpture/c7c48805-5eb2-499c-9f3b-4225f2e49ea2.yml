@@ -4,11 +4,12 @@ slug: muskox
 title: Muskox
 artist-ids:
 - 29ff19fe-35db-450f-924c-6be5790aa4fd
+city-id: e39b1abd-bc07-4d3a-9874-f6cd5bbc9c5a
 date: '2009'
 location:
-  latitude: 43.726537
-  longitude: -79.344455
-  precision: 50
+  latitude: 45.039991
+  longitude: -79.305183
+  precision: 10
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids:
