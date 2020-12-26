@@ -2,6 +2,6 @@ id: b0ed3846-4a9a-41d5-aa54-87a574890dcd
 type: region
 slug: town-hall-square-park
 name: Town Hall Square Park
-geojson: '{"type":"Point","coordinates":[-79.39017,43.67139]}'
+geojson: '{"type":"Point","coordinates":[-79.38823699951173,43.67231835584024]}'
 tag-ids:
 - c41e20af-feb8-4c1a-b2df-c57887ca144d
