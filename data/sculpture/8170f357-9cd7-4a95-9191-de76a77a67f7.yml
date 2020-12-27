@@ -1,0 +1,16 @@
+id: 8170f357-9cd7-4a95-9191-de76a77a67f7
+type: sculpture
+slug: aurora-suvero
+title: Aurora
+artist-ids:
+- bd9de07c-dcbb-4c62-9d26-d63b6736a547
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1993'
+link-wikipedia: https://en.wikipedia.org/wiki/Aurora_(sculpture)
+location:
+  latitude: 38.891329
+  longitude: -77.022953
+  precision: 30
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []
