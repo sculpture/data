@@ -1,0 +1,17 @@
+id: 844c4246-3610-49d2-8f48-06af13a000a7
+type: sculpture
+slug: dispute-philosophique
+title: 'Dispute  philosophique '
+artist-ids:
+- 395bd41e-2ef3-4593-86b4-e3c8bad85ff6
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1972'
+location:
+  latitude: 46.806242
+  longitude: -71.222698
+  precision: 30
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2d488599-d808-40db-80a2-88b41c7bdb67
