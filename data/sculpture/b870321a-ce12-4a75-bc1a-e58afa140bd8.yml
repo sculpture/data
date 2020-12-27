@@ -1,0 +1,16 @@
+id: b870321a-ce12-4a75-bc1a-e58afa140bd8
+type: sculpture
+slug: discussion-page
+title: Discussion
+artist-ids:
+- 395bd41e-2ef3-4593-86b4-e3c8bad85ff6
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1965'
+location:
+  latitude: 46.803835
+  longitude: -71.220662
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
