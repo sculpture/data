@@ -1,0 +1,17 @@
+id: 9660587b-d246-4f7c-8130-cf39d63ad79a
+type: sculpture
+slug: passo-di-danza
+title: Passo di Danza
+artist-ids:
+- 7e97b30b-c66c-4e4c-ae15-fc217a1067a1
+city-id: c61a66a7-af49-44b1-8ac1-60bbd09930d1
+date: '1964'
+location:
+  latitude: 42.32889
+  longitude: -83.04515
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
