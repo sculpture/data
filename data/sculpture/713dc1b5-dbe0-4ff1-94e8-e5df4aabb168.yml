@@ -10,6 +10,8 @@ date: '1981'
 location:
   latitude: 45.423654
   longitude: -75.693764
-  precision: 100.0
+  precision: 100
 material-ids:
 - 449582e6-6741-4441-a519-81e7c5591f96
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
