@@ -1,0 +1,19 @@
+id: 337bc4fb-7732-4145-a42e-b5120847b988
+type: sculpture
+slug: untitled-calder-ng
+title: Untitled (Calder)
+artist-ids:
+- 7ad71af4-c9b7-49d0-9765-ba2a674856a0
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1977'
+location:
+  latitude: 38.891181
+  longitude: -77.016596
+  precision: 50
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 85105298-6047-4f80-88ec-76aa0b77d815
+- e7c0d105-ed1d-4e46-8cd8-a5153a2a784d
