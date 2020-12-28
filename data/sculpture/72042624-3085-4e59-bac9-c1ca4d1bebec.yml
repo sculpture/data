@@ -1,0 +1,16 @@
+id: 72042624-3085-4e59-bac9-c1ca4d1bebec
+type: sculpture
+slug: toms-calder
+title: Tom's
+artist-ids:
+- 7ad71af4-c9b7-49d0-9765-ba2a674856a0
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1974'
+location:
+  latitude: 38.891707
+  longitude: -77.021328
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
