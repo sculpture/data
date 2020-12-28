@@ -1,0 +1,18 @@
+id: c25f255a-6c2b-45be-ad56-e200928e8276
+type: sculpture
+slug: discobolus-kessel
+title: Discobolus
+artist-ids:
+- b4286cb5-eb5a-44a1-9642-d69c51a9fbf8
+city-id: 6ba859f5-a74a-4e05-87ae-c2c2bf55650b
+date: '1828'
+location:
+  latitude: 52.359592
+  longitude: 4.884999
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: This cast was made in 1900
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
