@@ -10,6 +10,11 @@ link-wikipedia: https://en.wikipedia.org/wiki/National_Aboriginal_Veterans_Monum
 location:
   latitude: 45.421673
   longitude: -75.692968
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- b982214e-52f9-48b0-b977-4a4359b49fdb
