@@ -1,0 +1,19 @@
+id: ae9dc40c-374e-4737-8ba3-a536fe3d95e8
+type: sculpture
+slug: owl-beaudry
+title: Owl
+artist-ids:
+- e3c0662e-ddc2-4885-b99b-11dbc8f9ef9d
+city-id: fd82132d-7125-459c-a76c-677aede6390c
+location:
+  latitude: 43.849424
+  longitude: -79.326179
+  precision: 30
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 56560105-70a1-4867-aaea-6d76d31576c0
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 6f13c768-5619-419e-97af-60440cab7f89
+- b982214e-52f9-48b0-b977-4a4359b49fdb
