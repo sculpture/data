@@ -1,0 +1,16 @@
+id: c894ed6a-a305-4365-98f4-58a550c53358
+type: sculpture
+slug: blubber-suvero
+title: Blubber
+artist-ids:
+- bd9de07c-dcbb-4c62-9d26-d63b6736a547
+city-id: e7772a72-f730-4155-aa50-95064c4becac
+date: '1980'
+location:
+  latitude: 41.657954
+  longitude: -83.55976
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
