@@ -1,0 +1,18 @@
+id: 1a73c977-a13b-465a-bceb-d7d890967332
+type: sculpture
+slug: legents-row-bower
+title: Legents Row - Johnny Bower
+artist-ids:
+- b0e7c7ef-5082-4918-aba3-aa6846c23b14
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2014'
+location:
+  latitude: 43.642926
+  longitude: -79.379759
+  precision: 30
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 39f7789b-145c-4ccf-897a-34a56abe6fa0
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
