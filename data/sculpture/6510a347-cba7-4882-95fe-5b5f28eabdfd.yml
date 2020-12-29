@@ -1,0 +1,16 @@
+id: 6510a347-cba7-4882-95fe-5b5f28eabdfd
+type: sculpture
+slug: suspended
+title: Suspended
+artist-ids:
+- 8c71686e-4f0d-4b07-ad95-87b04c4ed958
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1977'
+location:
+  latitude: 41.425063
+  longitude: -74.059384
+  precision: 50
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
