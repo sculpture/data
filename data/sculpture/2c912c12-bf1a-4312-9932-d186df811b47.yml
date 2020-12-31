@@ -8,9 +8,9 @@ city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
 date: '1980'
 link-wikipedia: https://en.wikipedia.org/wiki/The_Raven_and_the_First_Men
 location:
-  latitude: 49.260605
-  longitude: -123.245994
-  precision: 10
+  latitude: 49.269489
+  longitude: -123.259341
+  precision: 30
 material-ids:
 - 35913622-405e-4e52-b409-6acc87a4dd77
 tag-ids:
