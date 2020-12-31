@@ -1,0 +1,18 @@
+id: 2c912c12-bf1a-4312-9932-d186df811b47
+type: sculpture
+slug: raven-and-first-men
+title: The Raven and the First Men
+artist-ids:
+- 9ea692e0-a951-49cf-b0ba-9a8ce3c6973a
+city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
+date: '1980'
+link-wikipedia: https://en.wikipedia.org/wiki/The_Raven_and_the_First_Men
+location:
+  latitude: 49.260605
+  longitude: -123.245994
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
