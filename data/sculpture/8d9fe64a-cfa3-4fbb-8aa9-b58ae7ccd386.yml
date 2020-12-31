@@ -1,0 +1,17 @@
+id: 8d9fe64a-cfa3-4fbb-8aa9-b58ae7ccd386
+type: sculpture
+slug: wisdom-lawrie-ny
+title: Wisdom
+artist-ids:
+- b6cc8977-bb40-41a2-b5cf-26a2770f53f7
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1933'
+location:
+  latitude: 40.759376
+  longitude: -73.979973
+  precision: 30
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
