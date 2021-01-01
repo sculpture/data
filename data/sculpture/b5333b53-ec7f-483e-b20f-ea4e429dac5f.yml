@@ -1,0 +1,17 @@
+id: b5333b53-ec7f-483e-b20f-ea4e429dac5f
+type: sculpture
+slug: typewriter-eraser-ng
+title: Typewriter Eraser, Scale X
+artist-ids:
+- 88ecb931-e524-412b-80a4-8cc409acd192
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1999'
+link-wikipedia: https://en.wikipedia.org/wiki/Typewriter_Eraser,_Scale_X
+location:
+  latitude: 38.89158
+  longitude: -77.023339
+  precision: 50
+material-ids:
+- 0d63dfd2-b637-471f-8c6b-1262b0085fb8
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []
