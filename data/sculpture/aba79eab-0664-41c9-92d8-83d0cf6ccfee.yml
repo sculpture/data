@@ -1,0 +1,16 @@
+id: aba79eab-0664-41c9-92d8-83d0cf6ccfee
+type: sculpture
+slug: gorgon-hunters
+title: Gorgon Hunters
+artist-ids:
+- e31569f5-c19d-41b1-98e8-4a14e439b562
+date: '1987'
+location:
+  latitude: 38.888165
+  longitude: -77.022947
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
