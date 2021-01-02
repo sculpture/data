@@ -1,0 +1,16 @@
+id: e0beb071-7b31-413f-930e-78931504e908
+type: sculpture
+slug: centurione-i-bamberg
+title: Centurione I
+artist-ids:
+- e31569f5-c19d-41b1-98e8-4a14e439b562
+city-id: 64a902fb-e1ac-4aba-b49a-9828c3e6b44c
+date: '1987'
+location:
+  latitude: 49.898814
+  longitude: 10.902764
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
