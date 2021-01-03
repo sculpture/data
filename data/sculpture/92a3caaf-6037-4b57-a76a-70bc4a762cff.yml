@@ -1,0 +1,16 @@
+id: 92a3caaf-6037-4b57-a76a-70bc4a762cff
+type: sculpture
+slug: kakasolas-totem-pole
+title: Kakaso'Las Totem Pole
+artist-ids:
+- bdc50037-7888-4799-a215-f82e957ab890
+city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
+date: '1955'
+location:
+  latitude: 49.304258
+  longitude: -123.144252
+  precision: 50
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- cade9829-ef07-4263-827c-a161323c585f
