@@ -1,0 +1,17 @@
+id: d110001d-5d68-40c3-a868-4baa8c35dcb0
+type: sculpture
+slug: great-warrior-of-montauban
+title: The Great Warrior of Montauban
+artist-ids:
+- b51b9561-0a08-4fea-8ed3-a617ab2f8b24
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1900'
+link-wikipedia: https://en.wikipedia.org/wiki/The_Great_Warrior_of_Montauban
+location:
+  latitude: 38.889121
+  longitude: -77.022893
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- c9884cff-1c92-48b5-816b-aa0479de54fa
