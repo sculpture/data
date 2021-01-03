@@ -1,0 +1,16 @@
+id: 716a94c9-6061-4465-95ce-06c0d1e5b2db
+type: sculpture
+slug: cactus-modulaire
+title: Cactus modulaire
+artist-ids:
+- 50fa03e8-3828-4595-a853-504ff0aff009
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1986'
+link-wikipedia: https://en.wikipedia.org/wiki/Cactus_modulaire
+location:
+  latitude: 45.498338
+  longitude: -73.570276
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
