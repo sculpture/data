@@ -1,7 +1,7 @@
 id: 4f276bac-28c5-41ac-9fe8-0516f1acb650
 type: region
-slug: canadian-memorial-chiropractic-college
-name: Canadian Memorial Chiropractic College
-geojson: '{"type":"Polygon","coordinates":[[[-79.37238,43.80397],[-79.37169,43.80403],[-79.37149,43.8031],[-79.37198,43.80302],[-79.37238,43.80397]]]}'
+slug: newmarket
+name: Newmarket
+geojson: '{"type":"Polygon","coordinates":[[[-79.51938629150392,44.07081379264681],[-79.40711975097663,44.09670855643304],[-79.39218521118165,44.035776178079075],[-79.50462341308594,44.01010167593619],[-79.51938629150392,44.07081379264681]]]}'
 tag-ids:
-- 06d088ca-1894-44c9-9e2a-e0491945abe0
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
