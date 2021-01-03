@@ -4,10 +4,12 @@ slug: things-as-they-are
 title: Things as They are
 artist-ids:
 - cd98a97c-f074-444c-8a84-df8794a68bbe
+city-id: bc863b0f-3035-4fab-888c-89e017daabea
 date: '1990'
 location:
   latitude: 43.53309
   longitude: -80.232654
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
