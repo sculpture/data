@@ -1,0 +1,16 @@
+id: 842751a3-6a75-4d6b-b0b6-b30e57eceb80
+type: sculpture
+slug: mermaid-lichtenstein
+title: Mermaid
+artist-ids:
+- 6c982673-ff3d-44cb-96e7-d6f173d1a332
+city-id: 4bdf25b6-71d8-4e99-b240-23d9831e9754
+date: '1979'
+location:
+  latitude: 25.790172
+  longitude: -80.139802
+  precision: 50
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []
