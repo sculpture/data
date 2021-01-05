@@ -8,8 +8,8 @@ city-id: 4bdf25b6-71d8-4e99-b240-23d9831e9754
 date: '1979'
 link-wikipedia: https://en.wikipedia.org/wiki/Mermaid_(Lichtenstein)
 location:
-  latitude: 25.792
-  longitude: -80.132
+  latitude: 25.792338
+  longitude: -80.132687
   precision: 50
 material-ids:
 - 18829464-3bed-4f42-b206-8d99f402dc1b
