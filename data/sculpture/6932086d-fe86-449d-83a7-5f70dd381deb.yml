@@ -9,10 +9,11 @@ date: '1905'
 location:
   latitude: 45.423368
   longitude: -75.698568
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 note: The Harper Memorial
 tag-ids:
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- bde62dd4-de03-48b1-bc5b-812694b8a9de
