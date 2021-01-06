@@ -1,0 +1,17 @@
+id: 4304f955-55e0-4554-9e06-61e0a1a24737
+type: sculpture
+slug: visitation-epstein-hirshhorn
+title: Visitation
+artist-ids:
+- df1f80b4-ca05-473f-ad37-7d450c0f1322
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1926'
+location:
+  latitude: 38.889239
+  longitude: -77.022694
+  precision: 50
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
