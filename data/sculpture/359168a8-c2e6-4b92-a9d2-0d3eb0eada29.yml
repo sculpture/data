@@ -9,8 +9,8 @@ city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
 date: '1999'
 link-wikipedia: https://en.wikipedia.org/wiki/Monument_to_the_Battle_of_Monte_Cassino,_Warsaw
 location:
-  latitude: 52.247036
-  longitude: 21.000501
+  latitude: 52.247115
+  longitude: 21.000458
   precision: 30
 material-ids:
 - 18829464-3bed-4f42-b206-8d99f402dc1b
