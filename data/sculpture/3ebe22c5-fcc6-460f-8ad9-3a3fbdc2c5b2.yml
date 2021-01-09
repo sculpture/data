@@ -1,0 +1,15 @@
+id: 3ebe22c5-fcc6-460f-8ad9-3a3fbdc2c5b2
+type: sculpture
+slug: inukshuk
+title: Inukshuk (Kleinburg)
+artist-ids:
+- 7abba0af-7ecb-41d2-a30e-d926bad917af
+city-id: 5899c2fb-c707-426d-a651-491dec175f49
+date: '1986'
+location:
+  latitude: 43.843524
+  longitude: -79.616461
+  precision: 50
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids: []
