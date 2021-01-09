@@ -1,0 +1,21 @@
+id: 359168a8-c2e6-4b92-a9d2-0d3eb0eada29
+type: sculpture
+slug: monte-cassino-monument-warsaw
+title: 'Monte Cassino Monument '
+artist-ids:
+- 8333d2c4-9424-44f5-b140-a043d26840d5
+- f805c3cd-131b-400f-a546-2f9953d4f53b
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1999'
+link-wikipedia: https://en.wikipedia.org/wiki/Monument_to_the_Battle_of_Monte_Cassino,_Warsaw
+location:
+  latitude: 52.247305
+  longitude: 20.999975
+  precision: 50
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- df4890c4-2701-4782-a670-d019b3b95547
