@@ -1,0 +1,16 @@
+id: fadbd5fc-a23b-4f4a-b980-5f407d669730
+type: sculpture
+slug: north-watch
+title: North Watch
+artist-ids:
+- 15b4136f-bb32-4f26-ab9f-b01879f48140
+city-id: 5899c2fb-c707-426d-a651-491dec175f49
+date: '2010'
+location:
+  latitude: 43.841451
+  longitude: -79.621739
+  precision: 30
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
