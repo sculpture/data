@@ -1,0 +1,16 @@
+id: 40d022fc-3659-4c35-ad86-028f401aee56
+type: sculpture
+slug: les-tours-canuel
+title: Les Tours
+artist-ids:
+- 52033d22-32aa-47b9-9290-7461d42e8726
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '2007'
+location:
+  latitude: 46.804179
+  longitude: -71.219945
+  precision: 10
+material-ids:
+- 983d1c37-99da-4b1d-baba-681a83e66d30
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
