@@ -1,0 +1,15 @@
+id: 9871ba8d-f4dd-490c-8434-4fcd206d110d
+type: sculpture
+slug: taichi-shadow-boxing
+title: 'Taichi Shadow Boxing '
+artist-ids:
+- 2e678aa8-b058-40eb-b507-fbba154f5d4d
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1983'
+location:
+  latitude: 45.501493
+  longitude: -73.561549
+  precision: 30
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
