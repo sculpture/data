@@ -1,0 +1,12 @@
+id: 63db084d-333a-4c71-8894-3c9357c592e2
+type: artist
+slug: salvador-dali
+name: Salvador Dalí
+birth-date: '1904'
+death-date: '1989'
+gender: male
+link-wikipedia: https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD
+nationality: Spanish
+tag-ids:
+- 92f5b43c-299b-49c6-a5f6-f1aa2b4eaa61
+- ba228b77-c711-47fc-85d1-9c8d48961343
