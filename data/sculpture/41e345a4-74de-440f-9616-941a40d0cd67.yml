@@ -1,0 +1,16 @@
+id: 41e345a4-74de-440f-9616-941a40d0cd67
+type: sculpture
+slug: untitled-picasso-chicago
+title: Untitled (Picasso)
+artist-ids:
+- 5bd6bc78-6918-417a-9479-cc48e73081bc
+city-id: 8fa25799-a952-4ff5-9506-2f3b95f48200
+link-wikipedia: https://en.wikipedia.org/wiki/Chicago_Picasso
+location:
+  latitude: 41.883604
+  longitude: -87.630294
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
