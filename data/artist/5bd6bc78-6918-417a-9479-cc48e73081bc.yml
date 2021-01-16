@@ -1,0 +1,12 @@
+id: 5bd6bc78-6918-417a-9479-cc48e73081bc
+type: artist
+slug: pablo-picasso
+name: Pablo Picasso
+birth-date: '1881'
+death-date: '1973'
+gender: male
+link-wikipedia: https://en.wikipedia.org/wiki/Pablo_Picasso
+nationality: Spanish
+tag-ids:
+- 92f5b43c-299b-49c6-a5f6-f1aa2b4eaa61
+- ba228b77-c711-47fc-85d1-9c8d48961343
