@@ -1,0 +1,19 @@
+id: 270c5727-cfd3-4c55-a09b-f75a220f3588
+type: sculpture
+slug: kiepenkerl-koons-hirhhorn
+title: Kiepenkerl
+artist-ids:
+- 57311b73-a6c8-4ba3-a5f5-6430b8da7991
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1987'
+link-wikipedia: https://en.wikipedia.org/wiki/Kiepenkerl
+location:
+  latitude: 38.888963
+  longitude: -77.023183
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
