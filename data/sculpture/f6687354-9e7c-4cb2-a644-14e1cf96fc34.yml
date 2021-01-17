@@ -1,0 +1,17 @@
+id: f6687354-9e7c-4cb2-a644-14e1cf96fc34
+type: sculpture
+slug: tribute-to-women-daniels
+title: Tribute to Women
+artist-ids:
+- 05d3e463-b26d-4ec8-9621-10c5ad27105f
+city-id: 9feeba88-1b66-4091-a267-5a2cbf0bfd66
+date: '2000'
+location:
+  latitude: 43.160389
+  longitude: -79.246409
+  precision: 10
+material-ids:
+- 983d1c37-99da-4b1d-baba-681a83e66d30
+- a267fb56-e090-4da4-b72c-152f966877d9
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []
