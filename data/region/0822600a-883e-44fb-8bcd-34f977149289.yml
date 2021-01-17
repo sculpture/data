@@ -1,7 +1,7 @@
 id: 0822600a-883e-44fb-8bcd-34f977149289
 type: region
-slug: the-robert-mclaughlin-gallery
-name: The Robert McLaughlin Gallery
-geojson: '{"type":"Polygon","coordinates":[[[-78.86625,43.89515],[-78.866,43.8952],[-78.86583,43.89477],[-78.86607,43.89472],[-78.86625,43.89515]]]}'
+slug: bowmanville-ontario
+name: Bowmanville
+geojson: '{"type":"Polygon","coordinates":[[[-78.6844682693483,43.91203834606962],[-78.67644309997574,43.91307403799827],[-78.67500543594373,43.90678231817782],[-78.68255853652967,43.90591657494663],[-78.6844682693483,43.91203834606962]]]}'
 tag-ids:
-- 2fdfc6f9-551e-42ab-9b28-e5650b51ad78
+- db3dd1ee-a322-4b58-b7d6-582f5d555978
