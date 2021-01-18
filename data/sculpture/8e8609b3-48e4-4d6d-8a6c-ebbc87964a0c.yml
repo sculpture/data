@@ -1,0 +1,17 @@
+id: 8e8609b3-48e4-4d6d-8a6c-ebbc87964a0c
+type: sculpture
+slug: moose-pachter-oshawa
+title: Moose
+artist-ids:
+- dbd7a34d-5d39-41b5-8bf6-b69d77cf1ea8
+city-id: 719fac10-c7ca-498c-9078-90bdcf119147
+date: 200*
+location:
+  latitude: 43.943958
+  longitude: -78.895996
+  precision: 50
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
