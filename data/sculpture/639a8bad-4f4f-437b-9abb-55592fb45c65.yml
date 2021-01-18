@@ -1,0 +1,20 @@
+id: 639a8bad-4f4f-437b-9abb-55592fb45c65
+type: sculpture
+slug: burghers-of-calais-hirshhorn
+title: The Burghers of Calais
+artist-ids:
+- 0d0131e9-ece4-417f-80bd-904e881f478e
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1889'
+link-wikipedia: https://en.wikipedia.org/wiki/The_Burghers_of_Calais
+location:
+  latitude: 38.889033
+  longitude: -77.022845
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast 1943
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
