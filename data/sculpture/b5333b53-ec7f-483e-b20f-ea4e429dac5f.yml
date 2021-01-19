@@ -9,9 +9,9 @@ city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
 date: '1998'
 link-wikipedia: https://en.wikipedia.org/wiki/Typewriter_Eraser,_Scale_X
 location:
-  latitude: 38.89158
-  longitude: -77.023339
-  precision: 50
+  latitude: 38.891718
+  longitude: -77.023484
+  precision: 20
 material-ids:
 - 69e5a178-1413-4cf2-8805-5ac28641e955
 - cf38381e-1b86-4728-8349-6febca8429d0
