@@ -1,0 +1,15 @@
+id: 7ddc1d2f-6913-4d27-a09d-418b7cb83356
+type: sculpture
+slug: cubi-xxvi
+title: Cubi XXVI
+artist-ids:
+- ca17b203-f940-4f45-853d-3c61feb898a9
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1965'
+location:
+  latitude: 38.891004
+  longitude: -77.022722
+  precision: 30
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []
