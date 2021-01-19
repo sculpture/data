@@ -8,9 +8,9 @@ city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
 date: '1974'
 link-wikipedia: https://en.wikipedia.org/wiki/Cheval_Rouge
 location:
-  latitude: 38.891295
-  longitude: -77.022953
-  precision: 86.0
+  latitude: 38.890848
+  longitude: -77.023323
+  precision: 20
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids:
