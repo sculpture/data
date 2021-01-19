@@ -8,8 +8,9 @@ city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: University of Toronto
 date: '1971'
 location:
-  latitude: 43.660911
-  longitude: -79.393367
-  precision: 50.0
+  latitude: 43.661214
+  longitude: -79.393882
+  precision: 30
 material-ids:
 - c1c07f0b-8700-44fb-9a0f-241032b370e8
+tag-ids: []
