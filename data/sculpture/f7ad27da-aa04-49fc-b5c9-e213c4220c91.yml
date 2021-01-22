@@ -1,0 +1,17 @@
+id: f7ad27da-aa04-49fc-b5c9-e213c4220c91
+type: sculpture
+slug: mother-and-child-bachinski
+title: Mother and Child (Bachinski)
+artist-ids:
+- 8b1c6fea-7ad1-41e8-b55a-65f89bff9c5a
+city-id: bc863b0f-3035-4fab-888c-89e017daabea
+date: '1985'
+location:
+  latitude: 43.532911
+  longitude: -80.233035
+  precision: 30
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- ea310784-30d7-4a31-9c7b-22e86c3cf049
