@@ -1,0 +1,19 @@
+id: 7cadadae-f3e3-4faa-9bbc-7ddfdd002dfd
+type: sculpture
+slug: liegende-greco
+title: Die Liegende
+artist-ids:
+- 7997a231-35dd-4fcd-8909-77551c938702
+city-id: 7e35b7d3-6c72-44b3-90ea-ae23cc140164
+date: '1952'
+location:
+  latitude: 47.799016
+  longitude: 13.042483
+  precision: 30
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
