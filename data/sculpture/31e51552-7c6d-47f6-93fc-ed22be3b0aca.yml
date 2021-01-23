@@ -1,0 +1,16 @@
+id: 31e51552-7c6d-47f6-93fc-ed22be3b0aca
+type: sculpture
+slug: haida-mortuary-pole-moa
+title: Haida Mortuary Pole
+artist-ids:
+- 9ea692e0-a951-49cf-b0ba-9a8ce3c6973a
+city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
+date: '1961'
+location:
+  latitude: 49.269502
+  longitude: -123.259441
+  precision: 30
+material-ids:
+- d10b6251-79c5-4fc3-b359-a45e7e3ce9b5
+tag-ids:
+- cade9829-ef07-4263-827c-a161323c585f
