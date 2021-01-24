@@ -1,0 +1,17 @@
+id: a1eb779a-988b-4589-80f2-cc40339ae3ce
+type: sculpture
+slug: see-no-evil
+title: See No Evil
+artist-ids:
+- d4eebc56-6561-47b5-912a-f35571b3e93e
+city-id: dfc812fa-0588-474a-98a2-4cdccf6bad2f
+date: '2002'
+location:
+  latitude: 42.9795
+  longitude: -85.585639
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- bbcb416f-d400-4a07-8a83-79a445209a57
