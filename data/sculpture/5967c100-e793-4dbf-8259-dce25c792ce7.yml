@@ -1,0 +1,15 @@
+id: 5967c100-e793-4dbf-8259-dce25c792ce7
+type: sculpture
+slug: je-me-souviens
+title: Je me souviens
+artist-ids:
+- 795ddaac-67a8-4e09-907f-f362c9481a81
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1997'
+location:
+  latitude: 46.81235
+  longitude: -71.207546
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
