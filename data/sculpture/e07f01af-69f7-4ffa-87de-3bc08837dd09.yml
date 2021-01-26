@@ -1,0 +1,16 @@
+id: e07f01af-69f7-4ffa-87de-3bc08837dd09
+type: sculpture
+slug: thor-pickering
+title: Thor
+artist-ids:
+- 8221d084-6345-4eb5-9bc4-d1b3d278be36
+city-id: 29c04be3-e495-4c7c-bd72-b3d935fef86d
+date: '2001'
+location:
+  latitude: 43.815662
+  longitude: -79.072273
+  precision: 50
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
