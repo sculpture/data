@@ -1,0 +1,17 @@
+id: 0f3fb0af-66c9-4ec6-ae3f-ab67e990bb88
+type: sculpture
+slug: william-berczy
+title: William Berczy
+artist-ids:
+- 67bd08d2-7003-4396-9e5e-675adb4548fc
+city-id: fd82132d-7125-459c-a76c-677aede6390c
+date: '2016'
+location:
+  latitude: 43.880316
+  longitude: -79.31356
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
