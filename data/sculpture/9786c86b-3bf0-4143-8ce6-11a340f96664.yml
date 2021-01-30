@@ -1,0 +1,18 @@
+id: 9786c86b-3bf0-4143-8ce6-11a340f96664
+type: sculpture
+slug: sarcophagi-glass-houses
+title: 'Sarcophagi in Glass Houses '
+artist-ids:
+- 7dfcc415-fab6-492d-90d9-6c0ca0cc5583
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1994'
+location:
+  latitude: 41.425063
+  longitude: -74.059384
+  precision: 50
+material-ids:
+- 32495469-6b62-477a-b272-a0e4e2c0e5c9
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
