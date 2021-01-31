@@ -1,0 +1,17 @@
+id: 8052d2ab-e383-4435-888e-3b38fbdc5c1d
+type: sculpture
+slug: antonio-canova-rijksmuseum
+title: Antonio Canova
+artist-ids:
+- 564b8d84-b73e-4742-9dbf-e957c8cd18c4
+city-id: 6ba859f5-a74a-4e05-87ae-c2c2bf55650b
+date: 182*
+location:
+  latitude: 52.359998
+  longitude: 4.885219
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 88a0e756-4193-4ff2-9d96-f1844c05f5e5
