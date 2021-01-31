@@ -1,0 +1,17 @@
+id: 3f62418e-404d-470a-bfc2-93317232effb
+type: sculpture
+slug: city-on-high-mountain
+title: City on the High Mountain
+artist-ids:
+- 1e232b2a-d5ff-4001-aa06-b85f41badb9b
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1983'
+location:
+  latitude: 41.425063
+  longitude: -74.059384
+  precision: 30
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
