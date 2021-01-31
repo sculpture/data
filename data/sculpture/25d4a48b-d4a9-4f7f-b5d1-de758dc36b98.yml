@@ -1,0 +1,18 @@
+id: 25d4a48b-d4a9-4f7f-b5d1-de758dc36b98
+type: sculpture
+slug: four-on-bench-abakanowcz
+title: Four on a Bench
+artist-ids:
+- 7dfcc415-fab6-492d-90d9-6c0ca0cc5583
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1990'
+location:
+  latitude: 38.888161
+  longitude: -77.022968
+  precision: 30
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- 56560105-70a1-4867-aaea-6d76d31576c0
+- 7077e524-7d4e-44ac-9442-ac3ad763d847
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
