@@ -1,0 +1,17 @@
+id: cfb3d236-e4d9-4c8c-aff7-bcad682aedf8
+type: sculpture
+slug: joseph-xavier-perrault
+title: Joseph-Xavier Perrault
+artist-ids:
+- 795ddaac-67a8-4e09-907f-f362c9481a81
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1987'
+location:
+  latitude: 45.500341
+  longitude: -73.562071
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 20ba399b-d962-4b4b-8695-6723679a005b
