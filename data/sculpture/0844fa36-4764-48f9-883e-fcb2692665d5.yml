@@ -9,7 +9,9 @@ date: '1952'
 location:
   latitude: 45.498984
   longitude: -73.579961
-  precision: 50.0
+  precision: 50
 material-ids:
 - 590bc2f1-fd09-4c83-96da-39fa51cef820
 note: cast 2000
+tag-ids:
+- acf1f82b-5ae9-4cf6-8008-06be6a15512b
