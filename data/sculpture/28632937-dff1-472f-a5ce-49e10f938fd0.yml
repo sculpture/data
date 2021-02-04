@@ -1,0 +1,17 @@
+id: 28632937-dff1-472f-a5ce-49e10f938fd0
+type: sculpture
+slug: squirrel-jones
+title: Squirrel
+artist-ids:
+- 95aab595-ad7a-4581-8ebd-bcbe6be27384
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: 195*
+location:
+  latitude: 43.718197
+  longitude: -79.373794
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
