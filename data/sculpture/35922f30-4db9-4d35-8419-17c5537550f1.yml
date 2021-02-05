@@ -1,0 +1,15 @@
+id: 35922f30-4db9-4d35-8419-17c5537550f1
+type: sculpture
+slug: succor-garner
+title: Succor
+artist-ids:
+- d8c774c0-7772-4702-af4c-e54d4746d511
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1982'
+location:
+  latitude: 45.431836
+  longitude: -75.696925
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
