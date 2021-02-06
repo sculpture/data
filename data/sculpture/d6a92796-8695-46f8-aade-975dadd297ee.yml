@@ -1,0 +1,16 @@
+id: d6a92796-8695-46f8-aade-975dadd297ee
+type: sculpture
+slug: voltri-xv-hirshhorn
+title: Voltri XV
+artist-ids:
+- ca17b203-f940-4f45-853d-3c61feb898a9
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1962'
+link-wikipedia: https://en.wikipedia.org/wiki/Voltri_XV
+location:
+  latitude: 38.889038
+  longitude: -77.023467
+  precision: 30
+material-ids:
+- d0c52472-81c0-4c1d-abd7-3a32fd760700
+tag-ids: []
