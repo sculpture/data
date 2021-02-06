@@ -1,0 +1,16 @@
+id: 23dcc227-0f8f-4b45-a5a7-8839be35115c
+type: sculpture
+slug: dodecacaryatid-markham
+title: DodecaCaryatid
+artist-ids:
+- 37f9a388-ce5f-4298-b3d8-7b6d84ba029e
+city-id: fd82132d-7125-459c-a76c-677aede6390c
+date: '2014'
+location:
+  latitude: 43.849498
+  longitude: -79.326463
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []
