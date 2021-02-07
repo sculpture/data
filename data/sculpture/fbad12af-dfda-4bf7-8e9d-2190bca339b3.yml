@@ -1,0 +1,17 @@
+id: fbad12af-dfda-4bf7-8e9d-2190bca339b3
+type: sculpture
+slug: reclining-figure-festival
+title: 'Reclining Figure: Festival'
+artist-ids:
+- 2fb2873a-8083-45af-b967-a8ffd1e0b75d
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1951'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 30
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
