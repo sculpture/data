@@ -1,0 +1,16 @@
+id: 33ef9f24-8d85-4944-9716-bf23cfa7b8bd
+type: sculpture
+slug: three-piece-figure-bridge-prop
+title: 'Three Piece Figure No. 2: Bridge Prop'
+artist-ids:
+- 2fb2873a-8083-45af-b967-a8ffd1e0b75d
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1963'
+link-wikipedia: https://en.wikipedia.org/wiki/Three-Piece_Reclining_Figure_No._2:_Bridge_Prop
+location:
+  latitude: 38.888967
+  longitude: -77.022651
+  precision: 30
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
