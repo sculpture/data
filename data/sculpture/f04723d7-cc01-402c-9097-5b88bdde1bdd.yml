@@ -1,0 +1,17 @@
+id: f04723d7-cc01-402c-9097-5b88bdde1bdd
+type: sculpture
+slug: short-et-wallick-quebec-city
+title: Short-et-Wallick
+artist-ids:
+- fc7ddf50-e329-42f8-93b4-1ae744aa9d9b
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1891'
+location:
+  latitude: 46.806614
+  longitude: -71.214939
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
