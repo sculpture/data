@@ -10,7 +10,10 @@ date: '1993'
 location:
   latitude: 45.443876
   longitude: -75.688547
-  precision: 50.0
+  precision: 50
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 - b056b6a2-cc0e-43ec-84ae-887480ee3706
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
