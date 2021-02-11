@@ -1,0 +1,18 @@
+id: c0465aff-7ecb-4833-852a-9e69d857deb0
+type: sculpture
+slug: manufacturing-jones-ottawa
+title: Manufacturing
+artist-ids:
+- 95aab595-ad7a-4581-8ebd-bcbe6be27384
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1937'
+location:
+  latitude: 45.421159
+  longitude: -75.70312
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 8edbb59e-b498-4210-9981-8781235cafcd
