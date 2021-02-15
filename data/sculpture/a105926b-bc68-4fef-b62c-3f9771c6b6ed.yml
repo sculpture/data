@@ -1,0 +1,16 @@
+id: a105926b-bc68-4fef-b62c-3f9771c6b6ed
+type: sculpture
+slug: studio-pavilon-spiegel
+title: Studio Pavilon
+artist-ids:
+- d0c04e64-b017-460c-bed0-06b7ad33c2a7
+city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
+date: '1997'
+location:
+  latitude: 43.59043
+  longitude: -79.645782
+  precision: 30
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []
