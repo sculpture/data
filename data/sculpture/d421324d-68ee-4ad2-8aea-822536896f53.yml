@@ -1,0 +1,17 @@
+id: d421324d-68ee-4ad2-8aea-822536896f53
+type: sculpture
+slug: piggity-big
+title: Piggity Big
+artist-ids:
+- 8db2734e-691a-45b1-80f3-3a2022e9706f
+- bb3f82d3-4c68-40ed-b7da-171302f7cefe
+date: '2000'
+location:
+  latitude: 43.657253
+  longitude: -79.403189
+  precision: 10
+material-ids:
+- 3e4bf7e0-ae14-49c8-88f4-315ef2160400
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
