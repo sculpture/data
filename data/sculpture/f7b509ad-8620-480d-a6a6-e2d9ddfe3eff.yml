@@ -1,0 +1,18 @@
+id: f7b509ad-8620-480d-a6a6-e2d9ddfe3eff
+type: sculpture
+slug: partisans-pitynski-nj
+title: The Partisans
+artist-ids:
+- 8a9c305b-62c0-42a2-8f1e-3fa022811704
+city-id: 4c133344-0cec-4448-b5cb-d702cc6e1913
+date: '1999'
+link-wikipedia: https://en.wikipedia.org/wiki/The_Partisans_(sculpture)
+location:
+  latitude: 40.236778
+  longitude: -74.718891
+  precision: 50
+material-ids:
+- 3e4bf7e0-ae14-49c8-88f4-315ef2160400
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
