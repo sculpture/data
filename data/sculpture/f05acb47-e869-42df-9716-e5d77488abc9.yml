@@ -1,0 +1,17 @@
+id: f05acb47-e869-42df-9716-e5d77488abc9
+type: sculpture
+slug: musidora-guild
+title: Musidora
+artist-ids:
+- f58e771e-e02a-494e-80a1-7af0a3222538
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1875'
+location:
+  latitude: 43.747102
+  longitude: -79.191785
+  precision: 20
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
