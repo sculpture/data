@@ -1,0 +1,16 @@
+id: b3d192d8-d374-4572-a94e-ae7696ba0185
+type: sculpture
+slug: looking-toward-avenue
+title: Looking Toward the Avenue
+artist-ids:
+- eb7fbec1-62a5-4389-b7e9-babbcde37195
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+location:
+  latitude: 40.761766
+  longitude: -73.979092
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
