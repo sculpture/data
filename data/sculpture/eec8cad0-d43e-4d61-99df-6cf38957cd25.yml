@@ -8,9 +8,9 @@ city-id: c55fa4d1-d614-45ec-b130-747888a8163b
 date: '2000'
 link-wikipedia: https://de.wikipedia.org/wiki/Gro%C3%9Fe_Biga
 location:
-  latitude: 48.147819
-  longitude: 11.569443
-  precision: 10
+  latitude: 48.148857
+  longitude: 11.569851
+  precision: 20
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids: []
