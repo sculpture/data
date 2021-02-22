@@ -1,0 +1,18 @@
+id: 5888b20a-f0a0-43d2-bb17-635a7919fe2e
+type: sculpture
+slug: ascension-fullerton
+title: Ascension
+artist-ids:
+- b5277516-b5b0-4035-86bc-42380586b776
+city-id: 6f7a5190-23d9-4c9c-9bab-42fd4c93f1df
+date: '1997'
+location:
+  latitude: 44.390061
+  longitude: -79.685185
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 56560105-70a1-4867-aaea-6d76d31576c0
+tag-ids:
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
