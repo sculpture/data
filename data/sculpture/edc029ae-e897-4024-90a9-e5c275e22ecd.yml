@@ -1,14 +1,16 @@
 id: edc029ae-e897-4024-90a9-e5c275e22ecd
 type: sculpture
-slug: unknown-26
-title: Unknown (26)
+slug: monet-bridge
+title: Monet Bridge
 artist-ids:
-- a3d6d80d-13fe-49df-b080-871f789c2fa1
+- 06a0d143-ccaf-49fc-83d5-efe13761164f
+- 242b491c-6894-420a-990c-135e7e3d74f6
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: '2010'
+date: '2005'
 location:
   latitude: 43.771383
   longitude: -79.411609
-  precision: 50.0
+  precision: 50
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []
