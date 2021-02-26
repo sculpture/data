@@ -1,0 +1,15 @@
+id: 0ef9c6f1-a415-45b2-9afd-925c00ff7955
+type: sculpture
+slug: doppelsaule-23-70
+title: Doppelsäule 23/70
+artist-ids:
+- dc0ad6b1-71a2-4d5b-84f8-9bdfb7f8229a
+city-id: c55fa4d1-d614-45ec-b130-747888a8163b
+date: '1970'
+location:
+  latitude: 48.149887
+  longitude: 11.571114
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []
