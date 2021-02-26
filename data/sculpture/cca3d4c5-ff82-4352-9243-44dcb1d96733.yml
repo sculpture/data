@@ -1,0 +1,16 @@
+id: cca3d4c5-ff82-4352-9243-44dcb1d96733
+type: sculpture
+slug: the-book-sandler
+title: The Book
+artist-ids:
+- 934aca8b-0460-4ebb-8c92-6f821fd92520
+city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
+date: '2006'
+location:
+  latitude: 43.588937
+  longitude: -79.643266
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+note: relocated from 401 Pearson airport in 2016
+tag-ids: []
