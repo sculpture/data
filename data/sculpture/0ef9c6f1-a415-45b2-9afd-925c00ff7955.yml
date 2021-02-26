@@ -7,9 +7,9 @@ artist-ids:
 city-id: c55fa4d1-d614-45ec-b130-747888a8163b
 date: '1970'
 location:
-  latitude: 48.149887
-  longitude: 11.571114
-  precision: 10
+  latitude: 48.149125
+  longitude: 11.5698
+  precision: 30
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids: []
