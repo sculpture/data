@@ -9,7 +9,7 @@ date: '981'
 location:
   latitude: 43.838901
   longitude: -79.545524
-  precision: 13
+  precision: 30
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 tag-ids:
