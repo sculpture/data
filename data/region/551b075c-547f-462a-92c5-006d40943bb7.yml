@@ -1,5 +1,7 @@
 id: 551b075c-547f-462a-92c5-006d40943bb7
 type: region
-slug: tilley-endurables
-name: Tilley Endurables
-geojson: '{"type":"Point","coordinates":[-79.34224,43.72699]}'
+slug: vaughan-ontario
+name: Vaughan
+geojson: '{"type":"Polygon","coordinates":[[[-79.5509719848633,43.84666056832329],[-79.48745727539064,43.86200998554794],[-79.47561264038087,43.799039878010966],[-79.53895568847658,43.78646266947705],[-79.5509719848633,43.84666056832329]]]}'
+tag-ids:
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
