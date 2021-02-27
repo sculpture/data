@@ -1,7 +1,6 @@
 id: 206ecf40-f817-4367-8ddd-cb1ef537a143
 type: region
-slug: beth-sholom-synagogue
-name: Beth Sholom Synagogue
-geojson: '{"type":"Polygon","coordinates":[[[-79.43816,43.69809],[-79.43737,43.6983],[-79.43717,43.6981],[-79.43803,43.69791],[-79.43816,43.69809]]]}'
-tag-ids:
-- 8de551a5-8ce4-4bb6-9459-29f636a51134
+slug: canada-wonderland
+name: Canada Wonderland
+geojson: '{"type":"Polygon","coordinates":[[[-79.5467233657837,43.844463050271855],[-79.53949213027956,43.84472613768454],[-79.53884840011597,43.838628401831194],[-79.54614400863649,43.83839624221193],[-79.5467233657837,43.844463050271855]]]}'
+tag-ids: []
