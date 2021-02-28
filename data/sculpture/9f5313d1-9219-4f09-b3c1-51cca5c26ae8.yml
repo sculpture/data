@@ -1,0 +1,16 @@
+id: 9f5313d1-9219-4f09-b3c1-51cca5c26ae8
+type: sculpture
+slug: ginnetoy-vaadia
+title: Ginnetoy
+artist-ids:
+- b237c6c4-3352-4f16-a8f4-c4bd75f7ee86
+city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
+date: '1996'
+location:
+  latitude: 49.287252
+  longitude: -123.129096
+  precision: 20
+material-ids:
+- 637ed6da-1f2a-49ca-ac5f-60f89b85ab26
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
