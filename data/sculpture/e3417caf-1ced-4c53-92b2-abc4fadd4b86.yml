@@ -1,0 +1,17 @@
+id: e3417caf-1ced-4c53-92b2-abc4fadd4b86
+type: sculpture
+slug: in-the-pines-guelph
+title: In the Pines
+artist-ids:
+- 9a54e813-1d83-44e9-9092-7e2b77ac44bc
+city-id: bc863b0f-3035-4fab-888c-89e017daabea
+date: '2001'
+location:
+  latitude: 43.532915
+  longitude: -80.233099
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
