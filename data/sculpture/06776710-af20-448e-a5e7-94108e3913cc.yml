@@ -1,0 +1,19 @@
+id: 06776710-af20-448e-a5e7-94108e3913cc
+type: sculpture
+slug: spirit-haida-gwaii-ottawa
+title: Spirit Haida Gwaii (2)
+artist-ids:
+- 9ea692e0-a951-49cf-b0ba-9a8ce3c6973a
+city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
+date: '1986'
+link-wikipedia: https://en.wikipedia.org/wiki/Spirit_of_Haida_Gwaii
+location:
+  latitude: 45.430158
+  longitude: -75.709201
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
