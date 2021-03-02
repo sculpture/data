@@ -1,0 +1,18 @@
+id: 9ebf3d0b-85d6-44bb-9b48-3b04a093ad25
+type: sculpture
+slug: ammiel-amaryahu
+title: Ammi'el and Amaryahu
+artist-ids:
+- b237c6c4-3352-4f16-a8f4-c4bd75f7ee86
+city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
+date: '1999'
+location:
+  latitude: 49.268132
+  longitude: -123.110514
+  precision: 50
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 637ed6da-1f2a-49ca-ac5f-60f89b85ab26
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2d488599-d808-40db-80a2-88b41c7bdb67
