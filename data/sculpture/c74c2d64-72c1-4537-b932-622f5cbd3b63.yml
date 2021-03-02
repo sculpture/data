@@ -1,0 +1,17 @@
+id: c74c2d64-72c1-4537-b932-622f5cbd3b63
+type: sculpture
+slug: prometheus-manship
+title: Prometheus
+artist-ids:
+- e3aeef4b-6dd4-48bb-aa19-b39eaf941b9c
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1934'
+link-wikipedia: https://en.wikipedia.org/wiki/Prometheus_(Manship)
+location:
+  latitude: 40.758767
+  longitude: -73.978692
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
