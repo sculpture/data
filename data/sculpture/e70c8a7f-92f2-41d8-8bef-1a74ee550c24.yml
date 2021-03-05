@@ -1,0 +1,21 @@
+id: e70c8a7f-92f2-41d8-8bef-1a74ee550c24
+type: sculpture
+slug: zeev-with-cat
+title: 'Ze''ev With Cat '
+artist-ids:
+- b237c6c4-3352-4f16-a8f4-c4bd75f7ee86
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2009'
+location:
+  latitude: 43.671477
+  longitude: -79.393629
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 637ed6da-1f2a-49ca-ac5f-60f89b85ab26
+- b1a3eb0a-7181-48fc-97e1-9ffa8a0461f7
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- bbcb416f-d400-4a07-8a83-79a445209a57
