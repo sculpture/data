@@ -1,0 +1,16 @@
+id: 3b262b6d-3255-47b4-8fd0-e7444b49f2c5
+type: sculpture
+slug: figures-dancing
+title: Figures Dancing
+artist-ids:
+- bafdaf1f-a385-4b0e-ab8a-6e28337f3751
+date: '1974'
+location:
+  latitude: 44.303947
+  longitude: -78.318951
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
