@@ -1,6 +1,7 @@
 id: 12f591dc-272e-4905-ba6c-cfbe6e3af1df
 type: region
-slug: st-paul-rc-church
-name: St. Paul RC Church
+slug: peterborough-ontario-canada
+name: Peterborough
+geojson: '{"type":"Polygon","coordinates":[[[-78.41903686523439,44.338583048023104],[-78.23707580566408,44.36116948697885],[-78.2219696044922,44.24815025513525],[-78.40187072753906,44.2269964305193],[-78.41903686523439,44.338583048023104]]]}'
 tag-ids:
-- 8de551a5-8ce4-4bb6-9459-29f636a51134
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
