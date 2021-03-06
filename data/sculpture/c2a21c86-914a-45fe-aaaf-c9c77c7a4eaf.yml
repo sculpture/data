@@ -1,0 +1,15 @@
+id: c2a21c86-914a-45fe-aaaf-c9c77c7a4eaf
+type: sculpture
+slug: eternal-peace-davis
+title: Eternal Peace
+artist-ids:
+- 8829b73e-9a7c-4ab8-a799-ee71834cd4df
+city-id: 6966e3f0-6b28-4254-bf3e-e46c025f6d81
+date: '2000'
+location:
+  latitude: 43.081453
+  longitude: -70.934191
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
