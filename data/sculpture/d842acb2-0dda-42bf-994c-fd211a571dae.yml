@@ -1,0 +1,17 @@
+id: d842acb2-0dda-42bf-994c-fd211a571dae
+type: sculpture
+slug: one-and-other-khan
+title: One and Other
+artist-ids:
+- 5dd52898-2373-4140-afcb-e4fd842ca24c
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2014'
+location:
+  latitude: 43.725233
+  longitude: -79.332614
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- b056b6a2-cc0e-43ec-84ae-887480ee3706
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
