@@ -1,0 +1,17 @@
+id: b0587e7f-3c42-41b7-aebf-9172d7845b80
+type: sculpture
+slug: el-toro-sentado
+title: El toro sentado
+artist-ids:
+- e2ccb4d5-7b47-4768-b6e0-de6a8f21ed1e
+city-id: 16e2f36d-eb09-4c02-9fd2-334682ca2e1c
+date: '1973'
+location:
+  latitude: 41.385609
+  longitude: 2.169821
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
