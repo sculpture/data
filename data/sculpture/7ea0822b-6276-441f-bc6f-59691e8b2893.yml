@@ -1,0 +1,19 @@
+id: 7ea0822b-6276-441f-bc6f-59691e8b2893
+type: sculpture
+slug: spirit-of-detroit
+title: Spirit of Detroit
+artist-ids:
+- d0adf16b-fafd-4189-a58e-f511e3e2504f
+city-id: c61a66a7-af49-44b1-8ac1-60bbd09930d1
+date: '1955'
+link-wikipedia: https://en.wikipedia.org/wiki/The_Spirit_of_Detroit
+location:
+  latitude: 42.389706
+  longitude: -83.086361
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
