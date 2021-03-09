@@ -1,0 +1,18 @@
+id: aa5d388a-e3ac-4b57-a8e4-87de8b36ff87
+type: sculpture
+slug: airplane-parts
+title: Airplane Parts
+artist-ids:
+- 6886278e-cbd2-4fb0-8251-6166a95f7c39
+city-id: fd14bdab-7cb5-49d7-a9e8-84595c2d2088
+date: '2001'
+location:
+  latitude: 34.050767
+  longitude: -118.238419
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+note: |-
+  Title:
+  Chas’ Stainless Steel, Mark Thompson’s Airplane Parts, About 1000 Pounds of Stainless Steel Wire, and Gagosian's Beverly Hills Space
+tag-ids: []
