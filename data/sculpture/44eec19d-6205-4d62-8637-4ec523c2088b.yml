@@ -1,0 +1,18 @@
+id: 44eec19d-6205-4d62-8637-4ec523c2088b
+type: sculpture
+slug: kolumna-zygmunta
+title: Kolumna Zygmunta
+artist-ids:
+- 5e84874a-0e0e-42f9-9ff8-728a3cd76d7d
+date: '1644'
+location:
+  latitude: 52.247258
+  longitude: 21.013371
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
