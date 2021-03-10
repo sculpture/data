@@ -7,8 +7,8 @@ artist-ids:
 city-id: ceac255d-267b-4eb0-84ab-e518a441c459
 date: '1945'
 location:
-  latitude: 43.141576
-  longitude: -80.263896
+  latitude: 43.141537
+  longitude: -80.263993
   precision: 30
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
