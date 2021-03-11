@@ -1,0 +1,16 @@
+id: 51243b4d-ceff-480c-99bf-60a8ecae241a
+type: sculpture
+slug: le-pouce-hirshhorn
+title: Le pouce
+artist-ids:
+- 679b234f-2f30-4884-ae65-b51164607ff5
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1965'
+link-wikipedia: https://fr.wikipedia.org/wiki/Le_Pouce_(C%C3%A9sar)
+location:
+  latitude: 38.889042
+  longitude: -77.023354
+  precision: 20
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
