@@ -1,0 +1,15 @@
+id: 0b13a1a2-825c-48aa-b0b7-fa5ca818dddf
+type: sculpture
+slug: killer-whale-hull
+title: Killer Whale
+artist-ids:
+- 9ea692e0-a951-49cf-b0ba-9a8ce3c6973a
+city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
+date: '1984'
+location:
+  latitude: 45.429507
+  longitude: -75.709206
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids: []
