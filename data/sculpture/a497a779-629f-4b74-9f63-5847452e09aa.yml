@@ -1,0 +1,16 @@
+id: a497a779-629f-4b74-9f63-5847452e09aa
+type: sculpture
+slug: moondog
+title: Moondog
+artist-ids:
+- cdd1cc4b-d0a8-48dd-9442-be56ef5f5f42
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1964'
+location:
+  latitude: 38.890929
+  longitude: -77.022583
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
