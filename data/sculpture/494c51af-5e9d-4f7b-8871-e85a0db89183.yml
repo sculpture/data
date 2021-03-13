@@ -1,0 +1,15 @@
+id: 494c51af-5e9d-4f7b-8871-e85a0db89183
+type: sculpture
+slug: agricola-i-hirshhorn
+title: Agricola I
+artist-ids:
+- ca17b203-f940-4f45-853d-3c61feb898a9
+date: '1952'
+link-wikipedia: https://en.wikipedia.org/wiki/Agricola_I
+location:
+  latitude: 38.889025
+  longitude: -77.023435
+  precision: 30
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []
