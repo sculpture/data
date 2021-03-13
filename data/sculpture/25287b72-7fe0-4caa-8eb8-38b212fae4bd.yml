@@ -1,0 +1,19 @@
+id: 25287b72-7fe0-4caa-8eb8-38b212fae4bd
+type: sculpture
+slug: seated-yucatan-woman-hirshhorn
+title: Seated Yucatan Woman
+artist-ids:
+- 66c6e0c4-28ee-4aba-8b20-c26a50b4a4a7
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1973'
+link-wikipedia: https://en.wikipedia.org/wiki/Seated_Yucatan_Woman
+location:
+  latitude: 38.888984
+  longitude: -77.022544
+  precision: 20
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
