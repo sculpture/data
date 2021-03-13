@@ -1,0 +1,19 @@
+id: 29a852e7-d12d-4572-9e3b-ef789b71a1c2
+type: sculpture
+slug: tal-bather-no1
+title: Tall Bather No. 1
+artist-ids:
+- 7997a231-35dd-4fcd-8909-77551c938702
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1956'
+location:
+  latitude: 41.425449
+  longitude: -74.062796
+  precision: 50
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
