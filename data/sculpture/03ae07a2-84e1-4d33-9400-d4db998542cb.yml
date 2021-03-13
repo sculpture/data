@@ -1,0 +1,20 @@
+id: 03ae07a2-84e1-4d33-9400-d4db998542cb
+type: sculpture
+slug: venus-milo-with-drawers
+title: Venus of Milo with Drawers
+artist-ids:
+- 63db084d-333a-4c71-8894-3c9357c592e2
+city-id: a75c8dbc-3678-4d58-8c87-20ded6915cd2
+date: '1964'
+location:
+  latitude: 42.267988
+  longitude: 2.959663
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
