@@ -1,0 +1,17 @@
+id: dc3a5e1b-8c91-4d25-ac11-89627c8f8513
+type: sculpture
+slug: throwback-smith-hirshhorn
+title: Throwback
+artist-ids:
+- cdd1cc4b-d0a8-48dd-9442-be56ef5f5f42
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1979'
+link-wikipedia: https://en.wikipedia.org/wiki/Throwback_(3/3)
+location:
+  latitude: 38.888495
+  longitude: -77.023708
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
