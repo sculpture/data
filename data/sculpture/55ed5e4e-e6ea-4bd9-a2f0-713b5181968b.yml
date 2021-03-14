@@ -1,0 +1,18 @@
+id: 55ed5e4e-e6ea-4bd9-a2f0-713b5181968b
+type: sculpture
+slug: pregnant-woman-picasso
+title: Pregnant Woman
+artist-ids:
+- 5bd6bc78-6918-417a-9479-cc48e73081bc
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1950'
+location:
+  latitude: 38.889096
+  longitude: -77.023381
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
