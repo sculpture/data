@@ -1,0 +1,16 @@
+id: 65596439-4ea8-4eec-99b3-1e6615295907
+type: sculpture
+slug: stargate-blue
+title: Stargate - Blue Space Traveler
+artist-ids:
+- abf9a57f-628d-4d0e-a05f-e4c5cc5a9150
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2020'
+location:
+  latitude: 43.708989
+  longitude: -79.393107
+  precision: 10
+material-ids:
+- 20ec9050-85db-4ec6-8fef-806598bcee75
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab
