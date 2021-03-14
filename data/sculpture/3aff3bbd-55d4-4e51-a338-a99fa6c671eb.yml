@@ -1,0 +1,17 @@
+id: 3aff3bbd-55d4-4e51-a338-a99fa6c671eb
+type: sculpture
+slug: evocation-form-human-lunar-spectral
+title: 'Evocation of a Form: Human, Lunar, Spectral'
+artist-ids:
+- 751ba8f1-a286-4846-bc74-0ccd9d70d63a
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1950'
+link-wikipedia: https://en.wikipedia.org/wiki/Evocation_of_a_Form:_Human,_Lunar,_Spectral
+location:
+  latitude: 38.889021
+  longitude: -77.023349
+  precision: 30
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast 1957
+tag-ids: []
