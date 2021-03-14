@@ -1,0 +1,17 @@
+id: 466681f9-94fa-41ce-b61c-69e69214cbe1
+type: sculpture
+slug: needle-tower-hirshhorn
+title: Needle Tower
+artist-ids:
+- 28867969-9132-450a-b8a6-5e7842d7e26a
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1974'
+link-wikipedia: https://en.wikipedia.org/wiki/Needle_Tower
+location:
+  latitude: 38.888616
+  longitude: -77.022936
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []
