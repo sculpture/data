@@ -7,11 +7,13 @@ artist-ids:
 city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
 date: '1912'
 location:
-  latitude: 50.087978
+  latitude: 50.10124
   longitude: 14.432345
-  precision: 10
+  precision: 30
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 18d2fd29-8838-4290-a343-39182ae9b445
 - 3d01002e-928d-47f0-9a30-5f38d5a8eb27
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
