@@ -1,0 +1,15 @@
+id: f0c19395-5b25-429f-b849-c33f276007b7
+type: sculpture
+slug: taichi-arch-2000
+title: Taichi Arch
+artist-ids:
+- 2e678aa8-b058-40eb-b507-fbba154f5d4d
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '2000'
+location:
+  latitude: 45.501671
+  longitude: -73.553426
+  precision: 30
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
