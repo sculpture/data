@@ -1,0 +1,16 @@
+id: 49074cee-fbd8-4e10-a766-ab2f42e2c311
+type: sculpture
+slug: cigarette-smith-buffalo
+title: 'Cigarette '
+artist-ids:
+- cdd1cc4b-d0a8-48dd-9442-be56ef5f5f42
+city-id: 21f56f64-52ee-47e4-8113-8503789209f1
+date: '1967'
+link-wikipedia: https://en.wikipedia.org/wiki/Cigarette_(1/3)
+location:
+  latitude: 42.932733
+  longitude: -78.87505
+  precision: 30
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids: []
