@@ -1,0 +1,16 @@
+id: 551e24c9-9a32-40e8-bd16-af3f6631f26b
+type: sculpture
+slug: pieta-stotzer
+title: Pieta
+artist-ids:
+- 943c9735-4d18-44fb-bb6a-b2474924927a
+city-id: 9d5db670-5313-4ffb-bcc4-b45700b6db65
+date: '2003'
+location:
+  latitude: 49.793626
+  longitude: 9.932247
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
