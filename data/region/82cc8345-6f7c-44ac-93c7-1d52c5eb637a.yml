@@ -1,7 +1,7 @@
 id: 82cc8345-6f7c-44ac-93c7-1d52c5eb637a
 type: region
-slug: earl-bales-park
-name: Earl Bales Park
-geojson: '{"type":"Polygon","coordinates":[[[-79.30380642414107,43.622908391741774],[-79.30357038974773,43.62209678050151],[-79.30156946182268,43.622454046129484],[-79.30188059806838,43.623285068833894],[-79.30380642414107,43.622908391741774]]]}'
+slug: wurzburg-bavaria-germany
+name: Würzburg
+geojson: '{"type":"Point","coordinates":[9.93297,49.79245]}'
 tag-ids:
-- c41e20af-feb8-4c1a-b2df-c57887ca144d
+- 3b74b15e-1532-429f-96ca-5fcac13489bc
