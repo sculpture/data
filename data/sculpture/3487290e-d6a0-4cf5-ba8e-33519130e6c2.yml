@@ -4,13 +4,14 @@ slug: relief-horne-1
 title: Relief (1)
 artist-ids:
 - bc329d87-d430-45ca-a9bc-e7acd01d129a
+- f1c37639-130e-4ba1-9a92-cb6efd243306
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 commissioned-by: Bank of Canada
 date: '1954'
 location:
   latitude: 43.650121
   longitude: -79.386544
-  precision: 15.0
+  precision: 15
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 tag-ids:
