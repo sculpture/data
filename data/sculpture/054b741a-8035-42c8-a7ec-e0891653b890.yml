@@ -1,0 +1,17 @@
+id: 054b741a-8035-42c8-a7ec-e0891653b890
+type: sculpture
+slug: clusterof-four-cubes
+title: Cluster of Four Cubes
+artist-ids:
+- 4159affb-ccdd-4a2a-b6a8-4c86b17744f6
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1992'
+link-wikipedia: https://en.wikipedia.org/wiki/Cluster_of_Four_Cubes
+location:
+  latitude: 38.890962
+  longitude: -77.023436
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 85105298-6047-4f80-88ec-76aa0b77d815
