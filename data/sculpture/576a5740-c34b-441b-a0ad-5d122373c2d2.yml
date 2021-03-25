@@ -1,0 +1,17 @@
+id: 576a5740-c34b-441b-a0ad-5d122373c2d2
+type: sculpture
+slug: water-guardians-marman
+title: Water Guardians
+artist-ids:
+- 1759059e-068f-480d-8b6e-23a81d2aa842
+- fcfc2709-03af-4cf0-8770-0237d630d658
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2015'
+location:
+  latitude: 43.653313
+  longitude: -79.355237
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab
