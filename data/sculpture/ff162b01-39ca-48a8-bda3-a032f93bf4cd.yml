@@ -1,0 +1,19 @@
+id: ff162b01-39ca-48a8-bda3-a032f93bf4cd
+type: sculpture
+slug: henryk-sienkiewicz-lazienki
+title: Henryk Sienkiewicz
+artist-ids:
+- 8333d2c4-9424-44f5-b140-a043d26840d5
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2000'
+link-wikipedia: https://pl.wikipedia.org/wiki/Pomnik_Henryka_Sienkiewicza_w_Warszawie
+location:
+  latitude: 52.215613
+  longitude: 21.027006
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
