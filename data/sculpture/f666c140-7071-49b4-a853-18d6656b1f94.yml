@@ -7,9 +7,9 @@ artist-ids:
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 date: '1941'
 location:
-  latitude: 43.643093
+  latitude: 43.643186
   longitude: -79.378605
-  precision: 50
+  precision: 30
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 tag-ids:
