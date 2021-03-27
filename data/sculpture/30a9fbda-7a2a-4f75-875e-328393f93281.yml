@@ -1,0 +1,17 @@
+id: 30a9fbda-7a2a-4f75-875e-328393f93281
+type: sculpture
+slug: petit-frere-bear-planet
+title: Petit Frere, Bear & Planet
+artist-ids:
+- 53edff96-0b12-4419-9667-9b7359a9542e
+city-id: fd82132d-7125-459c-a76c-677aede6390c
+location:
+  latitude: 43.850031
+  longitude: -79.323918
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- b056b6a2-cc0e-43ec-84ae-887480ee3706
+- b0a3d164-8b6a-440a-89a5-1bbb85c10c40
+tag-ids: []
