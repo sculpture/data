@@ -1,0 +1,15 @@
+id: 801057a0-3b33-4836-b680-35b04be55cfa
+type: sculpture
+slug: model-for-big-sculpture
+title: Model for Big Sculpture II
+artist-ids:
+- 5c3ca536-8d2b-4607-b2bc-de0674086d4b
+city-id: dfc812fa-0588-474a-98a2-4cdccf6bad2f
+date: '2004'
+location:
+  latitude: 42.97937
+  longitude: -85.585011
+  precision: 30
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
