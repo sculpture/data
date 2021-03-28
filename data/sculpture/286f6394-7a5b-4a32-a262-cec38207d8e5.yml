@@ -1,0 +1,17 @@
+id: 286f6394-7a5b-4a32-a262-cec38207d8e5
+type: sculpture
+slug: luba-rydingsvard
+title: Luba
+artist-ids:
+- 82359539-c433-4369-b192-638bfa397968
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2010'
+location:
+  latitude: 41.425063
+  longitude: -74.059384
+  precision: 50
+material-ids:
+- 590bc2f1-fd09-4c83-96da-39fa51cef820
+- d10b6251-79c5-4fc3-b359-a45e7e3ce9b5
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
