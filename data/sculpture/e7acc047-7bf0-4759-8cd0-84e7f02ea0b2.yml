@@ -1,0 +1,18 @@
+id: e7acc047-7bf0-4759-8cd0-84e7f02ea0b2
+type: sculpture
+slug: george-etienne-cartier-quebec
+title: George-Étienne Cartier
+artist-ids:
+- 8ec33c59-ca3d-47fb-bf62-7e4e3059bd01
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1919'
+location:
+  latitude: 46.813658
+  longitude: -71.203803
+  precision: 30
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
