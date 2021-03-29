@@ -1,0 +1,15 @@
+id: bad5699f-f9b8-4931-a782-54ab227e4b27
+type: sculpture
+slug: helmet-v-hadzi
+title: Helmet V
+artist-ids:
+- 66124f06-a6ba-42cd-a68a-ffb728a6fd9a
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1961'
+location:
+  latitude: 38.889012
+  longitude: -77.023361
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
