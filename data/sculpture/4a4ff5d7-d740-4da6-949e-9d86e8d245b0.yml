@@ -1,0 +1,19 @@
+id: 4a4ff5d7-d740-4da6-949e-9d86e8d245b0
+type: sculpture
+slug: flora-belleuse-munich
+title: Flora
+artist-ids:
+- 90bf803a-c89c-48d1-bd6e-02e42e4cd97e
+city-id: c55fa4d1-d614-45ec-b130-747888a8163b
+date: 187*
+location:
+  latitude: 48.149887
+  longitude: 11.571114
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
