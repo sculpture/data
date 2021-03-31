@@ -1,0 +1,19 @@
+id: ea8ad81f-bd30-4d98-a16d-9a957db5becd
+type: sculpture
+slug: musk-ox-beaudry
+title: Musk Ox
+artist-ids:
+- e3c0662e-ddc2-4885-b99b-11dbc8f9ef9d
+city-id: fd82132d-7125-459c-a76c-677aede6390c
+date: '2016'
+location:
+  latitude: 43.849354
+  longitude: -79.323773
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 56560105-70a1-4867-aaea-6d76d31576c0
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 89f78d37-2315-4104-bfe7-610b444b2485
