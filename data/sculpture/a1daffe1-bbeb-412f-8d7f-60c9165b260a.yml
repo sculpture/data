@@ -1,0 +1,15 @@
+id: a1daffe1-bbeb-412f-8d7f-60c9165b260a
+type: sculpture
+slug: ghat-gordon
+title: Ghat
+artist-ids:
+- 234af197-1228-4dc6-8efc-b55cfd6a6b01
+city-id: 4c133344-0cec-4448-b5cb-d702cc6e1913
+date: '1996'
+location:
+  latitude: 40.236778
+  longitude: -74.718891
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids: []
