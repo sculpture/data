@@ -1,0 +1,20 @@
+id: 91a88fde-df15-479e-911c-df526ca4001f
+type: sculpture
+slug: paris-canova-pinakhotek
+title: Paris
+artist-ids:
+- 51529d14-3684-48c3-9995-9469fb5b69ba
+city-id: c55fa4d1-d614-45ec-b130-747888a8163b
+date: '1816'
+location:
+  latitude: 48.149887
+  longitude: 11.571114
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
