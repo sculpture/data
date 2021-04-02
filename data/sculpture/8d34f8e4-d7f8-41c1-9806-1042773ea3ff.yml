@@ -1,0 +1,18 @@
+id: 8d34f8e4-d7f8-41c1-9806-1042773ea3ff
+type: sculpture
+slug: unique-forms-continuity-moma
+title: Unique Forms of Continuity in Space
+artist-ids:
+- 33b56e96-e31c-47ef-af96-e757f3eb0271
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1913'
+link-wikipedia: https://en.wikipedia.org/wiki/Unique_Forms_of_Continuity_in_Space
+location:
+  latitude: 40.761433
+  longitude: -73.977622
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
