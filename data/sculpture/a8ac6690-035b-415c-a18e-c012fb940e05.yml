@@ -1,0 +1,20 @@
+id: a8ac6690-035b-415c-a18e-c012fb940e05
+type: sculpture
+slug: maiastra-brancusi-moma
+title: Maiastra
+artist-ids:
+- e9fbb5b3-979a-4f86-b95c-43a9d9a3c1ec
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1912'
+link-wikipedia: https://ro.wikipedia.org/wiki/M%C4%83iastra
+location:
+  latitude: 40.761433
+  longitude: -73.977622
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b982214e-52f9-48b0-b977-4a4359b49fdb
