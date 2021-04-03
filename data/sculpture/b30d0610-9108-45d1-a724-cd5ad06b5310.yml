@@ -1,0 +1,18 @@
+id: b30d0610-9108-45d1-a724-cd5ad06b5310
+type: sculpture
+slug: blue-herons
+title: Blue Herons
+artist-ids:
+- ced8dc85-33b7-475c-8bae-ca1dca292807
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: 200*
+location:
+  latitude: 46.812768
+  longitude: -71.203031
+  precision: 50
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- b982214e-52f9-48b0-b977-4a4359b49fdb
