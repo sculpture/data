@@ -1,0 +1,14 @@
+id: a049c561-1045-4424-a4d7-ca7b46a60179
+type: sculpture
+slug: toronto-lamp-posts
+title: Toronto Lamp Posts
+artist-ids:
+- 3e64ff70-005c-4a8f-819e-3bf534f2558d
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2015'
+location:
+  latitude: 43.653807
+  longitude: -79.355807
+  precision: 30
+material-ids: []
+tag-ids: []
