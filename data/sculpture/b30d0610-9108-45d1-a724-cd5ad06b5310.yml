@@ -5,11 +5,11 @@ title: Blue Herons
 artist-ids:
 - ced8dc85-33b7-475c-8bae-ca1dca292807
 city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
-date: 200*
+date: '2003'
 location:
-  latitude: 46.812768
-  longitude: -71.203031
-  precision: 50
+  latitude: 46.814964
+  longitude: -71.202564
+  precision: 10
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 - 76c8ed4b-b169-44ca-bf45-466a20c85838
