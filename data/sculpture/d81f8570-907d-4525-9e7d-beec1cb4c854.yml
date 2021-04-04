@@ -1,0 +1,16 @@
+id: d81f8570-907d-4525-9e7d-beec1cb4c854
+type: sculpture
+slug: subcommittee-cragg
+title: Subcommittee
+artist-ids:
+- bf30a157-6a15-4521-9f41-3e4766f1eefc
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1991'
+link-wikipedia: https://en.wikipedia.org/wiki/Subcommittee_(Cragg)
+location:
+  latitude: 38.888457
+  longitude: -77.023429
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []
