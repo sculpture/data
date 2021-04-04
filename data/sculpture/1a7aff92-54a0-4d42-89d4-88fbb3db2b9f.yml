@@ -1,0 +1,18 @@
+id: 1a7aff92-54a0-4d42-89d4-88fbb3db2b9f
+type: sculpture
+slug: mercury-about-to-killargus
+title: Mercury about to Kill Argus
+artist-ids:
+- c4c8ec33-facc-423a-a3a9-eb6c1e5df7d4
+date: '1818'
+location:
+  latitude: 50.064862
+  longitude: 19.939529
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
