@@ -6,4 +6,5 @@ birth-date: '1770'
 death-date: '1844'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Bertel_Thorvaldsen
-tag-ids: []
+tag-ids:
+- ba228b77-c711-47fc-85d1-9c8d48961343
