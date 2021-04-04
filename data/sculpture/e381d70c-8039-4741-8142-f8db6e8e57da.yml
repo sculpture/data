@@ -1,0 +1,18 @@
+id: e381d70c-8039-4741-8142-f8db6e8e57da
+type: sculpture
+slug: self-portrait-with-model
+title: ' Self-Portrait with Model at Bergamo'
+artist-ids:
+- 7e97b30b-c66c-4e4c-ae15-fc217a1067a1
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1942'
+link-wikipedia: https://en.wikipedia.org/wiki/Self-Portrait_with_Model_at_Bergamo
+location:
+  latitude: 38.889167
+  longitude: -77.022953
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 8edbb59e-b498-4210-9981-8781235cafcd
