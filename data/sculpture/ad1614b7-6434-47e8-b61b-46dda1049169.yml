@@ -1,0 +1,17 @@
+id: ad1614b7-6434-47e8-b61b-46dda1049169
+type: sculpture
+slug: free-ride-home-snelson
+title: Free Ride Home
+artist-ids:
+- 28867969-9132-450a-b8a6-5e7842d7e26a
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1975'
+location:
+  latitude: 41.425063
+  longitude: -74.059384
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- b2394a4f-8f94-4b9e-9156-fdbdec170b61
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
