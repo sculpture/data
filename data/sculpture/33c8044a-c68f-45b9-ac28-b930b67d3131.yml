@@ -1,0 +1,18 @@
+id: 33c8044a-c68f-45b9-ac28-b930b67d3131
+type: sculpture
+slug: nicolaus-copernicus-salzburg
+title: Nicolaus Copernicus (Salzburg)
+artist-ids:
+- 6684b2b8-ca0a-43de-b86a-005cd5ecfc1d
+city-id: 7e35b7d3-6c72-44b3-90ea-ae23cc140164
+date: '1943'
+location:
+  latitude: 47.805443
+  longitude: 13.041694
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9905d2f9-00e0-443b-8640-dfb98d4795a1
