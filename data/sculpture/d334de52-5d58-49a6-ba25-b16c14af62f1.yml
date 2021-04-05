@@ -1,0 +1,17 @@
+id: d334de52-5d58-49a6-ba25-b16c14af62f1
+type: sculpture
+slug: loss-and-regeneration
+title: Loss and Regeneration
+artist-ids:
+- 12b26567-79ab-4f79-9de8-46cf04d7e7e1
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1993'
+link-wikipedia: https://en.wikipedia.org/wiki/Loss_and_Regeneration
+location:
+  latitude: 38.886787
+  longitude: -77.033202
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
