@@ -1,0 +1,15 @@
+id: 0aa7dfcc-e467-4fac-ac32-b2253e518237
+type: sculpture
+slug: flat-rate-ii
+title: Flat Rate II
+artist-ids:
+- a8e3265b-1d8f-4670-9f7c-3fda2e845376
+city-id: 21f56f64-52ee-47e4-8113-8503789209f1
+date: '1969'
+location:
+  latitude: 42.932199
+  longitude: -78.876074
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []
