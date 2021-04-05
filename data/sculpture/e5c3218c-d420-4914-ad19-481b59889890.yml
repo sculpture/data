@@ -1,0 +1,19 @@
+id: e5c3218c-d420-4914-ad19-481b59889890
+type: sculpture
+slug: study-woman-coat-kuna
+title: Study of a woman in a coat
+artist-ids:
+- b11d6752-1638-4bb8-a3bc-977d4d40d876
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1920'
+location:
+  latitude: 52.231599
+  longitude: 21.024799
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
