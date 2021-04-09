@@ -1,0 +1,17 @@
+id: ddc9667c-bbf0-491c-8494-845419aff6a6
+type: sculpture
+slug: placement-fullerton
+title: (Place)ment
+artist-ids:
+- b5277516-b5b0-4035-86bc-42380586b776
+city-id: 6966e3f0-6b28-4254-bf3e-e46c025f6d81
+date: '2011'
+location:
+  latitude: 44.041869
+  longitude: -79.457481
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 56560105-70a1-4867-aaea-6d76d31576c0
+tag-ids: []
