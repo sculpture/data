@@ -1,0 +1,16 @@
+id: 38352cee-84e2-4662-853c-66aa510db118
+type: sculpture
+slug: three-ovals-soar
+title: Three Ovals Soar
+artist-ids:
+- ca17b203-f940-4f45-853d-3c61feb898a9
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1960'
+location:
+  latitude: 41.425063
+  longitude: -74.059384
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
