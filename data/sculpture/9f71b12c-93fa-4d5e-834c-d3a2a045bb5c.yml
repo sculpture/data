@@ -2,10 +2,9 @@ id: 9f71b12c-93fa-4d5e-834c-d3a2a045bb5c
 type: sculpture
 slug: symbolic-peace
 title: Symbolic Peace
-artist-ids:
-- a484e4e9-62f7-4a4b-bdbd-0dc9871f2e9f
+artist-ids: []
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: 201*
+date: '2017'
 location:
   latitude: 43.649991
   longitude: -79.359988
