@@ -9,7 +9,7 @@ date: 201*
 location:
   latitude: 43.649991
   longitude: -79.359988
-  precision: 30
+  precision: 20
 material-ids:
 - 7105d225-28c2-48a3-9a24-a67f3908fba6
 tag-ids: []
