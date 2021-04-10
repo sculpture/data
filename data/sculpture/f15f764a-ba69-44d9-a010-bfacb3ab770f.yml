@@ -1,0 +1,16 @@
+id: f15f764a-ba69-44d9-a010-bfacb3ab770f
+type: sculpture
+slug: pittsburgh-landscape
+title: Pittsburgh Landscape
+artist-ids:
+- ca17b203-f940-4f45-853d-3c61feb898a9
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1954'
+location:
+  latitude: 38.889025
+  longitude: -77.023558
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
