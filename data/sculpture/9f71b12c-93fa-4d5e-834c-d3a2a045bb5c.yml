@@ -1,0 +1,15 @@
+id: 9f71b12c-93fa-4d5e-834c-d3a2a045bb5c
+type: sculpture
+slug: symbolic-peace
+title: Symbolic Peace
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: 201*
+location:
+  latitude: 43.650045
+  longitude: -79.360642
+  precision: 30
+material-ids:
+- 7105d225-28c2-48a3-9a24-a67f3908fba6
+tag-ids: []
