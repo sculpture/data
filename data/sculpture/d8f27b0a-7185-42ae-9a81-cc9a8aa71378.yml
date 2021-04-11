@@ -1,0 +1,18 @@
+id: d8f27b0a-7185-42ae-9a81-cc9a8aa71378
+type: sculpture
+slug: mozart-eine-hommage
+title: Mozart – Eine Hommage
+artist-ids:
+- 5d3ad362-fd58-476a-9043-4e225af3d286
+city-id: 7e35b7d3-6c72-44b3-90ea-ae23cc140164
+date: '2005'
+location:
+  latitude: 47.808395
+  longitude: 13.041149
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
