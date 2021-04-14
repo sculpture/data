@@ -1,0 +1,16 @@
+id: 2975fc18-15f0-4926-918b-811d73060e41
+type: sculpture
+slug: heart-of-distillery
+title: Heart of Distillery
+artist-ids:
+- a484e4e9-62f7-4a4b-bdbd-0dc9871f2e9f
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2014'
+location:
+  latitude: 43.649994
+  longitude: -79.360975
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
