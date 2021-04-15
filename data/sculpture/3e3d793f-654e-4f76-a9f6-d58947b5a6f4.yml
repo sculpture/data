@@ -1,0 +1,16 @@
+id: 3e3d793f-654e-4f76-a9f6-d58947b5a6f4
+type: sculpture
+slug: before-and-after1
+title: Before and After 1
+artist-ids:
+- 5e9e4190-3cc6-4e20-b1e4-429c0815013d
+city-id: 5899c2fb-c707-426d-a651-491dec175f49
+date: '2011'
+location:
+  latitude: 43.843712
+  longitude: -79.615462
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids: []
