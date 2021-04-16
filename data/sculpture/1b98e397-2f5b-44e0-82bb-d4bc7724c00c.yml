@@ -1,0 +1,16 @@
+id: 1b98e397-2f5b-44e0-82bb-d4bc7724c00c
+type: sculpture
+slug: monumental-head-giacometti
+title: Monumental Head
+artist-ids:
+- cfc0ccc8-abfa-480e-844c-f9c931a65b2a
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1960'
+location:
+  latitude: 38.886759
+  longitude: -77.024565
+  precision: 58
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
