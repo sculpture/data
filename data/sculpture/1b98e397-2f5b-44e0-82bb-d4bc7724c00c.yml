@@ -6,9 +6,10 @@ artist-ids:
 - cfc0ccc8-abfa-480e-844c-f9c931a65b2a
 city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
 date: '1960'
+link-wikipedia: https://en.wikipedia.org/wiki/Monumental_Head
 location:
-  latitude: 38.888161
-  longitude: -77.022968
+  latitude: 38.888975
+  longitude: -77.022571
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
