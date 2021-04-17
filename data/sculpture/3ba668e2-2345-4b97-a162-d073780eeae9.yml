@@ -1,0 +1,18 @@
+id: 3ba668e2-2345-4b97-a162-d073780eeae9
+type: sculpture
+slug: kartiko-toronto-zoo
+title: Kartiko
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: 200*
+location:
+  latitude: 43.818846
+  longitude: -79.182478
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
