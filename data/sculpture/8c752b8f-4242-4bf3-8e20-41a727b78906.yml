@@ -1,0 +1,18 @@
+id: 8c752b8f-4242-4bf3-8e20-41a727b78906
+type: sculpture
+slug: amphitrite-montreal
+title: Amphitrite
+artist-ids:
+- 7c1e9792-bf42-4912-b35c-64dcadef266d
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1750'
+location:
+  latitude: 45.502275
+  longitude: -73.560592
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
