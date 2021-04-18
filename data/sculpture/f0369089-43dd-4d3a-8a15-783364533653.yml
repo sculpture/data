@@ -1,0 +1,15 @@
+id: f0369089-43dd-4d3a-8a15-783364533653
+type: sculpture
+slug: meeting-ghent
+title: Meeting
+artist-ids:
+- c462e988-7b08-4abc-b0ec-c8df4cf03e4b
+city-id: ca0e48aa-9f11-4867-9698-3009bb1fa395
+date: '2000'
+location:
+  latitude: 51.036763
+  longitude: 3.711227
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
