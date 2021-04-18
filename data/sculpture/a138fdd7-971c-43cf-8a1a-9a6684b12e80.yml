@@ -1,0 +1,17 @@
+id: a138fdd7-971c-43cf-8a1a-9a6684b12e80
+type: sculpture
+slug: clamdigger
+title: Clamdigger
+artist-ids:
+- 0a037033-ecf0-4c21-a498-664e79b6d3de
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1976'
+link-wikipedia: https://en.wikipedia.org/wiki/Clamdigger_(de_Kooning)
+location:
+  latitude: 38.889193
+  longitude: -77.023435
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
