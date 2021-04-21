@@ -1,0 +1,15 @@
+id: ee2a3d56-a7ca-4d04-b7e8-c19c90623fa1
+type: sculpture
+slug: zig-zag-buffalo
+title: Zig -Zag
+artist-ids:
+- 780862c7-7ec2-45e8-94ef-42f81e4d321c
+city-id: 21f56f64-52ee-47e4-8113-8503789209f1
+date: '1967'
+location:
+  latitude: 42.932128
+  longitude: -78.875039
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []
