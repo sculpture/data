@@ -1,0 +1,15 @@
+id: 60889fd6-537d-400f-ac15-bbb4d2f2af1a
+type: sculpture
+slug: soul-escaping-body
+title: Soul Escaping the Body
+artist-ids:
+- e34fc699-6c94-4478-9257-107f0be1acc3
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1918'
+location:
+  latitude: 52.189374
+  longitude: 21.026266
+  precision: 30
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids: []
