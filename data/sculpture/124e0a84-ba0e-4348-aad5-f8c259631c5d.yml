@@ -9,10 +9,11 @@ date: '1976'
 location:
   latitude: 43.667388
   longitude: -79.401867
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6883fc7a-540d-4fe9-9753-80f6e581f0ab
 - 6f13c768-5619-419e-97af-60440cab7f89
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
