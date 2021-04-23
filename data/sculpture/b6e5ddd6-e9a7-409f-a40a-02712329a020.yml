@@ -1,0 +1,16 @@
+id: b6e5ddd6-e9a7-409f-a40a-02712329a020
+type: sculpture
+slug: untitled-dancers
+title: Untitled (Dancers)
+artist-ids:
+- 2f8a3f74-a278-4577-8c86-54bf00e6c2a7
+- 563821c5-8737-4166-a96f-f0ae11d145fb
+city-id: 58753f86-60ec-4ad5-8343-698197d7eae3
+date: '2013'
+location:
+  latitude: 43.877864
+  longitude: -79.438874
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
