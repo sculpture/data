@@ -1,0 +1,15 @@
+id: de17095b-0d9b-4cc3-9b10-2a704f2e4bea
+type: sculpture
+slug: homenatge-als-castellers
+title: Homenatge als castellers
+artist-ids:
+- c7ee339d-101e-40f2-9f8d-5f2d7e82ca89
+city-id: 16e2f36d-eb09-4c02-9fd2-334682ca2e1c
+date: '2012'
+location:
+  latitude: 41.382222
+  longitude: 2.1775
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []
