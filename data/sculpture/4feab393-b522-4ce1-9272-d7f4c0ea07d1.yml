@@ -1,0 +1,16 @@
+id: 4feab393-b522-4ce1-9272-d7f4c0ea07d1
+type: sculpture
+slug: garden-greek-gods-hydra
+title: Garden of the Greek Gods - Hydra
+artist-ids:
+- 56d243ae-7954-4107-b7fa-6290ac7cb48f
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1979'
+location:
+  latitude: 43.633534
+  longitude: -79.421878
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
