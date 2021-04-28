@@ -1,0 +1,16 @@
+id: 1ecf92a3-d0cb-44d0-a6dc-b79336e334f8
+type: sculpture
+slug: stiding-figure-1-housego
+title: Untitled Striding Figure 1
+artist-ids:
+- e2691e96-99e2-4c60-b49d-06e13be46118
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2007'
+location:
+  latitude: 41.424918
+  longitude: -74.058923
+  precision: 30
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 66ec2c31-c300-4e0f-bc36-93fa72a95fef
