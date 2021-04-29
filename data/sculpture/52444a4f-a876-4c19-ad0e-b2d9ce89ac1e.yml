@@ -1,0 +1,16 @@
+id: 52444a4f-a876-4c19-ad0e-b2d9ce89ac1e
+type: sculpture
+slug: rape-of-lucrece
+title: Rape of Lucrece
+artist-ids:
+- 3e7c1053-1ecb-45e8-99d7-f1a37dedf64d
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1958'
+location:
+  latitude: 38.888453
+  longitude: -77.023242
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
