@@ -1,0 +1,19 @@
+id: c3aff90f-8c33-40a0-af3d-986c8a41ab38
+type: sculpture
+slug: hommage-marguerite-bourgeoys
+title: Hommage à Marguerite Bourgeoys
+artist-ids:
+- 795ddaac-67a8-4e09-907f-f362c9481a81
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1988'
+location:
+  latitude: 45.50734
+  longitude: -73.55525
+  precision: 20
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 66ec2c31-c300-4e0f-bc36-93fa72a95fef
+- f3c0c272-150c-42cd-9a87-bd121fdc1309
