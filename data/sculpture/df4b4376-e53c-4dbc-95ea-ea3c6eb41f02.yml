@@ -1,0 +1,17 @@
+id: df4b4376-e53c-4dbc-95ea-ea3c6eb41f02
+type: sculpture
+slug: groser-sitzender
+title: Großer Sitzender
+artist-ids:
+- f26bbf60-21c4-4c0c-976b-486511846da5
+city-id: 9d5db670-5313-4ffb-bcc4-b45700b6db65
+date: '2004'
+location:
+  latitude: 49.793689
+  longitude: 9.9321
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
