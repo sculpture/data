@@ -1,0 +1,17 @@
+id: 527caa0a-3e40-477b-802b-8e44694fd5a0
+type: sculpture
+slug: monument-polish-underground
+title: Monument to the Polish Underground State and Home Army
+artist-ids:
+- b9f1b50b-7509-48fd-a983-b60f0bdce45a
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1999'
+link-wikipedia: https://en.wikipedia.org/wiki/Monument_to_the_Polish_Underground_State_and_Home_Army
+location:
+  latitude: 52.22515
+  longitude: 21.026236
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
