@@ -1,0 +1,18 @@
+id: 1881520e-e96e-40d8-a14f-04350b9ab7d3
+type: sculpture
+slug: untitled-judd-moma
+title: Untitled (judd)
+artist-ids:
+- 28dd6355-8e25-43d6-94c3-836534dacd4c
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1967'
+location:
+  latitude: 40.761433
+  longitude: -73.977622
+  precision: 10
+material-ids:
+- 3cd25954-9a6b-478f-a4a4-8470c3972f2c
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
