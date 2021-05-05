@@ -1,0 +1,15 @@
+id: 757c18ad-eab8-4db7-94e5-68ec107a4076
+type: sculpture
+slug: cactus-fischer
+title: Cactus
+artist-ids:
+- 6af260be-a94c-4635-8fb6-4214843c15ab
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1971'
+location:
+  latitude: 45.501743
+  longitude: -73.576752
+  precision: 15
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []
