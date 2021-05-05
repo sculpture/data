@@ -1,0 +1,15 @@
+id: 2df25c79-9aa9-485c-a911-3e9b6de16822
+type: sculpture
+slug: sight-point-serra
+title: Sight Point
+artist-ids:
+- cba9cd6d-c9b3-46e2-ba46-e010bb842ce7
+city-id: 6ba859f5-a74a-4e05-87ae-c2c2bf55650b
+date: '1975'
+location:
+  latitude: 52.357785
+  longitude: 4.880817
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids: []
