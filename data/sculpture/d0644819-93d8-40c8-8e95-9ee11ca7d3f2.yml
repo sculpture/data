@@ -1,0 +1,16 @@
+id: d0644819-93d8-40c8-8e95-9ee11ca7d3f2
+type: sculpture
+slug: gox-4-trova
+title: 'Gox #4'
+artist-ids:
+- 959d3aff-216e-400c-b789-0578909142c5
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1975'
+location:
+  latitude: 41.425063
+  longitude: -74.059384
+  precision: 50
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
