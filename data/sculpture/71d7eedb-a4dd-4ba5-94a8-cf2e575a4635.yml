@@ -1,0 +1,20 @@
+id: 71d7eedb-a4dd-4ba5-94a8-cf2e575a4635
+type: sculpture
+slug: pow-memorial
+title: POW memorial
+artist-ids:
+- 120248ac-9de5-49a1-b739-70a0bd15d509
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1931'
+link-wikipedia: https://pl.wikipedia.org/wiki/Pomnik_Peowiaka_w_Warszawie
+location:
+  latitude: 52.238993
+  longitude: 21.011668
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
