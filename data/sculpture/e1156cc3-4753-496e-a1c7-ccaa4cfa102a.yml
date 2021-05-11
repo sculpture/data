@@ -8,9 +8,9 @@ city-id: 6ba859f5-a74a-4e05-87ae-c2c2bf55650b
 date: '1985'
 link-wikipedia: https://nl.wikipedia.org/wiki/Mama_Baranka
 location:
-  latitude: 52.358847
-  longitude: 4.872602
-  precision: 10
+  latitude: 52.359227
+  longitude: 4.874393
+  precision: 30
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 note: Mother Earth
