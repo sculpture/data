@@ -1,0 +1,20 @@
+id: 7a81913a-cb0a-4877-afdd-c1bf801cc5fa
+type: sculpture
+slug: deep-time
+title: Deep Time
+artist-ids:
+- df11e7b0-87b0-49f3-831b-5274a827148b
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2011'
+location:
+  latitude: 43.684416
+  longitude: -79.365266
+  precision: 10
+material-ids:
+- 90961d65-c887-44b3-9153-7364b69806bc
+- 983d1c37-99da-4b1d-baba-681a83e66d30
+- c836d40f-6e3c-4e14-a287-c8b2427ec50f
+tag-ids:
+- 399902cf-177a-4693-980d-eb86255cc25f
+- 5e46697e-16c7-4478-a438-202749e4888d
+- e7c0d105-ed1d-4e46-8cd8-a5153a2a784d
