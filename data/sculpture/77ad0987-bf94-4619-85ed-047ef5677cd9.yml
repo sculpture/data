@@ -1,0 +1,17 @@
+id: 77ad0987-bf94-4619-85ed-047ef5677cd9
+type: sculpture
+slug: komitas-quebec
+title: Komitas
+artist-ids:
+- 35cf6443-a612-4156-8602-d5c867b39283
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '2008'
+location:
+  latitude: 46.811394
+  longitude: -71.211672
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 025aebba-7303-441f-b755-ade5bb67ef90
+- 18d2fd29-8838-4290-a343-39182ae9b445
