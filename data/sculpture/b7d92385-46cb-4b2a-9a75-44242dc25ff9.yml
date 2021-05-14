@@ -1,0 +1,17 @@
+id: b7d92385-46cb-4b2a-9a75-44242dc25ff9
+type: sculpture
+slug: cancer-sebastian
+title: Cancer
+artist-ids:
+- 7c870b60-91cc-4830-8849-30177e858d9c
+city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
+date: '2008'
+location:
+  latitude: 45.434799
+  longitude: -75.707475
+  precision: 50
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- f512d675-0554-4a67-987c-1da560f2c95a
