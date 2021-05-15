@@ -1,0 +1,16 @@
+id: b7961689-3735-4db3-8a82-b667bf763569
+type: sculpture
+slug: trinity-root
+title: Trinity Root
+artist-ids:
+- a0a49baa-bae2-4870-87b2-bff562d83388
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '2005'
+location:
+  latitude: 40.707688
+  longitude: -74.012109
+  precision: 10
+material-ids:
+- 20ec9050-85db-4ec6-8fef-806598bcee75
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
