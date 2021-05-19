@@ -1,0 +1,16 @@
+id: 25a12b64-061e-40bb-a692-9ece8cf50051
+type: sculpture
+slug: untitled-three-elements
+title: Untitled (Three Elements)
+artist-ids:
+- 160aed00-25ad-4ee5-bcc3-c79b4db94524
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1965'
+location:
+  latitude: 41.425063
+  longitude: -74.059384
+  precision: 50
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
