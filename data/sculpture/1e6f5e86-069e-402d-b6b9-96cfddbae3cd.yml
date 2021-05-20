@@ -1,0 +1,19 @@
+id: 1e6f5e86-069e-402d-b6b9-96cfddbae3cd
+type: sculpture
+slug: jeune-fille-tortue
+title: Jeune fille à la tortue
+artist-ids:
+- 43fc770a-3445-43c1-af61-540f7ab521f7
+city-id: c55fa4d1-d614-45ec-b130-747888a8163b
+date: '1971'
+location:
+  latitude: 48.134611
+  longitude: 11.570815
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 5e46697e-16c7-4478-a438-202749e4888d
+- ce5eba46-3dff-4d8c-89c8-4fab2da9a37d
