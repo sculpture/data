@@ -1,0 +1,17 @@
+id: 6ef52bea-7124-40f0-a6a6-dfda017104d7
+type: sculpture
+slug: pickering-pioneer-family
+title: The Pickering Pioneer Family
+artist-ids:
+- ce07fcd9-f19e-468d-b8b4-6a61ac046c14
+city-id: 29c04be3-e495-4c7c-bd72-b3d935fef86d
+date: '1989'
+location:
+  latitude: 43.837912
+  longitude: -79.083131
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 90961d65-c887-44b3-9153-7364b69806bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
