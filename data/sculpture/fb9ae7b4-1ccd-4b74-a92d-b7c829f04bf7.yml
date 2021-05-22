@@ -1,0 +1,15 @@
+id: fb9ae7b4-1ccd-4b74-a92d-b7c829f04bf7
+type: sculpture
+slug: figure-with-raised-arms
+title: Figure With Raised Arms
+artist-ids:
+- 1593cde7-d731-4ec3-a5a5-b9d880d684d0
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1956'
+location:
+  latitude: 38.889071
+  longitude: -77.023521
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
