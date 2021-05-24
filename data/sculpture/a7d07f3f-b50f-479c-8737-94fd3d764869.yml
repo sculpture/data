@@ -1,0 +1,15 @@
+id: a7d07f3f-b50f-479c-8737-94fd3d764869
+type: sculpture
+slug: light-within
+title: The Light Within
+artist-ids:
+- cdd2d02c-3cd7-42bd-9619-0c5cf24aa751
+city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
+date: '2020'
+location:
+  latitude: 43.577355
+  longitude: -79.553716
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []
