@@ -1,0 +1,16 @@
+id: a6d35c9e-89ab-4644-ac28-3a23e48b2f65
+type: sculpture
+slug: la-canco-popular
+title: La cançó popular
+artist-ids:
+- b03d72b9-f218-4058-ab87-3090ea2fb60d
+city-id: 16e2f36d-eb09-4c02-9fd2-334682ca2e1c
+date: '1907'
+location:
+  latitude: 41.387281
+  longitude: 2.175286
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
