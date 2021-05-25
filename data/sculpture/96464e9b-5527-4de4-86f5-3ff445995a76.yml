@@ -1,0 +1,17 @@
+id: 96464e9b-5527-4de4-86f5-3ff445995a76
+type: sculpture
+slug: hare-on-bell-ny
+title: Hare on Bell
+artist-ids:
+- 9fce16c2-cd28-41d0-b59e-8f1653dc886f
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1983'
+location:
+  latitude: 40.761407
+  longitude: -73.981595
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
