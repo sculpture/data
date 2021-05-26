@@ -1,0 +1,17 @@
+id: 69db4269-b0da-4307-92b2-03b14b40022d
+type: sculpture
+slug: flat-man-griffis
+title: Flat Man
+artist-ids:
+- 79a0945e-148b-4be1-b210-fb1f1aaecc0c
+city-id: 21f56f64-52ee-47e4-8113-8503789209f1
+date: '1963'
+location:
+  latitude: 42.859244
+  longitude: -78.875526
+  precision: 50
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+note: moved from Griffis Sculpture Park to Buffalo in 2017
+tag-ids:
+- c9884cff-1c92-48b5-816b-aa0479de54fa
