@@ -1,0 +1,19 @@
+id: dfb8e095-c0dd-456f-973b-1275bcaa04ad
+type: sculpture
+slug: bust-of-man-keyser
+title: Bust of Man
+artist-ids:
+- 07d44f77-a1e5-4434-af27-adae10e4b345
+city-id: 6ba859f5-a74a-4e05-87ae-c2c2bf55650b
+date: '1606'
+location:
+  latitude: 52.359998
+  longitude: 4.885219
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- c9884cff-1c92-48b5-816b-aa0479de54fa
