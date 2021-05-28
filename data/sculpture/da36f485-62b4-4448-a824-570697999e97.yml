@@ -1,0 +1,17 @@
+id: da36f485-62b4-4448-a824-570697999e97
+type: sculpture
+slug: site-specific
+title: Site Specific
+artist-ids:
+- e94089cf-d78b-4ec3-9feb-385446aeff52
+- f4939cf9-8f45-412f-b25a-091ec6dab4b3
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2015'
+location:
+  latitude: 43.654273
+  longitude: -79.358571
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids: []
