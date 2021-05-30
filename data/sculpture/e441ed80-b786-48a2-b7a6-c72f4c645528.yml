@@ -1,0 +1,19 @@
+id: e441ed80-b786-48a2-b7a6-c72f4c645528
+type: sculpture
+slug: action-in-chains
+title: Action in Chains
+artist-ids:
+- 65b29e60-e2c4-47e0-97e7-dd087727cc3f
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1905'
+location:
+  latitude: 38.889159
+  longitude: -77.023188
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
