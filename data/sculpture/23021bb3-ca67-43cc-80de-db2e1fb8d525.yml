@@ -1,0 +1,17 @@
+id: 23021bb3-ca67-43cc-80de-db2e1fb8d525
+type: sculpture
+slug: thrift-bom-ottawa
+title: Thrift (Bank of Montreal)
+artist-ids:
+- 6029e38b-9408-48f2-a378-8053d0079499
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1932'
+location:
+  latitude: 45.399724
+  longitude: -75.732427
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
