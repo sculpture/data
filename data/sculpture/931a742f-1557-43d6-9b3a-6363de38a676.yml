@@ -1,0 +1,18 @@
+id: 931a742f-1557-43d6-9b3a-6363de38a676
+type: sculpture
+slug: polychrome-lures
+title: Polychrome Lures
+artist-ids:
+- 7ad71af4-c9b7-49d0-9765-ba2a674856a0
+city-id: dfc812fa-0588-474a-98a2-4cdccf6bad2f
+date: '1975'
+location:
+  latitude: 42.9795
+  longitude: -85.585639
+  precision: 30
+material-ids:
+- 3cd25954-9a6b-478f-a4a4-8470c3972f2c
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 85105298-6047-4f80-88ec-76aa0b77d815
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
