@@ -7,8 +7,8 @@ artist-ids:
 city-id: dfc812fa-0588-474a-98a2-4cdccf6bad2f
 date: '1975'
 location:
-  latitude: 42.9795
-  longitude: -85.585639
+  latitude: 42.979374
+  longitude: -85.58344
   precision: 30
 material-ids:
 - 3cd25954-9a6b-478f-a4a4-8470c3972f2c
