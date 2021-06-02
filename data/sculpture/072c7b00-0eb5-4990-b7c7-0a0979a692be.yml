@@ -1,0 +1,18 @@
+id: 072c7b00-0eb5-4990-b7c7-0a0979a692be
+type: sculpture
+slug: vlasta-max
+title: Vlasta
+artist-ids:
+- 18b91259-f647-4a69-b401-927f6712460e
+city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
+date: '1842'
+location:
+  latitude: 50.089168
+  longitude: 14.396889
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
