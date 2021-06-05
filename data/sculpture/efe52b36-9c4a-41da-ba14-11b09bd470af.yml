@@ -1,0 +1,16 @@
+id: efe52b36-9c4a-41da-ba14-11b09bd470af
+type: sculpture
+slug: garden-of-earhly-delights
+title: Garden of Earhly Delights
+artist-ids:
+- ca882138-7a18-4778-8c94-c0ab81e64359
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: 201*
+location:
+  latitude: 43.729488
+  longitude: -79.437358
+  precision: 50
+material-ids:
+- 5fd1cc05-abf6-4f86-b491-43ae800ae2b2
+tag-ids:
+- acf1f82b-5ae9-4cf6-8008-06be6a15512b
