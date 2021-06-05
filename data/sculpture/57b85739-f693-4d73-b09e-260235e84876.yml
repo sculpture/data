@@ -1,0 +1,15 @@
+id: 57b85739-f693-4d73-b09e-260235e84876
+type: sculpture
+slug: for-paul
+title: For Paul
+artist-ids:
+- 82359539-c433-4369-b192-638bfa397968
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1992'
+location:
+  latitude: 41.425063
+  longitude: -74.059384
+  precision: 50
+material-ids:
+- d10b6251-79c5-4fc3-b359-a45e7e3ce9b5
+tag-ids: []
