@@ -1,0 +1,18 @@
+id: 26f60562-461a-45c0-8497-e976a0df9c25
+type: sculpture
+slug: manelic
+title: Manelic
+artist-ids:
+- 9525c6ed-fedf-47cf-ae14-e7206a7f0f7b
+city-id: 16e2f36d-eb09-4c02-9fd2-334682ca2e1c
+date: '1909'
+location:
+  latitude: 41.364
+  longitude: 2.167493
+  precision: 50
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3d01002e-928d-47f0-9a30-5f38d5a8eb27
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
