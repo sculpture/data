@@ -1,0 +1,17 @@
+id: 76f5712e-0a72-4635-bbaf-abac56393d6c
+type: sculpture
+slug: 5-in-1-rosenthal
+title: 5 in 1
+artist-ids:
+- 0a291969-d42e-4f81-a4fd-3dbc3b63e92f
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1974'
+location:
+  latitude: 40.712482
+  longitude: -74.002659
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
