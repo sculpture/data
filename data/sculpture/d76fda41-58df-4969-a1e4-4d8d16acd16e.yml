@@ -1,0 +1,19 @@
+id: d76fda41-58df-4969-a1e4-4d8d16acd16e
+type: sculpture
+slug: edith-cavell-memorial-wyle
+title: Edith Cavell Memorial
+artist-ids:
+- ace1f5d4-d008-45de-9b78-fa7ebf47f733
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1921'
+location:
+  latitude: 43.658514
+  longitude: -79.389374
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 2d7e8f2e-e187-462b-a638-06a4ef145363
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- fc25d75b-ceae-4902-bb90-040e3dac5eac
