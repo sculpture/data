@@ -1,0 +1,17 @@
+id: c6948240-f97e-4657-a6b5-01dfeaecd314
+type: sculpture
+slug: rossebandiger-mandl
+title: Rossebändiger
+artist-ids:
+- 5e88c464-d6a7-4083-be42-fbf3053f88b6
+city-id: 7e35b7d3-6c72-44b3-90ea-ae23cc140164
+date: '1695'
+location:
+  latitude: 47.799361
+  longitude: 13.040426
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
