@@ -1,0 +1,20 @@
+id: 9fe17c2d-e9c5-40bf-927f-510904093671
+type: sculpture
+slug: retrospective-bust-of-woman-dali
+title: Retrospective Bust of a Woman
+artist-ids:
+- 63db084d-333a-4c71-8894-3c9357c592e2
+city-id: a75c8dbc-3678-4d58-8c87-20ded6915cd2
+date: '1933'
+location:
+  latitude: 42.267992
+  longitude: 2.959507
+  precision: 10
+material-ids:
+- 2dc45cd1-a7d7-4496-b4da-0ab63b1f8545
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
