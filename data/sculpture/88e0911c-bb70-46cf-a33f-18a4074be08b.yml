@@ -1,0 +1,17 @@
+id: 88e0911c-bb70-46cf-a33f-18a4074be08b
+type: sculpture
+slug: seated-woman-on-bench
+title: Seated Woman on a Bench
+artist-ids:
+- 0a037033-ecf0-4c21-a498-664e79b6d3de
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1972'
+link-wikipedia: https://en.wikipedia.org/wiki/Seated_Woman_on_a_Bench
+location:
+  latitude: 38.889038
+  longitude: -77.023456
+  precision: 20
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast 1976
+tag-ids: []
