@@ -1,0 +1,18 @@
+id: ed2c4cf6-76ac-4348-9ce8-0adcb8575f23
+type: sculpture
+slug: swan-fountain-guildwood
+title: Swan Fountain
+artist-ids:
+- 10b9e6a1-47ac-4ee8-9933-bf2e5a8a09b4
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: 195*
+location:
+  latitude: 43.74739
+  longitude: -79.191959
+  precision: 20
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 5e46697e-16c7-4478-a438-202749e4888d
+- b982214e-52f9-48b0-b977-4a4359b49fdb
