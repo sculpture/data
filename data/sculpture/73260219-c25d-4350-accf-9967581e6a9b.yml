@@ -1,0 +1,16 @@
+id: 73260219-c25d-4350-accf-9967581e6a9b
+type: sculpture
+slug: striding-figure
+title: Striding Figure
+artist-ids:
+- e2691e96-99e2-4c60-b49d-06e13be46118
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2012'
+location:
+  latitude: 41.425063
+  longitude: -74.059384
+  precision: 50
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
