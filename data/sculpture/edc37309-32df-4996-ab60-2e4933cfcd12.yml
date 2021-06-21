@@ -1,0 +1,18 @@
+id: edc37309-32df-4996-ab60-2e4933cfcd12
+type: sculpture
+slug: titan-amsterdam
+title: Titan
+artist-ids:
+- 72485897-70fd-4a8f-8032-08a09da876a8
+city-id: 6ba859f5-a74a-4e05-87ae-c2c2bf55650b
+date: '1911'
+location:
+  latitude: 52.359572
+  longitude: 4.885026
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
