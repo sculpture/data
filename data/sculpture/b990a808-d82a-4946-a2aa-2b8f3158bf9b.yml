@@ -1,0 +1,17 @@
+id: b990a808-d82a-4946-a2aa-2b8f3158bf9b
+type: sculpture
+slug: owl-hibou
+title: Owl (Hibou)
+artist-ids:
+- 8221d084-6345-4eb5-9bc4-d1b3d278be36
+city-id: 29c04be3-e495-4c7c-bd72-b3d935fef86d
+date: 200*
+location:
+  latitude: 43.815801
+  longitude: -79.073544
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- b982214e-52f9-48b0-b977-4a4359b49fdb
