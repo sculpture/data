@@ -1,0 +1,20 @@
+id: e05db84f-c641-45cb-8aed-b69a6102770b
+type: sculpture
+slug: woman-with-dolphin
+title: 'Woman with a Dolphin '
+artist-ids:
+- 310f4860-4293-4a82-8050-2a0b55878870
+city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
+date: '1913'
+location:
+  latitude: 50.090633
+  longitude: 14.395432
+  precision: 20
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
