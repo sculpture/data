@@ -1,0 +1,16 @@
+id: 580d6fa3-1a26-4195-a892-26b068e1be06
+type: sculpture
+slug: four-sided-pyramid
+title: Four-Sided Pyramid
+artist-ids:
+- ae4a69cb-1c8a-4d5f-9ff6-47f49a8d1676
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1997'
+location:
+  latitude: 38.890995
+  longitude: -77.022529
+  precision: 30
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+tag-ids:
+- df4890c4-2701-4782-a670-d019b3b95547
