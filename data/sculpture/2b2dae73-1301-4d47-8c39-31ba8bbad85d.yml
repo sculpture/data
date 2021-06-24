@@ -1,0 +1,15 @@
+id: 2b2dae73-1301-4d47-8c39-31ba8bbad85d
+type: sculpture
+slug: goddess-with-golden-thighs
+title: Goddess with the Golden Thighs
+artist-ids:
+- 3e7c1053-1ecb-45e8-99d7-f1a37dedf64d
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1965'
+location:
+  latitude: 38.889062
+  longitude: -77.022572
+  precision: 20
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
