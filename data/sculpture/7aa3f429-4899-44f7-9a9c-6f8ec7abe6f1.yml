@@ -1,0 +1,20 @@
+id: 7aa3f429-4899-44f7-9a9c-6f8ec7abe6f1
+type: sculpture
+slug: je-me-souviens-gauthier
+title: Je me souviens
+artist-ids:
+- d44507bd-7f6d-4308-8497-299b6a6f4966
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1989'
+location:
+  latitude: 46.807059
+  longitude: -71.214156
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 2d7e8f2e-e187-462b-a638-06a4ef145363
+- 8edbb59e-b498-4210-9981-8781235cafcd
