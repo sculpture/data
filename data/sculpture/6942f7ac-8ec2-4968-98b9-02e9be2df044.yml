@@ -1,0 +1,15 @@
+id: 6942f7ac-8ec2-4968-98b9-02e9be2df044
+type: sculpture
+slug: auferstehender-und-fallender
+title: Auferstehender und Fallender
+artist-ids:
+- 89f1ae1a-74d8-41e3-8487-b165d8ddb041
+city-id: 9d5db670-5313-4ffb-bcc4-b45700b6db65
+date: '2003'
+location:
+  latitude: 49.793689
+  longitude: 9.931628
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids: []
