@@ -1,0 +1,20 @@
+id: 008be885-bf51-42f8-b4a8-ad629dcc1ec4
+type: sculpture
+slug: aviator-monument
+title: Aviator Monument
+artist-ids:
+- 120248ac-9de5-49a1-b739-70a0bd15d509
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1932'
+link-wikipedia: https://en.wikipedia.org/wiki/Aviator_Monument_(Warsaw)
+location:
+  latitude: 52.216335
+  longitude: 20.988319
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: reconstructed in 1967
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
