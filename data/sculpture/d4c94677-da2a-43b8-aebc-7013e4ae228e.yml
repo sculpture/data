@@ -1,0 +1,16 @@
+id: d4c94677-da2a-43b8-aebc-7013e4ae228e
+type: sculpture
+slug: pollinators
+title: Pollinators
+artist-ids:
+- daa3739f-f25b-4e27-a19d-689c6f3740ac
+city-id: 29c04be3-e495-4c7c-bd72-b3d935fef86d
+date: '2020'
+location:
+  latitude: 43.838705
+  longitude: -79.081421
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
