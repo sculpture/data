@@ -1,0 +1,15 @@
+id: 1d5d0d5f-11bb-49ae-ac29-c7d144677d1e
+type: sculpture
+slug: around-the-gateway
+title: Around the gateway
+artist-ids:
+- e7be25e6-2a78-470a-961c-87ba8b0ce8f0
+city-id: 4c133344-0cec-4448-b5cb-d702cc6e1913
+date: '1998'
+location:
+  latitude: 40.236942
+  longitude: -74.719621
+  precision: 50
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []
