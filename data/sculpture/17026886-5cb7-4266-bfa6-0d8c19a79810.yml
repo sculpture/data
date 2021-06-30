@@ -1,0 +1,15 @@
+id: 17026886-5cb7-4266-bfa6-0d8c19a79810
+type: sculpture
+slug: schunnemunk-fork
+title: Schunnemunk Fork
+artist-ids:
+- cba9cd6d-c9b3-46e2-ba46-e010bb842ce7
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1991'
+location:
+  latitude: 41.424435
+  longitude: -74.06073
+  precision: 50
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []
