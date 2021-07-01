@@ -1,0 +1,17 @@
+id: b7eb4233-6dfe-4016-80d9-8c78d23e19c0
+type: sculpture
+slug: justice-quebec-city
+title: Justice
+artist-ids:
+- d9cc1353-37e4-4da3-a1bc-bf6cbf4ced15
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1980'
+location:
+  latitude: 46.817764
+  longitude: -71.21614
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- df4890c4-2701-4782-a670-d019b3b95547
