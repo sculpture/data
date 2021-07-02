@@ -1,0 +1,18 @@
+id: 7d5059c5-3568-4f51-9f7d-a3029c0c155b
+type: sculpture
+slug: europe-brussels
+title: Europe
+artist-ids:
+- 1f11c20a-6edb-4177-afcb-fdd0c907f9d1
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1993'
+location:
+  latitude: 50.838908
+  longitude: 4.373942
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
