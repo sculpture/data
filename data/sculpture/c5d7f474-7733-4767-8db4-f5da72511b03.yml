@@ -1,0 +1,18 @@
+id: c5d7f474-7733-4767-8db4-f5da72511b03
+type: sculpture
+slug: infestation-piece-musselled-moore
+title: Infestation Piece (Musselled Moore)
+artist-ids:
+- fea3f49b-5281-4aee-a1a8-36a23c7a8e87
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2008'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
