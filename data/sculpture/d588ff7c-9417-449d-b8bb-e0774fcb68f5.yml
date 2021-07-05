@@ -1,0 +1,20 @@
+id: d588ff7c-9417-449d-b8bb-e0774fcb68f5
+type: sculpture
+slug: poverella-vigne
+title: Poverella
+artist-ids:
+- c1821f3f-4b1e-4d83-9d8e-b08fc2999fc5
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1878'
+location:
+  latitude: 50.841978
+  longitude: 4.357904
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
