@@ -1,0 +1,17 @@
+id: df6cf09c-abab-42ac-84e8-4d2d61cd0666
+type: sculpture
+slug: homme-passant-la-porte
+title: 'Homme passant la porte '
+artist-ids:
+- 7a40a7ac-636e-4953-8040-45d30ef00208
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1966'
+location:
+  latitude: 38.889067
+  longitude: -77.02322
+  precision: 20
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 66ec2c31-c300-4e0f-bc36-93fa72a95fef
+- c9884cff-1c92-48b5-816b-aa0479de54fa
