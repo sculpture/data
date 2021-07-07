@@ -1,0 +1,15 @@
+id: c3f28749-fae4-4e53-89e0-b0d66d817df5
+type: sculpture
+slug: kreuzschlepper-walter
+title: Kreuzschlepper
+artist-ids:
+- eca21310-bee2-4ac7-a030-57c818b97b00
+city-id: 9d5db670-5313-4ffb-bcc4-b45700b6db65
+date: '1971'
+location:
+  latitude: 49.793741
+  longitude: 9.93229
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
