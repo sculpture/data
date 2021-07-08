@@ -1,0 +1,18 @@
+id: 6a42a68a-e22a-48d0-81f9-797cea4ebdb5
+type: sculpture
+slug: on-yellow-box
+title: On a Yellow Box
+artist-ids:
+- 72c257d2-b2c9-4e98-a614-f4da3af3f3b9
+city-id: 4c133344-0cec-4448-b5cb-d702cc6e1913
+date: '2002'
+location:
+  latitude: 40.238383
+  longitude: -74.719926
+  precision: 30
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 2c971567-aa58-40f7-bf83-b5a97ed653c9
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids: []
