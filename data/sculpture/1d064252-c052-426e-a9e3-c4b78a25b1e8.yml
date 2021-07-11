@@ -1,0 +1,19 @@
+id: 1d064252-c052-426e-a9e3-c4b78a25b1e8
+type: sculpture
+slug: plains-call
+title: Plains Call
+artist-ids:
+- 15b4136f-bb32-4f26-ab9f-b01879f48140
+city-id: 5899c2fb-c707-426d-a651-491dec175f49
+commissioned-by: gift of artist
+date: '2010'
+location:
+  latitude: 43.841968
+  longitude: -79.620924
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
