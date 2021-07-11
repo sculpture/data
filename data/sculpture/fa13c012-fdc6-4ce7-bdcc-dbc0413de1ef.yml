@@ -1,0 +1,17 @@
+id: fa13c012-fdc6-4ce7-bdcc-dbc0413de1ef
+type: sculpture
+slug: last-conversation-piece
+title: Last Conversation Piece
+artist-ids:
+- d8a1f39a-459d-4a33-87f6-b1fdec0cbbfe
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1995'
+link-wikipedia: https://en.wikipedia.org/wiki/Last_Conversation_Piece
+location:
+  latitude: 38.888478
+  longitude: -77.023429
+  precision: 20
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
