@@ -1,0 +1,17 @@
+id: edbbfe42-39a3-4444-828a-040a9d3048ec
+type: sculpture
+slug: neish-do-dem
+title: Neish Do-Dem
+artist-ids:
+- 0ec9d7d2-ea5e-4943-8507-92d4b15f3708
+- 3391faf3-7936-4a99-87cf-746dc8097971
+city-id: 9a82bb0d-d00a-491c-911b-64b5be0e734a
+date: 198*
+location:
+  latitude: 42.315315
+  longitude: -83.059569
+  precision: 20
+material-ids:
+- d10b6251-79c5-4fc3-b359-a45e7e3ce9b5
+tag-ids:
+- cade9829-ef07-4263-827c-a161323c585f
