@@ -1,0 +1,15 @@
+id: b244eefb-e4c3-4b46-a644-317392f31a1f
+type: sculpture
+slug: clown-griffis
+title: Clown
+artist-ids:
+- 79a0945e-148b-4be1-b210-fb1f1aaecc0c
+date: 196*
+location:
+  latitude: 42.370113
+  longitude: -78.691542
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
