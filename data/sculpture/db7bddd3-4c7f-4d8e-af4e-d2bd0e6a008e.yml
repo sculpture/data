@@ -1,0 +1,15 @@
+id: db7bddd3-4c7f-4d8e-af4e-d2bd0e6a008e
+type: sculpture
+slug: kobar-eloul-york
+title: Kobar (2)
+artist-ids:
+- f01c816e-53e3-4023-85a5-21c300a9b6b3
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1971'
+location:
+  latitude: 43.77615
+  longitude: -79.499401
+  precision: 30
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []
