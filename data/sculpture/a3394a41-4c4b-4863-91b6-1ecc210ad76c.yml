@@ -1,0 +1,19 @@
+id: a3394a41-4c4b-4863-91b6-1ecc210ad76c
+type: sculpture
+slug: egmont-and-horne
+title: Egmont and Horne
+artist-ids:
+- d6dfed5f-ed46-4e23-8e42-a3a8735b3ec9
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1864'
+location:
+  latitude: 50.839346
+  longitude: 4.356773
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- c18859b5-46fe-40c0-9b36-834204f18a97
