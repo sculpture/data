@@ -1,0 +1,18 @@
+id: f13823b7-73db-4a00-afb2-2bbbf5e3c511
+type: sculpture
+slug: moment-in-time
+title: A Moment in Time
+artist-ids:
+- eac836fd-fa73-4565-b93f-f7b254ae393f
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2004'
+location:
+  latitude: 41.430774
+  longitude: -74.059298
+  precision: 50
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 320e46a3-79a7-4912-a5c5-821e31e7fdfd
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
