@@ -1,0 +1,20 @@
+id: 28c092b3-1937-4a96-a21d-eb72610ee326
+type: sculpture
+slug: fischerbuble-brunnen
+title: Fischerbüble-Brunnen
+artist-ids:
+- a16f3cb7-158f-4952-9ef3-ce32408ec6b9
+city-id: f45da7a5-9b4b-4665-9bd5-fba0201749c7
+date: '1976'
+location:
+  latitude: 47.72857
+  longitude: 10.315784
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 399902cf-177a-4693-980d-eb86255cc25f
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- d973207a-6b23-4505-a84d-d2339bc3a55c
