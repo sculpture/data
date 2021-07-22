@@ -1,0 +1,16 @@
+id: a35de961-b965-4f7e-bc6f-e019b7ff14a1
+type: sculpture
+slug: grangolar-kroke
+title: Grangolar
+artist-ids:
+- 79a2a53e-b6f4-4c5a-94ab-793b7618e549
+city-id: 9feeba88-1b66-4091-a267-5a2cbf0bfd66
+date: '1987'
+location:
+  latitude: 43.118262
+  longitude: -79.24696
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
