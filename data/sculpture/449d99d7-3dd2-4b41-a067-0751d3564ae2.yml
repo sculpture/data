@@ -1,0 +1,18 @@
+id: 449d99d7-3dd2-4b41-a067-0751d3564ae2
+type: sculpture
+slug: ahqahizu-york
+title: 'Ahqahizu '
+artist-ids:
+- 1378138d-0bda-47d6-b4ae-95c80284d2a1
+- bf238817-0e68-41a7-a27a-be6d87ab7cfb
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2016'
+location:
+  latitude: 43.775887
+  longitude: -79.506932
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- e0decfe4-4a78-4f23-af47-3f549797b85a
