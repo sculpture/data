@@ -1,0 +1,18 @@
+id: c4772799-8ecd-4ef1-9b95-e3fe9fab2099
+type: sculpture
+slug: new-colossus-ny
+title: The New Colossus
+artist-ids:
+- 231c076d-1fc2-49ba-87b8-10066bd4daf1
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '2012'
+location:
+  latitude: 40.759273
+  longitude: -73.972809
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
