@@ -1,0 +1,19 @@
+id: 105fdd13-3962-424a-87f8-cab8acc8df9b
+type: sculpture
+slug: satyr-with-grapes
+title: Satyr mit Weintraube
+artist-ids:
+- af8d5f70-a6f2-4c8b-a3e6-0b9967cf30aa
+city-id: c55fa4d1-d614-45ec-b130-747888a8163b
+date: 157*
+location:
+  latitude: 48.141798
+  longitude: 11.579486
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
