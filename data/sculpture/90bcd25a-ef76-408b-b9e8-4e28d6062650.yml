@@ -1,0 +1,17 @@
+id: 90bcd25a-ef76-408b-b9e8-4e28d6062650
+type: sculpture
+slug: eve-zamoyski
+title: Eve (Zamoyski)
+artist-ids:
+- 1824e725-fea5-4615-8c7d-5cfeb441b3b9
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1936'
+location:
+  latitude: 52.231934
+  longitude: 21.024477
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
