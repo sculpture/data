@@ -1,0 +1,14 @@
+id: 0fdd1430-d3ba-4334-9e37-fb7e84977ea8
+type: sculpture
+slug: falling-man-mason
+title: Falling Man
+artist-ids:
+- 2f612023-973f-4a6b-b018-47d848538404
+date: '1963'
+location:
+  latitude: 38.889209
+  longitude: -77.023258
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
