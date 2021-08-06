@@ -1,0 +1,15 @@
+id: d15c74fe-dc35-435b-8054-bf84f550e75b
+type: sculpture
+slug: australia-smith
+title: Australia
+artist-ids:
+- ca17b203-f940-4f45-853d-3c61feb898a9
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1951'
+location:
+  latitude: 40.761433
+  longitude: -73.977622
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []
