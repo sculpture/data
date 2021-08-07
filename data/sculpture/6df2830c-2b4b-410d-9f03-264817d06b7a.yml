@@ -1,0 +1,17 @@
+id: 6df2830c-2b4b-410d-9f03-264817d06b7a
+type: sculpture
+slug: olga-boznanska-dunikowski
+title: Olga Boznańska
+artist-ids:
+- e34fc699-6c94-4478-9257-107f0be1acc3
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1961'
+location:
+  latitude: 52.189279
+  longitude: 21.027399
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- b078f909-a131-4d37-8b36-59061078b159
