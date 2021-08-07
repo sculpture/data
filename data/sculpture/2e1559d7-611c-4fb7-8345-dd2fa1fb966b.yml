@@ -1,0 +1,19 @@
+id: 2e1559d7-611c-4fb7-8345-dd2fa1fb966b
+type: sculpture
+slug: lobster-trap-and-fish-tail
+title: Lobster Trap and Fish Tail
+artist-ids:
+- 7ad71af4-c9b7-49d0-9765-ba2a674856a0
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1939'
+location:
+  latitude: 40.761433
+  longitude: -73.977622
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 85105298-6047-4f80-88ec-76aa0b77d815
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
