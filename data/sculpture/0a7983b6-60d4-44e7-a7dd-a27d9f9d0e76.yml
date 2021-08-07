@@ -1,0 +1,18 @@
+id: 0a7983b6-60d4-44e7-a7dd-a27d9f9d0e76
+type: sculpture
+slug: bela-bartok-varga
+title: Bela Bartok
+artist-ids:
+- 350df06b-f53b-4477-b4ac-4f3bb0bf0f3d
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1995'
+location:
+  latitude: 50.84662
+  longitude: 4.355242
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- ac86ac3d-0564-479e-a5f0-5de5b5e7f7f4
