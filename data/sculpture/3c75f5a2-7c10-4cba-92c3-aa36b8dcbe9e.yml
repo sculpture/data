@@ -1,0 +1,19 @@
+id: 3c75f5a2-7c10-4cba-92c3-aa36b8dcbe9e
+type: sculpture
+slug: monument-balzac-hirshhorn
+title: Monument to Balzac
+artist-ids:
+- 0d0131e9-ece4-417f-80bd-904e881f478e
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1898'
+link-wikipedia: https://en.wikipedia.org/wiki/Monument_to_Balzac
+location:
+  latitude: 38.888959
+  longitude: -77.022491
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
