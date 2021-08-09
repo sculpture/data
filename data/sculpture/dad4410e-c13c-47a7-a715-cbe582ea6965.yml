@@ -1,0 +1,17 @@
+id: dad4410e-c13c-47a7-a715-cbe582ea6965
+type: sculpture
+slug: born-and-raised
+title: Born and Raised
+artist-ids:
+- 3d415231-dc7c-4f46-853b-6693e999dc89
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2018'
+location:
+  latitude: 43.658563
+  longitude: -79.384366
+  precision: 10
+material-ids:
+- 2c971567-aa58-40f7-bf83-b5a97ed653c9
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+note: 'executed by Eventscape Inc. '
+tag-ids: []
