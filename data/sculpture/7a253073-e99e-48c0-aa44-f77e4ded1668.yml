@@ -1,0 +1,15 @@
+id: 7a253073-e99e-48c0-aa44-f77e4ded1668
+type: sculpture
+slug: untitled-kelly-1986
+title: Untitled (1986)
+artist-ids:
+- e720517a-0bbe-4a1f-892a-5a7a6cbdb0d4
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1986'
+location:
+  latitude: 38.889054
+  longitude: -77.022341
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []
