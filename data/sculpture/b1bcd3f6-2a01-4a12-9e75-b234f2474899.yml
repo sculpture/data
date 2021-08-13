@@ -1,0 +1,20 @@
+id: b1bcd3f6-2a01-4a12-9e75-b234f2474899
+type: sculpture
+slug: la-frileuse
+title: La Frileuse
+artist-ids:
+- 210ee7d7-575c-4530-8d11-7ba7a04c407b
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1783'
+link-wikipedia: https://en.wikipedia.org/wiki/Winter_(sculpture)
+location:
+  latitude: 52.211788
+  longitude: 21.033293
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
