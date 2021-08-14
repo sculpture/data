@@ -1,0 +1,17 @@
+id: 8200c158-e00c-4bdc-a63f-2f501e9a9b0e
+type: sculpture
+slug: galt-war-memorial
+title: Galt War Memorial
+artist-ids:
+- 339eed06-1891-429d-bbd7-16d68b860892
+city-id: fa87ecab-5627-4e55-af08-250c1e8e6640
+date: '1930'
+location:
+  latitude: 43.358956
+  longitude: -80.318353
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+note: design F.Loring, cutting by Robert M. Gullett
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
