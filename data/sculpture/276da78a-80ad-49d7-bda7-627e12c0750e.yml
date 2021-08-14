@@ -1,0 +1,18 @@
+id: 276da78a-80ad-49d7-bda7-627e12c0750e
+type: sculpture
+slug: maria-noskowska
+title: Maria Noskowska
+artist-ids:
+- 7b5367e0-31d3-413a-aa60-1bf0a45c0c11
+city-id: 07f98394-7cb1-47ce-97d9-ce543bc774a6
+date: '1909'
+location:
+  latitude: 52.543449
+  longitude: 19.690228
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
