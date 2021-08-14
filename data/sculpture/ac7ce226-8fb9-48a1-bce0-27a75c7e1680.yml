@@ -1,0 +1,16 @@
+id: ac7ce226-8fb9-48a1-bce0-27a75c7e1680
+type: sculpture
+slug: gazebo-for-two-anarchists
+title: Gazebo for Two Anarchists
+artist-ids:
+- b9d25197-c3c6-4624-90ad-583d11d2a32d
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1992'
+location:
+  latitude: 41.429745
+  longitude: -74.060779
+  precision: 50
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []
