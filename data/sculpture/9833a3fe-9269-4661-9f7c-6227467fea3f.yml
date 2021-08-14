@@ -1,0 +1,18 @@
+id: 9833a3fe-9269-4661-9f7c-6227467fea3f
+type: sculpture
+slug: lady-of-lake
+title: 'Lady of the Lake '
+artist-ids:
+- 00e97f17-71dc-4ad2-b660-855ae823bc24
+city-id: caadc47a-8078-4666-a53b-11150dbdcc9d
+date: '1973'
+location:
+  latitude: 43.32142
+  longitude: -79.798897
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
