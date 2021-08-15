@@ -8,8 +8,8 @@ city-id: bc7ca2c7-aac6-4ab7-85ca-d4786262d8a8
 date: '1975'
 link-wikipedia: https://fr.wikipedia.org/wiki/Fonske
 location:
-  latitude: 50.879276
-  longitude: 4.702315
+  latitude: 50.8793
+  longitude: 4.702299
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
