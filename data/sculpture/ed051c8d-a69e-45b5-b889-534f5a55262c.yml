@@ -7,8 +7,8 @@ artist-ids:
 city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
 date: '2012'
 location:
-  latitude: 40.762403
-  longitude: -73.97861
+  latitude: 40.762314
+  longitude: -73.978535
   precision: 10
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
