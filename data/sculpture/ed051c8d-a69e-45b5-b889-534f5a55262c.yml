@@ -1,0 +1,15 @@
+id: ed051c8d-a69e-45b5-b889-534f5a55262c
+type: sculpture
+slug: seed54-lavlani
+title: Seed54
+artist-ids:
+- 3a7cfad4-6887-473d-9ec5-7c472d3551cc
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '2012'
+location:
+  latitude: 40.762403
+  longitude: -73.97861
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []
