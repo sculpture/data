@@ -1,0 +1,16 @@
+id: 18d6b017-641e-4bf7-942b-d666ffd61032
+type: sculpture
+slug: post-balzac
+title: Post Balzac
+artist-ids:
+- 2b5f938e-770e-40cf-a7b6-01c28c2b9b90
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1991'
+link-wikipedia: https://en.wikipedia.org/wiki/Post-Balzac
+location:
+  latitude: 38.889138
+  longitude: -77.023633
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
