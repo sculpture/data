@@ -1,0 +1,17 @@
+id: 351d5ca9-bf01-4b65-aa84-db888e8a9eae
+type: sculpture
+slug: tauro-sebastian
+title: Tauro
+artist-ids:
+- 7c870b60-91cc-4830-8849-30177e858d9c
+city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
+date: '2009'
+location:
+  latitude: 45.433855
+  longitude: -75.708311
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
+- bbcb416f-d400-4a07-8a83-79a445209a57
