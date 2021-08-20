@@ -7,8 +7,8 @@ artist-ids:
 city-id: 7e35b7d3-6c72-44b3-90ea-ae23cc140164
 date: '1611'
 location:
-  latitude: 47.798551
-  longitude: 13.042864
+  latitude: 47.798396
+  longitude: 13.042478
   precision: 10
 material-ids:
 - d75f308d-78bc-44cc-95b0-0199f2d0ed04
