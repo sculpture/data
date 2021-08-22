@@ -1,0 +1,18 @@
+id: eb28e85f-1648-4011-94ab-6b71ada5d849
+type: sculpture
+slug: learn-throw-your-voice
+title: Learn to Throw Your Voice
+artist-ids:
+- fccd9979-8f37-4596-8444-290025f4a091
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1986'
+location:
+  latitude: 43.638691
+  longitude: -79.389798
+  precision: 14
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
+tag-ids: []
