@@ -1,0 +1,17 @@
+id: 7b1d98c7-8397-4857-8576-32477ab6eb46
+type: sculpture
+slug: oie-hanrez
+title: Oie
+artist-ids:
+- 953ea585-86d4-45f8-8a52-4ce01536229c
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1986'
+location:
+  latitude: 50.841268
+  longitude: 4.357697
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- b982214e-52f9-48b0-b977-4a4359b49fdb
