@@ -1,0 +1,18 @@
+id: 834f255c-c15c-4bdf-8527-98e5a52f7791
+type: sculpture
+slug: standing-owl-i
+title: Standing Owl I
+artist-ids:
+- e2691e96-99e2-4c60-b49d-06e13be46118
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2012'
+location:
+  latitude: 41.425063
+  longitude: -74.059384
+  precision: 50
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b982214e-52f9-48b0-b977-4a4359b49fdb
