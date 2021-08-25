@@ -7,8 +7,8 @@ artist-ids:
 city-id: 569920f5-7103-4e7b-8bef-a08ea0c3bd14
 date: '1703'
 location:
-  latitude: 41.898133
-  longitude: 12.474142
+  latitude: 41.898844
+  longitude: 12.472552
   precision: 10
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
