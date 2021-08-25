@@ -1,0 +1,17 @@
+id: ab1a537f-553d-4537-b64a-c7d8aacba539
+type: sculpture
+slug: approaching-red
+title: Approaching Red
+artist-ids:
+- 06dede89-37a2-4964-b9de-5ad8a26b9b51
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2013'
+location:
+  latitude: 43.640791
+  longitude: -79.392622
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- da7678e3-55c7-4a57-8c34-f4a7fd3be717
+- f512d675-0554-4a67-987c-1da560f2c95a
