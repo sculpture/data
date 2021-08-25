@@ -1,0 +1,19 @@
+id: df0df2c8-beab-473a-85fc-de509bd59d7e
+type: sculpture
+slug: st-sebastian-campi
+title: St. Sebastian
+artist-ids:
+- 0ff7e9d7-e01d-48f9-b152-f40eb7991832
+city-id: 569920f5-7103-4e7b-8bef-a08ea0c3bd14
+date: '1703'
+location:
+  latitude: 41.898812
+  longitude: 12.473541
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
