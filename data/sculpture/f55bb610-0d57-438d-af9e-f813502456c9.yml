@@ -1,0 +1,17 @@
+id: f55bb610-0d57-438d-af9e-f813502456c9
+type: sculpture
+slug: king-playing-with-queen
+title: The King Playing with the Queen
+artist-ids:
+- 90464fe9-cf11-4770-a0b3-3a69d2ad4c08
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1944'
+location:
+  latitude: 40.761433
+  longitude: -73.977622
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast 1954
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
