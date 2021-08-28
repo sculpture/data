@@ -1,0 +1,20 @@
+id: 5de49cb5-92d6-4eaf-8253-9ba117f881cd
+type: sculpture
+slug: tytus-czyzewski
+title: Tytus Czyżewski
+artist-ids:
+- 9dd5b416-dca3-47c0-8219-1868d0ad9afe
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+commissioned-by: gift of artist
+date: '1920'
+location:
+  latitude: 52.231599
+  longitude: 21.024799
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b078f909-a131-4d37-8b36-59061078b159
