@@ -7,10 +7,11 @@ artist-ids:
 city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
 date: '1986'
 location:
-  latitude: 38.889054
-  longitude: -77.022341
-  precision: 10
+  latitude: 35.810352
+  longitude: -78.702203
+  precision: 16
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
+note: photo at Hirshhorn. On load to NC museum
 tag-ids:
 - da7678e3-55c7-4a57-8c34-f4a7fd3be717
