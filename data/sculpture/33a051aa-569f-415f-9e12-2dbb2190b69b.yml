@@ -1,0 +1,16 @@
+id: 33a051aa-569f-415f-9e12-2dbb2190b69b
+type: sculpture
+slug: three-red-lines
+title: Three Red Lines
+artist-ids:
+- 4159affb-ccdd-4a2a-b6a8-4c86b17744f6
+city-id: 2ec05d78-b814-48bd-8c4c-2b68f5016d6a
+location:
+  latitude: 35.810092
+  longitude: -78.702327
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 85105298-6047-4f80-88ec-76aa0b77d815
+- f512d675-0554-4a67-987c-1da560f2c95a
