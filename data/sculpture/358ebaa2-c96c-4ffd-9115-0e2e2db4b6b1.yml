@@ -1,0 +1,14 @@
+id: 358ebaa2-c96c-4ffd-9115-0e2e2db4b6b1
+type: sculpture
+slug: easy-assemble
+title: Easy to Assemble
+artist-ids:
+- cf00b7d6-3e13-4514-86c0-245ccf0a33e0
+city-id: fa87ecab-5627-4e55-af08-250c1e8e6640
+location:
+  latitude: 43.355881
+  longitude: -80.317271
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids: []
