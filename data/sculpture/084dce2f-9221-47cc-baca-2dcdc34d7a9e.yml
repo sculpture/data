@@ -1,0 +1,19 @@
+id: 084dce2f-9221-47cc-baca-2dcdc34d7a9e
+type: sculpture
+slug: saint-longinus-bernini
+title: 'Saint Longinus '
+artist-ids:
+- f4693d05-5d93-4c05-868b-6fa45ade4f36
+city-id: 6f764414-6c09-413d-94b9-2ebe5fafdf7e
+date: '1638'
+location:
+  latitude: 41.902167
+  longitude: 12.453937
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
