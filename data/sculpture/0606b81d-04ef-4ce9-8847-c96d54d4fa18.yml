@@ -1,0 +1,17 @@
+id: 0606b81d-04ef-4ce9-8847-c96d54d4fa18
+type: sculpture
+slug: lunar-bird-moma
+title: Lunar Bird (2/5)
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1966'
+location:
+  latitude: 40.761405
+  longitude: -73.976946
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
