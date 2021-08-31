@@ -1,0 +1,15 @@
+id: 1c8776e9-69cc-4719-babe-0e837fc8050b
+type: sculpture
+slug: variegation-courtyard
+title: Variegation Courtyard
+artist-ids:
+- 5811afa2-bc2a-4840-95c5-8b23df552640
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2014'
+location:
+  latitude: 43.6384
+  longitude: -79.398092
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []
