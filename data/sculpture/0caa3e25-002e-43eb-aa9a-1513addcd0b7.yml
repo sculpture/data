@@ -1,0 +1,19 @@
+id: 0caa3e25-002e-43eb-aa9a-1513addcd0b7
+type: sculpture
+slug: lion-with-snake
+title: Lion with a Snake
+artist-ids:
+- 6bff887d-8c52-4b32-ad31-a4a1e021e8cb
+city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
+date: '1832'
+link-wikipedia: https://en.wikipedia.org/wiki/Lion_with_a_Snake
+location:
+  latitude: 50.090512
+  longitude: 14.396382
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
