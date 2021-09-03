@@ -1,0 +1,18 @@
+id: d0440825-9447-4738-8414-8462443ae381
+type: sculpture
+slug: foci-booker
+title: Foci
+artist-ids:
+- eac836fd-fa73-4565-b93f-f7b254ae393f
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2010'
+location:
+  latitude: 41.425063
+  longitude: -74.059384
+  precision: 10
+material-ids:
+- 2437792c-9dc9-4f7a-9ce1-f544b1ba0be0
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 4dae8901-072d-4758-9b44-c5089bf1a804
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
