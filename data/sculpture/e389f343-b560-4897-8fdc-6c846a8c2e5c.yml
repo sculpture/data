@@ -1,0 +1,19 @@
+id: e389f343-b560-4897-8fdc-6c846a8c2e5c
+type: sculpture
+slug: adam-mickiewicz-ostrowski
+title: Adam Mickiewicz (Płock)
+artist-ids:
+- 4ce04038-5ded-4f97-ae22-3110fe6acd7c
+city-id: 07f98394-7cb1-47ce-97d9-ce543bc774a6
+date: '1923'
+location:
+  latitude: 52.543448
+  longitude: 19.690213
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
