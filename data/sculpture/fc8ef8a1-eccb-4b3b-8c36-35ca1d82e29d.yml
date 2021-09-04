@@ -1,0 +1,17 @@
+id: fc8ef8a1-eccb-4b3b-8c36-35ca1d82e29d
+type: sculpture
+slug: endless-column
+title: Endless Column
+artist-ids:
+- fbac198f-4727-4c52-8ff9-d05766e1edea
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1968'
+location:
+  latitude: 41.425063
+  longitude: -74.059384
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- f512d675-0554-4a67-987c-1da560f2c95a
