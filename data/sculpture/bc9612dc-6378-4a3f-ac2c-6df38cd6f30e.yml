@@ -1,0 +1,16 @@
+id: bc9612dc-6378-4a3f-ac2c-6df38cd6f30e
+type: sculpture
+slug: notre-place
+title: Notre Place
+artist-ids:
+- bdb2abfe-554a-4cab-ab26-5162a054d939
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2018'
+location:
+  latitude: 43.659943
+  longitude: -79.390769
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- b0a3d164-8b6a-440a-89a5-1bbb85c10c40
+tag-ids: []
