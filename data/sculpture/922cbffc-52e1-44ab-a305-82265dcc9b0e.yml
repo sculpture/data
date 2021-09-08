@@ -1,0 +1,18 @@
+id: 922cbffc-52e1-44ab-a305-82265dcc9b0e
+type: sculpture
+slug: angel-with-crown-thorns-bernini
+title: Angel with the Crown of Thorns
+artist-ids:
+- f4693d05-5d93-4c05-868b-6fa45ade4f36
+city-id: 569920f5-7103-4e7b-8bef-a08ea0c3bd14
+date: '1669'
+location:
+  latitude: 41.901749
+  longitude: 12.466462
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+note: copy by Paolo Naldini
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
