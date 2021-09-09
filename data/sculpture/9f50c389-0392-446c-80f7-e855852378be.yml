@@ -1,0 +1,15 @@
+id: 9f50c389-0392-446c-80f7-e855852378be
+type: sculpture
+slug: twilight-gehr
+title: Twilight
+artist-ids:
+- ab078fe7-2212-4d58-94b6-d7ccdcd7e2f9
+city-id: fa87ecab-5627-4e55-af08-250c1e8e6640
+date: '1984'
+location:
+  latitude: 43.355924
+  longitude: -80.317207
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids: []
