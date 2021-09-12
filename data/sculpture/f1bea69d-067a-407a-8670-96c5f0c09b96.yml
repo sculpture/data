@@ -1,0 +1,17 @@
+id: f1bea69d-067a-407a-8670-96c5f0c09b96
+type: sculpture
+slug: paepe-toone
+title: Paepe Toone
+artist-ids:
+- f790bbb8-f352-4bb2-a6b3-a0a06114ab86
+city-id: bc7ca2c7-aac6-4ab7-85ca-d4786262d8a8
+date: '1991'
+location:
+  latitude: 50.879844
+  longitude: 4.700518
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
