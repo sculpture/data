@@ -1,0 +1,18 @@
+id: 250ad0da-9cdc-4edd-9887-d4992a2c0fb6
+type: sculpture
+slug: tadeusz-kosciuszko-chicago
+title: Tadeusz Kościuszko (Chicago)
+artist-ids:
+- 167756cd-1a74-4a8b-bc05-294fa1ba2d74
+city-id: 8fa25799-a952-4ff5-9506-2f3b95f48200
+date: '1904'
+location:
+  latitude: 41.866266
+  longitude: -87.612803
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 521f00f2-f976-4b69-89cf-6e8db0c94f29
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
