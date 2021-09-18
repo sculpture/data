@@ -1,0 +1,21 @@
+id: d7ee027d-5c8f-4128-9cc0-e5e90ebec270
+type: sculpture
+slug: fish-calser-hirshhorn
+title: Fish
+artist-ids:
+- 7ad71af4-c9b7-49d0-9765-ba2a674856a0
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1944'
+location:
+  latitude: 38.888161
+  longitude: -77.022968
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- 3cd25954-9a6b-478f-a4a4-8470c3972f2c
+- 4a979cf3-40f3-4be9-aa71-b79765408367
+- 9da26974-d142-42ce-86aa-f28559a6d575
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
+tag-ids:
+- 399902cf-177a-4693-980d-eb86255cc25f
+- 6f13c768-5619-419e-97af-60440cab7f89
