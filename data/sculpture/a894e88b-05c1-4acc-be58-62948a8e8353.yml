@@ -1,0 +1,18 @@
+id: a894e88b-05c1-4acc-be58-62948a8e8353
+type: sculpture
+slug: artur-grottger-szymanowski
+title: Artur Grottger
+artist-ids:
+- 25914234-bab4-4b2e-b046-7d4aefd574d8
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '1901'
+location:
+  latitude: 50.059925
+  longitude: 19.941431
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- b078f909-a131-4d37-8b36-59061078b159
