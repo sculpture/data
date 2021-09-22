@@ -1,0 +1,19 @@
+id: a05468f2-7e54-452f-ade4-87115777db6c
+type: sculpture
+slug: ludwig-1-king-bavaria
+title: Ludwig I King of Bavaria
+artist-ids:
+- 7616193e-5d64-48ab-be4a-7e7e1addecb0
+city-id: c55fa4d1-d614-45ec-b130-747888a8163b
+date: '1862'
+link-wikipedia: https://www.muenchenwiki.de/wiki/Reiterdenkmal_Ludwig_I.
+location:
+  latitude: 48.14339
+  longitude: 11.577524
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
