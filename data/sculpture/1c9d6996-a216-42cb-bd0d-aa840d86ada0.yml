@@ -1,0 +1,17 @@
+id: 1c9d6996-a216-42cb-bd0d-aa840d86ada0
+type: sculpture
+slug: la-caresse-oiseau
+title: La Caresse d'un oiseau
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+city-id: fd14bdab-7cb5-49d7-a9e8-84595c2d2088
+date: '1967'
+link-wikipedia: https://en.wikipedia.org/wiki/The_Caress_of_a_Bird
+location:
+  latitude: 34.054174
+  longitude: -118.250521
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
