@@ -1,0 +1,16 @@
+id: 8f4fa73f-fbe5-4ffa-805b-b8ff6b5ef419
+type: sculpture
+slug: chair-transformation-number-20b
+title: Chair Transformation Number 20B
+artist-ids:
+- ca70c784-ece2-4edd-9659-9ef5a632d4a7
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1966'
+link-wikipedia: https://en.wikipedia.org/wiki/Chair_Transformation_Number_20B
+location:
+  latitude: 38.89092
+  longitude: -77.022331
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
