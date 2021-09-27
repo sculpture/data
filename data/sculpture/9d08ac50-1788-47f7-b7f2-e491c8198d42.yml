@@ -1,0 +1,19 @@
+id: 9d08ac50-1788-47f7-b7f2-e491c8198d42
+type: sculpture
+slug: la-charite-delen
+title: 'La charité '
+artist-ids:
+- 9a4527ef-eaa6-4dea-9081-42580d978e95
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1673'
+location:
+  latitude: 50.841874
+  longitude: 4.358282
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
