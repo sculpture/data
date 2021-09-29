@@ -1,0 +1,18 @@
+id: 976ac597-5187-4347-924b-9c1f7b464b15
+type: sculpture
+slug: nicolaus-copernicus-nitschowa
+title: Nicolaus Copernicus (PKiN)
+artist-ids:
+- 3d81b9c3-c420-41de-8a33-1e3b2cba7cb9
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1954'
+location:
+  latitude: 52.232242
+  longitude: 21.006585
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9905d2f9-00e0-443b-8640-dfb98d4795a1
