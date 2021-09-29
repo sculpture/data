@@ -1,0 +1,18 @@
+id: de99651b-3aef-48b7-a4e2-3839d67bad63
+type: sculpture
+slug: adam-sapieha
+title: Adam Sapieha
+artist-ids:
+- 1824e725-fea5-4615-8c7d-5cfeb441b3b9
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '1970'
+location:
+  latitude: 50.058744
+  longitude: 19.937564
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2965e068-6250-4ba0-a708-376890e43ac4
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
