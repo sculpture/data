@@ -1,0 +1,19 @@
+id: 6d7ebc04-8d3b-4877-9d47-2da74f5be1db
+type: sculpture
+slug: ludwik-solski
+title: Ludwik Solski
+artist-ids:
+- e34fc699-6c94-4478-9257-107f0be1acc3
+city-id: 07f98394-7cb1-47ce-97d9-ce543bc774a6
+date: '1912'
+location:
+  latitude: 52.543442
+  longitude: 19.690233
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 3e179310-873d-4553-96ba-43bd2708f27b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
