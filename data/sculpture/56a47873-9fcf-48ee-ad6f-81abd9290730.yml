@@ -1,0 +1,18 @@
+id: 56a47873-9fcf-48ee-ad6f-81abd9290730
+type: sculpture
+slug: aleksander-fredro-krakow
+title: Aleksander Fredro
+artist-ids:
+- 784992b8-9ba0-4662-aa9c-5af47c13bd4e
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '1900'
+link-wikipedia: https://pl.wikipedia.org/wiki/Pomnik_Aleksandra_Fredry_w_Krakowie
+location:
+  latitude: 50.06403
+  longitude: 19.94243
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
