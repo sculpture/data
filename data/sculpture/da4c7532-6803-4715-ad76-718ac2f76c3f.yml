@@ -1,0 +1,16 @@
+id: da4c7532-6803-4715-ad76-718ac2f76c3f
+type: sculpture
+slug: inukshuk-quebec-city
+title: Inukshuk (Quebec City)
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '2002'
+location:
+  latitude: 46.809638
+  longitude: -71.212034
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- fe22cc92-81e5-4f1e-87c9-1e2eeac9870c
