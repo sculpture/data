@@ -1,0 +1,19 @@
+id: 4db845dd-8a8d-4572-9305-72f52dce5c78
+type: sculpture
+slug: ikaro-alato-warszawa
+title: Ikaro Alato
+artist-ids:
+- e31569f5-c19d-41b1-98e8-4a14e439b562
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2004'
+location:
+  latitude: 52.274054
+  longitude: 20.996642
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
