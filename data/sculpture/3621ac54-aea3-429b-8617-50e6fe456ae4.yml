@@ -1,0 +1,15 @@
+id: 3621ac54-aea3-429b-8617-50e6fe456ae4
+type: sculpture
+slug: king-arthurs-knights
+title: King Arthur’s Knights
+artist-ids:
+- 7dfcc415-fab6-492d-90d9-6c0ca0cc5583
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2007'
+location:
+  latitude: 52.256402
+  longitude: 21.00952
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids: []
