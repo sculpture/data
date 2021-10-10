@@ -1,0 +1,16 @@
+id: 18d388dd-162d-4380-90ee-36a1b2f3e433
+type: sculpture
+slug: kolarze-chromy-wawa
+title: Kolarze
+artist-ids:
+- f752cd14-c6d0-49b8-923d-3ae63d8666fd
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2013'
+location:
+  latitude: 52.273808
+  longitude: 20.996851
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- e0decfe4-4a78-4f23-af47-3f549797b85a
