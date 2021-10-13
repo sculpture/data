@@ -1,0 +1,17 @@
+id: f3e022d4-aeca-4e96-ac9a-24b8c4626562
+type: sculpture
+slug: zinaxin-dolacin
+title: Zinaxin and Dolacin
+artist-ids:
+- 7dfcc415-fab6-492d-90d9-6c0ca0cc5583
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2005'
+location:
+  latitude: 52.290361
+  longitude: 21.038295
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
