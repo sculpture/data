@@ -1,0 +1,17 @@
+id: 3445a9c1-dafb-46a9-b8aa-5f20da2568d1
+type: sculpture
+slug: pax-wittig
+title: Pax
+artist-ids:
+- 120248ac-9de5-49a1-b739-70a0bd15d509
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1912'
+location:
+  latitude: 52.232108
+  longitude: 21.024772
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
