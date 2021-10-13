@@ -1,0 +1,17 @@
+id: fcfe7467-d540-4190-8ccf-207ce5626261
+type: sculpture
+slug: kiss-papa
+title: The Kiss
+artist-ids:
+- f6c7d861-0978-410b-8cc4-59ff1dd7cd85
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+commissioned-by: donated by Joelle and Mikolaj Rostkowski
+date: '1985'
+location:
+  latitude: 52.189788
+  longitude: 21.026068
+  precision: 20
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- df4890c4-2701-4782-a670-d019b3b95547
