@@ -1,0 +1,18 @@
+id: 8d47890d-642c-4c83-a65a-83fbab6106c6
+type: sculpture
+slug: maternity-szymanowski
+title: Maternity
+artist-ids:
+- 25914234-bab4-4b2e-b046-7d4aefd574d8
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1902'
+location:
+  latitude: 52.256379
+  longitude: 21.003068
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- ce5eba46-3dff-4d8c-89c8-4fab2da9a37d
+- ea310784-30d7-4a31-9c7b-22e86c3cf049
