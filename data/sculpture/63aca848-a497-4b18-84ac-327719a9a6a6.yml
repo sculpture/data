@@ -1,0 +1,15 @@
+id: 63aca848-a497-4b18-84ac-327719a9a6a6
+type: sculpture
+slug: flaxen-haired-venus-papa
+title: Flaxen-Haired Venus
+artist-ids:
+- f6c7d861-0978-410b-8cc4-59ff1dd7cd85
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1973'
+location:
+  latitude: 52.232125
+  longitude: 21.024735
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids: []
