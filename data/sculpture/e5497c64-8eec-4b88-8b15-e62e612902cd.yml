@@ -1,0 +1,15 @@
+id: e5497c64-8eec-4b88-8b15-e62e612902cd
+type: sculpture
+slug: rzezba-przydrozna
+title: Rzeźby Przydrożna
+artist-ids:
+- 7a761f97-3889-4359-9997-df2fadb4808a
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1959'
+location:
+  latitude: 52.232112
+  longitude: 21.024381
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids: []
