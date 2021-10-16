@@ -1,0 +1,15 @@
+id: 8bf7cc66-9914-4755-90a0-95051f284813
+type: sculpture
+slug: jutrzenka
+title: Jutrzenka
+artist-ids:
+- 15761fea-6118-458c-8b0f-290f64854c24
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1968'
+location:
+  latitude: 52.227602
+  longitude: 20.948222
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []
