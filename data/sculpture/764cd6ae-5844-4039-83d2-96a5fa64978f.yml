@@ -1,0 +1,15 @@
+id: 764cd6ae-5844-4039-83d2-96a5fa64978f
+type: sculpture
+slug: lion-papa-krolikarnia
+title: Lion
+artist-ids:
+- f6c7d861-0978-410b-8cc4-59ff1dd7cd85
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: 196*
+location:
+  latitude: 52.189091
+  longitude: 21.028412
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids: []
