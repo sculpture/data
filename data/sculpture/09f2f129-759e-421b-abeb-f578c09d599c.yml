@@ -1,0 +1,15 @@
+id: 09f2f129-759e-421b-abeb-f578c09d599c
+type: sculpture
+slug: moses-slesinska
+title: Moses
+artist-ids:
+- e69d5c99-2373-4c7c-9ce5-8bb2f1870aa0
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1957'
+location:
+  latitude: 52.188729
+  longitude: 21.026846
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids: []
