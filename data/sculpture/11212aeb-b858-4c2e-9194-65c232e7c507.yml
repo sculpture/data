@@ -1,0 +1,21 @@
+id: 11212aeb-b858-4c2e-9194-65c232e7c507
+type: sculpture
+slug: rytm-kuna
+title: Rytm
+artist-ids:
+- b11d6752-1638-4bb8-a3bc-977d4d40d876
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1925'
+link-wikipedia: https://pl.wikipedia.org/wiki/Rytm_(rze%C5%BAba)
+location:
+  latitude: 52.24327
+  longitude: 21.054868
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
