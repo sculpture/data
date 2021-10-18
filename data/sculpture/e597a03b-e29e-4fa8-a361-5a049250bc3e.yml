@@ -1,0 +1,16 @@
+id: e597a03b-e29e-4fa8-a361-5a049250bc3e
+type: sculpture
+slug: biennal-szankowski
+title: Biennal
+artist-ids:
+- 202f5f62-01a7-4650-9755-6831fd00940b
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1968'
+location:
+  latitude: 52.227444
+  longitude: 20.9479
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
