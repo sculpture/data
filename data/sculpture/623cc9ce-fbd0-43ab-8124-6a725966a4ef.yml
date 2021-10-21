@@ -1,0 +1,15 @@
+id: 623cc9ce-fbd0-43ab-8124-6a725966a4ef
+type: sculpture
+slug: baza-markiewicz
+title: Baza
+artist-ids:
+- 5091ec0c-2bca-4013-bb29-3c1bac1a4567
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1968'
+location:
+  latitude: 52.228075
+  longitude: 20.948963
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []
