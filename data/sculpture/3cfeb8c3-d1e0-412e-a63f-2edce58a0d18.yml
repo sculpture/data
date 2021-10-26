@@ -1,0 +1,19 @@
+id: 3cfeb8c3-d1e0-412e-a63f-2edce58a0d18
+type: sculpture
+slug: female-nude-kuna
+title: Female Nude
+artist-ids:
+- b11d6752-1638-4bb8-a3bc-977d4d40d876
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1930'
+location:
+  latitude: 52.232039
+  longitude: 21.024423
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
