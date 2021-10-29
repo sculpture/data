@@ -1,0 +1,17 @@
+id: ebb51ee1-629c-4e05-b409-fe166950d917
+type: sculpture
+slug: pani-s
+title: Pani S
+artist-ids:
+- 3e79192b-abbe-4c14-99c6-baea2711a630
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+location:
+  latitude: 52.210098
+  longitude: 20.994041
+  precision: 41
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
