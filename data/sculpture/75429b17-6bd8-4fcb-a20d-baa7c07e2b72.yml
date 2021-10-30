@@ -1,0 +1,16 @@
+id: 75429b17-6bd8-4fcb-a20d-baa7c07e2b72
+type: sculpture
+slug: composition-sieklucki
+title: Composition
+artist-ids:
+- c6f3ca72-b81b-4a3e-ab9f-6e9b85c584b2
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1968'
+location:
+  latitude: 52.227392
+  longitude: 20.94716
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab
