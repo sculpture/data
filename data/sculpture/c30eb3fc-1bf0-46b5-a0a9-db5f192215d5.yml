@@ -1,0 +1,18 @@
+id: c30eb3fc-1bf0-46b5-a0a9-db5f192215d5
+type: sculpture
+slug: bartosz-glowacki-monument-konieczny
+title: Bartosz Głowacki Monument
+artist-ids:
+- b63ca8e1-7230-4151-a7a9-7b5b72231d10
+date: '1994'
+link-wikipedia: https://pl.wikipedia.org/wiki/Pomnik_Bartosza_G%C5%82owackiego_w_Janowiczkach
+location:
+  latitude: 50.315624
+  longitude: 20.238302
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
