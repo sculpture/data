@@ -1,0 +1,15 @@
+id: 2e644694-a6be-41cd-86ed-21bdfa666156
+type: sculpture
+slug: zagle-smolana
+title: Żagle
+artist-ids:
+- bab6dd43-2899-4e14-8042-7c762afcfcef
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1968'
+location:
+  latitude: 52.227864
+  longitude: 20.948233
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids: []
