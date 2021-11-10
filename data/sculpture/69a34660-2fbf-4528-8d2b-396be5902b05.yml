@@ -1,0 +1,18 @@
+id: 69a34660-2fbf-4528-8d2b-396be5902b05
+type: sculpture
+slug: jean-marc-veilhan
+title: Jean-Marc
+artist-ids:
+- 925e9b3a-b047-497d-82ca-57620607c873
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '2012'
+location:
+  latitude: 40.760978
+  longitude: -73.975476
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
