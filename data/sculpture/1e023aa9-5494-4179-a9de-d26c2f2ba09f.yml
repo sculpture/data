@@ -1,0 +1,17 @@
+id: 1e023aa9-5494-4179-a9de-d26c2f2ba09f
+type: sculpture
+slug: nicolaus-copernicus-oronsko
+title: Nicolaus Copernicus (Orońsko)
+artist-ids:
+- 8333d2c4-9424-44f5-b140-a043d26840d5
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '1976'
+location:
+  latitude: 51.312157
+  longitude: 20.979757
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 9905d2f9-00e0-443b-8640-dfb98d4795a1
