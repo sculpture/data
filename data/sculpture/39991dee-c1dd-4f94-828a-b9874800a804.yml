@@ -1,0 +1,15 @@
+id: 39991dee-c1dd-4f94-828a-b9874800a804
+type: sculpture
+slug: xabis-redinger
+title: Xabis
+artist-ids:
+- 7a849a94-18d9-41ce-b5ac-85d595fd6999
+city-id: 052407cb-5737-4173-8a61-27dcd97825ac
+date: '1974'
+location:
+  latitude: 42.983472
+  longitude: -81.254081
+  precision: 10
+material-ids:
+- 2c971567-aa58-40f7-bf83-b5a97ed653c9
+tag-ids: []
