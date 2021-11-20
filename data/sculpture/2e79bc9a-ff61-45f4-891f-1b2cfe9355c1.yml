@@ -1,0 +1,17 @@
+id: 2e79bc9a-ff61-45f4-891f-1b2cfe9355c1
+type: sculpture
+slug: carmen-dormida-noche
+title: Carmen dormida - Noche
+artist-ids:
+- 2b8a090c-53d9-4478-9022-f26cfc0eb4bf
+city-id: 38dc228d-7b71-4ed6-a578-49b80d38d6a8
+date: '2007'
+location:
+  latitude: 41.387478
+  longitude: 2.175098
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
