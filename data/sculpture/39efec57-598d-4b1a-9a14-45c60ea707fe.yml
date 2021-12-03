@@ -1,0 +1,16 @@
+id: 39efec57-598d-4b1a-9a14-45c60ea707fe
+type: sculpture
+slug: sagitario-sebastian
+title: Sagitario
+artist-ids:
+- 7c870b60-91cc-4830-8849-30177e858d9c
+city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
+date: '2009'
+location:
+  latitude: 45.433841
+  longitude: -75.708506
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
