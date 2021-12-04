@@ -1,0 +1,15 @@
+id: f49c2f01-ed5d-4f29-8834-1e035a76a360
+type: sculpture
+slug: runaway-forest
+title: Runaway Forest
+artist-ids:
+- 331a8ed9-6411-46d8-a6df-1765d9e391a2
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2015'
+location:
+  latitude: 43.647274
+  longitude: -79.387147
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids: []
