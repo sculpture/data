@@ -1,0 +1,17 @@
+id: 820c1edb-89da-4d3a-858f-02188237972c
+type: sculpture
+slug: emile-nelligan-quebec-city
+title: Émile Nelligan
+artist-ids:
+- 499ceaf5-dc3d-427e-9c5c-e73d5928e3bb
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '2004'
+location:
+  latitude: 46.81077
+  longitude: -71.211673
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445
