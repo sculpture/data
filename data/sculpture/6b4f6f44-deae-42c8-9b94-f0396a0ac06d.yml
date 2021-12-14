@@ -1,0 +1,21 @@
+id: 6b4f6f44-deae-42c8-9b94-f0396a0ac06d
+type: sculpture
+slug: mercury-and-psyche
+title: Mercury and Psyche
+artist-ids:
+- 522f58d5-e9f4-47b4-8b20-7fa538f848e7
+city-id: 6ba859f5-a74a-4e05-87ae-c2c2bf55650b
+date: '1593'
+location:
+  latitude: 52.359566
+  longitude: 4.884817
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: Copy by L. Gasne 1890-95
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
