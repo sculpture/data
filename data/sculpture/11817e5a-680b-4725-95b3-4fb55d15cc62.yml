@@ -1,0 +1,15 @@
+id: 11817e5a-680b-4725-95b3-4fb55d15cc62
+type: sculpture
+slug: funiculare-vieux-quebec
+title: Funiculare du Vieux Quebec
+artist-ids:
+- 0648decd-6730-4f12-8ee6-9dafa3b4ffdf
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '2002'
+location:
+  latitude: 46.812563
+  longitude: -71.203956
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids: []
