@@ -1,0 +1,16 @@
+id: c7a5e535-20a3-4df5-aece-249f9d33b730
+type: sculpture
+slug: untitled-construction
+title: Untitled Construction
+artist-ids:
+- 169fe0fe-cac6-4883-9add-185854319b85
+city-id: 052407cb-5737-4173-8a61-27dcd97825ac
+date: '1965'
+location:
+  latitude: 43.009711
+  longitude: -81.273548
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
