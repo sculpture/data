@@ -1,0 +1,15 @@
+id: 2e8c67b1-63c5-45b7-824c-be840efa8fa1
+type: sculpture
+slug: d-t-aguilar
+title: D.T.
+artist-ids:
+- d827b84e-d596-4fdd-960a-def5cbcde6ae
+city-id: 16e2f36d-eb09-4c02-9fd2-334682ca2e1c
+date: '2002'
+location:
+  latitude: 41.369111
+  longitude: 2.160335
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids: []
