@@ -1,0 +1,16 @@
+id: 854cc0b0-6732-4c58-9e39-0380905cf98e
+type: sculpture
+slug: goalkeeper-sikora
+title: Goalkeeper
+artist-ids:
+- 9c1d83c3-8d40-4013-b759-6fed12a5882d
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1959'
+location:
+  latitude: 52.273732
+  longitude: 20.996915
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- e0decfe4-4a78-4f23-af47-3f549797b85a
