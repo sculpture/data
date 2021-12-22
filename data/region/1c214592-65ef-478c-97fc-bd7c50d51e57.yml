@@ -3,4 +3,3 @@ type: region
 slug: roy-thomson-hall
 name: Roy Thomson Hall
 geojson: '{"type":"Polygon","coordinates":[[[-79.38695,43.64685],[-79.38668,43.64621],[-79.38579,43.64641],[-79.38607,43.64704],[-79.38695,43.64685]]]}'
-tag-ids: []

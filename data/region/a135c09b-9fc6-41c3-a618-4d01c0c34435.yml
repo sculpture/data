@@ -3,4 +3,3 @@ type: region
 slug: ripleys-aquarium
 name: Ripleys Aquarium
 geojson: '{"type":"Point","coordinates":[-78.87784,33.71589]}'
-tag-ids: []

@@ -3,4 +3,3 @@ type: region
 slug: york-university
 name: York University
 geojson: '{"type":"Polygon","coordinates":[[[-79.5168,43.77624],[-79.49464,43.78129],[-79.49298,43.77021],[-79.50909,43.76747],[-79.51594,43.77346],[-79.5168,43.77624]]]}'
-tag-ids: []
