@@ -1,7 +1,7 @@
 id: eed2b1f5-6144-4ca4-b225-5080419c7558
 type: region
-slug: dundas-station
-name: Dundas Station
-geojson: '{"type":"Point","coordinates":[-79.38088,43.65634]}'
+slug: vatican-country
+name: Vatican City
+geojson: '{"type":"Polygon","coordinates":[[[12.44574,41.90196],[12.45452,41.9002],[12.45433,41.9014],[12.45837,41.90226],[12.45766,41.90582],[12.45544,41.90739],[12.4505,41.9065],[12.44574,41.90196]]]}'
 tag-ids:
-- be43f247-3b33-4ea0-9212-69df13bf6710
+- 6181abfa-d7e2-47a5-b00d-83512c657b91
