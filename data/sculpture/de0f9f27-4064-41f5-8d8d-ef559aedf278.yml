@@ -6,9 +6,10 @@ artist-ids:
 - ca17b203-f940-4f45-853d-3c61feb898a9
 city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
 date: '1963'
+link-wikipedia: https://en.wikipedia.org/wiki/Cubi_XII
 location:
   latitude: 38.88905
   longitude: -77.02337
-  precision: 50.0
+  precision: 50
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125

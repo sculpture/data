@@ -10,6 +10,6 @@ date: '2004'
 location:
   latitude: 43.768818
   longitude: -79.362926
-  precision: 50.0
+  precision: 50
 material-ids:
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed

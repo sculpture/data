@@ -9,7 +9,7 @@ date: '1928'
 location:
   latitude: 43.652055
   longitude: -79.385876
-  precision: 50.0
+  precision: 50
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:

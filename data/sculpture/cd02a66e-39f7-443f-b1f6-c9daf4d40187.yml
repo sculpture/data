@@ -10,7 +10,7 @@ date: '1930'
 location:
   latitude: 43.74037
   longitude: -79.404822
-  precision: 40.0
+  precision: 40
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:

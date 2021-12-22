@@ -10,7 +10,7 @@ date: '1894'
 location:
   latitude: 43.66394
   longitude: -79.391602
-  precision: 27.0
+  precision: 27
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:

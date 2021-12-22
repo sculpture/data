@@ -9,7 +9,7 @@ date: '2000'
 location:
   latitude: 42.309161
   longitude: -83.070813
-  precision: 35.0
+  precision: 35
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids:

@@ -9,6 +9,6 @@ date: '1995'
 location:
   latitude: 45.420148
   longitude: -75.690999
-  precision: 50.0
+  precision: 50
 material-ids:
 - 295447b1-9e9f-4bb5-8eeb-37a5ae10394c

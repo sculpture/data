@@ -10,6 +10,6 @@ date: '1987'
 location:
   latitude: 43.729379
   longitude: -79.434423
-  precision: 44.0
+  precision: 44
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

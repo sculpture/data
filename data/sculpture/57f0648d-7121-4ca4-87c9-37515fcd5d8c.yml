@@ -9,7 +9,7 @@ date: '1999'
 location:
   latitude: 42.311081
   longitude: -83.068517
-  precision: 22.0
+  precision: 22
 material-ids:
 - 6e45603b-de94-4bb1-8ffb-eddbb4f15853
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf

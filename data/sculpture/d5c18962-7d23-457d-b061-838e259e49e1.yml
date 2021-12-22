@@ -9,7 +9,9 @@ date: '1974'
 location:
   latitude: 43.671192
   longitude: -79.39338
-  precision: 50.0
+  precision: 50
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 note: (fot.2003 at old location 288 Sherbourne St.)
+tag-ids:
+- da7678e3-55c7-4a57-8c34-f4a7fd3be717

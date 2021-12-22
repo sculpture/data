@@ -9,7 +9,7 @@ date: '2014'
 location:
   latitude: 43.647487
   longitude: -79.373508
-  precision: 31.0
+  precision: 31
 material-ids:
 - 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

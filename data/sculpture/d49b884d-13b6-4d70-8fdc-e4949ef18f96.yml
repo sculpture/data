@@ -10,6 +10,6 @@ date: '1989'
 location:
   latitude: 43.645947
   longitude: -79.380091
-  precision: 38.0
+  precision: 38
 material-ids:
 - 76c8ed4b-b169-44ca-bf45-466a20c85838

@@ -10,7 +10,7 @@ date: '1992'
 location:
   latitude: 43.647209
   longitude: -79.377581
-  precision: 18.0
+  precision: 18
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf

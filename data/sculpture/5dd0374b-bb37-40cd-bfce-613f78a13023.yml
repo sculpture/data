@@ -9,6 +9,6 @@ date: '2001'
 location:
   latitude: 43.727094
   longitude: -79.213664
-  precision: 52.0
+  precision: 52
 material-ids:
 - 95a48ae8-6d9b-4ae1-8704-f9685d804a35

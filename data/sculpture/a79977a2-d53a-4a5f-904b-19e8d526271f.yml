@@ -9,6 +9,6 @@ date: '1979'
 location:
   latitude: 43.72887
   longitude: -79.44036
-  precision: 50.0
+  precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

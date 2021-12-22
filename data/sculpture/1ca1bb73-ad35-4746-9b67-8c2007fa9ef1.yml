@@ -9,6 +9,6 @@ date: '1994'
 location:
   latitude: 43.771644
   longitude: -79.257621
-  precision: 48.0
+  precision: 48
 material-ids:
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed

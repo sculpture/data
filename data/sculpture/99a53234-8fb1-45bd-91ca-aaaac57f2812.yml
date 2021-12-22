@@ -9,7 +9,7 @@ date: '1998'
 location:
   latitude: 43.768617
   longitude: -79.416114
-  precision: 38.0
+  precision: 38
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc

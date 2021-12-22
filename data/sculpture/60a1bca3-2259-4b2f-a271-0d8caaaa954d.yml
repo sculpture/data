@@ -10,7 +10,7 @@ link-wikipedia: https://en.wikipedia.org/wiki/Are_Years_What%3F_(for_Marianne_Mo
 location:
   latitude: 38.88895
   longitude: -77.02291
-  precision: 50.0
+  precision: 50
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids:

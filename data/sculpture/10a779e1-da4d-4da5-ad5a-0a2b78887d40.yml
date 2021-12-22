@@ -9,6 +9,6 @@ date: '2017'
 location:
   latitude: 43.640096
   longitude: -79.420521
-  precision: 30.0
+  precision: 30
 material-ids:
 - 8bf76e91-b9b1-40fb-a748-631edc817f8a

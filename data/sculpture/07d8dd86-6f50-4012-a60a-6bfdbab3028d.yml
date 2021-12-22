@@ -10,6 +10,6 @@ date: '1967'
 location:
   latitude: 43.660911
   longitude: -79.393367
-  precision: 50.0
+  precision: 50
 material-ids:
 - c1c07f0b-8700-44fb-9a0f-241032b370e8
