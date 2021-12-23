@@ -6,4 +6,5 @@ birth-date: '1912'
 death-date: '1984'
 gender: male
 link-wikipedia: https://nl.wikipedia.org/wiki/Wessel_Couzijn
-nationality: Dutch
+nationality-ids:
+- 883d79f9-3bf6-4f99-8fac-abba7b6323e8

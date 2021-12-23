@@ -6,4 +6,5 @@ birth-date: '1949'
 gender: male
 link-website: https://www.zadokbendavid.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Zadok_Ben-David
-nationality: Israeli
+nationality-ids:
+- 5a3ecab6-f2cc-4db2-948d-1b719144cc06

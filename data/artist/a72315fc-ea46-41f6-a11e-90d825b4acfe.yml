@@ -4,4 +4,6 @@ slug: veronica-de-nogales
 name: Veronica de Nogales
 gender: female
 link-website: http://www.damdenogales.com/
-nationality: Spanish Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+- e702c412-2c52-45be-89fe-8688237aba49

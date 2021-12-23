@@ -6,4 +6,6 @@ birth-date: '1813'
 death-date: '1878'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Anton_Dominik_Fernkorn
-nationality: German, Austrian
+nationality-ids:
+- 32e5f127-41b2-4f4c-b77c-f7c4e540ec91
+- 705d9b66-97ca-48dc-a9ef-abb3d1cb5236

@@ -4,6 +4,8 @@ slug: blue-republic
 name: Blue_Republic
 bio: Radoslaw Kudlinski and Anna Passakas
 link-website: https://bluerepublic.ca/
-nationality: Canadian, Polish
+nationality-ids:
+- 25711868-6ccc-4b3c-9238-bee64ad1a684
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
 tag-ids:
 - 12e87ca9-b62b-4525-8956-12e213212efc

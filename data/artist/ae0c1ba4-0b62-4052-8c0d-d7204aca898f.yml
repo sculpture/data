@@ -6,4 +6,5 @@ birth-date: '1967'
 gender: male
 link-website: https://www.anteliu.com/
 link-wikipedia: https://en.wikipedia.org/wiki/An_Te_Liu
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

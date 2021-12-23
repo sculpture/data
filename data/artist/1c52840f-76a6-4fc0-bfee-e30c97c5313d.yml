@@ -4,4 +4,5 @@ slug: carl-lander
 name: Carl Lander
 gender: male
 link-website: http://www.carlbucher.com/
-nationality: Swiss
+nationality-ids:
+- e156a0a4-595d-41a4-812b-4702d8b8cb98

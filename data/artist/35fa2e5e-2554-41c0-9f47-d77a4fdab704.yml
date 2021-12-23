@@ -5,4 +5,5 @@ name: Antoine Poncet
 gender: male
 link-website: http://poncetantoine.free.fr/auto.html
 link-wikipedia: http://fr.wikipedia.org/wiki/Antoine_Poncet
-nationality: Swiss
+nationality-ids:
+- e156a0a4-595d-41a4-812b-4702d8b8cb98

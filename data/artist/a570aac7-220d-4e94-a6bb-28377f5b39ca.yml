@@ -6,4 +6,5 @@ birth-date: '1938'
 gender: male
 link-website: https://www.williampye.com/
 link-wikipedia: https://en.wikipedia.org/wiki/William_Pye_(sculptor)
-nationality: British
+nationality-ids:
+- b699e0ba-2ab6-4fe3-844a-1435f1bc8008

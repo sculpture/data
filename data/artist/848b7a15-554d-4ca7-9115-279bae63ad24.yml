@@ -6,4 +6,6 @@ birth-date: '1956'
 gender: male
 link-website: http://kenlumart.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Ken_Lum
-nationality: Canadian, Chinese
+nationality-ids:
+- 4e32d917-e24e-4ad7-af91-a5d98e7a3b73
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

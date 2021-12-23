@@ -4,4 +4,5 @@ slug: michael-golland
 name: Michael Golland
 gender: male
 link-website: http://michaelgolland.com/Michael_Golland_Art/
-nationality: English
+nationality-ids:
+- 9c6ce912-f457-4e99-bd7d-eae49645457c

@@ -3,4 +3,6 @@ type: artist
 slug: tadeusz-janowski
 name: Tadeusz Janowski
 gender: male
-nationality: Polish American
+nationality-ids:
+- 25711868-6ccc-4b3c-9238-bee64ad1a684
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

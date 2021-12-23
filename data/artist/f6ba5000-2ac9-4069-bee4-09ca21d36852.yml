@@ -6,4 +6,5 @@ birth-date: '1850'
 death-date: '1917'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Louis-Philippe_H%C3%A9bert
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

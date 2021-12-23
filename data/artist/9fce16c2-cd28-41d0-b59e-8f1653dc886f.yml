@@ -7,6 +7,7 @@ death-date: '2009'
 gender: male
 link-website: https://barryflanagan.com/home/
 link-wikipedia: https://en.wikipedia.org/wiki/Barry_Flanagan
-nationality: Welsh
+nationality-ids:
+- b3ea8c5f-5bc0-438c-a87b-d1292604b30b
 tag-ids:
 - ba228b77-c711-47fc-85d1-9c8d48961343

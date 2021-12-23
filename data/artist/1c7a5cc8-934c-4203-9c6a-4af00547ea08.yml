@@ -7,4 +7,6 @@ death-date: '2005-04-19'
 gender: male
 link-website: http://meadmore.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Clement_Meadmore
-nationality: Australian, American
+nationality-ids:
+- 07405da2-bd2a-4517-89a6-ea2666593dda
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

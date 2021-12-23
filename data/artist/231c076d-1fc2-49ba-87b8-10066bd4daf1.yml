@@ -3,6 +3,7 @@ type: artist
 slug: bruce-high-quality-foundation
 name: Bruce_High_Quality_Foundation
 link-wikipedia: https://en.wikipedia.org/wiki/Bruce_High_Quality_Foundation
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553
 tag-ids:
 - 12e87ca9-b62b-4525-8956-12e213212efc

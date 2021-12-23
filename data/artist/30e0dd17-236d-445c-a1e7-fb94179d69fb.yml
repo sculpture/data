@@ -6,4 +6,5 @@ birth-date: '1848-03-18'
 death-date: '1939-12-03'
 gender: female
 link-wikipedia: https://en.wikipedia.org/wiki/Princess_Louise,_Duchess_of_Argyll
-nationality: English
+nationality-ids:
+- 9c6ce912-f457-4e99-bd7d-eae49645457c

@@ -6,4 +6,5 @@ birth-date: '1935'
 death-date: '2001'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Antoni_Milkowski
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

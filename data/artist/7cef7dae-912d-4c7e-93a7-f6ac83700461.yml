@@ -4,4 +4,5 @@ slug: francisco-gazitua
 name: Francisco Gazitua
 gender: male
 link-website: http://www.franciscogazitua.com/
-nationality: Chilean
+nationality-ids:
+- b73e6afc-2bf8-408e-a61a-5795e6b80739

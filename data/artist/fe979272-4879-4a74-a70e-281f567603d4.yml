@@ -5,4 +5,6 @@ name: Charles Adamson
 birth-date: '1880'
 death-date: '1959'
 gender: male
-nationality: Scottish Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+- c1ad6675-9a9c-4539-a763-0dc4b6f78b53

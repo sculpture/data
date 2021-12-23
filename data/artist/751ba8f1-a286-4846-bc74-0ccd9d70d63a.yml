@@ -6,6 +6,8 @@ birth-date: '1886'
 death-date: '1966'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Jean_Arp
-nationality: French, German
+nationality-ids:
+- 705d9b66-97ca-48dc-a9ef-abb3d1cb5236
+- a651bd10-8516-4046-a33d-8ec16799a830
 tag-ids:
 - ba228b77-c711-47fc-85d1-9c8d48961343

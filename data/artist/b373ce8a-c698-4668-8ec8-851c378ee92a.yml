@@ -6,4 +6,5 @@ birth-date: '1930-11-14'
 death-date: '1993-04-18'
 gender: female
 link-wikipedia: https://en.wikipedia.org/wiki/Elisabeth_Frink
-nationality: English
+nationality-ids:
+- 9c6ce912-f457-4e99-bd7d-eae49645457c

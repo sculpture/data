@@ -5,4 +5,5 @@ name: Tadashi Kawamata
 birth-date: '1953'
 link-website: http://www.tadashikawamata.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Tadashi_Kawamata
-nationality: Japanese
+nationality-ids:
+- d295312f-a7e0-4d6d-8614-78c3e8013386

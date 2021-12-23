@@ -3,4 +3,6 @@ type: artist
 slug: wojtek-gorczynski
 name: Wojtek Gorczynski
 gender: male
-nationality: Canadian Polish
+nationality-ids:
+- 25711868-6ccc-4b3c-9238-bee64ad1a684
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

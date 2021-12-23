@@ -3,4 +3,5 @@ type: artist
 slug: martin-toledo
 name: Martin Toledo
 gender: male
-nationality: Venezuelan
+nationality-ids:
+- f980d838-1f82-48df-84b3-a564f12ac21e

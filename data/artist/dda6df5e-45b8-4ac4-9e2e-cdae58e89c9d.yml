@@ -7,4 +7,6 @@ death-date: '1985'
 gender: male
 link-website: http://oscarnemon.org.uk/
 link-wikipedia: http://en.wikipedia.org/wiki/Oscar_Nemon
-nationality: Croatian English
+nationality-ids:
+- 3f46bc3a-40eb-414d-97a5-cf6f05d2d845
+- 9c6ce912-f457-4e99-bd7d-eae49645457c

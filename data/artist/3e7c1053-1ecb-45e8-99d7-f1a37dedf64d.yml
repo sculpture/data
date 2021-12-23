@@ -7,4 +7,5 @@ death-date: '1988'
 gender: male
 link-website: https://www.nakian.org/
 link-wikipedia: https://en.wikipedia.org/wiki/Reuben_Nakian
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

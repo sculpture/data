@@ -4,4 +4,5 @@ slug: anna-bem-borucka
 name: Anna Bem-Borucka
 gender: female
 link-website: http://anna-bem-borucka.ovh.org/
-nationality: Polish
+nationality-ids:
+- 25711868-6ccc-4b3c-9238-bee64ad1a684

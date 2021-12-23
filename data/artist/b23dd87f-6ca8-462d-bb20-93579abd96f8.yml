@@ -3,4 +3,5 @@ type: artist
 slug: william-barriss-martin
 name: William Barriss Martin
 gender: male
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

@@ -6,4 +6,5 @@ birth-date: '1817'
 death-date: '1893'
 gender: male
 link-wikipedia: https://fr.wikipedia.org/wiki/Charles-Auguste_Fraikin
-nationality: Belgian
+nationality-ids:
+- 7ffa66d9-33cd-4d55-aa7f-0a85922dbacb

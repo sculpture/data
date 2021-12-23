@@ -4,4 +4,5 @@ slug: susan-schelle
 name: Susan Schelle
 gender: female
 link-website: http://susanschelle.ca/
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

@@ -6,4 +6,5 @@ birth-date: '1923'
 death-date: '2019'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Imre_Varga
-nationality: Hungarian
+nationality-ids:
+- c6e11987-b2eb-41e2-a539-9f370978e45d

@@ -6,4 +6,6 @@ birth-date: '1897'
 death-date: '1976'
 gender: female
 link-wikipedia: http://en.wikipedia.org/wiki/Jacobine_Jones
-nationality: English Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+- 9c6ce912-f457-4e99-bd7d-eae49645457c

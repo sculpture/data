@@ -5,4 +5,5 @@ name: Richard Purdy
 birth-date: '1953'
 gender: male
 link-wikipedia: https://fr.wikipedia.org/wiki/Richard_Purdy
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

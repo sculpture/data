@@ -7,7 +7,8 @@ death-date: '1939'
 gender: male
 link-website: http://www.muchafoundation.org/en
 link-wikipedia: https://en.wikipedia.org/wiki/Alphonse_Mucha
-nationality: Czech
+nationality-ids:
+- f6623947-b826-4852-95e6-7a7bf31551be
 tag-ids:
 - 92f5b43c-299b-49c6-a5f6-f1aa2b4eaa61
 - ba228b77-c711-47fc-85d1-9c8d48961343

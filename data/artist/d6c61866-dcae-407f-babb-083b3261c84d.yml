@@ -4,4 +4,5 @@ slug: peter-roller
 name: Peter Roller
 gender: male
 link-website: http://peterroller.sk/index.php?lang=english
-nationality: Slovak
+nationality-ids:
+- 70d6954c-5b30-4a60-942b-e4083573fd8d

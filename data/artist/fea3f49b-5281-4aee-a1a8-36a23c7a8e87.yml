@@ -5,4 +5,5 @@ name: Simon Starling
 birth-date: '1967'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Simon_Starling
-nationality: English
+nationality-ids:
+- 9c6ce912-f457-4e99-bd7d-eae49645457c

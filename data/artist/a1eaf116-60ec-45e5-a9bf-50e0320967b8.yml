@@ -4,4 +4,5 @@ slug: jean-herain
 name: Jean Herain
 birth-date: '1853'
 death-date: '1924'
-nationality: Belgian
+nationality-ids:
+- 7ffa66d9-33cd-4d55-aa7f-0a85922dbacb

@@ -6,4 +6,5 @@ birth-date: '1887'
 death-date: '1965'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Ewald_Matar%C3%A9
-nationality: German
+nationality-ids:
+- 705d9b66-97ca-48dc-a9ef-abb3d1cb5236

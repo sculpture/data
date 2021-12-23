@@ -5,4 +5,5 @@ name: Mark Manders
 gender: male
 link-website: http://www.markmanders.org/
 link-wikipedia: https://en.wikipedia.org/wiki/Mark_Manders
-nationality: Dutch
+nationality-ids:
+- 883d79f9-3bf6-4f99-8fac-abba7b6323e8

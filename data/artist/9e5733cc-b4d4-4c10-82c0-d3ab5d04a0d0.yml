@@ -4,4 +4,6 @@ slug: valer-chende
 name: Valer Chende
 gender: male
 link-website: http://www.valchende.com/Site_2/Welcome.html
-nationality: Romanian Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+- c251af82-dccf-48dd-879d-406a078938fa

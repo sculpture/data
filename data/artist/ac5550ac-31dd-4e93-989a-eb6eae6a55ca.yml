@@ -6,6 +6,7 @@ birth-date: '1869'
 death-date: '1954'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Henri_Matisse
-nationality: French
+nationality-ids:
+- a651bd10-8516-4046-a33d-8ec16799a830
 tag-ids:
 - 92f5b43c-299b-49c6-a5f6-f1aa2b4eaa61

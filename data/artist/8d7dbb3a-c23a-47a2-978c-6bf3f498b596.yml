@@ -4,4 +4,5 @@ slug: frank-varga
 name: Frank Varga
 gender: male
 link-website: http://varga-art.com/Frank.html
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

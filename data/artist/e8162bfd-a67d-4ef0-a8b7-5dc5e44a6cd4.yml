@@ -6,4 +6,5 @@ birth-date: '1967'
 gender: male
 link-website: http://www.davidcerny.cz/
 link-wikipedia: https://en.wikipedia.org/wiki/David_%C4%8Cern%C3%BD
-nationality: Czech
+nationality-ids:
+- f6623947-b826-4852-95e6-7a7bf31551be

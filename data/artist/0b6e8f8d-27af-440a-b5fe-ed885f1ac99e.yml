@@ -6,4 +6,5 @@ birth-date: '1914'
 death-date: '2003'
 gender: male
 link-wikipedia: https://cs.wikipedia.org/wiki/Josef_Malejovsk%C3%BD
-nationality: Czech
+nationality-ids:
+- f6623947-b826-4852-95e6-7a7bf31551be

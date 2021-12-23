@@ -7,4 +7,5 @@ death-date: '1976'
 gender: male
 link-website: http://www.sculpture.uk.com/artists/hubert_dalwood/
 link-wikipedia: https://en.wikipedia.org/wiki/Hubert_Dalwood
-nationality: English
+nationality-ids:
+- 9c6ce912-f457-4e99-bd7d-eae49645457c

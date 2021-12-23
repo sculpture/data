@@ -7,6 +7,7 @@ death-date: '2017-04-20'
 gender: female
 link-website: http://www.abakanowicz.art.pl/
 link-wikipedia: https://en.wikipedia.org/wiki/Magdalena_Abakanowicz
-nationality: Polish
+nationality-ids:
+- 25711868-6ccc-4b3c-9238-bee64ad1a684
 tag-ids:
 - ba228b77-c711-47fc-85d1-9c8d48961343

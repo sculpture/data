@@ -5,4 +5,5 @@ name: Jun Kaneko
 gender: male
 link-website: http://www.junkaneko.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Jun_Kaneko
-nationality: Japanese
+nationality-ids:
+- d295312f-a7e0-4d6d-8614-78c3e8013386

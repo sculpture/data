@@ -6,4 +6,5 @@ birth-date: '1832'
 death-date: '1893'
 gender: male
 link-wikipedia: http://en.wikipedia.org/wiki/Charles_Bell_Birch
-nationality: English
+nationality-ids:
+- 9c6ce912-f457-4e99-bd7d-eae49645457c

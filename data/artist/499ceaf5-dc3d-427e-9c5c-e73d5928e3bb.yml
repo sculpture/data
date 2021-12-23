@@ -5,4 +5,5 @@ name: Gregory Pototsky
 birth-date: '1954'
 gender: male
 link-website: https://pototsky.ru/en/
-nationality: Russian
+nationality-ids:
+- a9f1263f-b9e5-4002-b489-28dc1e99f663

@@ -6,4 +6,5 @@ birth-date: '1935'
 death-date: '2017'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Andr%C3%A9_Gauthier_(sculptor)
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

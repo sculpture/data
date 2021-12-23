@@ -3,4 +3,5 @@ type: artist
 slug: prince-monyo-nasturel
 name: Prince Monyo Nasturel
 gender: male
-nationality: Romanian
+nationality-ids:
+- c251af82-dccf-48dd-879d-406a078938fa

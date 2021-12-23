@@ -5,4 +5,5 @@ name: Timothy Schmalz
 gender: male
 link-website: https://www.sculpturebytps.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Timothy_Schmalz
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

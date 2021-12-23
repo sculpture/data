@@ -6,4 +6,6 @@ birth-date: '1933'
 death-date: '2019'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Arto_Tchakmaktchian
-nationality: Armenian, Canadian
+nationality-ids:
+- 14b14100-ab10-4231-b432-5cdcc156be24
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

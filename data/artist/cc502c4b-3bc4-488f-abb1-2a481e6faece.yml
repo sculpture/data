@@ -4,4 +4,6 @@ slug: alan-dickson
 name: Alan Dickson
 birth-date: '1937'
 gender: male
-nationality: English, Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+- 9c6ce912-f457-4e99-bd7d-eae49645457c

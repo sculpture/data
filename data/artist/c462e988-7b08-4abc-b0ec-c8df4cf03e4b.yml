@@ -5,4 +5,5 @@ name: Paul Van Gysegem
 birth-date: '1935'
 gender: male
 link-wikipedia: https://de.wikipedia.org/wiki/Paul_Van_Gysegem
-nationality: Belgian
+nationality-ids:
+- 7ffa66d9-33cd-4d55-aa7f-0a85922dbacb

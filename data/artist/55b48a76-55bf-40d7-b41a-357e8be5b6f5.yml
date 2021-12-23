@@ -4,4 +4,5 @@ slug: enzo-cucchi
 name: Enzo Cucchi
 gender: male
 link-wikipedia: http://en.wikipedia.org/wiki/Enzo_Cucchi
-nationality: Italian
+nationality-ids:
+- b6ab1d97-6e0c-4d16-8310-d013488cf08a

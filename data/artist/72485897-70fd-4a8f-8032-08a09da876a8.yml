@@ -6,4 +6,5 @@ birth-date: '1862'
 death-date: '1930'
 gender: male
 link-wikipedia: https://nl.wikipedia.org/wiki/Abraham_Hesselink
-nationality: Dutch
+nationality-ids:
+- 883d79f9-3bf6-4f99-8fac-abba7b6323e8

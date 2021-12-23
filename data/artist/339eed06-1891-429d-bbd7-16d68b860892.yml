@@ -6,4 +6,5 @@ birth-date: '1887'
 death-date: '1968'
 gender: female
 link-wikipedia: http://en.wikipedia.org/wiki/Frances_Loring
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

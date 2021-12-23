@@ -5,4 +5,5 @@ name: Douglas Bentham
 birth-date: '1947'
 gender: male
 link-website: https://douglasbentham.com/
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

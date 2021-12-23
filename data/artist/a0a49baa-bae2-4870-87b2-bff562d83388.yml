@@ -6,4 +6,5 @@ birth-date: '1957'
 gender: male
 link-website: http://stevetobin.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Steve_Tobin
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

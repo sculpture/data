@@ -6,4 +6,5 @@ birth-date: '1905'
 death-date: '1987'
 gender: male
 link-wikipedia: https://de.wikipedia.org/wiki/Fidelis_Bentele_(Bildhauer)
-nationality: German
+nationality-ids:
+- 705d9b66-97ca-48dc-a9ef-abb3d1cb5236

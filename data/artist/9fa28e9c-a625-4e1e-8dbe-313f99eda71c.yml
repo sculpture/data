@@ -5,6 +5,7 @@ name: Santiago Calatrava
 gender: male
 link-website: http://www.calatrava.com/
 link-wikipedia: http://en.wikipedia.org/wiki/Santiago_Calatrava
-nationality: Spanish
+nationality-ids:
+- e702c412-2c52-45be-89fe-8688237aba49
 tag-ids:
 - 77fe386f-e922-473c-86bb-dfb8066c4104

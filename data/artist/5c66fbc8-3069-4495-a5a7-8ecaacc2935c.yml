@@ -6,6 +6,8 @@ birth-date: '1911-12-25'
 death-date: '2010-05-31'
 gender: female
 link-wikipedia: https://en.wikipedia.org/wiki/Louise_Bourgeois
-nationality: French-American
+nationality-ids:
+- a651bd10-8516-4046-a33d-8ec16799a830
+- f41cbf6e-d705-45da-acdc-7d0dc4896553
 tag-ids:
 - ba228b77-c711-47fc-85d1-9c8d48961343

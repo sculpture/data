@@ -5,4 +5,5 @@ name: Tom Otterness
 gender: male
 link-website: http://www.tomostudio.com/
 link-wikipedia: http://en.wikipedia.org/wiki/Tom_Otterness
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

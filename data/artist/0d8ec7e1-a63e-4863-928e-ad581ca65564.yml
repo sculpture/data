@@ -6,4 +6,6 @@ birth-date: '1942'
 death-date: '2009'
 gender: female
 link-wikipedia: https://en.wikipedia.org/wiki/Coosje_van_Bruggen
-nationality: Dutch, American
+nationality-ids:
+- 883d79f9-3bf6-4f99-8fac-abba7b6323e8
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

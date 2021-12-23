@@ -4,4 +4,5 @@ slug: ivan-kostov
 name: Ivan Kostov
 gender: male
 link-website: http://ikostov.com/
-nationality: Bulgarian
+nationality-ids:
+- eb122fb8-93cc-4750-9cc3-bcf3c53cc071

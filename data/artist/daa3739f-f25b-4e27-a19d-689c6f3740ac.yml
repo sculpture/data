@@ -6,4 +6,5 @@ birth-date: '1940'
 gender: male
 link-website: http://www.ronbairdartist.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Ron_Baird
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

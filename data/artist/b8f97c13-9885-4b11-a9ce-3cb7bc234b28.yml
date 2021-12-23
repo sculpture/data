@@ -6,4 +6,5 @@ birth-date: '1937-03-27'
 gender: male
 link-website: https://www.tanavoli.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Parviz_Tanavoli
-nationality: Iranian
+nationality-ids:
+- c65004d1-6716-44e1-83ea-4999b9b9bc2d

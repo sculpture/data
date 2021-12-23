@@ -6,4 +6,5 @@ birth-date: '1942'
 gender: male
 link-website: http://www.borofsky.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Jonathan_Borofsky
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

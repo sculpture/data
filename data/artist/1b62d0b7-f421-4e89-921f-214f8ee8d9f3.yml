@@ -6,6 +6,8 @@ birth-date: '1887'
 death-date: '1964'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Alexander_Archipenko
-nationality: Ukrainian, American
+nationality-ids:
+- 6bdab203-80bd-40ac-9c9e-4927e9b07480
+- f41cbf6e-d705-45da-acdc-7d0dc4896553
 tag-ids:
 - ba228b77-c711-47fc-85d1-9c8d48961343

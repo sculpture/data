@@ -6,4 +6,5 @@ birth-date: '1932'
 death-date: '2018'
 gender: male
 link-wikipedia: http://en.wikipedia.org/wiki/Wendell_Castle
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

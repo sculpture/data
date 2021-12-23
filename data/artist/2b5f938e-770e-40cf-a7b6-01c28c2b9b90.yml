@@ -4,4 +4,5 @@ slug: judith-shea
 name: Judith Shea
 birth-date: '1948'
 gender: female
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

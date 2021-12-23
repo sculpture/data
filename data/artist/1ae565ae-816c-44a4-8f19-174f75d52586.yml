@@ -4,4 +4,6 @@ slug: georg-schmerholz
 name: Georg Schmerholz
 gender: male
 link-website: http://www.schmerholz.com/
-nationality: Hungarian Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+- c6e11987-b2eb-41e2-a539-9f370978e45d

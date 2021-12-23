@@ -6,4 +6,5 @@ birth-date: '1839'
 death-date: '1919'
 gender: male
 link-wikipedia: https://nl.wikipedia.org/wiki/Louis_Pierre_Van_Biesbroeck
-nationality: Belgian
+nationality-ids:
+- 7ffa66d9-33cd-4d55-aa7f-0a85922dbacb

@@ -4,4 +4,6 @@ slug: jiri-ladocha
 name: Jiri Ladocha
 gender: male
 link-website: http://www.jiriladocha.com/
-nationality: Czech Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+- f6623947-b826-4852-95e6-7a7bf31551be

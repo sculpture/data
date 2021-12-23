@@ -6,4 +6,5 @@ birth-date: '1835'
 death-date: '1909'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Cyprian_Godebski_(sculptor)
-nationality: Polish
+nationality-ids:
+- 25711868-6ccc-4b3c-9238-bee64ad1a684

@@ -6,4 +6,5 @@ birth-date: '1538'
 death-date: '1598'
 gender: male
 link-wikipedia: https://de.wikipedia.org/wiki/Carlo_di_Cesare_del_Palagio
-nationality: Italian
+nationality-ids:
+- b6ab1d97-6e0c-4d16-8310-d013488cf08a

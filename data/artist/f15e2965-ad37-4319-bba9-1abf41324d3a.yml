@@ -6,4 +6,5 @@ birth-date: '1860'
 death-date: '1928'
 gender: male
 link-wikipedia: http://en.wikipedia.org/wiki/George_Frampton
-nationality: British
+nationality-ids:
+- b699e0ba-2ab6-4fe3-844a-1435f1bc8008

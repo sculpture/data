@@ -4,4 +4,5 @@ slug: bronislaw-krzysztof
 name: 'Bronisław Krzysztof '
 gender: male
 link-website: http://krzysztof.art.pl/
-nationality: Polish
+nationality-ids:
+- 25711868-6ccc-4b3c-9238-bee64ad1a684

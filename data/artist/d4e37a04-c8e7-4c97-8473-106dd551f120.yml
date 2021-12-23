@@ -6,4 +6,5 @@ birth-date: '1953'
 gender: female
 link-website: http://www.widgery.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Catherine_Widgery
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

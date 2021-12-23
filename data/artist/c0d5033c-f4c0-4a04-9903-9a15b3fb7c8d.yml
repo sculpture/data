@@ -6,4 +6,5 @@ birth-date: '1943'
 gender: male
 link-website: http://www.johnhenrysculpture.com/
 link-wikipedia: https://en.wikipedia.org/wiki/John_Raymond_Henry
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

@@ -6,4 +6,5 @@ birth-date: '1902'
 death-date: '1997'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Stanis%C5%82aw_Horno-Pop%C5%82awski
-nationality: Polish
+nationality-ids:
+- 25711868-6ccc-4b3c-9238-bee64ad1a684

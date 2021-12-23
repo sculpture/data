@@ -7,4 +7,5 @@ death-date: '2016'
 gender: male
 link-website: https://pitkroke.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Pit_Kroke
-nationality: German
+nationality-ids:
+- 705d9b66-97ca-48dc-a9ef-abb3d1cb5236

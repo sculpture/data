@@ -6,4 +6,5 @@ birth-date: '1784'
 death-date: '1836'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Mathieu_Kessels
-nationality: Dutch
+nationality-ids:
+- 883d79f9-3bf6-4f99-8fac-abba7b6323e8

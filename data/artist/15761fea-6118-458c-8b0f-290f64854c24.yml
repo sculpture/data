@@ -7,4 +7,5 @@ death-date: '2020'
 gender: female
 link-website: http://www.teresabrzoskiewicz.pl/
 link-wikipedia: https://pl.wikipedia.org/wiki/Teresa_Brz%C3%B3skiewicz
-nationality: Polish
+nationality-ids:
+- 25711868-6ccc-4b3c-9238-bee64ad1a684

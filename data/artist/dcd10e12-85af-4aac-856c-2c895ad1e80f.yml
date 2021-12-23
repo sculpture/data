@@ -3,4 +3,5 @@ type: artist
 slug: knut-wold
 name: Knut Wold
 gender: male
-nationality: Norwegian
+nationality-ids:
+- ca830cd4-98b1-4a46-be89-6712ca2d243f

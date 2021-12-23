@@ -6,7 +6,8 @@ birth-date: '1898'
 death-date: '1967'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Ren%C3%A9_Magritte
-nationality: Belgian
+nationality-ids:
+- 7ffa66d9-33cd-4d55-aa7f-0a85922dbacb
 tag-ids:
 - 92f5b43c-299b-49c6-a5f6-f1aa2b4eaa61
 - ba228b77-c711-47fc-85d1-9c8d48961343

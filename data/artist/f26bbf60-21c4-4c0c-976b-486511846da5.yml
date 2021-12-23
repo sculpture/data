@@ -5,4 +5,5 @@ name: 'Maria Lehnen '
 birth-date: '1949'
 gender: female
 link-website: http://www.maria-lehnen.de/
-nationality: German
+nationality-ids:
+- 705d9b66-97ca-48dc-a9ef-abb3d1cb5236

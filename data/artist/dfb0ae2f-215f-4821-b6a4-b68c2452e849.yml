@@ -6,4 +6,6 @@ birth-date: '1942'
 death-date: '2006'
 gender: male
 link-wikipedia: http://en.wikipedia.org/wiki/Roland_Brener
-nationality: South-African Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+- 9e5ed9ce-cb55-4441-b1c2-5da71d7f3baa

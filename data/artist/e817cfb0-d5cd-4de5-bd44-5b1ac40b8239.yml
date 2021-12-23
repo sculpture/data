@@ -6,4 +6,5 @@ birth-date: '1930-12-03'
 death-date: '2017-12-18'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Yves_Trudeau_(artist)
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

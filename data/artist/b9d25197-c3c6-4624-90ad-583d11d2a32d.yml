@@ -6,4 +6,6 @@ birth-date: '1939'
 death-date: '2020'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Siah_Armajani
-nationality: Iranian, American
+nationality-ids:
+- c65004d1-6716-44e1-83ea-4999b9b9bc2d
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

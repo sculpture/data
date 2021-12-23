@@ -4,4 +4,5 @@ slug: karena-massengill
 name: Karena Massengill
 gender: female
 link-website: https://www.karenamassengill.com/
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

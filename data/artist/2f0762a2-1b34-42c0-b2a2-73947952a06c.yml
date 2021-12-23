@@ -4,4 +4,5 @@ slug: anne-harris
 name: Anne Harris
 gender: female
 link-wikipedia: http://en.wikipedia.org/wiki/Anne_Harris_%28sculptor%29
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

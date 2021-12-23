@@ -6,4 +6,5 @@ birth-date: '1881'
 death-date: '1961'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Geo_Verbanck
-nationality: Belgian
+nationality-ids:
+- 7ffa66d9-33cd-4d55-aa7f-0a85922dbacb

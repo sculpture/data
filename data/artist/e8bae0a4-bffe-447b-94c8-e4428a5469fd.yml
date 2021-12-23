@@ -6,4 +6,5 @@ birth-date: '1964'
 gender: male
 link-website: https://ugorondinone.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Ugo_Rondinone
-nationality: Swiss
+nationality-ids:
+- e156a0a4-595d-41a4-812b-4702d8b8cb98

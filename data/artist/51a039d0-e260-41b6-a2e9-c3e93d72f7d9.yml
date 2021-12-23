@@ -6,4 +6,5 @@ birth-date: '1946-11-20'
 gender: female
 link-website: https://www.aaycock.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Alice_Aycock
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

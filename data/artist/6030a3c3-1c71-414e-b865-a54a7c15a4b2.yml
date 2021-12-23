@@ -5,4 +5,5 @@ name: 'ViVi Vo Hung Kiet '
 birth-date: '1945'
 gender: male
 link-wikipedia: https://vi.wikipedia.org/wiki/ViVi_V%C3%B5_H%C3%B9ng_Ki%E1%BB%87t
-nationality: Vietnamese
+nationality-ids:
+- 89f789a6-1031-4574-a95a-4160a060514a

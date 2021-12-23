@@ -3,4 +3,5 @@ type: artist
 slug: wenquin-chen
 name: Wenquin Chen
 gender: male
-nationality: Chinese
+nationality-ids:
+- 4e32d917-e24e-4ad7-af91-a5d98e7a3b73

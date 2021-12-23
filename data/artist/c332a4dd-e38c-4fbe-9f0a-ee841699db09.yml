@@ -6,4 +6,5 @@ birth-date: '1937'
 death-date: '1989'
 gender: male
 link-website: http://victorsalmones.com/
-nationality: Mexican
+nationality-ids:
+- f8d37305-192e-43b3-ac08-f9782986c84e

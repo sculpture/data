@@ -6,4 +6,5 @@ birth-date: '1942'
 gender: female
 link-website: https://ursulavonrydingsvard.net/
 link-wikipedia: https://en.wikipedia.org/wiki/Ursula_von_Rydingsvard
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

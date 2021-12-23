@@ -7,4 +7,6 @@ death-date: '2006'
 gender: male
 link-website: http://artathooperstudios.com/john-hooper/
 link-wikipedia: https://en.wikipedia.org/wiki/John_Hooper_(sculptor)
-nationality: English Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+- 9c6ce912-f457-4e99-bd7d-eae49645457c

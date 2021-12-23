@@ -6,4 +6,5 @@ birth-date: '1875'
 death-date: '1951'
 gender: male
 link-wikipedia: http://en.wikipedia.org/wiki/Charles_Keck
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

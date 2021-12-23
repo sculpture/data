@@ -6,4 +6,5 @@ birth-date: '1939'
 death-date: '2016'
 gender: female
 link-wikipedia: https://en.wikipedia.org/wiki/May_Claerhout
-nationality: Belgian
+nationality-ids:
+- 7ffa66d9-33cd-4d55-aa7f-0a85922dbacb

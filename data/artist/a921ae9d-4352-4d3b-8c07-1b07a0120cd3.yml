@@ -6,4 +6,5 @@ birth-date: '1884'
 death-date: '1970'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Hildo_Krop
-nationality: Dutch
+nationality-ids:
+- 883d79f9-3bf6-4f99-8fac-abba7b6323e8

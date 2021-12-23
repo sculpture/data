@@ -5,4 +5,5 @@ name: 'Nicolas Dings '
 birth-date: '1953'
 gender: male
 link-website: http://www.nicolasdings.nl/
-nationality: Dutch
+nationality-ids:
+- 883d79f9-3bf6-4f99-8fac-abba7b6323e8

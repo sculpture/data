@@ -4,4 +4,5 @@ slug: rowan-gillespie
 name: Rowan Gillespie
 gender: male
 link-wikipedia: http://en.wikipedia.org/wiki/Rowan_Gillespie
-nationality: Irish
+nationality-ids:
+- 15a38b3b-b684-4a2f-9ecd-d4f41ed67bcc

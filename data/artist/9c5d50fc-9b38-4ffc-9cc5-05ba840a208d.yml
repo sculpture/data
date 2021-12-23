@@ -6,4 +6,5 @@ birth-date: '1841'
 death-date: '1914'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Ferdinand_Leenhoff
-nationality: Dutch
+nationality-ids:
+- 883d79f9-3bf6-4f99-8fac-abba7b6323e8

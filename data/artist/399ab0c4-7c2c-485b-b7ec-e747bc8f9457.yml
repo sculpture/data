@@ -6,4 +6,5 @@ birth-date: '1926'
 death-date: '2018-12-10'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Raoul_Hunter
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

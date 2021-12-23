@@ -2,4 +2,5 @@ id: fc836382-3138-44ef-8ba7-54e3e3dfbd8f
 type: artist
 slug: yooyoungmun
 name: Yoo Young Mun
-nationality: Korean
+nationality-ids:
+- b57e3b84-0645-494c-806b-c4f2de24b6f8

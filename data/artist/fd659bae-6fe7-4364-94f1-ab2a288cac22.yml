@@ -6,6 +6,7 @@ birth-date: '1924'
 death-date: '2002'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Eduardo_Chillida
-nationality: Spanish
+nationality-ids:
+- e702c412-2c52-45be-89fe-8688237aba49
 tag-ids:
 - ba228b77-c711-47fc-85d1-9c8d48961343

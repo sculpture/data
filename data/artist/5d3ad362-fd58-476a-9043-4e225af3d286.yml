@@ -5,4 +5,5 @@ name: Markus Lüpertz
 birth-date: '1941'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Markus_L%C3%BCpertz
-nationality: German
+nationality-ids:
+- 705d9b66-97ca-48dc-a9ef-abb3d1cb5236

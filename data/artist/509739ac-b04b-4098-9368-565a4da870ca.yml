@@ -5,4 +5,6 @@ name: Truong Chanh Trung
 birth-date: '1943'
 gender: male
 link-wikipedia: https://www.chanhtruong.com/
-nationality: Vietnamese Chinese
+nationality-ids:
+- 4e32d917-e24e-4ad7-af91-a5d98e7a3b73
+- 89f789a6-1031-4574-a95a-4160a060514a

@@ -7,6 +7,7 @@ death-date: '1990-02-16'
 gender: male
 link-website: https://www.haring.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Keith_Haring
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553
 tag-ids:
 - ba228b77-c711-47fc-85d1-9c8d48961343

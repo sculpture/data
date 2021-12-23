@@ -7,4 +7,5 @@ death-date: '2016'
 gender: male
 link-website: http://kennethsnelson.net/
 link-wikipedia: https://en.wikipedia.org/wiki/Kenneth_Snelson
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

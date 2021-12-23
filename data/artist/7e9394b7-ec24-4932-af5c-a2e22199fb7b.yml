@@ -5,4 +5,5 @@ name: Marc-André Fortier
 birth-date: '1961'
 gender: male
 link-website: http://majfortier.com/
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

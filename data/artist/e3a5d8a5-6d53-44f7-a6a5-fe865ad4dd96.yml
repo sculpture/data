@@ -5,4 +5,5 @@ name: Bernar Venet
 birth-date: '1941-04-20'
 link-website: http://www.bernarvenet.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Bernar_Venet
-nationality: French
+nationality-ids:
+- a651bd10-8516-4046-a33d-8ec16799a830

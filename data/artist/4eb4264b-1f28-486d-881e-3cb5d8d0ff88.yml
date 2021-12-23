@@ -5,4 +5,5 @@ name: Royden Rabinowitch
 gender: male
 link-website: http://rabinowitch.com/
 link-wikipedia: http://en.wikipedia.org/wiki/Royden_Rabinowitch
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

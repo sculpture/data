@@ -6,6 +6,7 @@ birth-date: '1981'
 gender: male
 link-website: http://www.thomasjprice.com/sculpture
 link-wikipedia: https://en.wikipedia.org/wiki/Thomas_J._Price
-nationality: British
+nationality-ids:
+- b699e0ba-2ab6-4fe3-844a-1435f1bc8008
 tag-ids:
 - af620c73-e4a8-460f-aec9-cec3014e9689

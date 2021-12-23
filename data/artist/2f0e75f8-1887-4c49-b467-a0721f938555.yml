@@ -6,4 +6,5 @@ birth-date: '1847-03-01'
 death-date: '1922-08-22'
 gender: male
 link-wikipedia: http://en.wikipedia.org/wiki/Thomas_Brock
-nationality: English
+nationality-ids:
+- 9c6ce912-f457-4e99-bd7d-eae49645457c

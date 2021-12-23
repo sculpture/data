@@ -5,6 +5,7 @@ name: Kellypalik Qimirpik
 birth-date: '1948'
 death-date: '1917'
 gender: male
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
 tag-ids:
 - bbeea8e9-711a-44e7-85f9-424b44c4c05f

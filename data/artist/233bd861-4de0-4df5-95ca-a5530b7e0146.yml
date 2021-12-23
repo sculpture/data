@@ -4,4 +4,5 @@ slug: stephan-balkenhol
 name: Stephan Balkenhol
 birth-date: '1957'
 gender: male
-nationality: German
+nationality-ids:
+- 705d9b66-97ca-48dc-a9ef-abb3d1cb5236

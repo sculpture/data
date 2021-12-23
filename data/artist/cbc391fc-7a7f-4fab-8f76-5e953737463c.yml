@@ -5,6 +5,7 @@ name: Anish Kapoor
 gender: male
 link-website: http://www.anishkapoor.com/
 link-wikipedia: http://en.wikipedia.org/wiki/Anish_Kapoor
-nationality: British
+nationality-ids:
+- b699e0ba-2ab6-4fe3-844a-1435f1bc8008
 tag-ids:
 - ba228b77-c711-47fc-85d1-9c8d48961343

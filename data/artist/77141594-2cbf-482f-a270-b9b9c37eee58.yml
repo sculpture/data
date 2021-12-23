@@ -6,6 +6,8 @@ birth-date: '1891'
 death-date: '1973'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Jacques_Lipchitz
-nationality: Lithuanian, French
+nationality-ids:
+- a651bd10-8516-4046-a33d-8ec16799a830
+- dc772619-c973-4ec1-a130-271dc1f26f12
 tag-ids:
 - ba228b77-c711-47fc-85d1-9c8d48961343

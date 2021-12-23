@@ -6,4 +6,5 @@ birth-date: '1940'
 gender: female
 link-website: https://www.annachromy.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Anna_Chrom%C3%BD
-nationality: Czech
+nationality-ids:
+- f6623947-b826-4852-95e6-7a7bf31551be

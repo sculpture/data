@@ -4,4 +4,5 @@ slug: ronald-zerafa
 name: Ronald Zerafa
 gender: male
 link-website: http://www.ronaldzerafa.com/
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

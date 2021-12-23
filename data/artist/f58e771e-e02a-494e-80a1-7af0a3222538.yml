@@ -6,4 +6,5 @@ birth-date: '1834'
 death-date: '1882-07-16'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Marshall_Wood_(sculptor)
-nationality: English
+nationality-ids:
+- 9c6ce912-f457-4e99-bd7d-eae49645457c

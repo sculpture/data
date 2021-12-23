@@ -5,4 +5,5 @@ name: Micah Lexier
 gender: male
 link-website: http://micahlexier.com/
 link-wikipedia: http://en.wikipedia.org/wiki/Micah_Lexier
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

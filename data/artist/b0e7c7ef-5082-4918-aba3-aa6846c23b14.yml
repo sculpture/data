@@ -4,4 +4,5 @@ slug: erik-blome
 name: Erik Blome
 gender: male
 link-wikipedia: https://www.erikblome.com/
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

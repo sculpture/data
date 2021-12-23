@@ -4,6 +4,7 @@ slug: gillie-and-marc-schattner
 name: Gillie_and_Marc
 link-website: https://us.gillieandmarc.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Gillie_and_Marc
-nationality: Australian
+nationality-ids:
+- 07405da2-bd2a-4517-89a6-ea2666593dda
 tag-ids:
 - 12e87ca9-b62b-4525-8956-12e213212efc

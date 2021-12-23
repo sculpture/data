@@ -6,4 +6,5 @@ birth-date: '1860'
 death-date: '1923'
 gender: male
 link-wikipedia: https://ca.wikipedia.org/wiki/Josep_Montserrat_i_Portella
-nationality: Spanish
+nationality-ids:
+- e702c412-2c52-45be-89fe-8688237aba49

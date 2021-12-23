@@ -5,4 +5,5 @@ name: André Fauteux
 gender: male
 link-website: http://www.afauteux.com/
 link-wikipedia: http://en.wikipedia.org/wiki/Andr%C3%A9_Fauteux
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

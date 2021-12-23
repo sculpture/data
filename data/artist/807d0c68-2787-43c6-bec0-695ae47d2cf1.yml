@@ -6,6 +6,7 @@ birth-date: '1867'
 death-date: '1959'
 gender: male
 link-wikipedia: http://en.wikipedia.org/wiki/Frank_Lloyd_Wright
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553
 tag-ids:
 - 77fe386f-e922-473c-86bb-dfb8066c4104

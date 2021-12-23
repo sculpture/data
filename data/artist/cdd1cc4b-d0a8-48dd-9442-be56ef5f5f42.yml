@@ -6,4 +6,5 @@ birth-date: '1912'
 death-date: '1980'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Tony_Smith_(sculptor)
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

@@ -5,4 +5,5 @@ name: Harry Gordon
 birth-date: '1960'
 gender: male
 link-website: https://gordonsculpture.com/
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

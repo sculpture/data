@@ -6,4 +6,5 @@ birth-date: '1922'
 death-date: '2010'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Raymond_Mason_(sculptor)
-nationality: English
+nationality-ids:
+- 9c6ce912-f457-4e99-bd7d-eae49645457c

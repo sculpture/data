@@ -3,4 +3,5 @@ type: artist
 slug: michael-banwell
 name: Michael Banwell
 birth-date: '1943-12-21'
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

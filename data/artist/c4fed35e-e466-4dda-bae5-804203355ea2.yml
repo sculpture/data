@@ -6,4 +6,5 @@ birth-date: '1865'
 death-date: '1942'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/%C3%89gide_Rombaux
-nationality: Belgian
+nationality-ids:
+- 7ffa66d9-33cd-4d55-aa7f-0a85922dbacb

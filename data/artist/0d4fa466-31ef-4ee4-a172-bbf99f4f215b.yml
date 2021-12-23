@@ -3,4 +3,6 @@ type: artist
 slug: alexander-von-svoboda
 name: Alexander von Svoboda
 gender: male
-nationality: Austrian Canadian
+nationality-ids:
+- 32e5f127-41b2-4f4c-b77c-f7c4e540ec91
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

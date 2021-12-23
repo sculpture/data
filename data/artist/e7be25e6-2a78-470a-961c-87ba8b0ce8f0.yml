@@ -4,4 +4,5 @@ slug: ray-katz
 name: Ray Katz
 gender: male
 link-website: http://raykatzsculptor.com/
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

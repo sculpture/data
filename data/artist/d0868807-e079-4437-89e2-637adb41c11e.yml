@@ -6,4 +6,6 @@ birth-date: '1912-04-13'
 death-date: '1994-10-12'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Elek_Imredy
-nationality: Hungarian, Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+- c6e11987-b2eb-41e2-a539-9f370978e45d

@@ -5,4 +5,5 @@ name: Zhang Huan
 gender: male
 link-website: http://www.zhanghuan.com/
 link-wikipedia: http://en.wikipedia.org/wiki/Zhang_Huan
-nationality: Chinese
+nationality-ids:
+- 4e32d917-e24e-4ad7-af91-a5d98e7a3b73

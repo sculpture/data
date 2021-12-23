@@ -6,4 +6,5 @@ birth-date: '1934'
 death-date: '2016'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Carl_Fredrik_Reutersw%C3%A4rd
-nationality: Swedish
+nationality-ids:
+- 0b24071a-5fe6-495c-87ae-71781466770b

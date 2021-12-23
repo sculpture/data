@@ -6,4 +6,5 @@ birth-date: '1799'
 death-date: '1876'
 gender: male
 link-wikipedia: https://de.wikipedia.org/wiki/Konstanty_Hegel
-nationality: Polish
+nationality-ids:
+- 25711868-6ccc-4b3c-9238-bee64ad1a684

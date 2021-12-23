@@ -6,4 +6,5 @@ birth-date: '1955-04-12'
 gender: female
 link-website: https://www.nicoletaillon.com/
 link-wikipedia: https://fr.wikipedia.org/wiki/Nicole_Taillon
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

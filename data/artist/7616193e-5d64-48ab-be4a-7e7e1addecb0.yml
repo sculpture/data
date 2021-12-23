@@ -5,4 +5,5 @@ name: Max von Widnmann
 birth-date: '1812'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Max_von_Widnmann
-nationality: German
+nationality-ids:
+- 705d9b66-97ca-48dc-a9ef-abb3d1cb5236

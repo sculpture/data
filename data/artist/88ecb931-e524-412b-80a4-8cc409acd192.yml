@@ -5,6 +5,7 @@ name: Claes Oldenburg
 birth-date: '1929'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Claes_Oldenburg
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553
 tag-ids:
 - ba228b77-c711-47fc-85d1-9c8d48961343

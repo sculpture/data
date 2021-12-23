@@ -6,6 +6,7 @@ birth-date: '1876'
 death-date: '1957'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Constantin_Br%C3%A2ncu%C8%99i
-nationality: Romanian
+nationality-ids:
+- c251af82-dccf-48dd-879d-406a078938fa
 tag-ids:
 - ba228b77-c711-47fc-85d1-9c8d48961343

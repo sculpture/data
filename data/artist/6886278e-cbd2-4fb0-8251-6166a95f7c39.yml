@@ -5,4 +5,5 @@ name: Nancy Rubins
 birth-date: '1952'
 gender: female
 link-wikipedia: https://en.wikipedia.org/wiki/Nancy_Rubins
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

@@ -4,4 +4,6 @@ slug: whiten
 name: Colette Whiten
 gender: female
 link-wikipedia: https://en.wikipedia.org/wiki/Colette_Whiten
-nationality: 'Canadian British '
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+- b699e0ba-2ab6-4fe3-844a-1435f1bc8008

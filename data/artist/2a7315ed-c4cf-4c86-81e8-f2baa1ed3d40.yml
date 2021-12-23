@@ -4,4 +4,5 @@ slug: gary-weisman
 name: Gary Weisman
 gender: male
 link-website: http://www.garyweisman.net/
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

@@ -5,6 +5,7 @@ name: Fernando Botero
 birth-date: '1932'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Fernando_Botero
-nationality: Colombian
+nationality-ids:
+- 89c394a2-db27-495f-a1e9-687212da4258
 tag-ids:
 - ba228b77-c711-47fc-85d1-9c8d48961343

@@ -6,4 +6,5 @@ birth-date: '1922'
 death-date: '2020'
 gender: female
 link-wikipedia: https://en.wikipedia.org/wiki/Beverly_Pepper
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

@@ -3,4 +3,5 @@ type: artist
 slug: samuel-ghazarian
 name: 'Samuel Ghazarian '
 gender: male
-nationality: Armenian
+nationality-ids:
+- 14b14100-ab10-4231-b432-5cdcc156be24

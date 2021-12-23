@@ -6,6 +6,7 @@ birth-date: '1903'
 death-date: '1975'
 gender: female
 link-wikipedia: http://en.wikipedia.org/wiki/Barbara_Hepworth
-nationality: English
+nationality-ids:
+- 9c6ce912-f457-4e99-bd7d-eae49645457c
 tag-ids:
 - ba228b77-c711-47fc-85d1-9c8d48961343

@@ -5,4 +5,5 @@ name: Xavier Veilhan
 birth-date: '1963'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Xavier_Veilhan
-nationality: French
+nationality-ids:
+- a651bd10-8516-4046-a33d-8ec16799a830

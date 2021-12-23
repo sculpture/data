@@ -6,4 +6,5 @@ birth-date: '1972'
 gender: female
 link-website: https://www.sharyboyle.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Shary_Boyle
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

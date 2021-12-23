@@ -5,4 +5,5 @@ name: Steinunn Thorarinsdottir
 gender: female
 link-website: http://www.steinunnth.com/steinunn_home/steinunn.html
 link-wikipedia: https://en.wikipedia.org/wiki/Steinunn_Thorarinsdottir
-nationality: 'Icelandic '
+nationality-ids:
+- 5248f6ed-0199-47d9-aaa6-7e18b8950e23

@@ -3,4 +3,5 @@ type: artist
 slug: janis-karlovs
 name: Janis Karlovs
 gender: male
-nationality: Latvian
+nationality-ids:
+- 617a9d06-977c-4187-9680-b9224095c701

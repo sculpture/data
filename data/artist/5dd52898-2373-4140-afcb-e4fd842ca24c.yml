@@ -4,4 +4,5 @@ slug: atif-khan
 name: Atif Khan
 birth-date: '1972'
 gender: male
-nationality: Pakistani
+nationality-ids:
+- 74571979-be17-4faa-9d15-690c32288a63

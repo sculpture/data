@@ -6,6 +6,7 @@ birth-date: '1901'
 death-date: '1966'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Alberto_Giacometti
-nationality: Swiss
+nationality-ids:
+- e156a0a4-595d-41a4-812b-4702d8b8cb98
 tag-ids:
 - ba228b77-c711-47fc-85d1-9c8d48961343

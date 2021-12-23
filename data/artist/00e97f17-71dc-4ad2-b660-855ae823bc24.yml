@@ -4,4 +4,6 @@ slug: almuth-lutkenhaus
 name: Almuth Lütkenhaus
 gender: female
 link-wikipedia: http://en.wikipedia.org/wiki/Almuth_L%C3%Bctkenhaus
-nationality: German Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+- 705d9b66-97ca-48dc-a9ef-abb3d1cb5236

@@ -6,4 +6,6 @@ birth-date: '1090'
 death-date: '1994'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Louis_Temporale
-nationality: Italian Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+- b6ab1d97-6e0c-4d16-8310-d013488cf08a

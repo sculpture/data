@@ -6,4 +6,5 @@ birth-date: '1920'
 death-date: '2006'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Jean-Robert_Ipoust%C3%A9guy
-nationality: French
+nationality-ids:
+- a651bd10-8516-4046-a33d-8ec16799a830

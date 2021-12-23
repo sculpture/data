@@ -6,4 +6,5 @@ birth-date: '1953'
 death-date: '2001'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Juan_Mu%C3%B1oz_(sculptor)
-nationality: Spanish
+nationality-ids:
+- e702c412-2c52-45be-89fe-8688237aba49

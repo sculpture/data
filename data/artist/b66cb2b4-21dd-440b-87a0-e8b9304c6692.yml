@@ -6,6 +6,7 @@ birth-date: '1893-04-20'
 death-date: '1983-12-25'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Joan_Mir%C3%B3
-nationality: Spanish
+nationality-ids:
+- e702c412-2c52-45be-89fe-8688237aba49
 tag-ids:
 - ba228b77-c711-47fc-85d1-9c8d48961343

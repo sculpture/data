@@ -6,4 +6,5 @@ birth-date: '1875'
 death-date: '1955'
 gender: male
 link-wikipedia: http://en.wikipedia.org/wiki/Carl_Milles
-nationality: Swedish
+nationality-ids:
+- 0b24071a-5fe6-495c-87ae-71781466770b

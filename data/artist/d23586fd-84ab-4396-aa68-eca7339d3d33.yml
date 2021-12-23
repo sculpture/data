@@ -6,4 +6,5 @@ birth-date: '1926'
 death-date: '2017'
 gender: male
 link-website: http://www.kirknewman.com/
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

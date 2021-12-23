@@ -6,4 +6,5 @@ birth-date: '1821'
 death-date: '1898'
 gender: male
 link-wikipedia: http://en.wikipedia.org/wiki/George_Gammon_Adams
-nationality: English
+nationality-ids:
+- 9c6ce912-f457-4e99-bd7d-eae49645457c

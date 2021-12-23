@@ -7,4 +7,6 @@ death-date: '2017'
 gender: male
 link-website: http://www.vaadia.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Boaz_Vaadia
-nationality: American Israeli
+nationality-ids:
+- 5a3ecab6-f2cc-4db2-948d-1b719144cc06
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

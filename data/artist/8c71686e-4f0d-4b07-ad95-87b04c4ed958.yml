@@ -7,4 +7,5 @@ death-date: '2015'
 gender: male
 link-website: http://www.kadishman.com/
 link-wikipedia: http://en.wikipedia.org/wiki/Menashe_Kadishman
-nationality: Israeli
+nationality-ids:
+- 5a3ecab6-f2cc-4db2-948d-1b719144cc06

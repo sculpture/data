@@ -6,4 +6,5 @@ birth-date: '1565'
 death-date: '1621'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Hendrick_de_Keyser
-nationality: Dutch
+nationality-ids:
+- 883d79f9-3bf6-4f99-8fac-abba7b6323e8

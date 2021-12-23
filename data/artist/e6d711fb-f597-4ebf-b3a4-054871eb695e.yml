@@ -6,6 +6,7 @@ birth-date: '1950-08-30'
 gender: male
 link-website: https://www.antonygormley.com/
 link-wikipedia: https://en.wikipedia.org/wiki/Antony_Gormley
-nationality: British
+nationality-ids:
+- b699e0ba-2ab6-4fe3-844a-1435f1bc8008
 tag-ids:
 - ba228b77-c711-47fc-85d1-9c8d48961343

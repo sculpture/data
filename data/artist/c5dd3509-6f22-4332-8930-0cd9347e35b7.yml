@@ -6,4 +6,5 @@ birth-date: '1896'
 death-date: '1982'
 gender: male
 link-wikipedia: https://cs.wikipedia.org/wiki/Bed%C5%99ich_Stefan
-nationality: Czech
+nationality-ids:
+- f6623947-b826-4852-95e6-7a7bf31551be

@@ -4,4 +4,5 @@ slug: anne-and-patrick-poirier
 name: Anne and Patrick Poirier
 gender: female
 link-wikipedia: http://en.wikipedia.org/wiki/Anne_and_Patrick_Poirier
-nationality: French
+nationality-ids:
+- a651bd10-8516-4046-a33d-8ec16799a830

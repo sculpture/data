@@ -7,4 +7,5 @@ death-date: '2009'
 gender: male
 link-website: https://etrova.org/
 link-wikipedia: https://en.wikipedia.org/wiki/Ernest_Trova
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

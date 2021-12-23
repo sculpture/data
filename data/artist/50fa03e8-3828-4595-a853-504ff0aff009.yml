@@ -6,4 +6,5 @@ birth-date: '1925'
 death-date: '2013'
 gender: male
 link-wikipedia: https://fr.wikipedia.org/wiki/Robert_Roussil
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

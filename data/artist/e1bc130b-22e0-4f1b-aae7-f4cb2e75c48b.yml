@@ -6,4 +6,5 @@ birth-date: '1882'
 death-date: '1935'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Gaston_Lachaise
-nationality: French
+nationality-ids:
+- a651bd10-8516-4046-a33d-8ec16799a830

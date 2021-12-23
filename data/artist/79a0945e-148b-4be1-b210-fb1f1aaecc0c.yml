@@ -5,4 +5,5 @@ name: Larry Griffis_Jr
 birth-date: '1924'
 death-date: '2000'
 gender: male
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553

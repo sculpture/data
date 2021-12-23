@@ -6,4 +6,5 @@ birth-date: '1939-04-20'
 gender: male
 link-website: http://www.jeanpierreraynaud.com/siteraynaud/site_officiel_Jean_Pierre_Raynaud.html
 link-wikipedia: https://fr.wikipedia.org/wiki/Jean-Pierre_Raynaud
-nationality: French
+nationality-ids:
+- a651bd10-8516-4046-a33d-8ec16799a830

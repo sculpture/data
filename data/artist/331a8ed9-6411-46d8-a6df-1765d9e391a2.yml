@@ -3,4 +3,5 @@ type: artist
 slug: jaakka-pernu
 name: Jaakka Pernu
 gender: male
-nationality: Finnish
+nationality-ids:
+- 8d2d4920-faf1-4154-be6a-078862e4336c

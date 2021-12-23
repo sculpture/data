@@ -6,7 +6,9 @@ birth-date: '1891'
 death-date: '1976'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Max_Ernst
-nationality: German, French
+nationality-ids:
+- 705d9b66-97ca-48dc-a9ef-abb3d1cb5236
+- a651bd10-8516-4046-a33d-8ec16799a830
 tag-ids:
 - 92f5b43c-299b-49c6-a5f6-f1aa2b4eaa61
 - ba228b77-c711-47fc-85d1-9c8d48961343

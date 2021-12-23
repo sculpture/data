@@ -5,4 +5,5 @@ name: Ju Ming
 birth-date: '1938'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Ju_Ming
-nationality: Taiwanese
+nationality-ids:
+- d1d86bb2-8bfd-409a-af4a-b69c76121ef4

@@ -6,7 +6,8 @@ birth-date: '1904'
 death-date: '1997'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Willem_de_Kooning
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553
 tag-ids:
 - 92f5b43c-299b-49c6-a5f6-f1aa2b4eaa61
 - ba228b77-c711-47fc-85d1-9c8d48961343

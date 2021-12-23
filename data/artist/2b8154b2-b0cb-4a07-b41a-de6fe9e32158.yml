@@ -4,4 +4,5 @@ slug: claude-millette
 name: Claude Millette
 gender: male
 link-website: http://claudemillette.blogspot.ca/
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

@@ -6,4 +6,5 @@ birth-date: '1956'
 gender: male
 link-website: https://www.michelsaulnier.com/
 link-wikipedia: https://fr.wikipedia.org/wiki/Michel_Saulnier
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

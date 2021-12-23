@@ -6,4 +6,5 @@ birth-date: '1944'
 gender: male
 link-website: https://www.artistjohngreer.com/
 link-wikipedia: https://en.wikipedia.org/wiki/John_Greer_(sculptor)
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

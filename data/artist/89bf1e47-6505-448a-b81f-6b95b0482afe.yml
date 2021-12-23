@@ -6,4 +6,5 @@ birth-date: '1953'
 gender: male
 link-website: http://guxiong.ca/en/
 link-wikipedia: https://en.wikipedia.org/wiki/Gu_Xiong_(artist)
-nationality: Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

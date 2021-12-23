@@ -5,4 +5,5 @@ name: Ron Mueck
 birth-date: '1958'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Ron_Mueck
-nationality: Australian
+nationality-ids:
+- 07405da2-bd2a-4517-89a6-ea2666593dda

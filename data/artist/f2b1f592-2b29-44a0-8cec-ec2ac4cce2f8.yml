@@ -4,4 +4,6 @@ slug: yeon-tak-chang
 name: Yeon-Tak Chang
 gender: male
 link-website: https://yeontakchang.com/
-nationality: Korean, Canadian
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+- b57e3b84-0645-494c-806b-c4f2de24b6f8

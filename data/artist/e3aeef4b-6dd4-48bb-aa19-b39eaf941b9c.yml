@@ -6,4 +6,5 @@ birth-date: '1885'
 death-date: '1966'
 gender: male
 link-wikipedia: https://en.wikipedia.org/wiki/Paul_Manship
-nationality: American
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553
