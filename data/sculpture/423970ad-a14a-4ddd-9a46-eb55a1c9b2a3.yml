@@ -1,0 +1,18 @@
+id: 423970ad-a14a-4ddd-9a46-eb55a1c9b2a3
+type: sculpture
+slug: aphrodite-jennewein
+title: Aphrodite
+artist-ids:
+- 8febfb9b-7a10-43aa-99a0-d70465dd748e
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1939'
+location:
+  latitude: 40.672519
+  longitude: -73.968425
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 8edbb59e-b498-4210-9981-8781235cafcd
