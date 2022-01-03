@@ -1,0 +1,16 @@
+id: 80322131-5494-414c-98fb-2e71333bceb5
+type: sculpture
+slug: the-miner
+title: The Miner
+artist-ids:
+- b1221939-8e4d-4401-a6a1-6f45afed1aa6
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: 194*
+location:
+  latitude: 38.889138
+  longitude: -77.023071
+  precision: 10
+material-ids:
+- 90961d65-c887-44b3-9153-7364b69806bc
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
