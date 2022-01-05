@@ -3,9 +3,9 @@ type: sculpture
 slug: edwarda-mandell-house
 title: Edward M. House
 artist-ids:
-- b63ca8e1-7230-4151-a7a9-7b5b72231d10
+- 11bd5ec8-db66-4c48-b8e1-b54959cf6571
 city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
-date: '1991'
+date: '1933'
 link-wikipedia: https://pl.wikipedia.org/wiki/Pomnik_Edwarda_Mandella_House%E2%80%99a
 location:
   latitude: 52.242052
@@ -13,5 +13,6 @@ location:
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: reconstructaed by Marian Konieczny 1991
 tag-ids:
 - 20ba399b-d962-4b4b-8695-6723679a005b
