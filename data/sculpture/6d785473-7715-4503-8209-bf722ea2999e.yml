@@ -1,0 +1,17 @@
+id: 6d785473-7715-4503-8209-bf722ea2999e
+type: sculpture
+slug: resting-suttman
+title: Resting
+artist-ids:
+- dbc7c987-1b71-42be-9b54-702399c44983
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1965'
+location:
+  latitude: 38.889138
+  longitude: -77.022749
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
