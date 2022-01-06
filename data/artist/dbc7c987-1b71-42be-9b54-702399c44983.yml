@@ -1,0 +1,9 @@
+id: dbc7c987-1b71-42be-9b54-702399c44983
+type: artist
+slug: paul-suttman
+name: Paul Suttman
+birth-date: '1933'
+death-date: '1993'
+gender: male
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553
