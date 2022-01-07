@@ -1,0 +1,15 @@
+id: 534b0e34-ace7-4d87-ac21-30088affa1b0
+type: sculpture
+slug: listening-stone
+title: Listening Stone
+artist-ids:
+- 1dc8ff50-21b7-435c-9ca4-7299557f7286
+date: '1995'
+location:
+  latitude: 42.430703
+  longitude: -71.311291
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
