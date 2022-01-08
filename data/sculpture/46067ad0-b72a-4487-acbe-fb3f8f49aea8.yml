@@ -1,0 +1,20 @@
+id: 46067ad0-b72a-4487-acbe-fb3f8f49aea8
+type: sculpture
+slug: ewa-wittig-mn
+title: Ewa (2)
+artist-ids:
+- 120248ac-9de5-49a1-b739-70a0bd15d509
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1911'
+location:
+  latitude: 52.231924
+  longitude: 21.024665
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast 1932
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
