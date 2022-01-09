@@ -1,0 +1,17 @@
+id: ea52bef4-fcb5-4f65-a083-28d965dcb83d
+type: sculpture
+slug: column-housego
+title: Column
+artist-ids:
+- e2691e96-99e2-4c60-b49d-06e13be46118
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2012'
+location:
+  latitude: 41.424757
+  longitude: -74.061015
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- bbcb416f-d400-4a07-8a83-79a445209a57
