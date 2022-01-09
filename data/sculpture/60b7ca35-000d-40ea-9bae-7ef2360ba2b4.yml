@@ -1,0 +1,14 @@
+id: 60b7ca35-000d-40ea-9bae-7ef2360ba2b4
+type: sculpture
+slug: symposium-piece-eva
+title: Symposium Piece for Eva
+artist-ids:
+- fc345e06-1486-4396-a28a-0be0df1a09e4
+city-id: fa87ecab-5627-4e55-af08-250c1e8e6640
+date: '1977'
+location:
+  latitude: 43.359293
+  longitude: -80.317683
+  precision: 10
+material-ids:
+- d10b6251-79c5-4fc3-b359-a45e7e3ce9b5
