@@ -1,0 +1,20 @@
+id: 83205507-120a-481c-8e24-93eb35279aeb
+type: sculpture
+slug: saint-andrew-duquesnoy
+title: Saint Andrew
+artist-ids:
+- edf96e13-4ca4-490a-9c27-550b33eaf3ed
+city-id: 6f764414-6c09-413d-94b9-2ebe5fafdf7e
+date: '1633'
+location:
+  latitude: 41.902167
+  longitude: 12.453937
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- de83a4c2-214e-45fb-a307-c835449e52bf
