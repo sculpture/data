@@ -1,0 +1,16 @@
+id: 87f4ff6f-4554-476d-8e31-4db6e2a9d6b4
+type: sculpture
+slug: ontario-loring
+title: Ontario
+artist-ids:
+- 339eed06-1891-429d-bbd7-16d68b860892
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1948'
+location:
+  latitude: 43.751075
+  longitude: -79.198759
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
