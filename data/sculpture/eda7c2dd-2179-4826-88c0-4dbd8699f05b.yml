@@ -1,0 +1,17 @@
+id: eda7c2dd-2179-4826-88c0-4dbd8699f05b
+type: sculpture
+slug: la-peur
+title: La Peur
+artist-ids:
+- 15d04d7d-9212-4b84-a1ee-23cd677fec9e
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1995'
+location:
+  latitude: 45.501314
+  longitude: -73.555066
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
