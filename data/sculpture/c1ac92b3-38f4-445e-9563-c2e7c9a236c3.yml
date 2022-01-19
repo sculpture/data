@@ -1,0 +1,18 @@
+id: c1ac92b3-38f4-445e-9563-c2e7c9a236c3
+type: sculpture
+slug: tancerka-jackowski
+title: Tancerka (Jackowski)
+artist-ids:
+- dc406fe3-a9dd-4334-ab3d-4b5cb44bc60c
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1927'
+location:
+  latitude: 52.244062
+  longitude: 21.050572
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
