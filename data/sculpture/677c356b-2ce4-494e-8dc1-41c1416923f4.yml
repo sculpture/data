@@ -1,0 +1,16 @@
+id: 677c356b-2ce4-494e-8dc1-41c1416923f4
+type: sculpture
+slug: spirit-pickering-inspire
+title: 'Spirit of Pickering - Inspire '
+artist-ids:
+- 0def9a7f-1eb2-43b5-923b-f06f4fcf5001
+city-id: 29c04be3-e495-4c7c-bd72-b3d935fef86d
+date: '2020'
+location:
+  latitude: 43.838512
+  longitude: -79.08125
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
