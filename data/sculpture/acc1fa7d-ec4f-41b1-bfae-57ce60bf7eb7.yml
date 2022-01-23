@@ -1,0 +1,14 @@
+id: acc1fa7d-ec4f-41b1-bfae-57ce60bf7eb7
+type: sculpture
+slug: silver-key
+title: Silver Key
+artist-ids:
+- 695872c2-c59d-40e4-8398-809b2ef1faf2
+city-id: fa87ecab-5627-4e55-af08-250c1e8e6640
+date: '2007'
+location:
+  latitude: 43.355897
+  longitude: -80.317416
+  precision: 10
+material-ids:
+- 6ffae26a-1977-4e67-ae07-fbd423e0951b
