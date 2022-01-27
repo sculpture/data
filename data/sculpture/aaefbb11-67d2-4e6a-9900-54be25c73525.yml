@@ -1,0 +1,16 @@
+id: aaefbb11-67d2-4e6a-9900-54be25c73525
+type: sculpture
+slug: peloton-gerstein-baycrest
+title: Peloton
+artist-ids:
+- 08a31d01-e549-478d-a34b-e661be198ce9
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2006'
+location:
+  latitude: 43.729953
+  longitude: -79.432793
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- e0decfe4-4a78-4f23-af47-3f549797b85a
