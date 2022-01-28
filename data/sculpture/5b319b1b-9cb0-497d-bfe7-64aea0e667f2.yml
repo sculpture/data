@@ -1,0 +1,14 @@
+id: 5b319b1b-9cb0-497d-bfe7-64aea0e667f2
+type: sculpture
+slug: cloister-dialogue
+title: Cloister Dialogue
+artist-ids:
+- e60121d2-39ec-4661-b0ce-a843c68cef91
+city-id: 052407cb-5737-4173-8a61-27dcd97825ac
+date: '1969'
+location:
+  latitude: 43.009613
+  longitude: -81.273538
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
