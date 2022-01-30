@@ -1,0 +1,16 @@
+id: d7097c67-f4fa-4788-a094-923788cfe2b8
+type: sculpture
+slug: remember-spain
+title: Remember Spain
+artist-ids:
+- 8d1cf049-4951-47e9-9b82-d4bae3d96145
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1997'
+location:
+  latitude: 43.729985
+  longitude: -79.432841
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
