@@ -1,0 +1,16 @@
+id: 21fa0bb5-0153-4c9a-9639-038660710787
+type: sculpture
+slug: boat-project
+title: The Boat Project/everythingwillbefine
+artist-ids:
+- 5a785a5d-fb28-4b37-a2ce-1d1ccef849bc
+city-id: fa87ecab-5627-4e55-af08-250c1e8e6640
+date: '2019'
+location:
+  latitude: 43.355702
+  longitude: -80.317292
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 4dae8901-072d-4758-9b44-c5089bf1a804
