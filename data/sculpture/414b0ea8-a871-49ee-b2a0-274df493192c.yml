@@ -1,0 +1,18 @@
+id: 414b0ea8-a871-49ee-b2a0-274df493192c
+type: sculpture
+slug: sculpture-silhouette-thinker
+title: Sculpture Silhouette - Thinker
+artist-ids:
+- 7ec0743a-3bec-4de6-9559-bb424afce6be
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '2007'
+location:
+  latitude: 40.712414
+  longitude: -74.006516
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- bbcb416f-d400-4a07-8a83-79a445209a57
