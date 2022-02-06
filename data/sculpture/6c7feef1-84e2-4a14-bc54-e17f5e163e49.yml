@@ -1,0 +1,17 @@
+id: 6c7feef1-84e2-4a14-bc54-e17f5e163e49
+type: sculpture
+slug: ludwik-krzywicki
+title: Ludwik Krzywicki
+artist-ids:
+- a551f91f-bed6-49d2-9ea5-1a4a7de05764
+city-id: 07f98394-7cb1-47ce-97d9-ce543bc774a6
+date: '1966'
+location:
+  latitude: 52.543462
+  longitude: 19.682592
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
