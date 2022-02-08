@@ -1,0 +1,17 @@
+id: b5f0394f-662a-49d7-a8d9-bafbb1574260
+type: sculpture
+slug: spirit-pickering-work
+title: Spirit of Pickering - Gather
+artist-ids:
+- 0def9a7f-1eb2-43b5-923b-f06f4fcf5001
+city-id: 29c04be3-e495-4c7c-bd72-b3d935fef86d
+date: '2020'
+location:
+  latitude: 43.83881
+  longitude: -79.08154
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- c9884cff-1c92-48b5-816b-aa0479de54fa
