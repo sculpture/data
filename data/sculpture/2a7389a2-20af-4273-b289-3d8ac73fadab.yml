@@ -1,0 +1,14 @@
+id: 2a7389a2-20af-4273-b289-3d8ac73fadab
+type: sculpture
+slug: columns-benner
+title: Columns
+artist-ids:
+- 32d9be80-86da-49c3-8123-d373d530b2a1
+city-id: 052407cb-5737-4173-8a61-27dcd97825ac
+date: '2008'
+location:
+  latitude: 43.009593
+  longitude: -81.273704
+  precision: 10
+material-ids:
+- 69e5a178-1413-4cf2-8805-5ac28641e955
