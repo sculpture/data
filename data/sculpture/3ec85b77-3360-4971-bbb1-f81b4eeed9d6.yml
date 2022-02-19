@@ -1,0 +1,18 @@
+id: 3ec85b77-3360-4971-bbb1-f81b4eeed9d6
+type: sculpture
+slug: tomb-countess-matilda-tuscany
+title: Tomb of Countess Matilda of Tuscany
+artist-ids:
+- f4693d05-5d93-4c05-868b-6fa45ade4f36
+city-id: 6f764414-6c09-413d-94b9-2ebe5fafdf7e
+date: '1633'
+link-wikipedia: https://en.wikipedia.org/wiki/Tomb_of_Countess_Matilda_of_Tuscany
+location:
+  latitude: 41.902233
+  longitude: 12.453689
+  precision: 50
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+note: designed by Bernini
+tag-ids:
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
