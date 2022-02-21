@@ -1,0 +1,16 @@
+id: 8d0ad3ba-eb33-4a7a-8e72-4583ab17053a
+type: sculpture
+slug: aporia-london
+title: Aporia
+artist-ids:
+- 169fe0fe-cac6-4883-9add-185854319b85
+city-id: 052407cb-5737-4173-8a61-27dcd97825ac
+date: '1978'
+location:
+  latitude: 42.985276
+  longitude: -81.245899
+  precision: 10
+material-ids:
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
