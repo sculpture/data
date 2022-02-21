@@ -1,0 +1,19 @@
+id: d393c542-a985-4db3-98d5-5e38bc7183b2
+type: sculpture
+slug: double-check
+title: Double Check
+artist-ids:
+- fe09db8b-577f-4cd5-bb6c-7835f372f5b4
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1982'
+link-wikipedia: https://en.wikipedia.org/wiki/Double_Check
+location:
+  latitude: 40.709205
+  longitude: -74.010307
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- c9884cff-1c92-48b5-816b-aa0479de54fa
