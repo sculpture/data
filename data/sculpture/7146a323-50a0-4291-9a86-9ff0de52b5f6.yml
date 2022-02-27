@@ -1,0 +1,16 @@
+id: 7146a323-50a0-4291-9a86-9ff0de52b5f6
+type: sculpture
+slug: lambeth-way
+title: Lambeth Way
+artist-ids:
+- 43a9c564-1650-428c-ad92-149bc690412e
+city-id: 052407cb-5737-4173-8a61-27dcd97825ac
+date: '1979'
+location:
+  latitude: 42.984923
+  longitude: -81.245277
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
