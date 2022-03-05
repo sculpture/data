@@ -1,0 +1,18 @@
+id: 282fed10-81d9-4c4a-93b5-c807f94bd1dd
+type: sculpture
+slug: angel-with-garment-dice
+title: Angel with the Garment and Dice
+artist-ids:
+- 2689c084-4517-4323-8255-74896062d41f
+city-id: 569920f5-7103-4e7b-8bef-a08ea0c3bd14
+date: '1669'
+location:
+  latitude: 41.901788
+  longitude: 12.466462
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
