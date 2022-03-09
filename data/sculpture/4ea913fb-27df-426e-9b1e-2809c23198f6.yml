@@ -1,0 +1,14 @@
+id: 4ea913fb-27df-426e-9b1e-2809c23198f6
+type: sculpture
+slug: melodia-rolke-misztal
+title: Melodia
+artist-ids:
+- 5ee034be-4fe0-45e1-b1d6-cbaab1b79a0a
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1968'
+location:
+  latitude: 52.227588
+  longitude: 20.948147
+  precision: 20
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
