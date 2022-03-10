@@ -1,0 +1,15 @@
+id: 15313b0f-c8d3-4c2d-8b97-433bad83f34e
+type: sculpture
+slug: spatial-concept-nature
+title: 'Spatial Concept: Nature'
+artist-ids:
+- 2691a387-e52b-40ed-bf27-288b797dfa74
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1960'
+link-wikipedia: https://en.wikipedia.org/wiki/Spatial_Concept:_Nature
+location:
+  latitude: 38.888399
+  longitude: -77.023671
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
