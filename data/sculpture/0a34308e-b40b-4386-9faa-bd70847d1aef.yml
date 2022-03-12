@@ -1,0 +1,16 @@
+id: 0a34308e-b40b-4386-9faa-bd70847d1aef
+type: sculpture
+slug: monsieur-garden
+title: Monsieur Garden
+artist-ids:
+- 5a2c5db9-c38e-43a6-8ef2-5114d672a59e
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '2000'
+location:
+  latitude: 46.80358
+  longitude: -71.221999
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
