@@ -1,0 +1,18 @@
+id: 041a7330-cf5f-42df-adf2-652df7836563
+type: sculpture
+slug: challenge-and-triumph
+title: Challenge and Triumph
+artist-ids:
+- 4a2170c9-e5d0-422d-87bb-06d4c04ce355
+city-id: ceac255d-267b-4eb0-84ab-e518a441c459
+date: '2015'
+location:
+  latitude: 43.07072
+  longitude: -80.118727
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 39f7789b-145c-4ccf-897a-34a56abe6fa0
+- 66ec2c31-c300-4e0f-bc36-93fa72a95fef
