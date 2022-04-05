@@ -1,0 +1,17 @@
+id: f717478c-17de-4b8d-838b-1097efb25f0b
+type: sculpture
+slug: red-rider
+title: Red Rider
+artist-ids:
+- 55185e13-62eb-4a13-9c9f-0563132be9be
+city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
+date: '2009'
+location:
+  latitude: 50.083802
+  longitude: 14.408223
+  precision: 10
+material-ids:
+- 0d63dfd2-b637-471f-8c6b-1262b0085fb8
+tag-ids:
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
+- f512d675-0554-4a67-987c-1da560f2c95a
