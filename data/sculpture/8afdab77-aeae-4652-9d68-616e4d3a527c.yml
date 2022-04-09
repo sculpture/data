@@ -1,0 +1,18 @@
+id: 8afdab77-aeae-4652-9d68-616e4d3a527c
+type: sculpture
+slug: relief-horne-2
+title: Relief (2)
+artist-ids:
+- bc329d87-d430-45ca-a9bc-e7acd01d129a
+- f1c37639-130e-4ba1-9a92-cb6efd243306
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1954'
+location:
+  latitude: 43.65065
+  longitude: -79.386897
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 8edbb59e-b498-4210-9981-8781235cafcd
