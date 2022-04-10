@@ -1,0 +1,19 @@
+id: 90d3163c-2b73-4459-8387-96e92b4fb953
+type: sculpture
+slug: soeurs-de-illusion
+title: 'Soeurs de l''illusion '
+artist-ids:
+- ab56f491-50fc-47f6-9ee3-0a410c9aa22e
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1902'
+location:
+  latitude: 50.841978
+  longitude: 4.357904
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
