@@ -1,0 +1,14 @@
+id: fcd3021a-b1bf-476f-8666-b687fbb64c18
+type: sculpture
+slug: homosapiens-sawada
+title: Homosapiens
+artist-ids:
+- 22916992-9f49-4279-804c-307e1cce48a5
+city-id: 052407cb-5737-4173-8a61-27dcd97825ac
+date: '1987'
+location:
+  latitude: 43.009464
+  longitude: -81.273913
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
