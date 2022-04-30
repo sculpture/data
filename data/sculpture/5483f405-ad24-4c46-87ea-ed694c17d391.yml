@@ -1,0 +1,20 @@
+id: 5483f405-ad24-4c46-87ea-ed694c17d391
+type: sculpture
+slug: juliusz-slowacki-wittig
+title: Juliusz Słowacki
+artist-ids:
+- 120248ac-9de5-49a1-b739-70a0bd15d509
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1932'
+link-wikipedia: https://pl.wikipedia.org/wiki/Pomnik_Juliusza_S%C5%82owackiego_w_Warszawie
+location:
+  latitude: 52.242824
+  longitude: 21.002342
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: designed 1932, completed 2001
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
