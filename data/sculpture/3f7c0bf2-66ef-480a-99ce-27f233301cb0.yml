@@ -1,0 +1,18 @@
+id: 3f7c0bf2-66ef-480a-99ce-27f233301cb0
+type: sculpture
+slug: adelard-godbout
+title: Adélard-Godbout
+artist-ids:
+- 169222a6-7a38-4838-a179-1f7ae3a873ae
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '2000'
+location:
+  latitude: 46.813878
+  longitude: -71.207981
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fb97341d-10db-41e3-821a-33d920fb5638
