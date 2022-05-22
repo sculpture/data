@@ -1,0 +1,14 @@
+id: 5c4ab838-7f8e-4799-9f7e-560e9106cca2
+type: sculpture
+slug: untitled-9-bowyer
+title: Untitled (9)
+artist-ids:
+- c3f22fda-4854-418a-b9cc-0f14d99b131b
+city-id: fa87ecab-5627-4e55-af08-250c1e8e6640
+date: '1980'
+location:
+  latitude: 43.355869
+  longitude: -80.317185
+  precision: 10
+material-ids:
+- d0c52472-81c0-4c1d-abd7-3a32fd760700
