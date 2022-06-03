@@ -1,0 +1,16 @@
+id: 402eedb1-e3fe-4ba6-bb58-6bf0a6b77079
+type: sculpture
+slug: memorial-pole-chief-kalilix
+title: Memorial Pole of Chief Kalilix
+artist-ids:
+- 18f27919-6d21-4845-a3ce-7c418d2a39ae
+city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
+date: '1951'
+location:
+  latitude: 49.270139
+  longitude: -123.259677
+  precision: 30
+material-ids:
+- d10b6251-79c5-4fc3-b359-a45e7e3ce9b5
+tag-ids:
+- cade9829-ef07-4263-827c-a161323c585f
