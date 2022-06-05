@@ -1,0 +1,14 @@
+id: 4a037fc9-d3b6-4bab-b03c-2f8d330d4708
+type: sculpture
+slug: nickel-couch
+title: Nickel Couch
+artist-ids:
+- e77232f0-8337-4349-99e0-02f296e6aa31
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2001'
+location:
+  latitude: 41.424918
+  longitude: -74.059652
+  precision: 10
+material-ids:
+- fafeef8a-8582-4ecf-a472-d062d5006af1
