@@ -1,0 +1,14 @@
+id: 26278d99-c748-4edd-8081-dc62fa52e618
+type: sculpture
+slug: circle-of-trees
+title: Circle of Trees
+artist-ids:
+- 429d602c-985a-45ea-8d83-0351ea35cc34
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2000'
+location:
+  latitude: 43.663531
+  longitude: -79.314191
+  precision: 20
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
