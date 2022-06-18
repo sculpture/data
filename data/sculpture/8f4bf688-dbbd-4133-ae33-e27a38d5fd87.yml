@@ -1,0 +1,17 @@
+id: 8f4bf688-dbbd-4133-ae33-e27a38d5fd87
+type: sculpture
+slug: piscis-sebastian
+title: Piscis
+artist-ids:
+- 7c870b60-91cc-4830-8849-30177e858d9c
+city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
+date: '2009'
+location:
+  latitude: 45.435315
+  longitude: -75.708439
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab
+- bbcb416f-d400-4a07-8a83-79a445209a57
