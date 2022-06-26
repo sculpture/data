@@ -1,0 +1,19 @@
+id: b39f893f-a48a-46e8-bc08-84fe83e6119c
+type: sculpture
+slug: the-virgin-of-alsace
+title: The Virgin of Alsace
+artist-ids:
+- b51b9561-0a08-4fea-8ed3-a617ab2f8b24
+city-id: 21f56f64-52ee-47e4-8113-8503789209f1
+date: 192*
+link-wikipedia: https://fr.wikipedia.org/wiki/Vierge_d%27Alsace
+location:
+  latitude: 42.932631
+  longitude: -78.875897
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
