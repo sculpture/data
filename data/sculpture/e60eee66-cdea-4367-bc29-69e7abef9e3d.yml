@@ -1,0 +1,17 @@
+id: e60eee66-cdea-4367-bc29-69e7abef9e3d
+type: sculpture
+slug: francois-xavier-garneau
+title: François-Xavier Garneau
+artist-ids:
+- 1a203de3-1fe7-4fcf-8108-0ac7ce4d7050
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+location:
+  latitude: 46.809247
+  longitude: -71.211876
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
