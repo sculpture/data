@@ -1,0 +1,18 @@
+id: f7802b8a-6cea-43d5-b5a5-5ac62aa03ab4
+type: sculpture
+slug: nicolaus-copernicus-rojowski
+title: Nicolaus Copernicus (Toruń 2)
+artist-ids:
+- 7d6cb695-d76d-4163-9c96-2c998c266a71
+city-id: 04e0fe28-d11f-4df8-9b7d-2f1addbffd0d
+date: '1766'
+location:
+  latitude: 53.009385
+  longitude: 18.606259
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 981f0f0b-7f88-43af-b1d6-1ed2653e71ae
+- 9905d2f9-00e0-443b-8640-dfb98d4795a1
