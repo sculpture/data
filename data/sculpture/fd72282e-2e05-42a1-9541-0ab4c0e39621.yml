@@ -1,0 +1,14 @@
+id: fd72282e-2e05-42a1-9541-0ab4c0e39621
+type: sculpture
+slug: indigena-domain
+title: Indigena Domain
+artist-ids:
+- 2301ceb4-2383-4bbd-8cdb-c0ea6d235205
+city-id: fa87ecab-5627-4e55-af08-250c1e8e6640
+date: '2008'
+location:
+  latitude: 43.360145
+  longitude: -80.312408
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
