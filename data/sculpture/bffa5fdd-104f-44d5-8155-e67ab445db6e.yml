@@ -1,0 +1,17 @@
+id: bffa5fdd-104f-44d5-8155-e67ab445db6e
+type: sculpture
+slug: monument-to-royal-stuarts
+title: Monument to the Royal Stuarts - Angel
+artist-ids:
+- 51529d14-3684-48c3-9995-9469fb5b69ba
+city-id: 6f764414-6c09-413d-94b9-2ebe5fafdf7e
+date: '1819'
+link-wikipedia: https://en.wikipedia.org/wiki/Monument_to_the_Royal_Stuarts
+location:
+  latitude: 41.901915
+  longitude: 12.454468
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
