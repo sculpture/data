@@ -8,8 +8,8 @@ city-id: 52ca364d-2e9c-46da-aa22-a34ffe6cb7ee
 commissioned-by: donated by Janis Parker
 date: '1986'
 location:
-  latitude: 45.04776
-  longitude: -78.520653
+  latitude: 45.052247
+  longitude: -78.52252
   precision: 50
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
