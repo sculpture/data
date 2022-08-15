@@ -1,0 +1,15 @@
+id: 1b35127b-827d-4c47-aa08-d48d9bb29216
+type: sculpture
+slug: untitled-bentham-79
+title: Untitled (79)
+artist-ids:
+- 8bca309f-6269-4ccc-8273-8f56f9d15690
+city-id: 052407cb-5737-4173-8a61-27dcd97825ac
+commissioned-by: University Students’ Council
+date: '1979'
+location:
+  latitude: 43.009997
+  longitude: -81.276987
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
