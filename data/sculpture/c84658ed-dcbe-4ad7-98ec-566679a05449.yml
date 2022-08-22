@@ -1,0 +1,15 @@
+id: c84658ed-dcbe-4ad7-98ec-566679a05449
+type: sculpture
+slug: redwing-frond
+title: Redwing Frond
+artist-ids:
+- 4fda7392-4dca-4113-8373-40114a0bc8bf
+city-id: 52ca364d-2e9c-46da-aa22-a34ffe6cb7ee
+date: '2003'
+location:
+  latitude: 45.052775
+  longitude: -78.521674
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 7120103a-c9bf-4cdd-be3d-f36c257b9751
