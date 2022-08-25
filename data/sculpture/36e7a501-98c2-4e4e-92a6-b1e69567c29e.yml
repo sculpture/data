@@ -1,0 +1,20 @@
+id: 36e7a501-98c2-4e4e-92a6-b1e69567c29e
+type: sculpture
+slug: neptune-john-young-hebert
+title: Neptune (from John Young monument)
+artist-ids:
+- f6ba5000-2ac9-4069-bee4-09ca21d36852
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1895'
+link-wikipedia: https://en.wikipedia.org/wiki/John_Young_Monument
+location:
+  latitude: 45.50768
+  longitude: -73.550869
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
