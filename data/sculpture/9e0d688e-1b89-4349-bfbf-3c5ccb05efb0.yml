@@ -1,0 +1,18 @@
+id: 9e0d688e-1b89-4349-bfbf-3c5ccb05efb0
+type: sculpture
+slug: galt-war-memorial-loring-2
+title: Galt War Memorial (2)
+artist-ids:
+- 339eed06-1891-429d-bbd7-16d68b860892
+city-id: fa87ecab-5627-4e55-af08-250c1e8e6640
+date: '1930'
+location:
+  latitude: 34.063344
+  longitude: -117.650888
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
