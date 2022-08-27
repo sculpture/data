@@ -1,0 +1,17 @@
+id: f927d4d0-9355-4b60-a2c5-6bdfd70b49c5
+type: sculpture
+slug: beside-myself-bieler
+title: Beside Myself
+artist-ids:
+- 91e7275a-b3ad-4f6b-be41-97e3bfe0b17c
+date: '2010'
+location:
+  latitude: 43.649855
+  longitude: -79.373668
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- 3e4bf7e0-ae14-49c8-88f4-315ef2160400
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- bbcb416f-d400-4a07-8a83-79a445209a57
