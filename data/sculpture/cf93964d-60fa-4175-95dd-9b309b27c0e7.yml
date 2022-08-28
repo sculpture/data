@@ -1,0 +1,17 @@
+id: cf93964d-60fa-4175-95dd-9b309b27c0e7
+type: sculpture
+slug: skirts-and-pants
+title: Skirts and Pants
+artist-ids:
+- f25b456c-a247-404a-8260-bf91e6a5d012
+city-id: 1aff16e3-5963-4a1d-b9f6-1ebec654ea71
+date: '2000'
+location:
+  latitude: 42.430312
+  longitude: -71.310806
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- 983d1c37-99da-4b1d-baba-681a83e66d30
+- a267fb56-e090-4da4-b72c-152f966877d9
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
