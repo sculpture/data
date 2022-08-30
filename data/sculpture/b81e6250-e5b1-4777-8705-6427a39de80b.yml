@@ -1,4 +1,5 @@
 id: b81e6250-e5b1-4777-8705-6427a39de80b
+type: sculpture
 slug: two-seated-figures-chadwick-test
 title: Two Seated Figures I
 artist-ids:
@@ -11,5 +12,5 @@ location:
   longitude: -79.872998
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
-sculpture-tag-ids:
+tag-ids:
 - 19a145a4-7dd4-4861-8082-95b6261844de
