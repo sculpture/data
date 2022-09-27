@@ -1,0 +1,15 @@
+id: 2bfcb160-904f-4f83-90fb-394a68c604f6
+type: sculpture
+slug: personnage-miro-1972
+title: Personnage
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+date: '1972'
+location:
+  latitude: 43.696973
+  longitude: 7.122138
+  precision: 10
+material-ids:
+- c4c584c5-5086-4482-85e5-884bbb1503b6
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
