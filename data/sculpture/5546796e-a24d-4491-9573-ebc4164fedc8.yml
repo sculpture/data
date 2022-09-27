@@ -1,0 +1,14 @@
+id: 5546796e-a24d-4491-9573-ebc4164fedc8
+type: sculpture
+slug: iru-harri
+title: Iru Harri
+artist-ids:
+- fd659bae-6fe7-4364-94f1-ab2a288cac22
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1968'
+location:
+  latitude: 43.701233
+  longitude: 7.115344
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
