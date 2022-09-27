@@ -1,0 +1,17 @@
+id: b3ae4871-e8c5-4c1e-b458-4a095d05c126
+type: sculpture
+slug: les-renforts
+title: Les renforts
+artist-ids:
+- 7ad71af4-c9b7-49d0-9765-ba2a674856a0
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1964'
+location:
+  latitude: 43.700891
+  longitude: 7.115236
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
