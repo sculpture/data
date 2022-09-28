@@ -1,0 +1,16 @@
+id: 63c5022a-95ae-4262-80d7-5c60f0d42945
+type: sculpture
+slug: monument-riopelle
+title: Monument (Riopelle)
+artist-ids:
+- 022b1b00-5de3-41d8-89d1-e188d4d6fbbb
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1970'
+location:
+  latitude: 43.700911
+  longitude: 7.115553
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
