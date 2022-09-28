@@ -1,0 +1,17 @@
+id: c2e918dc-9fe5-47db-a04a-943f6e704ad3
+type: sculpture
+slug: personnage-miro-1970
+title: Personnage (1970)
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1970'
+location:
+  latitude: 43.700919
+  longitude: 7.115419
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
