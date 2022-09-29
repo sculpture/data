@@ -1,0 +1,17 @@
+id: a8b472a2-5aa0-4724-acc9-db9dff0239aa
+type: sculpture
+slug: femme-et-oiseau
+title: Femme et oiseau
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1967'
+location:
+  latitude: 43.700934
+  longitude: 7.114898
+  precision: 10
+material-ids:
+- c4fa4ee9-b158-4972-9a54-d80dacc91203
+tag-ids:
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
