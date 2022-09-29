@@ -1,0 +1,16 @@
+id: 2a4a8d51-a08e-4019-829a-70fb199e074e
+type: sculpture
+slug: oiseau-lunaire-maeght
+title: 'Oiseau lunaire '
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1968'
+location:
+  latitude: 43.70043
+  longitude: 7.115134
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
