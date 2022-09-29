@@ -1,0 +1,18 @@
+id: a7cddf85-9b33-4498-808e-471ba475b9ed
+type: sculpture
+slug: chopins-funeral-march
+title: Chopin's Funeral March
+artist-ids:
+- 6ffc8c77-bb69-4ef9-8dcd-15bdb84c211a
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1903'
+location:
+  latitude: 52.231599
+  longitude: 21.024799
+  precision: 10
+material-ids:
+- 56560105-70a1-4867-aaea-6d76d31576c0
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
