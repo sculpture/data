@@ -1,0 +1,17 @@
+id: 51d105a9-f323-4c49-8511-bd4dcf73a6b2
+type: sculpture
+slug: spirit-of-freedom
+title: Spirit of Freedom
+artist-ids:
+- 8a9c305b-62c0-42a2-8f1e-3fa022811704
+city-id: 4c133344-0cec-4448-b5cb-d702cc6e1913
+date: '2000'
+location:
+  latitude: 40.236557
+  longitude: -74.719047
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
