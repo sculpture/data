@@ -1,0 +1,18 @@
+id: 0dcc1893-85d6-4113-94e4-5a6ea4bf3072
+type: sculpture
+slug: jeune-fille-sevadant
+title: Jeune fille s’évadant
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1967'
+location:
+  latitude: 43.700717
+  longitude: 7.115022
+  precision: 10
+material-ids:
+- c4fa4ee9-b158-4972-9a54-d80dacc91203
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
