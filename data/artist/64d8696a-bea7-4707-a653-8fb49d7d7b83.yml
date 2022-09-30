@@ -1,0 +1,12 @@
+id: 64d8696a-bea7-4707-a653-8fb49d7d7b83
+type: artist
+slug: ossip-zadkine
+name: Ossip Zadkine
+birth-date: '1888'
+death-date: '1967'
+gender: male
+link-wikipedia: https://en.wikipedia.org/wiki/Ossip_Zadkine
+nationality-ids:
+- a651bd10-8516-4046-a33d-8ec16799a830
+tag-ids:
+- ba228b77-c711-47fc-85d1-9c8d48961343
