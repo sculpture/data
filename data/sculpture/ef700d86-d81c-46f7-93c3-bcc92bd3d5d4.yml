@@ -1,0 +1,15 @@
+id: ef700d86-d81c-46f7-93c3-bcc92bd3d5d4
+type: sculpture
+slug: nomade-2010
+title: Nomade
+artist-ids:
+- 24827920-a2c6-4427-ada2-0c28680fad21
+date: '2010'
+location:
+  latitude: 43.585299
+  longitude: 7.130096
+  precision: 10
+material-ids:
+- cf38381e-1b86-4728-8349-6febca8429d0
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
