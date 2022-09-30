@@ -1,0 +1,16 @@
+id: 2f1b5e98-cd0d-4fe6-8d82-aa7f2eab7f4b
+type: sculpture
+slug: statue-pour-un-jardin
+title: Statue pour un jardin
+artist-ids:
+- 64d8696a-bea7-4707-a653-8fb49d7d7b83
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1958'
+location:
+  latitude: 43.700709
+  longitude: 7.115682
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
