@@ -1,0 +1,17 @@
+id: f89cbb50-1e71-427e-9538-5d1b2028907e
+type: sculpture
+slug: loiseau-solaire
+title: L'Oiseau solaire
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1968'
+link-wikipedia: https://en.wikipedia.org/wiki/Solar_Bird
+location:
+  latitude: 43.700372
+  longitude: 7.114861
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
