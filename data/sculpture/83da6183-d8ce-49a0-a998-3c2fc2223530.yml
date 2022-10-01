@@ -1,0 +1,19 @@
+id: 83da6183-d8ce-49a0-a998-3c2fc2223530
+type: sculpture
+slug: girls-head-1-kuna
+title: Girl's Head I
+artist-ids:
+- b11d6752-1638-4bb8-a3bc-977d4d40d876
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '1930'
+location:
+  latitude: 50.866077
+  longitude: 20.628568
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- d973207a-6b23-4505-a84d-d2339bc3a55c
