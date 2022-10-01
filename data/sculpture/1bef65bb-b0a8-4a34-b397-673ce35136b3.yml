@@ -1,0 +1,19 @@
+id: 1bef65bb-b0a8-4a34-b397-673ce35136b3
+type: sculpture
+slug: challenge-wittig
+title: Challenge
+artist-ids:
+- 120248ac-9de5-49a1-b739-70a0bd15d509
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1907'
+location:
+  latitude: 52.231599
+  longitude: 21.024799
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
