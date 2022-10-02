@@ -1,0 +1,16 @@
+id: 7a1868cb-bcab-4447-823d-f2bda816ac16
+type: sculpture
+slug: oiseau-miro-68
+title: Oiseau
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1968'
+location:
+  latitude: 43.701054
+  longitude: 7.114646
+  precision: 10
+material-ids:
+- 32495469-6b62-477a-b272-a0e4e2c0e5c9
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
