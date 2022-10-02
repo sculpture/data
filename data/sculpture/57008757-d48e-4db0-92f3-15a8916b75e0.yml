@@ -1,0 +1,17 @@
+id: 57008757-d48e-4db0-92f3-15a8916b75e0
+type: sculpture
+slug: la-foret-antibes
+title: La Forêt
+artist-ids:
+- 4efdad48-f6f3-4b0d-9fca-5c0c3dae2ec0
+date: '1946'
+location:
+  latitude: 43.580691
+  longitude: 7.128391
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
