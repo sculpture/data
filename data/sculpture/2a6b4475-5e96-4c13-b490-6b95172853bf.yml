@@ -1,0 +1,17 @@
+id: 2a6b4475-5e96-4c13-b490-6b95172853bf
+type: sculpture
+slug: grande-tete
+title: ' Grande Tête'
+artist-ids:
+- cfc0ccc8-abfa-480e-844c-f9c931a65b2a
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1960'
+location:
+  latitude: 43.700787
+  longitude: 7.114823
+  precision: 10
+material-ids:
+- c4fa4ee9-b158-4972-9a54-d80dacc91203
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
