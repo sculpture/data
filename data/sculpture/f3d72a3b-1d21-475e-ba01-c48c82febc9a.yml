@@ -1,0 +1,16 @@
+id: f3d72a3b-1d21-475e-ba01-c48c82febc9a
+type: sculpture
+slug: sfera-con-sfera-warsaw
+title: Sfera con Sfera
+artist-ids:
+- b0f670b0-dd0d-4118-9e1c-68d5837a902f
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1980'
+location:
+  latitude: 52.211959
+  longitude: 21.033019
+  precision: 10
+material-ids:
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+tag-ids:
+- df4890c4-2701-4782-a670-d019b3b95547
