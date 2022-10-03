@@ -1,0 +1,18 @@
+id: 4cdd083e-19dd-44e1-9fa2-98ea7e085189
+type: sculpture
+slug: le-grain-richier
+title: Le Grain
+artist-ids:
+- 4efdad48-f6f3-4b0d-9fca-5c0c3dae2ec0
+city-id: 3117260f-214d-48f3-8833-3dbcd6aa654c
+date: '1955'
+location:
+  latitude: 43.580703
+  longitude: 7.128402
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
