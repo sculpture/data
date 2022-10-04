@@ -1,0 +1,19 @@
+id: f99e9b4b-181c-4399-950b-6193c27d081f
+type: sculpture
+slug: tete-de-femme-picasso-antibes
+title: 'Tête de femme '
+artist-ids:
+- 5bd6bc78-6918-417a-9479-cc48e73081bc
+city-id: 3117260f-214d-48f3-8833-3dbcd6aa654c
+date: '1937'
+location:
+  latitude: 43.580761
+  longitude: 7.128252
+  precision: 10
+material-ids:
+- 4a979cf3-40f3-4be9-aa71-b79765408367
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
