@@ -1,0 +1,16 @@
+id: 80ea5416-b5ed-4a74-a4d6-dee04b53f361
+type: sculpture
+slug: fleur-qui-marche-biot
+title: La fleur qui marche
+artist-ids:
+- a1a78fbb-0603-4a6b-b39e-715170e6ce06
+city-id: 1b670fa5-d666-474f-a050-526bc35f2503
+date: '1953'
+location:
+  latitude: 43.62251
+  longitude: 7.112306
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
