@@ -1,0 +1,18 @@
+id: 309d28ab-cf51-42ef-9a26-079700b3e336
+type: sculpture
+slug: jardin-enfants-leger
+title: 'Le Jardin d’enfants '
+artist-ids:
+- a1a78fbb-0603-4a6b-b39e-715170e6ce06
+city-id: 1b670fa5-d666-474f-a050-526bc35f2503
+date: '1954'
+location:
+  latitude: 43.6226
+  longitude: 7.112253
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 4a979cf3-40f3-4be9-aa71-b79765408367
+note: design 1954, created post-mortem in 1958 by Claude and Roland Brice
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
