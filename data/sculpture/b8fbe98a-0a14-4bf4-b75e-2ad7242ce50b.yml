@@ -1,0 +1,17 @@
+id: b8fbe98a-0a14-4bf4-b75e-2ad7242ce50b
+type: sculpture
+slug: la-caresse-dun-oiseau-mageth
+title: ' La Caresse d''un Oiseau'
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1967'
+link-wikipedia: https://en.wikipedia.org/wiki/The_Caress_of_a_Bird
+location:
+  latitude: 43.70079
+  longitude: 7.114791
+  precision: 10
+material-ids:
+- c4fa4ee9-b158-4972-9a54-d80dacc91203
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
