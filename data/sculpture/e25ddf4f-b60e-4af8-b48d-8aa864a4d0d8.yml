@@ -1,0 +1,19 @@
+id: e25ddf4f-b60e-4af8-b48d-8aa864a4d0d8
+type: sculpture
+slug: olga-boznanska-biegas
+title: Olga Boznańska (Biegas)
+artist-ids:
+- 6ffc8c77-bb69-4ef9-8dcd-15bdb84c211a
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1902'
+location:
+  latitude: 52.231599
+  longitude: 21.024799
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b078f909-a131-4d37-8b36-59061078b159
