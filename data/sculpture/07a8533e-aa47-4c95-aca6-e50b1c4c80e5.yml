@@ -1,0 +1,14 @@
+id: 07a8533e-aa47-4c95-aca6-e50b1c4c80e5
+type: sculpture
+slug: spirit-of-pickering-live
+title: Spirit of Pickering - Live
+artist-ids:
+- 0def9a7f-1eb2-43b5-923b-f06f4fcf5001
+city-id: 29c04be3-e495-4c7c-bd72-b3d935fef86d
+date: '2020'
+location:
+  latitude: 43.838226
+  longitude: -79.085578
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
