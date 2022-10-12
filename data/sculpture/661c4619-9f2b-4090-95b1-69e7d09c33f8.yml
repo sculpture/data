@@ -1,0 +1,17 @@
+id: 661c4619-9f2b-4090-95b1-69e7d09c33f8
+type: sculpture
+slug: signal-eolien-spheres
+title: Signal éolien (sphères)
+artist-ids:
+- b8104676-53e9-45d2-9df0-7b0c26420e04
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+location:
+  latitude: 43.701058
+  longitude: 7.115027
+  precision: 10
+material-ids:
+- 2c971567-aa58-40f7-bf83-b5a97ed653c9
+- 32495469-6b62-477a-b272-a0e4e2c0e5c9
+tag-ids:
+- 85105298-6047-4f80-88ec-76aa0b77d815
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
