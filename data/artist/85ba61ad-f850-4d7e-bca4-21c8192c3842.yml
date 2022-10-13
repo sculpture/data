@@ -1,0 +1,11 @@
+id: 85ba61ad-f850-4d7e-bca4-21c8192c3842
+type: artist
+slug: pierre-auguste-renoir
+name: Pierre-Auguste Renoir
+birth-date: '1841'
+death-date: '1919'
+link-wikipedia: https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir
+nationality-ids:
+- a651bd10-8516-4046-a33d-8ec16799a830
+tag-ids:
+- 92f5b43c-299b-49c6-a5f6-f1aa2b4eaa61
