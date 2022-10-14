@@ -1,0 +1,19 @@
+id: 45f1124f-07fe-4da8-bd13-1cf5219fb687
+type: sculpture
+slug: meta-herbin-maeght
+title: Méta-Herbin
+artist-ids:
+- 0b1e8672-2dfd-4e23-a3e4-d0e022880fae
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1955'
+location:
+  latitude: 43.700697
+  longitude: 7.115011
+  precision: 10
+material-ids:
+- 32495469-6b62-477a-b272-a0e4e2c0e5c9
+- 3cd25954-9a6b-478f-a4a4-8470c3972f2c
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 85105298-6047-4f80-88ec-76aa0b77d815
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
