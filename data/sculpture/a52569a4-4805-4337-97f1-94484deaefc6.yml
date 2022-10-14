@@ -1,0 +1,17 @@
+id: a52569a4-4805-4337-97f1-94484deaefc6
+type: sculpture
+slug: megalodon-antibes
+title: Megalodon
+artist-ids:
+- 2be5c258-e548-436c-b619-fbb4139890c6
+city-id: 3117260f-214d-48f3-8833-3dbcd6aa654c
+date: '2022'
+location:
+  latitude: 43.586202
+  longitude: 7.121436
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 399902cf-177a-4693-980d-eb86255cc25f
+- 5e46697e-16c7-4478-a438-202749e4888d
