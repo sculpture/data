@@ -1,0 +1,20 @@
+id: 357dd453-b7f8-475b-8756-4769e4611a21
+type: sculpture
+slug: formist-portrait-of-slonimski
+title: Formist Portrait of Antoni Słonimski
+artist-ids:
+- 1824e725-fea5-4615-8c7d-5cfeb441b3b9
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1927'
+location:
+  latitude: 52.189091
+  longitude: 21.028412
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- f608c279-0df9-40f8-b0c6-c900a4ded7bf
