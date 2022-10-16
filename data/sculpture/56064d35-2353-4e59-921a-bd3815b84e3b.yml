@@ -1,0 +1,17 @@
+id: 56064d35-2353-4e59-921a-bd3815b84e3b
+type: sculpture
+slug: savonarole
+title: Savonarole
+artist-ids:
+- a7230cc1-62f3-42ae-bb7c-23d59d79e17b
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1954'
+location:
+  latitude: 43.700725
+  longitude: 7.115059
+  precision: 10
+material-ids:
+- 983d1c37-99da-4b1d-baba-681a83e66d30
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
