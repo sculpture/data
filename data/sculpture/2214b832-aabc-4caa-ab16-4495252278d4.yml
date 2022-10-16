@@ -1,0 +1,17 @@
+id: 2214b832-aabc-4caa-ab16-4495252278d4
+type: sculpture
+slug: saint-bernard-dodeigne
+title: Saint Bernard
+artist-ids:
+- e80f2843-4350-40ac-9402-1d634ecdc9cd
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1968'
+location:
+  latitude: 43.701143
+  longitude: 7.115012
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
