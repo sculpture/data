@@ -1,0 +1,16 @@
+id: 55bff149-8fa2-46e6-b660-6f3d76f6b2c7
+type: sculpture
+slug: la-deesse-de-la-mer-miro
+title: La Déesse de la mer
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+city-id: 3117260f-214d-48f3-8833-3dbcd6aa654c
+location:
+  latitude: 43.580695
+  longitude: 7.128472
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 4a979cf3-40f3-4be9-aa71-b79765408367
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
