@@ -1,0 +1,20 @@
+id: 41d12b48-e1c6-4aa3-a86a-2c6100c6636b
+type: sculpture
+slug: hymne-a-la-vie-renoir
+title: Hymne à la vie
+artist-ids:
+- 17e195c7-fe4b-4dab-af78-4f4589e72476
+- 85ba61ad-f850-4d7e-bca4-21c8192c3842
+city-id: 16a032c9-ec38-4226-8d03-d6e551035f89
+date: '1917'
+location:
+  latitude: 43.667684
+  longitude: 7.156901
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
