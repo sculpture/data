@@ -1,0 +1,16 @@
+id: 280096e5-9beb-488e-b0ae-c4a08803dda6
+type: sculpture
+slug: femme-et-oiseau-1982-miro
+title: Femme et Oiseau (1982)
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+city-id: 3117260f-214d-48f3-8833-3dbcd6aa654c
+date: '1982'
+location:
+  latitude: 43.580866
+  longitude: 7.128569
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
