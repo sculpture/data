@@ -1,0 +1,18 @@
+id: 020a7912-b226-4738-9e0c-12e910b719e0
+type: sculpture
+slug: morpheus-certowicz
+title: Morpheus
+artist-ids:
+- 9954621d-2c82-41e5-801c-98a06d857b92
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '1889'
+location:
+  latitude: 50.060031
+  longitude: 19.929918
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
