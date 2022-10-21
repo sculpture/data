@@ -1,0 +1,12 @@
+id: b15e5537-c19f-4425-9f68-96e31aa0a0a3
+type: artist
+slug: niki-de-saint-phalle
+name: Niki de Saint-Phalle
+birth-date: '1930'
+death-date: '2002'
+gender: female
+link-wikipedia: https://en.wikipedia.org/wiki/Niki_de_Saint_Phalle
+nationality-ids:
+- a651bd10-8516-4046-a33d-8ec16799a830
+tag-ids:
+- ba228b77-c711-47fc-85d1-9c8d48961343
