@@ -1,0 +1,20 @@
+id: f819700c-ea84-44a8-8671-e3bf0779700d
+type: sculpture
+slug: miles-davis-nice
+title: Miles Davis
+artist-ids:
+- b15e5537-c19f-4425-9f68-96e31aa0a0a3
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '1999'
+location:
+  latitude: 43.694472
+  longitude: 7.258282
+  precision: 10
+material-ids:
+- 02f666a5-a96a-466a-9a4a-3ff26ba1bad5
+- 1aaa34d0-a277-480a-b85e-4f7dc8a8f257
+- 4a979cf3-40f3-4be9-aa71-b79765408367
+tag-ids:
+- 025aebba-7303-441f-b755-ade5bb67ef90
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
