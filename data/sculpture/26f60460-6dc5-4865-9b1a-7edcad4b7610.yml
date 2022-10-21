@@ -1,0 +1,16 @@
+id: 26f60460-6dc5-4865-9b1a-7edcad4b7610
+type: sculpture
+slug: arc-de-115-degres-nice
+title: Arc de 115.5 Degrés
+artist-ids:
+- e3a5d8a5-6d53-44f7-a6a5-fe865ad4dd96
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '1988'
+location:
+  latitude: 43.695772
+  longitude: 7.268264
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- da7678e3-55c7-4a57-8c34-f4a7fd3be717
