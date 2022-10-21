@@ -1,0 +1,19 @@
+id: 5f0f32eb-1c64-41de-a4aa-9d2a584f1a8f
+type: sculpture
+slug: trois-soleils-jaunes-calder
+title: Trois soleils jaunes
+artist-ids:
+- 7ad71af4-c9b7-49d0-9765-ba2a674856a0
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1965'
+location:
+  latitude: 43.700721
+  longitude: 7.115043
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 85105298-6047-4f80-88ec-76aa0b77d815
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e7c0d105-ed1d-4e46-8cd8-a5153a2a784d
