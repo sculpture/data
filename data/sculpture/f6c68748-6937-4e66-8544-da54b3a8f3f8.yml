@@ -1,0 +1,18 @@
+id: f6c68748-6937-4e66-8544-da54b3a8f3f8
+type: sculpture
+slug: laughing-girl-with-roses-warsaw
+title: Laughing Girl with Roses
+artist-ids:
+- e2cef29d-151d-4857-acb2-d56e767f044c
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+location:
+  latitude: 52.231599
+  longitude: 21.024799
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
