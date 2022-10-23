@@ -1,0 +1,16 @@
+id: 34b76922-4c15-428c-af23-5617af0ecd08
+type: sculpture
+slug: ligne-indeterminee-nice
+title: Ligne Indeterminee
+artist-ids:
+- e3a5d8a5-6d53-44f7-a6a5-fe865ad4dd96
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '1987'
+location:
+  latitude: 43.702349
+  longitude: 7.278824
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
