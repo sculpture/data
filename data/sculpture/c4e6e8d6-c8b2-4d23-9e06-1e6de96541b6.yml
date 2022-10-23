@@ -1,0 +1,16 @@
+id: c4e6e8d6-c8b2-4d23-9e06-1e6de96541b6
+type: sculpture
+slug: jimi-hendrix-kielce
+title: Jimi Hendrix
+artist-ids:
+- 8148bc26-bc3e-40c4-83ad-31f48fdef184
+date: '2006'
+location:
+  latitude: 50.865477
+  longitude: 20.620437
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 025aebba-7303-441f-b755-ade5bb67ef90
+- 18d2fd29-8838-4290-a343-39182ae9b445
