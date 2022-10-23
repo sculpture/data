@@ -1,0 +1,18 @@
+id: 516a0b87-9d50-4e25-b22b-8ea39ae1dfdc
+type: sculpture
+slug: aline-renoir-1915
+title: Aline Renoir
+artist-ids:
+- 17e195c7-fe4b-4dab-af78-4f4589e72476
+- 85ba61ad-f850-4d7e-bca4-21c8192c3842
+city-id: 16a032c9-ec38-4226-8d03-d6e551035f89
+date: '1915'
+location:
+  latitude: 43.667657
+  longitude: 7.157024
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
