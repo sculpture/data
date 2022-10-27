@@ -1,0 +1,17 @@
+id: 2cc96d5d-50cf-4000-a4c4-7232de2e0753
+type: sculpture
+slug: shopping-man-in-art
+title: Shopping Man in Art
+artist-ids:
+- b6796cec-ef00-488a-a106-b8dcea21f30d
+city-id: 1fb1a740-b085-447c-8b66-62efc7f3f6d9
+date: '2019'
+location:
+  latitude: 43.550307
+  longitude: 7.023854
+  precision: 10
+material-ids:
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- f512d675-0554-4a67-987c-1da560f2c95a
