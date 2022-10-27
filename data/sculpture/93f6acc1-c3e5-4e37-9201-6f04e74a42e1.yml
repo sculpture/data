@@ -1,0 +1,14 @@
+id: 93f6acc1-c3e5-4e37-9201-6f04e74a42e1
+type: sculpture
+slug: mistral-boys-rinck
+title: Mistral Boys
+artist-ids:
+- 13189f9d-3ec5-407f-891e-2dcba0ef1961
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '2021'
+location:
+  latitude: 43.698013
+  longitude: 7.121527
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
