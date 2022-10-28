@@ -1,0 +1,18 @@
+id: 32d043bf-4d0d-4a0d-b9e0-4a0f84a8c7b7
+type: sculpture
+slug: pompey-pinck-lazienki
+title: Pompey
+artist-ids:
+- 43b4f677-6326-473a-8d5f-def490190b7d
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1793'
+location:
+  latitude: 52.216133
+  longitude: 21.029703
+  precision: 14
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 521f00f2-f976-4b69-89cf-6e8db0c94f29
