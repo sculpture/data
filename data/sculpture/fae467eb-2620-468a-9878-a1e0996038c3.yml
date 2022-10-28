@@ -1,0 +1,15 @@
+id: fae467eb-2620-468a-9878-a1e0996038c3
+type: sculpture
+slug: peace-and-toons
+title: Peace & Toons
+artist-ids:
+- aa101855-85c8-4a89-a585-98541f648000
+date: '2016'
+location:
+  latitude: 43.548388
+  longitude: 7.028404
+  precision: 10
+material-ids:
+- 56560105-70a1-4867-aaea-6d76d31576c0
+tag-ids:
+- 91dc9534-fac3-4f77-aaa1-5a701b6ab79b
