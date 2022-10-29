@@ -1,0 +1,16 @@
+id: bd2e7515-f4c9-40ac-ae18-77c646565125
+type: sculpture
+slug: monument-du-centenaire-nice-2
+title: Monument du Centenaire (2)
+artist-ids:
+- 1c7d0a77-3ab5-4163-9b3e-fa9de51127d3
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '1896'
+location:
+  latitude: 43.695656
+  longitude: 7.268591
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
