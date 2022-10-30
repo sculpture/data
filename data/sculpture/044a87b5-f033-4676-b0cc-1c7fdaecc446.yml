@@ -1,0 +1,15 @@
+id: 044a87b5-f033-4676-b0cc-1c7fdaecc446
+type: sculpture
+slug: le-pouce-colombe
+title: Le pouce (1)
+artist-ids:
+- 679b234f-2f30-4884-ae65-b51164607ff5
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1965'
+link-wikipedia: https://fr.wikipedia.org/wiki/Le_Pouce_(C%C3%A9sar)
+location:
+  latitude: 43.698626
+  longitude: 7.121994
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
