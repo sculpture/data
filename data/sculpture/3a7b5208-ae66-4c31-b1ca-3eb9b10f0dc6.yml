@@ -1,0 +1,16 @@
+id: 3a7b5208-ae66-4c31-b1ca-3eb9b10f0dc6
+type: sculpture
+slug: la-palme-cannes
+title: La Palme
+artist-ids:
+- aa101855-85c8-4a89-a585-98541f648000
+city-id: 1fb1a740-b085-447c-8b66-62efc7f3f6d9
+date: '2020'
+location:
+  latitude: 43.550809
+  longitude: 7.020143
+  precision: 10
+material-ids:
+- 56560105-70a1-4867-aaea-6d76d31576c0
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
