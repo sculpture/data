@@ -1,0 +1,17 @@
+id: 5ce62c7a-dc9e-4fac-b34a-517e6fd6868b
+type: sculpture
+slug: hugo-kollataj-dunikiwski
+title: Hugo Kołłątaj
+artist-ids:
+- e34fc699-6c94-4478-9257-107f0be1acc3
+location:
+  latitude: 52.189331
+  longitude: 21.026813
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 62501ae5-7d99-4fb1-ac89-3984d67a6d24
+- 6e9f5dde-187e-4a79-8816-375f4e66539a
+- a480972c-30b4-4a66-ae34-3c3e61a801ca
