@@ -1,0 +1,15 @@
+id: 81093cec-eca0-4d8f-82b7-2622e1ba10ac
+type: sculpture
+slug: la-colonne-a-la-mer
+title: La Colonne a la mer
+artist-ids:
+- f2d1bada-903b-4a35-b4a7-c7632b7dd532
+city-id: 3117260f-214d-48f3-8833-3dbcd6aa654c
+date: '1989'
+location:
+  latitude: 43.580539
+  longitude: 7.12852
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
