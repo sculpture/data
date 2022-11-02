@@ -1,0 +1,18 @@
+id: 9c26ae91-1f6f-4327-b72f-3e19eded52ea
+type: sculpture
+slug: stanislaw-ignacy-witkiewicz-kielce
+title: Stanisław Ignacy Witkiewicz
+artist-ids:
+- edb75898-cba4-4f20-b06f-5c15e7919da6
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '2006'
+location:
+  latitude: 50.866743
+  longitude: 20.62196
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- b078f909-a131-4d37-8b36-59061078b159
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
