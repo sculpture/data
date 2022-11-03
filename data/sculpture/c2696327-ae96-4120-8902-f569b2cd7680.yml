@@ -1,0 +1,17 @@
+id: c2696327-ae96-4120-8902-f569b2cd7680
+type: sculpture
+slug: le-martyr-moderne
+title: Le Martyr Moderne
+artist-ids:
+- 3b5f3e11-9749-46df-8373-e92812f769da
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '1864'
+location:
+  latitude: 51.313066
+  longitude: 20.984791
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast 2005 from 1864 model
+tag-ids:
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
