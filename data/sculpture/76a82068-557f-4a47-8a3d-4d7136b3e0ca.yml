@@ -1,0 +1,18 @@
+id: 76a82068-557f-4a47-8a3d-4d7136b3e0ca
+type: sculpture
+slug: compressionisunbeam-maeght
+title: Compression Sunbeam
+artist-ids:
+- 679b234f-2f30-4884-ae65-b51164607ff5
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1961'
+location:
+  latitude: 43.700915
+  longitude: 7.114748
+  precision: 10
+material-ids:
+- 983d1c37-99da-4b1d-baba-681a83e66d30
+tag-ids:
+- 4dae8901-072d-4758-9b44-c5089bf1a804
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
