@@ -1,0 +1,14 @@
+id: 8ff229a1-8d92-459c-93a4-43b58ad5b79f
+type: sculpture
+slug: rycerz-zywuszko
+title: Rycerz
+artist-ids:
+- b2031551-fbf3-4cfd-966a-68153d30cf65
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1961'
+location:
+  latitude: 52.188881
+  longitude: 21.026663
+  precision: 10
+material-ids:
+- ce183437-06df-4f17-86b1-e39835daf6eb
