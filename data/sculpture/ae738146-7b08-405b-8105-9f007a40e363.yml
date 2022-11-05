@@ -1,0 +1,19 @@
+id: ae738146-7b08-405b-8105-9f007a40e363
+type: sculpture
+slug: arts-of-war
+title: The Arts of War
+artist-ids:
+- 9fe5e9d6-c010-45b1-a66e-5b0c8f83171c
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1951'
+link-wikipedia: https://en.wikipedia.org/wiki/The_Arts_of_War_and_The_Arts_of_Peace
+location:
+  latitude: 38.887353
+  longitude: -77.055472
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: model 1939
+tag-ids:
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
