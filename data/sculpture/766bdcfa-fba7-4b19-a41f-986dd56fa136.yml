@@ -1,0 +1,15 @@
+id: 766bdcfa-fba7-4b19-a41f-986dd56fa136
+type: sculpture
+slug: oedipus-rex-bednarski
+title: Oedipus Rex
+artist-ids:
+- 0cbfd787-5974-4305-a144-3828d8673066
+date: '2010'
+location:
+  latitude: 51.403706
+  longitude: 21.142024
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab
