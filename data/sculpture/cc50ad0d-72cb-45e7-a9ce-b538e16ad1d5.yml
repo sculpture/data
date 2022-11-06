@@ -1,0 +1,17 @@
+id: cc50ad0d-72cb-45e7-a9ce-b538e16ad1d5
+type: sculpture
+slug: eiitzan-etrog-aix
+title: Leitzan
+artist-ids:
+- a791e704-3cf6-4e29-b923-0e8213816522
+city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
+date: '1970'
+location:
+  latitude: 43.525658
+  longitude: 5.453053
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
