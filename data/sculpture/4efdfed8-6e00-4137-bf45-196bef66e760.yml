@@ -1,0 +1,17 @@
+id: 4efdfed8-6e00-4137-bf45-196bef66e760
+type: sculpture
+slug: eliza-orzeszkowa-dunikowski
+title: Eliza Orzeszkowa (1)
+artist-ids:
+- e34fc699-6c94-4478-9257-107f0be1acc3
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1955'
+location:
+  latitude: 52.189387
+  longitude: 21.027285
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
