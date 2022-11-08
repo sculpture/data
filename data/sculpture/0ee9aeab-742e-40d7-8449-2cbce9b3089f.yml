@@ -1,0 +1,14 @@
+id: 0ee9aeab-742e-40d7-8449-2cbce9b3089f
+type: sculpture
+slug: la-deesse-miro
+title: La Déesse
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1963'
+location:
+  latitude: 43.700942
+  longitude: 7.114276
+  precision: 10
+material-ids:
+- 4a979cf3-40f3-4be9-aa71-b79765408367
