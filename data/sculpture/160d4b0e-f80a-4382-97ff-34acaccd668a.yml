@@ -1,0 +1,18 @@
+id: 160d4b0e-f80a-4382-97ff-34acaccd668a
+type: sculpture
+slug: lucky-pesce
+title: Lucky
+artist-ids:
+- 7d79fb97-acd0-4681-8dd7-a11856871775
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1993'
+location:
+  latitude: 43.697628
+  longitude: 7.12143
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 4dae8901-072d-4758-9b44-c5089bf1a804
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
