@@ -1,0 +1,17 @@
+id: 7828aab1-ea14-4ec2-990f-32b9d2c250e0
+type: sculpture
+slug: czeslaw-niemen-kielce
+title: Czesław Niemen
+artist-ids:
+- 4486df13-12a9-4617-a9fe-bfc161e13ad9
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '2005'
+location:
+  latitude: 50.866469
+  longitude: 20.621595
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 025aebba-7303-441f-b755-ade5bb67ef90
+- 18d2fd29-8838-4290-a343-39182ae9b445
