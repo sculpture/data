@@ -1,0 +1,19 @@
+id: 2babf709-e68b-4f30-91f2-12ae6a799558
+type: sculpture
+slug: neptune-fountain-gdansk
+title: Neptune's Fountain (Gdańsk)
+artist-ids:
+- fbf35461-144d-417f-881f-f03ef82aea6d
+city-id: 6c0702d8-ba81-4f97-b2ad-11b1bdbaf349
+date: '1633'
+location:
+  latitude: 54.348546
+  longitude: 18.653226
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
