@@ -1,0 +1,12 @@
+id: 60e5b32d-d706-4969-9443-d5e97fd8ae41
+type: artist
+slug: antoni-gaudi
+name: Antoni Gaudí
+birth-date: '1852'
+death-date: '1926'
+gender: male
+link-wikipedia: https://en.wikipedia.org/wiki/Antoni_Gaud%C3%AD
+nationality-ids:
+- e702c412-2c52-45be-89fe-8688237aba49
+tag-ids:
+- 77fe386f-e922-473c-86bb-dfb8066c4104
