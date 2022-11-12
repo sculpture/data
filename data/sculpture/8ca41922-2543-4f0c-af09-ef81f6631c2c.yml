@@ -1,0 +1,19 @@
+id: 8ca41922-2543-4f0c-af09-ef81f6631c2c
+type: sculpture
+slug: lionne-aix
+title: Lionne
+artist-ids:
+- 84a015f0-a3bf-47ad-a472-4a35b04540b2
+city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
+date: '2013'
+location:
+  latitude: 43.526956
+  longitude: 5.444336
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
