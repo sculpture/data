@@ -1,0 +1,17 @@
+id: a8b84041-b1d6-448d-b163-431e5d229719
+type: sculpture
+slug: lizard-gaudi
+title: Lizard (Gaudí)
+artist-ids:
+- 60e5b32d-d706-4969-9443-d5e97fd8ae41
+city-id: 16e2f36d-eb09-4c02-9fd2-334682ca2e1c
+date: '1913'
+location:
+  latitude: 41.413923
+  longitude: 2.152577
+  precision: 10
+material-ids:
+- 4a979cf3-40f3-4be9-aa71-b79765408367
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
