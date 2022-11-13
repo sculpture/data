@@ -1,0 +1,18 @@
+id: 37a3dfb7-3eea-4378-8b55-fb4d725f7d7a
+type: sculpture
+slug: antoni-kepinski-krakow
+title: Antoni Kępiński
+artist-ids:
+- bd577251-bcf1-4a39-a67d-b96a35dd450a
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '2014'
+location:
+  latitude: 50.061893
+  longitude: 19.933506
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 3c41b24b-9185-4972-8f85-fa5a528b1eb0
+- cc034efc-b82b-42ee-a2d2-16753502bef1
