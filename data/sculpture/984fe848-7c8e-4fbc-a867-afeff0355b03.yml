@@ -1,0 +1,17 @@
+id: 984fe848-7c8e-4fbc-a867-afeff0355b03
+type: sculpture
+slug: jacek-malczewski-radom
+title: Jacek Malczewski
+artist-ids:
+- 25914234-bab4-4b2e-b046-7d4aefd574d8
+city-id: 05534c77-9ceb-4969-8f10-119dec2fc5ce
+date: '1906'
+location:
+  latitude: 51.402569
+  longitude: 21.142166
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- b078f909-a131-4d37-8b36-59061078b159
