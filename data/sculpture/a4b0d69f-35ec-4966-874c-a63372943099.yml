@@ -1,0 +1,17 @@
+id: a4b0d69f-35ec-4966-874c-a63372943099
+type: sculpture
+slug: montant-dietman
+title: Montant
+artist-ids:
+- 11ff5032-1447-4348-8fa3-2affe92e6956
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1995'
+location:
+  latitude: 43.700922
+  longitude: 7.115473
+  precision: 10
+material-ids:
+- 32495469-6b62-477a-b272-a0e4e2c0e5c9
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
