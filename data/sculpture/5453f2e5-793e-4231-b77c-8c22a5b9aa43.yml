@@ -1,0 +1,18 @@
+id: 5453f2e5-793e-4231-b77c-8c22a5b9aa43
+type: sculpture
+slug: boleslaw-krzywousty-plock
+title: Bolesław Krzywousty
+artist-ids:
+- 8a2b649f-a97a-4b1d-aa35-e3f7d2cda9d6
+city-id: 07f98394-7cb1-47ce-97d9-ce543bc774a6
+date: '2012'
+location:
+  latitude: 52.544567
+  longitude: 19.683398
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 53670a93-6753-4afd-a6c7-219f31fc8088
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
