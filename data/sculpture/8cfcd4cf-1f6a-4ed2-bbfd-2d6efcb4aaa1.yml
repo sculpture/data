@@ -1,0 +1,15 @@
+id: 8cfcd4cf-1f6a-4ed2-bbfd-2d6efcb4aaa1
+type: sculpture
+slug: tete-carree-sosno
+title: Tête Carrée
+artist-ids:
+- c402c502-a75d-49dd-a441-aa9e4ae0ca78
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '2002'
+link-wikipedia: https://fr.wikipedia.org/wiki/T%C3%AAte_Carr%C3%A9e
+location:
+  latitude: 43.702777
+  longitude: 7.279111
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
