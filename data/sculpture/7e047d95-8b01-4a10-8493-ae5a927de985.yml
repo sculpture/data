@@ -1,0 +1,20 @@
+id: 7e047d95-8b01-4a10-8493-ae5a927de985
+type: sculpture
+slug: statue-of-liberty-ny
+title: Statue of Liberty
+artist-ids:
+- 3b5f3e11-9749-46df-8373-e92812f769da
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1886'
+link-wikipedia: https://en.wikipedia.org/wiki/Statue_of_Liberty
+location:
+  latitude: 40.689249
+  longitude: -74.0445
+  precision: 10
+material-ids:
+- 90961d65-c887-44b3-9153-7364b69806bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
