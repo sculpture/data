@@ -1,0 +1,14 @@
+id: 5e9dbfdb-0baa-4a9a-b7f7-6482f2ce2b1e
+type: sculpture
+slug: madonna-opala
+title: Madonna (Opala)
+artist-ids:
+- e4ae7c33-67b2-43d7-acc4-b38c26a43241
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '1977'
+location:
+  latitude: 50.866077
+  longitude: 20.628568
+  precision: 10
+material-ids:
+- 4a979cf3-40f3-4be9-aa71-b79765408367
