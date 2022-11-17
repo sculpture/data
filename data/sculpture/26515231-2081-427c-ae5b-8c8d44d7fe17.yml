@@ -1,0 +1,20 @@
+id: 26515231-2081-427c-ae5b-8c8d44d7fe17
+type: sculpture
+slug: la-grande-laveus
+title: ' La grande laveus'
+artist-ids:
+- 17e195c7-fe4b-4dab-af78-4f4589e72476
+- 85ba61ad-f850-4d7e-bca4-21c8192c3842
+city-id: 16a032c9-ec38-4226-8d03-d6e551035f89
+date: '1917'
+location:
+  latitude: 43.667646
+  longitude: 7.156992
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- ce5eba46-3dff-4d8c-89c8-4fab2da9a37d
