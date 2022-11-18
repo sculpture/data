@@ -1,0 +1,16 @@
+id: e6b42c44-d954-4b94-941d-6b049cb2ccae
+type: sculpture
+slug: demoiselle-dhonneur
+title: Demoiselle d’honneur
+artist-ids:
+- 8264c164-7929-4c09-8369-7b52ab86d8b0
+city-id: 1fb1a740-b085-447c-8b66-62efc7f3f6d9
+date: 201*
+location:
+  latitude: 43.551027
+  longitude: 7.018989
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 91dc9534-fac3-4f77-aaa1-5a701b6ab79b
