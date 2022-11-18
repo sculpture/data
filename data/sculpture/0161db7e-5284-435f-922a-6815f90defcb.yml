@@ -1,0 +1,17 @@
+id: 0161db7e-5284-435f-922a-6815f90defcb
+type: sculpture
+slug: piotra-wysocki
+title: Piotr Wysocki
+artist-ids:
+- 6d0c561b-b33b-41f2-b0c2-13a3fc2184a5
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1926'
+location:
+  latitude: 52.215386
+  longitude: 21.037338
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
