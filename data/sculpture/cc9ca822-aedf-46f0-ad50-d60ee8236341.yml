@@ -1,0 +1,18 @@
+id: cc9ca822-aedf-46f0-ad50-d60ee8236341
+type: sculpture
+slug: les-amoureux-peynet
+title: Les amoureux
+artist-ids:
+- adef3d34-2ae3-4afb-ac77-cb2abff4dbe0
+city-id: 3117260f-214d-48f3-8833-3dbcd6aa654c
+date: '1942'
+location:
+  latitude: 43.581137
+  longitude: 7.125947
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6883fc7a-540d-4fe9-9753-80f6e581f0ab
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
