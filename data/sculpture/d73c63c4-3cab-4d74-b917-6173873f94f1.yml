@@ -1,0 +1,17 @@
+id: d73c63c4-3cab-4d74-b917-6173873f94f1
+type: sculpture
+slug: wal-in-woods-in-haliburton
+title: A Walk in the Woods in Haliburton
+artist-ids:
+- 770f58a2-6d5c-4049-82f9-07766ba6689a
+city-id: 52ca364d-2e9c-46da-aa22-a34ffe6cb7ee
+date: '2001'
+location:
+  latitude: 45.052589
+  longitude: -78.52316
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 66ec2c31-c300-4e0f-bc36-93fa72a95fef
