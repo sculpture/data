@@ -1,0 +1,18 @@
+id: d95dcf39-e7d4-40cb-ba54-450acd77235b
+type: sculpture
+slug: conspiracy-of-ravens
+title: A Conspiracy of Ravens
+artist-ids:
+- 6a646b41-3651-4147-8c38-b48335b65cd1
+city-id: 52ca364d-2e9c-46da-aa22-a34ffe6cb7ee
+date: '2012'
+location:
+  latitude: 45.052354
+  longitude: -78.522935
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- b982214e-52f9-48b0-b977-4a4359b49fdb
