@@ -1,0 +1,18 @@
+id: 7284ef0a-5f51-4cfe-9060-1b7832603cc9
+type: sculpture
+slug: melpomene-herber-torun
+title: Melpomene (Herber)
+artist-ids:
+- dbe16e23-33ff-46d8-90c6-998e6788fdae
+city-id: 04e0fe28-d11f-4df8-9b7d-2f1addbffd0d
+date: '1909'
+location:
+  latitude: 53.012199
+  longitude: 18.603158
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
