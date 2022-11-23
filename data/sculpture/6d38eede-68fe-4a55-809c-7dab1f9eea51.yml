@@ -1,0 +1,18 @@
+id: 6d38eede-68fe-4a55-809c-7dab1f9eea51
+type: sculpture
+slug: nikaia-nice
+title: 'Nikaïa '
+artist-ids:
+- e813e8e0-79c5-4b3f-b218-187c01a43fae
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '1964'
+location:
+  latitude: 43.710173
+  longitude: 7.261953
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
