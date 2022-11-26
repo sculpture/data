@@ -1,0 +1,15 @@
+id: b1b1189d-43ee-403d-a501-48740f1d6b41
+type: sculpture
+slug: homage-to-cinema
+title:  Homage to Cinema
+artist-ids:
+- 2acbbd90-3d7e-4067-be6b-8614d6dddb32
+city-id: 1fb1a740-b085-447c-8b66-62efc7f3f6d9
+date: '2016'
+location:
+  latitude: 43.549541
+  longitude: 7.012337
+  precision: 10
+material-ids:
+- 2c971567-aa58-40f7-bf83-b5a97ed653c9
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
