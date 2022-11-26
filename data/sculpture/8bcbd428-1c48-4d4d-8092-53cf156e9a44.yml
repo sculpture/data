@@ -1,0 +1,18 @@
+id: 8bcbd428-1c48-4d4d-8092-53cf156e9a44
+type: sculpture
+slug: radfahrer-salzburg
+title: Radfahrer
+artist-ids:
+- 04abacad-88f9-4184-bedc-b27092779ec9
+city-id: 7e35b7d3-6c72-44b3-90ea-ae23cc140164
+date: '1992'
+location:
+  latitude: 47.802107
+  longitude: 13.042293
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- e0decfe4-4a78-4f23-af47-3f549797b85a
