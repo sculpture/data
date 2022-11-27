@@ -1,0 +1,17 @@
+id: d20b4497-bf7e-4a98-a561-4ee48ea0181d
+type: sculpture
+slug: jupiter-et-encelade
+title: Jupiter et Encelade
+artist-ids:
+- 34dcb7e7-8c13-4fea-8b8d-21c5ebe39ae5
+city-id: 3117260f-214d-48f3-8833-3dbcd6aa654c
+date: '1982'
+location:
+  latitude: 43.580757
+  longitude: 7.128515
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
