@@ -1,0 +1,19 @@
+id: e56b9abc-60c4-4257-a7c4-6e597db834ec
+type: sculpture
+slug: johann-wolfgang-goethe-warsaw
+title: Johann Wolfgang von Goethe
+artist-ids:
+- a5bc164f-a1e0-476b-b4a2-6dcc0eb276df
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: 182*
+location:
+  latitude: 52.231599
+  longitude: 21.024799
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
