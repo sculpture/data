@@ -5,6 +5,7 @@ title: Fontaine de Château-Chinon
 artist-ids:
 - 0b1e8672-2dfd-4e23-a3e4-d0e022880fae
 - b15e5537-c19f-4425-9f68-96e31aa0a0a3
+city-id: 0f1d13d2-7aec-4974-8052-9324a8b5a63b
 date: '1987'
 link-wikipedia: https://fr.wikipedia.org/wiki/Fontaine_de_Ch%C3%A2teau-Chinon
 location:
@@ -14,5 +15,5 @@ location:
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids:
-- 85105298-6047-4f80-88ec-76aa0b77d815
 - 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 85105298-6047-4f80-88ec-76aa0b77d815
