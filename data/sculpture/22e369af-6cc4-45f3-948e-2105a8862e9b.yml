@@ -8,8 +8,8 @@ city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
 date: '2008'
 link-wikipedia: https://pl.wikipedia.org/wiki/Pomnik_J%C3%B3zefa_Pi%C5%82sudskiego_w_Krakowie
 location:
-  latitude: 50.059925
-  longitude: 19.941431
+  latitude: 50.059739
+  longitude: 19.927992
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
