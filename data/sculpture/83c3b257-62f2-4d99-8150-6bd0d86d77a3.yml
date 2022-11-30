@@ -1,0 +1,17 @@
+id: 83c3b257-62f2-4d99-8150-6bd0d86d77a3
+type: sculpture
+slug: femme-endormie-volti
+title: Femme endormie
+artist-ids:
+- e813e8e0-79c5-4b3f-b218-187c01a43fae
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: 197*
+location:
+  latitude: 43.698294
+  longitude: 7.257318
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
