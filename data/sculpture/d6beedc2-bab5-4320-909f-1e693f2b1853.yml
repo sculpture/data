@@ -1,0 +1,19 @@
+id: d6beedc2-bab5-4320-909f-1e693f2b1853
+type: sculpture
+slug: leszek-kolkowski-radom
+title: 'Leszek Kołakowski '
+artist-ids:
+- bd577251-bcf1-4a39-a67d-b96a35dd450a
+city-id: 05534c77-9ceb-4969-8f10-119dec2fc5ce
+date: '2016'
+link-wikipedia: https://pl.wikipedia.org/wiki/Pomnik_Leszka_Ko%C5%82akowskiego_w_Radomiu
+location:
+  latitude: 51.400361
+  longitude: 21.152278
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 21b5d04c-9fea-4c3d-a0d6-2b9dff10c299
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
