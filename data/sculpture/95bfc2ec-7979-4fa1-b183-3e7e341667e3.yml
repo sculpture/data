@@ -1,0 +1,19 @@
+id: 95bfc2ec-7979-4fa1-b183-3e7e341667e3
+type: sculpture
+slug: venus-saint-paul-de-vence
+title: 'Venus de Saint-Paul-de-Vence '
+artist-ids:
+- d44393d8-3ebf-476e-83e5-01d19747ef42
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '2005'
+location:
+  latitude: 43.695057
+  longitude: 7.123608
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
