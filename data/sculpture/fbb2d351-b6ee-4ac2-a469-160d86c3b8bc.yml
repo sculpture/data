@@ -1,0 +1,18 @@
+id: fbb2d351-b6ee-4ac2-a469-160d86c3b8bc
+type: sculpture
+slug: niobe-lefebre
+title: Niobe
+artist-ids:
+- ff9ea29a-e2a2-49f7-9c73-cf7fbf0ecffd
+date: '1895'
+location:
+  latitude: 43.67561
+  longitude: 4.629771
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
