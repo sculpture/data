@@ -1,0 +1,16 @@
+id: 53b6733a-bf59-4997-b0e0-bb10daf6fbd9
+type: sculpture
+slug: awangarda-kubica
+title: Awangarda
+artist-ids:
+- 5e521ed0-8064-45c1-8dc9-c129ad817a86
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1968'
+location:
+  latitude: 52.229676
+  longitude: 21.012229
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
