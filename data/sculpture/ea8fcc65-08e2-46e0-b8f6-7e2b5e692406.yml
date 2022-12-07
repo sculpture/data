@@ -1,0 +1,16 @@
+id: ea8fcc65-08e2-46e0-b8f6-7e2b5e692406
+type: sculpture
+slug: potocki-mausoleum
+title: Potocki Mausoleum
+artist-ids:
+- d3159f70-cb6c-4f94-8f72-c30e84355f9c
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1836'
+location:
+  latitude: 52.165563
+  longitude: 21.087586
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
