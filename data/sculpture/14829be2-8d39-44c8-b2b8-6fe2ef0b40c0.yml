@@ -1,0 +1,19 @@
+id: 14829be2-8d39-44c8-b2b8-6fe2ef0b40c0
+type: sculpture
+slug: francois-marius-granet-ramus
+title: François Marius Granet (2)
+artist-ids:
+- 8cd3a8fe-173a-432d-8a14-bf5c4c0741c1
+city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
+date: '1839'
+location:
+  latitude: 43.52544
+  longitude: 5.452661
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b078f909-a131-4d37-8b36-59061078b159
