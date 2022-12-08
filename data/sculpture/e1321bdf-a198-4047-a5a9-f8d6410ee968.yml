@@ -1,0 +1,18 @@
+id: e1321bdf-a198-4047-a5a9-f8d6410ee968
+type: sculpture
+slug: paysan-du-danube
+title: Le Paysan du Danube
+artist-ids:
+- 297acae0-da65-4ac2-b99e-286f3a92afbb
+city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
+date: '1892'
+location:
+  latitude: 43.52544
+  longitude: 5.452661
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- c9884cff-1c92-48b5-816b-aa0479de54fa
