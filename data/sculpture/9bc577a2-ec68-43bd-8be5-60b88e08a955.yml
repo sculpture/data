@@ -1,0 +1,18 @@
+id: 9bc577a2-ec68-43bd-8be5-60b88e08a955
+type: sculpture
+slug: jerzy-popieluszko-kielce
+title: Jerzy Popiełuszko  (Kielce)
+artist-ids:
+- 13347c80-477a-4f6c-a054-4f123614bb3b
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '1999'
+location:
+  latitude: 50.869101
+  longitude: 20.629125
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 62501ae5-7d99-4fb1-ac89-3984d67a6d24
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
