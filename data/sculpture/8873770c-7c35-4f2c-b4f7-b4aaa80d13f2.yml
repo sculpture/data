@@ -1,0 +1,14 @@
+id: 8873770c-7c35-4f2c-b4f7-b4aaa80d13f2
+type: sculpture
+slug: aurora-kielce
+title: Aurora
+artist-ids:
+- 6db0a395-6ca7-47c4-abb7-3c7e31d926c6
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '1973'
+location:
+  latitude: 50.868517
+  longitude: 20.622625
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
