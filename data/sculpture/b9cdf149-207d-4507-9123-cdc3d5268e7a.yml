@@ -1,0 +1,19 @@
+id: b9cdf149-207d-4507-9123-cdc3d5268e7a
+type: sculpture
+slug: pilsudski-monument-legions
+title: Piłsudski monument (Polish Legions)
+artist-ids:
+- f81ce1a4-875f-427d-aea7-52a70f90b725
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '2008'
+link-wikipedia: https://pl.wikipedia.org/wiki/Pomnik_J%C3%B3zefa_Pi%C5%82sudskiego_w_Krakowie
+location:
+  latitude: 50.059896
+  longitude: 19.927612
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2d7e8f2e-e187-462b-a638-06a4ef145363
+- 66ec2c31-c300-4e0f-bc36-93fa72a95fef
