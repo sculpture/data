@@ -1,0 +1,19 @@
+id: 0003bb2e-b204-41c4-b874-42cb9c409777
+type: sculpture
+slug: lechappee-belle
+title: L’échappée belle
+artist-ids:
+- 5750b2f6-9396-4bbb-8aa1-05b5616e87ce
+city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
+date: '1966'
+location:
+  latitude: 43.527245
+  longitude: 5.454056
+  precision: 10
+material-ids:
+- 449582e6-6741-4441-a519-81e7c5591f96
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
