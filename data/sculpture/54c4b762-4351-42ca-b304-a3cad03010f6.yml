@@ -1,0 +1,19 @@
+id: 54c4b762-4351-42ca-b304-a3cad03010f6
+type: sculpture
+slug: pierre-renoir
+title: Pierre Renoir
+artist-ids:
+- 17e195c7-fe4b-4dab-af78-4f4589e72476
+city-id: 16a032c9-ec38-4226-8d03-d6e551035f89
+date: 191*
+location:
+  latitude: 43.667666
+  longitude: 7.157032
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 3e179310-873d-4553-96ba-43bd2708f27b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
