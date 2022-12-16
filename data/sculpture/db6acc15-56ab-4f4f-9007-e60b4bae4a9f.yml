@@ -1,0 +1,20 @@
+id: db6acc15-56ab-4f4f-9007-e60b4bae4a9f
+type: sculpture
+slug: dama-z-pieskiem
+title: Dama z pieskiem
+artist-ids:
+- 4a6a406c-d74b-4a8c-aa6c-b53c886affe4
+city-id: 50783f6f-0bf6-4ee9-9a1e-ab148efce379
+date: '2010'
+location:
+  latitude: 50.411371
+  longitude: 16.509002
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 66ec2c31-c300-4e0f-bc36-93fa72a95fef
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 89f78d37-2315-4104-bfe7-610b444b2485
