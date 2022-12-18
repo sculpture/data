@@ -1,0 +1,14 @@
+id: ba1bc3c6-f544-4bd0-94e2-d363cf214c41
+type: sculpture
+slug: planetoida-wroblewsi
+title: Planetoida
+artist-ids:
+- 560f10af-f33a-42cf-ade9-77aea873fdff
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1968'
+location:
+  latitude: 52.227546
+  longitude: 20.94856
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
