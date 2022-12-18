@@ -1,0 +1,20 @@
+id: 7faf63c0-5734-44e4-9c1a-32b9b2a4789c
+type: sculpture
+slug: tadeusz-kosciuszko-warszawa
+title: Tadeusz Kościuszko (Warsaw)
+artist-ids:
+- cf8ca76e-2236-4d3b-94d9-831e6b62c567
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1910'
+link-wikipedia: https://en.wikipedia.org/wiki/Tadeusz_Ko%C5%9Bciuszko_Monument,_Warsaw
+location:
+  latitude: 52.23961
+  longitude: 21.002448
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: 'replica '
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
