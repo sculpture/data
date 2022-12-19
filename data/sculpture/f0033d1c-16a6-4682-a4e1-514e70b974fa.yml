@@ -1,0 +1,18 @@
+id: f0033d1c-16a6-4682-a4e1-514e70b974fa
+type: sculpture
+slug: le-chat-mancini
+title: Le Chat
+artist-ids:
+- ec43fbaf-a243-40c1-bb32-8b4512f5daa3
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '2000'
+location:
+  latitude: 43.697636
+  longitude: 7.121516
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- db51c2ea-c8f2-4b20-ba2d-1eb26ea058d1
