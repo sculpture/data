@@ -1,0 +1,15 @@
+id: 8f7dca5e-a3d4-4d28-bbb2-ff6529c6a807
+type: sculpture
+slug: ukon-abakanowicz
+title: Ukon
+artist-ids:
+- 7dfcc415-fab6-492d-90d9-6c0ca0cc5583
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '1995'
+location:
+  latitude: 51.312068
+  longitude: 20.979667
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 35913622-405e-4e52-b409-6acc87a4dd77
