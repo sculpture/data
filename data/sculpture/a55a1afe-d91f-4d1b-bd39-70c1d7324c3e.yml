@@ -1,0 +1,18 @@
+id: a55a1afe-d91f-4d1b-bd39-70c1d7324c3e
+type: sculpture
+slug: three-women-on-the-grass
+title: Three Women on the Grass
+artist-ids:
+- ae24883d-51cc-4530-90dd-a88aae007db0
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '1967'
+location:
+  latitude: 51.311701
+  longitude: 20.982189
+  precision: 20
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
