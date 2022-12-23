@@ -1,0 +1,19 @@
+id: cfd1ec8e-1064-4ea6-8603-0734be4613c4
+type: sculpture
+slug: tancred-and-clorinda
+title: Tancred and Clorinda
+artist-ids:
+- 05b9ff46-5c6d-4cc9-bc6e-bde944f8243a
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1791'
+location:
+  latitude: 52.214404
+  longitude: 21.037005
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 3d01002e-928d-47f0-9a30-5f38d5a8eb27
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 6883fc7a-540d-4fe9-9753-80f6e581f0ab
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
