@@ -1,0 +1,17 @@
+id: cd4cabe7-e14e-47bb-b60d-113918320959
+type: sculpture
+slug: verborgene-tranen
+title: Verborgene tränen
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: c932db0f-20c4-48dd-bb82-7ea860aab357
+date: 200*
+location:
+  latitude: 47.580769
+  longitude: 12.168655
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e7acccc-b938-4472-ab16-90a5bad576a3
