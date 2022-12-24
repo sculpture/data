@@ -1,0 +1,18 @@
+id: 400f80ba-fafa-45f3-a40b-e52084bea362
+type: sculpture
+slug: homme-qui-marche-1
+title: 'Homme qui marche I '
+artist-ids:
+- cfc0ccc8-abfa-480e-844c-f9c931a65b2a
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1960'
+location:
+  latitude: 43.700789
+  longitude: 7.114799
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 66ec2c31-c300-4e0f-bc36-93fa72a95fef
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- c9884cff-1c92-48b5-816b-aa0479de54fa
