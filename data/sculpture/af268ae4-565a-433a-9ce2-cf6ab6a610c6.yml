@@ -1,0 +1,18 @@
+id: af268ae4-565a-433a-9ce2-cf6ab6a610c6
+type: sculpture
+slug: stefan-starzynski-warszawa-
+title: Stefan Starzyński
+artist-ids:
+- 8f13d940-3dd8-4753-a317-2a350190fa79
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1993'
+location:
+  latitude: 52.244085
+  longitude: 21.001977
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 6357f79b-9010-443c-bf4e-1fe3dddd3649
