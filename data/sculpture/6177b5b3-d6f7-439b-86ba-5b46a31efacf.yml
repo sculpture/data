@@ -1,0 +1,20 @@
+id: 6177b5b3-d6f7-439b-86ba-5b46a31efacf
+type: sculpture
+slug: frederic-mistral
+title: Frédéric Mistral
+artist-ids:
+- 0cb969f7-999c-458b-bba3-9f8f1534ba75
+city-id: 83e8235c-7b13-40f9-a343-345bad175adb
+date: '1909'
+location:
+  latitude: 43.677538
+  longitude: 4.627555
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
