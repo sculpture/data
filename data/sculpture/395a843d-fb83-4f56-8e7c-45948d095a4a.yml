@@ -1,0 +1,14 @@
+id: 395a843d-fb83-4f56-8e7c-45948d095a4a
+type: sculpture
+slug: pantocrator-murak
+title: Pantocrator
+artist-ids:
+- 7fc3f841-fecd-412d-ac2d-2721244470d6
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '2010'
+location:
+  latitude: 51.312234
+  longitude: 20.982136
+  precision: 10
+material-ids:
+- 2aa408c8-4b60-4a40-a151-67661b57b97b
