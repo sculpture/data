@@ -1,0 +1,21 @@
+id: 600e3cc0-26a5-498b-a5e0-b35187103f40
+type: sculpture
+slug: invisible-rui-rui
+title: Invisible Rui Rui
+artist-ids:
+- 24827920-a2c6-4427-ada2-0c28680fad21
+city-id: 3117260f-214d-48f3-8833-3dbcd6aa654c
+date: '2016'
+location:
+  latitude: 43.580761
+  longitude: 7.128252
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- e7c0d105-ed1d-4e46-8cd8-a5153a2a784d
