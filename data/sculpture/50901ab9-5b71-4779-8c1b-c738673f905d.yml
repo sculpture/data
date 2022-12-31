@@ -1,0 +1,16 @@
+id: 50901ab9-5b71-4779-8c1b-c738673f905d
+type: sculpture
+slug: helena-modrzejewska
+title: Helena Modrzejewska
+artist-ids:
+- e34fc699-6c94-4478-9257-107f0be1acc3
+date: '1955'
+location:
+  latitude: 52.189341
+  longitude: 21.02743
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 3e179310-873d-4553-96ba-43bd2708f27b
