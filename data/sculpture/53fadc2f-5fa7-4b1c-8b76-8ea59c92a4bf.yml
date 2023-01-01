@@ -1,0 +1,16 @@
+id: 53fadc2f-5fa7-4b1c-8b76-8ea59c92a4bf
+type: sculpture
+slug: unknown-28-arles
+title: Unknown (28)
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 83e8235c-7b13-40f9-a343-345bad175adb
+date: 201*
+location:
+  latitude: 43.676822
+  longitude: 4.627482
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- a1fb9feb-ce7c-4fa1-8ec3-523421dcdc2c
