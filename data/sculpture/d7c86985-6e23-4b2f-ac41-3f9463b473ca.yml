@@ -1,0 +1,18 @@
+id: d7c86985-6e23-4b2f-ac41-3f9463b473ca
+type: sculpture
+slug: till-mcculloch-toronto
+title: Till & McCulloch
+artist-ids:
+- 9b34a8b7-35f0-4c56-95c0-344829c668db
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2016'
+location:
+  latitude: 43.659841
+  longitude: -79.389834
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 21b5d04c-9fea-4c3d-a0d6-2b9dff10c299
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 981f0f0b-7f88-43af-b1d6-1ed2653e71ae
