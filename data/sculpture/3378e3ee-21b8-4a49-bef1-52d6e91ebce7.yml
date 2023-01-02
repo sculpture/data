@@ -1,0 +1,17 @@
+id: 3378e3ee-21b8-4a49-bef1-52d6e91ebce7
+type: sculpture
+slug: bug-river-lazienki
+title: Bug
+artist-ids:
+- c85ec9de-a767-4059-8ea0-79748615df18
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1855'
+location:
+  latitude: 52.21465
+  longitude: 21.0356
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
