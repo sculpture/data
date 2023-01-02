@@ -1,0 +1,14 @@
+id: 5a7833d1-c8d4-483e-a8a5-d10b1f7a5f57
+type: sculpture
+slug: sundial-myjak
+title: Sundial
+artist-ids:
+- 7caafc96-ff5b-425d-985e-7ddff665f588
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2011'
+location:
+  latitude: 52.211237
+  longitude: 21.033657
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
