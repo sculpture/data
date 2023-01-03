@@ -1,0 +1,17 @@
+id: 60545b58-1740-4c71-a329-2390f3ba80b4
+type: sculpture
+slug: la-maturite-rousseau
+title: La maturité
+artist-ids:
+- ab56f491-50fc-47f6-9ee3-0a410c9aa22e
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1922'
+location:
+  latitude: 50.845725
+  longitude: 4.359507
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
