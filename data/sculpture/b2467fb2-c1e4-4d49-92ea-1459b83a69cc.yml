@@ -1,0 +1,22 @@
+id: b2467fb2-c1e4-4d49-92ea-1459b83a69cc
+type: sculpture
+slug: monument-balzac-moma
+title: Monument to Balzac (MoMA)
+artist-ids:
+- 0d0131e9-ece4-417f-80bd-904e881f478e
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1898'
+link-wikipedia: https://en.wikipedia.org/wiki/Monument_to_Balzac
+location:
+  latitude: 40.712775
+  longitude: -74.005973
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast 1954
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
