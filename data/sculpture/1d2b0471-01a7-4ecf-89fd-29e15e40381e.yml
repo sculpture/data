@@ -1,0 +1,16 @@
+id: 1d2b0471-01a7-4ecf-89fd-29e15e40381e
+type: sculpture
+slug: sygnatura-fangor
+title: Sygnatura
+artist-ids:
+- d2c398d3-ab91-4839-8fa3-5eab92822264
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '2008'
+location:
+  latitude: 51.31222
+  longitude: 20.983712
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
