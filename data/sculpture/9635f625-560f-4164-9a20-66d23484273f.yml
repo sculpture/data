@@ -1,0 +1,18 @@
+id: 9635f625-560f-4164-9a20-66d23484273f
+type: sculpture
+slug: elevation-brousse
+title: Élévation
+artist-ids:
+- c467fe0b-15bc-4435-8d50-26e02d244564
+city-id: 3117260f-214d-48f3-8833-3dbcd6aa654c
+date: '2017'
+location:
+  latitude: 43.582085
+  longitude: 7.12824
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 56560105-70a1-4867-aaea-6d76d31576c0
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
