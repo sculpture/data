@@ -1,14 +1,14 @@
 id: 34db2ecf-c7a2-4073-b3a8-7fc25d29419a
 type: sculpture
 slug: constellation-white-black-forms
-title: 'Constellation with Five White and Two Black Forms: Variation 2'
+title: Constellation with 5 White and 2 Black Forms
 artist-ids:
 - 751ba8f1-a286-4846-bc74-0ccd9d70d63a
 city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
 date: '1932'
 location:
-  latitude: 40.761342
-  longitude: -73.977318
+  latitude: 40.761163
+  longitude: -73.976969
   precision: 10
 material-ids:
 - 449582e6-6741-4441-a519-81e7c5591f96
