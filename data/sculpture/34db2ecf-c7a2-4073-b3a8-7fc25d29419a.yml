@@ -7,8 +7,8 @@ artist-ids:
 city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
 date: '1932'
 location:
-  latitude: 40.761163
-  longitude: -73.976969
+  latitude: 40.761667
+  longitude: -73.977591
   precision: 10
 material-ids:
 - 449582e6-6741-4441-a519-81e7c5591f96
