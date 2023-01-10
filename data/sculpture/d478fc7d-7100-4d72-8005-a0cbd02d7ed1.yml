@@ -1,0 +1,19 @@
+id: d478fc7d-7100-4d72-8005-a0cbd02d7ed1
+type: sculpture
+slug: pecheur-la-nigogue
+title: Le pêcheur à la nigogue
+artist-ids:
+- f6ba5000-2ac9-4069-bee4-09ca21d36852
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1889'
+location:
+  latitude: 46.808997
+  longitude: -71.213695
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: foundry 1916
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
