@@ -1,0 +1,20 @@
+id: ff504dc3-0bea-4c27-931f-6667e3560de2
+type: sculpture
+slug: king-rene-aix
+title: King René
+artist-ids:
+- eded3fd4-f61e-4858-9782-d4adccf8cfba
+city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
+date: '1819'
+location:
+  latitude: 43.526719
+  longitude: 5.448607
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- c18859b5-46fe-40c0-9b36-834204f18a97
