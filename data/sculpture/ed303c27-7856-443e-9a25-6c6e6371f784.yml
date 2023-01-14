@@ -1,0 +1,14 @@
+id: ed303c27-7856-443e-9a25-6c6e6371f784
+type: sculpture
+slug: crossing-at-oronsko
+title: Crossing at Orońsko
+artist-ids:
+- 29e921c4-12d5-4245-8cd7-9aa21174d7f0
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '1998'
+location:
+  latitude: 51.312744
+  longitude: 20.982407
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
