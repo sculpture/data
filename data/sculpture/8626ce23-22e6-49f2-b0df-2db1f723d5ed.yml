@@ -1,0 +1,19 @@
+id: 8626ce23-22e6-49f2-b0df-2db1f723d5ed
+type: sculpture
+slug: auguste-renoir-2-maillol
+title: Auguste Renoir (2)
+artist-ids:
+- 65b29e60-e2c4-47e0-97e7-dd087727cc3f
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1907'
+location:
+  latitude: 52.231599
+  longitude: 21.024799
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b078f909-a131-4d37-8b36-59061078b159
