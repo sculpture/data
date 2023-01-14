@@ -1,0 +1,20 @@
+id: 4d762175-d443-4534-a6e5-b79a4f4f265c
+type: sculpture
+slug: buste-de-paris-2
+title: Buste de Pâris (2)
+artist-ids:
+- 17e195c7-fe4b-4dab-af78-4f4589e72476
+- 85ba61ad-f850-4d7e-bca4-21c8192c3842
+city-id: 16a032c9-ec38-4226-8d03-d6e551035f89
+date: '1914'
+location:
+  latitude: 43.667636
+  longitude: 7.157032
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
