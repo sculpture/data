@@ -1,0 +1,15 @@
+id: 671d32fa-42b7-40c7-b066-199ecb725835
+type: sculpture
+slug: samoakceptacja
+title: Samoakceptacja
+artist-ids:
+- 2981f50a-4092-439d-bd3b-0a27406f29e7
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2009'
+location:
+  latitude: 52.231417
+  longitude: 21.011843
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
