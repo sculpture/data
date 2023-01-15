@@ -1,0 +1,15 @@
+id: 2830cb43-466f-496c-8cba-fb2b95e8d2f6
+type: sculpture
+slug: sjesta-poludnie
+title: Sjesta – Południe
+artist-ids:
+- 2981f50a-4092-439d-bd3b-0a27406f29e7
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '2001'
+location:
+  latitude: 51.312413
+  longitude: 20.982752
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
