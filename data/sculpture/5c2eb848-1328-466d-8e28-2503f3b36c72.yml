@@ -1,0 +1,14 @@
+id: 5c2eb848-1328-466d-8e28-2503f3b36c72
+type: sculpture
+slug: echa-gor-swietokrzyskich
+title: Echa Gór Świętokrzyskich
+artist-ids:
+- 560f10af-f33a-42cf-ade9-77aea873fdff
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '1973'
+location:
+  latitude: 50.870336
+  longitude: 20.626088
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
