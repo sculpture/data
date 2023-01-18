@@ -1,0 +1,14 @@
+id: 12c08145-b9c4-4c56-bb6c-0e98f83e8126
+type: sculpture
+slug: kobieta-idaca-pastwa
+title: Kobieta idąca
+artist-ids:
+- d4a994dc-6760-49c1-8235-977d26b29cbf
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '1979'
+location:
+  latitude: 50.869397
+  longitude: 20.623354
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
