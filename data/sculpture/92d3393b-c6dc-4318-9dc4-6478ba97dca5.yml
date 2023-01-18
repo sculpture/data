@@ -1,0 +1,14 @@
+id: 92d3393b-c6dc-4318-9dc4-6478ba97dca5
+type: sculpture
+slug: secret-point-farhi
+title: Secret Point
+artist-ids:
+- 1d4ed8b8-9ef9-4254-9ddb-f4b28f57b1f3
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '2011'
+location:
+  latitude: 43.702724
+  longitude: 7.116784
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
