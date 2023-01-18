@@ -1,0 +1,18 @@
+id: 19b82097-db2f-46ba-820c-562265649b43
+type: sculpture
+slug: jozef-brandt-bust
+title: Józef Brandt
+artist-ids:
+- d4a994dc-6760-49c1-8235-977d26b29cbf
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '1973'
+location:
+  latitude: 51.312305
+  longitude: 20.982528
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b078f909-a131-4d37-8b36-59061078b159
