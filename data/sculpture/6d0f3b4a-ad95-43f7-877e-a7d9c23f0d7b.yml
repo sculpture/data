@@ -1,0 +1,17 @@
+id: 6d0f3b4a-ad95-43f7-877e-a7d9c23f0d7b
+type: sculpture
+slug: dzik-komaszewski
+title: Dzik
+artist-ids:
+- d81ffdbb-a691-43b2-9100-6ecc945048fb
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1935'
+location:
+  latitude: 52.188756
+  longitude: 21.027259
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
