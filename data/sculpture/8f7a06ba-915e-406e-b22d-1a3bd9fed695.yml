@@ -1,0 +1,17 @@
+id: 8f7a06ba-915e-406e-b22d-1a3bd9fed695
+type: sculpture
+slug: alberta-guild-jones
+title: Alberta
+artist-ids:
+- 95aab595-ad7a-4581-8ebd-bcbe6be27384
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1948'
+location:
+  latitude: 43.748494
+  longitude: -79.192269
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
