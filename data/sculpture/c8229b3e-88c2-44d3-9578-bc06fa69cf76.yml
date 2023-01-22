@@ -1,0 +1,19 @@
+id: c8229b3e-88c2-44d3-9578-bc06fa69cf76
+type: sculpture
+slug: grain-richier-hirshhorn
+title: Grain
+artist-ids:
+- 4efdad48-f6f3-4b0d-9fca-5c0c3dae2ec0
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+commissioned-by: Gift of Joseph H. Hirshhorn, 1966
+date: '1955'
+location:
+  latitude: 38.888988
+  longitude: -77.022539
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
