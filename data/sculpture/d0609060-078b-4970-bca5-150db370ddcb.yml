@@ -1,0 +1,16 @@
+id: d0609060-078b-4970-bca5-150db370ddcb
+type: sculpture
+slug: antipodes-sanborn
+title: Antipodes
+artist-ids:
+- ec4e67da-d7df-4f93-bde1-f1311e333a6d
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1997'
+link-wikipedia: https://en.wikipedia.org/wiki/Antipodes_(sculpture)
+location:
+  latitude: 38.888516
+  longitude: -77.023268
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- 90961d65-c887-44b3-9153-7364b69806bc
