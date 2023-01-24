@@ -1,0 +1,20 @@
+id: 7368a625-ef9d-4c66-814a-95717128212f
+type: sculpture
+slug: wyspianski-raynoch
+title: Stanisław Wyspiański (Raynoch)
+artist-ids:
+- ea8f3359-bf6e-4032-9ad0-7a7c4e858431
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '1957'
+location:
+  latitude: 50.063988
+  longitude: 19.934898
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6c2bfe1f-8ad4-42af-8a27-b996f6ebbdfa
+- b078f909-a131-4d37-8b36-59061078b159
