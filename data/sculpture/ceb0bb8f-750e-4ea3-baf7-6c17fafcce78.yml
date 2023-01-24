@@ -1,0 +1,17 @@
+id: ceb0bb8f-750e-4ea3-baf7-6c17fafcce78
+type: sculpture
+slug: hunt-keene-ottawa
+title: The Hunt
+artist-ids:
+- f5df4fdb-8fc6-4f3f-ac53-949334a60655
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1986'
+location:
+  latitude: 45.42214
+  longitude: -75.696889
+  precision: 10
+material-ids:
+- 590bc2f1-fd09-4c83-96da-39fa51cef820
+tag-ids:
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- ce5eba46-3dff-4d8c-89c8-4fab2da9a37d
