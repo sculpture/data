@@ -1,0 +1,17 @@
+id: 0e796cf4-0db0-49a5-8440-b9e358f06710
+type: sculpture
+slug: lezacy-truszynski
+title: 'Leżący '
+artist-ids:
+- 8cc1f168-0582-4c13-9129-8ae2d88444ea
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1963'
+location:
+  latitude: 52.188995
+  longitude: 21.027784
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- c9884cff-1c92-48b5-816b-aa0479de54fa
