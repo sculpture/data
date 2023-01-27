@@ -1,0 +1,19 @@
+id: 054d043a-4a50-43b8-aa22-a6481e73f532
+type: sculpture
+slug: marinada-amils
+title: Marinada
+artist-ids:
+- 58ff9206-b902-4b25-98b4-3332f79c0153
+city-id: 38dc228d-7b71-4ed6-a578-49b80d38d6a8
+date: '1929'
+location:
+  latitude: 41.368804
+  longitude: 2.157587
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
