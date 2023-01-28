@@ -1,0 +1,20 @@
+id: fa6a8b8d-654a-4a52-ab34-9683e7ba9c2d
+type: sculpture
+slug: jean-aire-rodin-brussels
+title: Jean d'Aire (2)
+artist-ids:
+- 0d0131e9-ece4-417f-80bd-904e881f478e
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1887'
+link-wikipedia: https://en.wikipedia.org/wiki/Jean_d%27Aire
+location:
+  latitude: 50.841952
+  longitude: 4.357965
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
