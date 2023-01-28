@@ -1,0 +1,17 @@
+id: c447c15b-797a-459f-8de1-889bbd03ac01
+type: sculpture
+slug: flower-head-jackson
+title: Flower Head
+artist-ids:
+- 31569ea3-c21b-430e-84a9-2f6e29649444
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1959'
+location:
+  latitude: 43.761538
+  longitude: -79.411079
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6e7acccc-b938-4472-ab16-90a5bad576a3
+- 6f13c768-5619-419e-97af-60440cab7f89
