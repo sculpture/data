@@ -1,0 +1,19 @@
+id: 3ac1d6b5-4aa1-44c2-9fc7-098d93e3128e
+type: sculpture
+slug: lusia-aderowa
+title: Lusia Aderowa
+artist-ids:
+- 1824e725-fea5-4615-8c7d-5cfeb441b3b9
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1922'
+location:
+  latitude: 52.189091
+  longitude: 21.028412
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
