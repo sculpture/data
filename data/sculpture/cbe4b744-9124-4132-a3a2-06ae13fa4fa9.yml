@@ -1,0 +1,20 @@
+id: cbe4b744-9124-4132-a3a2-06ae13fa4fa9
+type: sculpture
+slug: girl-washing-hair
+title: Girl Washing Hair
+artist-ids:
+- 310f4860-4293-4a82-8050-2a0b55878870
+date: '1908'
+location:
+  latitude: 50.101615
+  longitude: 14.432544
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- ce5eba46-3dff-4d8c-89c8-4fab2da9a37d
