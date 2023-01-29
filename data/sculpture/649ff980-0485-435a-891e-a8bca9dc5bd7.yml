@@ -1,0 +1,16 @@
+id: 649ff980-0485-435a-891e-a8bca9dc5bd7
+type: sculpture
+slug: tomb-of-the-storm
+title: The Tomb of the Storm
+artist-ids:
+- e80f2843-4350-40ac-9402-1d634ecdc9cd
+city-id: 3117260f-214d-48f3-8833-3dbcd6aa654c
+date: '1956'
+location:
+  latitude: 43.580761
+  longitude: 7.128252
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
