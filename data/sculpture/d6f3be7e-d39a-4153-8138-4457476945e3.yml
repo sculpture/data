@@ -1,0 +1,19 @@
+id: d6f3be7e-d39a-4153-8138-4457476945e3
+type: sculpture
+slug: flowering-of-time
+title: Flowering of Time
+artist-ids:
+- d0823fe5-9dfe-45c8-a733-0f56a5659160
+city-id: 9feeba88-1b66-4091-a267-5a2cbf0bfd66
+date: '1996'
+location:
+  latitude: 43.149591
+  longitude: -79.247004
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 90961d65-c887-44b3-9153-7364b69806bc
+- b056b6a2-cc0e-43ec-84ae-887480ee3706
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
