@@ -1,0 +1,14 @@
+id: a8df0048-f5a1-4097-aa2a-7c918396adf7
+type: sculpture
+slug: storied-moons
+title: Storied Moons
+artist-ids:
+- 41d68c33-bcb9-4bad-900b-f001c9db83a7
+city-id: 52ca364d-2e9c-46da-aa22-a34ffe6cb7ee
+date: '2017'
+location:
+  latitude: 45.052013
+  longitude: -78.520607
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
