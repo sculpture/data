@@ -1,0 +1,17 @@
+id: 64add7cc-831a-453e-bac8-0c30ab6a420d
+type: sculpture
+slug: eye-on-the-square
+title: Eye on the Square
+artist-ids:
+- 4ee2ec16-8ca1-43f3-af2f-43da9927ea5b
+city-id: fa87ecab-5627-4e55-af08-250c1e8e6640
+date: '1994'
+location:
+  latitude: 43.359265
+  longitude: -80.31799
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
