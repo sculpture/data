@@ -1,0 +1,14 @@
+id: ef77657c-d40f-41c4-9fbe-1f6aa7f6a208
+type: sculpture
+slug: wind-dervish
+title: Wind Dervish
+artist-ids:
+- 6a646b41-3651-4147-8c38-b48335b65cd1
+city-id: 52ca364d-2e9c-46da-aa22-a34ffe6cb7ee
+date: '2017'
+location:
+  latitude: 45.051285
+  longitude: -78.521352
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
