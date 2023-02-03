@@ -1,0 +1,14 @@
+id: 104b2579-a9ac-48fd-b33d-1c61967ba20e
+type: sculpture
+slug: chambre-coucher-d-empereur
+title: La chambre à coucher de l'empereur
+artist-ids:
+- 3e7c1053-1ecb-45e8-99d7-f1a37dedf64d
+city-id: 1aff16e3-5963-4a1d-b9f6-1ebec654ea71
+date: '1954'
+location:
+  latitude: 42.430312
+  longitude: -71.310806
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
