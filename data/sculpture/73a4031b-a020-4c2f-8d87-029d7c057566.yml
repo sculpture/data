@@ -1,0 +1,14 @@
+id: 73a4031b-a020-4c2f-8d87-029d7c057566
+type: sculpture
+slug: migration-series-7-kowal
+title: Migration - Series No. 7
+artist-ids:
+- d71bc281-5271-4286-b32a-430ade9e74e0
+city-id: 1aff16e3-5963-4a1d-b9f6-1ebec654ea71
+date: '1976'
+location:
+  latitude: 42.430312
+  longitude: -71.310806
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
