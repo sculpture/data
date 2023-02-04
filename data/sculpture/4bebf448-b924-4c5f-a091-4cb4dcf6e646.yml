@@ -1,0 +1,15 @@
+id: 4bebf448-b924-4c5f-a091-4cb4dcf6e646
+type: sculpture
+slug: ctonos
+title: Ctonos
+artist-ids:
+- c4eed96e-84f9-42bf-94ca-43944f4e1c7d
+city-id: 38dc228d-7b71-4ed6-a578-49b80d38d6a8
+date: '1988'
+location:
+  latitude: 41.368983
+  longitude: 2.160427
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- a267fb56-e090-4da4-b72c-152f966877d9
