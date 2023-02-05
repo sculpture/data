@@ -1,0 +1,17 @@
+id: 97936e95-90ee-4165-890b-3427ca97dd64
+type: sculpture
+slug: relief-of-vienna
+title: The Relief of Vienna
+artist-ids:
+- 0063e246-244c-4e07-aa3b-7415491d3afe
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '1883'
+location:
+  latitude: 50.061465
+  longitude: 19.939304
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 8edbb59e-b498-4210-9981-8781235cafcd
