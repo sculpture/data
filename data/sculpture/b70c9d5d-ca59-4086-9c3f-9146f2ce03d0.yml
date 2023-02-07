@@ -1,0 +1,17 @@
+id: b70c9d5d-ca59-4086-9c3f-9146f2ce03d0
+type: sculpture
+slug: metallurgist-mdm
+title: Metallurgist
+artist-ids:
+- 0a854d09-2dd6-422e-872d-a8c727fe9981
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1952'
+location:
+  latitude: 52.221677
+  longitude: 21.017249
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 8edbb59e-b498-4210-9981-8781235cafcd
