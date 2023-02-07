@@ -1,0 +1,20 @@
+id: 67dbbb95-4043-4b02-b1c5-b6c90deb2a4c
+type: sculpture
+slug: allegorie-des-weinbaus-schwaz
+title: Allegorie des Weinbaus
+artist-ids:
+- c48b2fa1-3ab4-4684-8765-526168c0ade0
+city-id: e62b08ef-d6a4-4918-8108-6313768360c7
+date: '1936'
+location:
+  latitude: 47.34841
+  longitude: 11.707729
+  precision: 10
+material-ids:
+- d75f308d-78bc-44cc-95b0-0199f2d0ed04
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
