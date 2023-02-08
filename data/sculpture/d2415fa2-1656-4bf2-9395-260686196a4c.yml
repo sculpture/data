@@ -1,0 +1,17 @@
+id: d2415fa2-1656-4bf2-9395-260686196a4c
+type: sculpture
+slug: flying-debris
+title: Flying Debris
+artist-ids:
+- afe95cff-c56b-42b2-a0b2-fa4fe71c526d
+city-id: 52ca364d-2e9c-46da-aa22-a34ffe6cb7ee
+date: '2016'
+location:
+  latitude: 45.052464
+  longitude: -78.520971
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 32495469-6b62-477a-b272-a0e4e2c0e5c9
+tag-ids:
+- 4dae8901-072d-4758-9b44-c5089bf1a804
