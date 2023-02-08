@@ -1,0 +1,17 @@
+id: 5de990f7-2ff8-4263-be34-4a125456b2c7
+type: sculpture
+slug: gladiator-welonski
+title: Gladiator
+artist-ids:
+- 0063e246-244c-4e07-aa3b-7415491d3afe
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1882'
+location:
+  latitude: 52.223421
+  longitude: 21.025508
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
