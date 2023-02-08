@@ -1,0 +1,18 @@
+id: 0a5bed87-9faa-41f2-a26f-cb4237ae5a31
+type: sculpture
+slug: totem-fabre
+title: Totem (Fabre)
+artist-ids:
+- b8ae64b3-63cf-4287-8092-790f47229ecb
+city-id: bc7ca2c7-aac6-4ab7-85ca-d4786262d8a8
+date: '2004'
+location:
+  latitude: 50.882287
+  longitude: 4.713765
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- 983d1c37-99da-4b1d-baba-681a83e66d30
+tag-ids:
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
+- 5e46697e-16c7-4478-a438-202749e4888d
