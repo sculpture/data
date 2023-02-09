@@ -1,0 +1,18 @@
+id: d3ac994d-a343-4290-a3f8-4a2bc26211c7
+type: sculpture
+slug: creation-procki
+title: Creation
+artist-ids:
+- 0d58d23a-d9a7-47be-875a-2ba19af797f0
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '1982'
+location:
+  latitude: 51.312288
+  longitude: 20.98104
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
