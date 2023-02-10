@@ -1,0 +1,17 @@
+id: db8c5807-75bb-44bc-91b7-9fcfceff7569
+type: sculpture
+slug: asclepius-and-chiron
+title: Asclepius and Chiron
+artist-ids:
+- 95aab595-ad7a-4581-8ebd-bcbe6be27384
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: 195*
+location:
+  latitude: 43.658565
+  longitude: -79.3894
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 8edbb59e-b498-4210-9981-8781235cafcd
