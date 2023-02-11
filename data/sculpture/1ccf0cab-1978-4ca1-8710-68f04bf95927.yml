@@ -1,0 +1,14 @@
+id: 1ccf0cab-1978-4ca1-8710-68f04bf95927
+type: sculpture
+slug: totem-jarnuszkiewicz
+title: Totem (Jarnuszkiewicz)
+artist-ids:
+- db86a759-bddd-4a83-b9fe-d0eae565be2b
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1968'
+location:
+  latitude: 52.227996
+  longitude: 20.949005
+  precision: 10
+material-ids:
+- 32495469-6b62-477a-b272-a0e4e2c0e5c9
