@@ -1,0 +1,16 @@
+id: 9948bee5-4f6d-4071-b7f9-7750633d55f5
+type: sculpture
+slug: short-history-of-time
+title: Short History of Time
+artist-ids:
+- 38f9e4ee-73e9-4783-8fde-a12c790724fa
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '2005'
+location:
+  latitude: 51.312174
+  longitude: 20.982511
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
