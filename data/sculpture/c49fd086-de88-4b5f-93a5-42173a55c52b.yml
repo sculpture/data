@@ -1,0 +1,14 @@
+id: c49fd086-de88-4b5f-93a5-42173a55c52b
+type: sculpture
+slug: one-hundred-foot-line
+title: One Hundred Foot Line
+artist-ids:
+- 5b506765-1424-4978-9248-9df561ec8dd1
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '2010'
+location:
+  latitude: 45.429648
+  longitude: -75.70009
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
