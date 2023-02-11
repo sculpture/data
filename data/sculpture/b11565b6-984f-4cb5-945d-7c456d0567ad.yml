@@ -1,0 +1,19 @@
+id: b11565b6-984f-4cb5-945d-7c456d0567ad
+type: sculpture
+slug: aline-renoir-bronze
+title: Aline Renoir (2)
+artist-ids:
+- 17e195c7-fe4b-4dab-af78-4f4589e72476
+- 85ba61ad-f850-4d7e-bca4-21c8192c3842
+city-id: 16a032c9-ec38-4226-8d03-d6e551035f89
+date: '1916'
+location:
+  latitude: 43.667667
+  longitude: 7.157032
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
