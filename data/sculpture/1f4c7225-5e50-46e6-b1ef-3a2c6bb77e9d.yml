@@ -1,0 +1,17 @@
+id: 1f4c7225-5e50-46e6-b1ef-3a2c6bb77e9d
+type: sculpture
+slug: lion-cne
+title: Lion (CNE)
+artist-ids:
+- d7261014-c529-4391-a807-1676b6cf3ac1
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1926'
+location:
+  latitude: 43.632916
+  longitude: -79.425226
+  precision: 10
+material-ids:
+- 4fb2f843-9c39-4dff-9caf-13aa2b4ea58c
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
