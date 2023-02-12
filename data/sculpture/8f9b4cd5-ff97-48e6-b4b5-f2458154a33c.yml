@@ -1,0 +1,15 @@
+id: 8f9b4cd5-ff97-48e6-b4b5-f2458154a33c
+type: sculpture
+slug: homme-de-pierre
+title: L' Homme de Pierre
+artist-ids:
+- 022f648a-9175-4507-8dbc-cb35f3474239
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '1990'
+location:
+  latitude: 43.702105
+  longitude: 7.278637
+  precision: 10
+material-ids:
+- 32495469-6b62-477a-b272-a0e4e2c0e5c9
+- a267fb56-e090-4da4-b72c-152f966877d9
