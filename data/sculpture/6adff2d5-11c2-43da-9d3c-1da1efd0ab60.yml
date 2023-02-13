@@ -1,0 +1,17 @@
+id: 6adff2d5-11c2-43da-9d3c-1da1efd0ab60
+type: sculpture
+slug: anishinabe-scout-justice
+title: Anishinabe Scout (2)
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1938'
+location:
+  latitude: 45.421192
+  longitude: -75.704113
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- ce5eba46-3dff-4d8c-89c8-4fab2da9a37d
