@@ -1,0 +1,18 @@
+id: e577c4cb-6c37-4dda-818f-f880169659d2
+type: sculpture
+slug: witold-gombrowicz-kielce
+title: Witold Gombrowicz
+artist-ids:
+- c42a1490-99a0-46c8-9da0-a8772b02c2ab
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '2004'
+location:
+  latitude: 50.866743
+  longitude: 20.62196
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6c2bfe1f-8ad4-42af-8a27-b996f6ebbdfa
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
