@@ -1,0 +1,16 @@
+id: c5c486b7-2041-490b-bbea-f7411a99320c
+type: sculpture
+slug: garden-greek-gods-cerberus
+title: Garden of the Greek Gods - Cerberus
+artist-ids:
+- 56d243ae-7954-4107-b7fa-6290ac7cb48f
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1979'
+location:
+  latitude: 43.630897
+  longitude: -79.423338
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
