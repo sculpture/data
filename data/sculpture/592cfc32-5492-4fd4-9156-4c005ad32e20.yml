@@ -1,0 +1,18 @@
+id: 592cfc32-5492-4fd4-9156-4c005ad32e20
+type: sculpture
+slug: explorer-ottawa
+title: Explorer
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1938'
+location:
+  latitude: 45.421135
+  longitude: -75.704006
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
