@@ -1,0 +1,16 @@
+id: 15b93df4-7d8e-45be-a717-b568836135eb
+type: sculpture
+slug: abstract-composition-leger
+title: Abstract composition
+artist-ids:
+- a1a78fbb-0603-4a6b-b39e-715170e6ce06
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+location:
+  latitude: 51.311866
+  longitude: 20.980515
+  precision: 10
+material-ids:
+- 4a979cf3-40f3-4be9-aa71-b79765408367
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
