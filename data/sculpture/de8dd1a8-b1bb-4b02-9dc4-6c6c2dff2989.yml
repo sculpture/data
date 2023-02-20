@@ -1,0 +1,16 @@
+id: de8dd1a8-b1bb-4b02-9dc4-6c6c2dff2989
+type: sculpture
+slug: people-woman
+title: People - Woman
+artist-ids:
+- a7929085-aa59-43c6-bb5e-7b70e8d2df9b
+city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
+date: '1967'
+location:
+  latitude: 45.430143
+  longitude: -75.70918
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- df4890c4-2701-4782-a670-d019b3b95547
