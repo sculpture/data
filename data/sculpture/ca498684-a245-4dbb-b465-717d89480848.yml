@@ -1,0 +1,18 @@
+id: ca498684-a245-4dbb-b465-717d89480848
+type: sculpture
+slug: king-george-vi
+title: King George VI
+artist-ids:
+- e5a50770-469e-4094-aaf1-cdc8749d826a
+city-id: 398dffa8-e6a4-4477-801e-5eaac8904694
+date: '1963'
+location:
+  latitude: 43.086626
+  longitude: -79.077083
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
