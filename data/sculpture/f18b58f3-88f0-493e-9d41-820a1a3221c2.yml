@@ -1,0 +1,18 @@
+id: f18b58f3-88f0-493e-9d41-820a1a3221c2
+type: sculpture
+slug: altar-three-millennia
+title: Altar of the Three Millennia
+artist-ids:
+- a9be2fa2-8156-487f-a6d8-d0a3948c1e70
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '2008'
+link-wikipedia: https://pl.wikipedia.org/wiki/O%C5%82tarz_Trzech_Tysi%C4%85cleci
+location:
+  latitude: 50.048364
+  longitude: 19.938198
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
