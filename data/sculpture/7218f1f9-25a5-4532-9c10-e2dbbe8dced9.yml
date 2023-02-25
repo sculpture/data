@@ -1,0 +1,17 @@
+id: 7218f1f9-25a5-4532-9c10-e2dbbe8dced9
+type: sculpture
+slug: studium-welter
+title: Studium
+artist-ids:
+- d419627a-112b-4b62-9233-43ec800b98ef
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1967'
+location:
+  latitude: 52.189203
+  longitude: 21.026996
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- c9884cff-1c92-48b5-816b-aa0479de54fa
