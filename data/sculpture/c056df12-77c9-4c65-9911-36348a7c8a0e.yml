@@ -1,0 +1,14 @@
+id: c056df12-77c9-4c65-9911-36348a7c8a0e
+type: sculpture
+slug: das-buch-xxiii
+title: Das Buch XXIII
+artist-ids:
+- 9ff2eb23-43a1-43df-9903-2037e16dc7fe
+city-id: 52ca364d-2e9c-46da-aa22-a34ffe6cb7ee
+date: '2019'
+location:
+  latitude: 45.052126
+  longitude: -78.520542
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
