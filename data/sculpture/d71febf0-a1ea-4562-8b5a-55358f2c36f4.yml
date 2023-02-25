@@ -1,0 +1,14 @@
+id: d71febf0-a1ea-4562-8b5a-55358f2c36f4
+type: sculpture
+slug: dreaming-stones
+title: Dreaming Stones
+artist-ids:
+- 48685123-f3aa-4d0c-896e-722631562c78
+city-id: 52ca364d-2e9c-46da-aa22-a34ffe6cb7ee
+date: '2001'
+location:
+  latitude: 45.051414
+  longitude: -78.521432
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
