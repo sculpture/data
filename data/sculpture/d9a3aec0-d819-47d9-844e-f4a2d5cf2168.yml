@@ -1,0 +1,17 @@
+id: d9a3aec0-d819-47d9-844e-f4a2d5cf2168
+type: sculpture
+slug: amaryahu-vaadia
+title: Amaryahu
+artist-ids:
+- b237c6c4-3352-4f16-a8f4-c4bd75f7ee86
+city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
+date: '1997'
+location:
+  latitude: 49.286435
+  longitude: -123.127403
+  precision: 10
+material-ids:
+- 637ed6da-1f2a-49ca-ac5f-60f89b85ab26
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
