@@ -1,0 +1,16 @@
+id: 8ea422b0-b51f-4c13-8060-8eda00957123
+type: sculpture
+slug: cedar-man
+title: 'Cedar Man '
+artist-ids:
+- a2ed9131-92b8-481a-9e3d-41df496acc66
+city-id: 0e68a5f4-ac5e-4b68-b76b-ef9a28543554
+date: '1988'
+location:
+  latitude: 48.778691
+  longitude: -123.707942
+  precision: 10
+material-ids:
+- d10b6251-79c5-4fc3-b359-a45e7e3ce9b5
+tag-ids:
+- cade9829-ef07-4263-827c-a161323c585f
