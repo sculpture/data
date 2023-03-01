@@ -1,0 +1,16 @@
+id: a5c0be06-7fe6-4a48-bb11-c9d0a9e01cf6
+type: sculpture
+slug: monumento-ao-turista
+title: Monumento ao Turista
+artist-ids:
+- 1b0915a9-9c11-4c89-94d4-b580389724da
+city-id: 2728c83e-bce6-4118-a504-439944bc5124
+date: '1989'
+location:
+  latitude: 32.650613
+  longitude: -16.908236
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
