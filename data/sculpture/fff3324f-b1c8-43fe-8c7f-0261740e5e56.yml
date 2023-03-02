@@ -1,0 +1,16 @@
+id: fff3324f-b1c8-43fe-8c7f-0261740e5e56
+type: sculpture
+slug: karol-estreicher
+title: Karol Estreicher
+artist-ids:
+- bd577251-bcf1-4a39-a67d-b96a35dd450a
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '2014'
+location:
+  latitude: 50.061857
+  longitude: 19.933471
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
