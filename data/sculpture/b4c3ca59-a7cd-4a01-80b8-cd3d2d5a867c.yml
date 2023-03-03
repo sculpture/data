@@ -1,0 +1,16 @@
+id: b4c3ca59-a7cd-4a01-80b8-cd3d2d5a867c
+type: sculpture
+slug: massett-pole
+title: Massett pole
+artist-ids:
+- ac47fb21-0e51-4442-94de-d31481ab4e1f
+city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
+date: '1982'
+location:
+  latitude: 49.270136
+  longitude: -123.259396
+  precision: 10
+material-ids:
+- d10b6251-79c5-4fc3-b359-a45e7e3ce9b5
+tag-ids:
+- cade9829-ef07-4263-827c-a161323c585f
