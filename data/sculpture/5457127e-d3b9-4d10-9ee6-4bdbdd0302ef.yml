@@ -1,0 +1,16 @@
+id: 5457127e-d3b9-4d10-9ee6-4bdbdd0302ef
+type: sculpture
+slug: blue-chip
+title: Blue Chip
+artist-ids:
+- 2f0a3a08-bbc7-4d32-8e62-75bf78bfa4a9
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2016'
+location:
+  latitude: 43.671474
+  longitude: -79.393409
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab
