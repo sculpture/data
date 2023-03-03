@@ -1,0 +1,18 @@
+id: 1302dc7f-1e95-4b12-85b0-9a2b3b0c13a2
+type: sculpture
+slug: mira-ziminska-sygietynska
+title: Mira Zimińska-Sygietyńska
+artist-ids:
+- 462e1db3-c2e2-422a-b4ff-62d6c826bbed
+city-id: 07f98394-7cb1-47ce-97d9-ce543bc774a6
+date: '2014'
+location:
+  latitude: 52.543495
+  longitude: 19.690112
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3e179310-873d-4553-96ba-43bd2708f27b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
