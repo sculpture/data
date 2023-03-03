@@ -1,0 +1,17 @@
+id: 7eb1530c-9b76-49f0-bcbd-e4b100c4c2cd
+type: sculpture
+slug: apollo-paley
+title: Apollo
+artist-ids:
+- 80b2b77e-30d5-4558-b7a7-9bc5c54c54d0
+city-id: 1aff16e3-5963-4a1d-b9f6-1ebec654ea71
+date: '1996'
+location:
+  latitude: 42.430276
+  longitude: -71.311246
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
