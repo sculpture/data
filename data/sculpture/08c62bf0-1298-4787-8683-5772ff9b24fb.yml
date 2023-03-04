@@ -1,0 +1,19 @@
+id: 08c62bf0-1298-4787-8683-5772ff9b24fb
+type: sculpture
+slug: stefan-wyszynski
+title: Stefan Wyszyński
+artist-ids:
+- 8f13d940-3dd8-4753-a317-2a350190fa79
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1987'
+link-wikipedia: https://pl.wikipedia.org/wiki/Pomnik_Stefana_Wyszy%C5%84skiego_w_Warszawie
+location:
+  latitude: 52.241162
+  longitude: 21.0166
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2965e068-6250-4ba0-a708-376890e43ac4
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
