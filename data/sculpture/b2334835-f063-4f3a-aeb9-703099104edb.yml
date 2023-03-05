@@ -1,0 +1,17 @@
+id: b2334835-f063-4f3a-aeb9-703099104edb
+type: sculpture
+slug: social-theatre-6-emancipation
+title: Social Theatre V
+artist-ids:
+- 8472f684-4b5d-4d5e-8eb8-5373b86fe4a1
+- 8dbed0ca-9de0-4167-bb1a-57a7586ecd43
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1997'
+location:
+  latitude: 43.642603
+  longitude: -79.39381
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
