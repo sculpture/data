@@ -1,0 +1,18 @@
+id: 3011116e-65d3-4d28-9a0c-b08eed999fba
+type: sculpture
+slug: la-cigale-laszczka
+title: La Cigale
+artist-ids:
+- 7b5367e0-31d3-413a-aa60-1bf0a45c0c11
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1895'
+location:
+  latitude: 52.231599
+  longitude: 21.024799
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
