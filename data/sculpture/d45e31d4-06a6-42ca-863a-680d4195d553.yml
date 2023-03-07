@@ -1,0 +1,18 @@
+id: d45e31d4-06a6-42ca-863a-680d4195d553
+type: sculpture
+slug: danube-nymph
+title: Danube Nymph
+artist-ids:
+- 301f89c0-3975-4323-9c2e-147cf0abca26
+city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
+date: '1845'
+location:
+  latitude: 50.089237
+  longitude: 14.396782
+  precision: 10
+material-ids:
+- 2bbf7631-76ad-44dd-ac61-6d91ac0cedf8
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
