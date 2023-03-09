@@ -1,0 +1,18 @@
+id: 6d343092-6c39-421e-b0b1-63cb5353e62f
+type: sculpture
+slug: moose-scraps
+title: Moose Scraps
+artist-ids:
+- afe95cff-c56b-42b2-a0b2-fa4fe71c526d
+city-id: 666b6fb8-bb4d-480e-bf5c-9eb3b39a8659
+date: '2001'
+location:
+  latitude: 45.052665
+  longitude: -78.521561
+  precision: 10
+material-ids:
+- 32495469-6b62-477a-b272-a0e4e2c0e5c9
+tag-ids:
+- 4dae8901-072d-4758-9b44-c5089bf1a804
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
