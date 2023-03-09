@@ -1,0 +1,17 @@
+id: 29770b0d-2f3e-46ee-86be-b2f568d9baa8
+type: sculpture
+slug: eatons-mausoleum-lion
+title: Eaton's mausoleum - Lion
+artist-ids:
+- e9d8f694-38e5-445c-b203-1cd25378c8c1
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1907'
+location:
+  latitude: 43.694646
+  longitude: -79.381542
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
