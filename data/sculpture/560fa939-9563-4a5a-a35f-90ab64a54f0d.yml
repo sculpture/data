@@ -1,0 +1,20 @@
+id: 560fa939-9563-4a5a-a35f-90ab64a54f0d
+type: sculpture
+slug: jan-karski-kielce
+title: Jan Karski (Kielce)
+artist-ids:
+- bd577251-bcf1-4a39-a67d-b96a35dd450a
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '2005'
+location:
+  latitude: 50.871845
+  longitude: 20.625631
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 21b5d04c-9fea-4c3d-a0d6-2b9dff10c299
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 6357f79b-9010-443c-bf4e-1fe3dddd3649
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
