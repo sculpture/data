@@ -1,0 +1,16 @@
+id: 9af9836e-191e-4685-aacf-48d5d3291a77
+type: sculpture
+slug: balancing-act
+title: Balancing Act
+artist-ids:
+- 025314fc-41c1-44dc-9228-629a6aeb3bb9
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2018'
+location:
+  latitude: 43.73412
+  longitude: -79.357368
+  precision: 10
+material-ids:
+- ed9a51ef-e738-4ea3-9839-cdc6c0e8aea9
+tag-ids:
+- f3c0c272-150c-42cd-9a87-bd121fdc1309
