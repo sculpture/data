@@ -1,0 +1,18 @@
+id: bfd1350d-deac-43ec-ae29-c00672a4a618
+type: sculpture
+slug: sons-of-the-artist-laszczka
+title: Sons of the artist
+artist-ids:
+- 7b5367e0-31d3-413a-aa60-1bf0a45c0c11
+city-id: 07f98394-7cb1-47ce-97d9-ce543bc774a6
+date: '1901'
+location:
+  latitude: 52.54344
+  longitude: 19.690348
+  precision: 10
+material-ids:
+- 30a429a5-046a-4178-9bfe-9474196b4ff5
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
