@@ -4,13 +4,14 @@ slug: bull-elephant
 title: Bull Elephant
 artist-ids:
 - 26054aaa-22fc-4418-b2af-521e57da6410
-date: 201*
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2017'
 location:
   latitude: 43.733902
   longitude: -79.357712
   precision: 10
 material-ids:
-- 638725f5-0ac9-4b92-916d-b98af20b3df5
+- 722fbd38-cceb-491b-86ec-661191b2ea1b
 tag-ids:
 - 5e46697e-16c7-4478-a438-202749e4888d
 - 89f78d37-2315-4104-bfe7-610b444b2485
