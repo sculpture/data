@@ -1,0 +1,14 @@
+id: 7c0a7375-9fca-4961-adc8-e8a29a42aa2c
+type: sculpture
+slug: terminus-reim
+title: Terminus
+artist-ids:
+- 9ff2eb23-43a1-43df-9903-2037e16dc7fe
+city-id: 52ca364d-2e9c-46da-aa22-a34ffe6cb7ee
+date: '2002'
+location:
+  latitude: 45.052372
+  longitude: -78.520488
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
