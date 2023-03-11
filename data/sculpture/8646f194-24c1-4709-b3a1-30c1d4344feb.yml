@@ -1,0 +1,14 @@
+id: 8646f194-24c1-4709-b3a1-30c1d4344feb
+type: sculpture
+slug: kontrasty-1-mordeau
+title: Kontrasty I
+artist-ids:
+- e3da1fba-1065-4e51-829d-78eb9fa5e90f
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2008'
+location:
+  latitude: 52.231406
+  longitude: 21.011842
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
