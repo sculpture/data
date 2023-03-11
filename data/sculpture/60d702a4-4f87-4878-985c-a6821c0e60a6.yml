@@ -1,0 +1,16 @@
+id: 60d702a4-4f87-4878-985c-a6821c0e60a6
+type: sculpture
+slug: bull-elephant
+title: Bull Elephant
+artist-ids:
+- 26054aaa-22fc-4418-b2af-521e57da6410
+date: 201*
+location:
+  latitude: 43.733902
+  longitude: -79.357712
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
