@@ -1,0 +1,18 @@
+id: eec9948c-9b5f-4ba1-9576-485c145c4885
+type: sculpture
+slug: wojciech-korfanty
+title: Wojciech Korfanty
+artist-ids:
+- bd577251-bcf1-4a39-a67d-b96a35dd450a
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2019'
+location:
+  latitude: 52.218352
+  longitude: 21.02584
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 6e9f5dde-187e-4a79-8816-375f4e66539a
+- f608c279-0df9-40f8-b0c6-c900a4ded7bf
