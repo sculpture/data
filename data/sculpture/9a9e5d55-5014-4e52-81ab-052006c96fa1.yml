@@ -1,0 +1,17 @@
+id: 9a9e5d55-5014-4e52-81ab-052006c96fa1
+type: sculpture
+slug: pegasus-duca
+title: Pegasus (Duca)
+artist-ids:
+- 63d66ac6-dbf7-4300-ba51-69958c9e2253
+city-id: 1aff16e3-5963-4a1d-b9f6-1ebec654ea71
+date: '1958'
+location:
+  latitude: 42.430557
+  longitude: -71.311959
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
