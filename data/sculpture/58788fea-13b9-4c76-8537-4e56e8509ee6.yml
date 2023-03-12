@@ -1,0 +1,19 @@
+id: 58788fea-13b9-4c76-8537-4e56e8509ee6
+type: sculpture
+slug: emile-loubon
+title: Emile Loubon
+artist-ids:
+- 4bb5afde-3cae-433e-9db5-ab36c454629e
+city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
+date: '1852'
+location:
+  latitude: 43.525444
+  longitude: 5.452671
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b078f909-a131-4d37-8b36-59061078b159
