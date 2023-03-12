@@ -1,0 +1,18 @@
+id: 0697e8fd-fe66-420a-bed8-e6f7f46e9f7b
+type: sculpture
+slug: pietro-perugino
+title: Pietro Perugino
+artist-ids:
+- 209900f7-4566-47dc-bd0d-3a07f6f64623
+city-id: 566c4d79-78da-412a-b533-e99b8758f179
+date: '1923'
+location:
+  latitude: 43.108167
+  longitude: 12.388001
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- b078f909-a131-4d37-8b36-59061078b159
