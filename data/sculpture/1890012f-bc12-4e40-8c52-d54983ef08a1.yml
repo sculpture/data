@@ -1,0 +1,14 @@
+id: 1890012f-bc12-4e40-8c52-d54983ef08a1
+type: sculpture
+slug: steel-etude
+title: Steel Etude
+artist-ids:
+- 88a337b7-2a95-4714-8244-9b9037b31864
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1968'
+location:
+  latitude: 52.228074
+  longitude: 20.950224
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
