@@ -1,0 +1,19 @@
+id: d00089a4-5a1b-4bae-adcf-38afd6524ae8
+type: sculpture
+slug: st-michael-loring
+title: St.Michael (Loring)
+artist-ids:
+- 339eed06-1891-429d-bbd7-16d68b860892
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1937'
+location:
+  latitude: 43.653797
+  longitude: -79.377458
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
