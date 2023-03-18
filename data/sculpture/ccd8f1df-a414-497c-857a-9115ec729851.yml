@@ -1,0 +1,17 @@
+id: ccd8f1df-a414-497c-857a-9115ec729851
+type: sculpture
+slug: chorus-lefkovitz
+title: The Chorus
+artist-ids:
+- cc37ad65-cc2f-4499-9131-c5cee2b54b5e
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1966'
+location:
+  latitude: 43.671197
+  longitude: -79.393317
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
