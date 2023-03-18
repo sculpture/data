@@ -1,0 +1,18 @@
+id: e25ba6de-6d95-4b2a-81dc-17f078b55294
+type: sculpture
+slug: charles-alexander-of-lorraine
+title: Charles Alexander of Lorraine
+artist-ids:
+- 35bdc6ec-91ef-4534-8353-4c775aac2122
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1848'
+location:
+  latitude: 50.842094
+  longitude: 4.358758
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 53670a93-6753-4afd-a6c7-219f31fc8088
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
