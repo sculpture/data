@@ -1,0 +1,19 @@
+id: d85401fb-71ea-4727-80b1-7b884242d29d
+type: sculpture
+slug: bronislaw-opalko
+title: Bronisław Opałko
+artist-ids:
+- aee49002-af99-4ef5-b907-eb68a3b1e6a6
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '2022'
+location:
+  latitude: 50.871209
+  longitude: 20.627773
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 21b5d04c-9fea-4c3d-a0d6-2b9dff10c299
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 3e179310-873d-4553-96ba-43bd2708f27b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
