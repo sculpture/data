@@ -1,0 +1,14 @@
+id: 6de327c4-34b5-45c8-a391-b128a31eb55b
+type: sculpture
+slug: sawa-wiater
+title: Sawa
+artist-ids:
+- 78b74d76-fc27-4e65-97e2-71d238b7b105
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2009'
+location:
+  latitude: 52.232192
+  longitude: 21.011285
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
