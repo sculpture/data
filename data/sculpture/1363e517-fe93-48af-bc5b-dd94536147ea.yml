@@ -1,0 +1,13 @@
+id: 1363e517-fe93-48af-bc5b-dd94536147ea
+type: sculpture
+slug: texas-triangles
+title: Texas Triangles
+artist-ids:
+- a5b8c213-99a0-484a-b647-2efc6603ec00
+date: '1983'
+location:
+  latitude: 42.430344
+  longitude: -71.311246
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
