@@ -1,0 +1,17 @@
+id: 3f976293-37c9-469b-b091-4e066789cf73
+type: sculpture
+slug: il-gioco-infinito
+title: Il gioco infinito
+artist-ids:
+- 5c877d94-a8e5-4b7e-8388-8386072ebb54
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2020'
+location:
+  latitude: 43.670276
+  longitude: -79.39407
+  precision: 10
+material-ids:
+- 20ec9050-85db-4ec6-8fef-806598bcee75
+tag-ids:
+- ce5eba46-3dff-4d8c-89c8-4fab2da9a37d
+- d973207a-6b23-4505-a84d-d2339bc3a55c
