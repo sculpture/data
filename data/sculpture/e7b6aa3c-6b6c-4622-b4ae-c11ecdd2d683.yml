@@ -1,0 +1,14 @@
+id: e7b6aa3c-6b6c-4622-b4ae-c11ecdd2d683
+type: sculpture
+slug: exported-floras
+title: Exported Floras
+artist-ids:
+- 5811afa2-bc2a-4840-95c5-8b23df552640
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2016'
+location:
+  latitude: 43.673423
+  longitude: -79.39095
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
