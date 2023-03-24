@@ -1,0 +1,15 @@
+id: 988e0147-9d1b-441e-81d3-59d845a632c7
+type: sculpture
+slug: matches
+title: Matches
+artist-ids:
+- bcaaf060-ddd6-49f1-b113-420481aabc7a
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '1992'
+location:
+  latitude: 51.312696
+  longitude: 20.982183
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- 983d1c37-99da-4b1d-baba-681a83e66d30
