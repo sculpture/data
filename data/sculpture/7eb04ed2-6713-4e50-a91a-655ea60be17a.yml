@@ -1,0 +1,16 @@
+id: 7eb04ed2-6713-4e50-a91a-655ea60be17a
+type: sculpture
+slug: fountain-cormier
+title: Fountain (Cormier)
+artist-ids:
+- 1e6510b5-cb14-456d-b30c-f5eadebe4195
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2012'
+location:
+  latitude: 43.672111
+  longitude: -79.389362
+  precision: 10
+material-ids:
+- 3cd25954-9a6b-478f-a4a4-8470c3972f2c
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
