@@ -1,0 +1,15 @@
+id: 9a51d920-3f05-470d-ba69-ecc0c9987cde
+type: sculpture
+slug: lissome-5
+title: 'Lissome #5'
+artist-ids:
+- b755da41-85f5-4a69-9d64-728c13531fc0
+city-id: 52ca364d-2e9c-46da-aa22-a34ffe6cb7ee
+date: '2013'
+location:
+  latitude: 45.052096
+  longitude: -78.52264
+  precision: 10
+material-ids:
+- 4fb2f843-9c39-4dff-9caf-13aa2b4ea58c
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
