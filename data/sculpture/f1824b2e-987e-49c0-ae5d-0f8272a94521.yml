@@ -1,0 +1,18 @@
+id: f1824b2e-987e-49c0-ae5d-0f8272a94521
+type: sculpture
+slug: creation-of-eve
+title: Creation of Eve
+artist-ids:
+- a5cbc20a-263c-4f4f-9c1d-cd64941941b1
+city-id: 6f6f1ffd-8616-431e-9d18-dc9dd8af38c5
+date: 131*
+location:
+  latitude: 42.716881
+  longitude: 12.113048
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 8edbb59e-b498-4210-9981-8781235cafcd
