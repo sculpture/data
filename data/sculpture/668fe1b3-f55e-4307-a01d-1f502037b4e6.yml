@@ -1,0 +1,21 @@
+id: 668fe1b3-f55e-4307-a01d-1f502037b4e6
+type: sculpture
+slug: rubens-ezekiel
+title: Peter Paul Rubens
+artist-ids:
+- 270026ac-0725-4434-8021-83c9f9e4c0f7
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: 188*
+location:
+  latitude: 38.890762
+  longitude: -77.029444
+  precision: 10
+material-ids:
+- e178e599-246c-4631-b541-63f7a46598f9
+note: replica created in 1974 by Renato Lucchetti. Original in Botanical Gardens in
+  Norfolk, Virginia
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- b078f909-a131-4d37-8b36-59061078b159
