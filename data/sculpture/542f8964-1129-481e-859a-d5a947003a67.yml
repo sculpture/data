@@ -1,0 +1,20 @@
+id: 542f8964-1129-481e-859a-d5a947003a67
+type: sculpture
+slug: st-peter-enthroned
+title: St. Peter Enthroned
+artist-ids:
+- e607b737-b63a-4fcb-ba1c-27c95471181f
+city-id: 6f764414-6c09-413d-94b9-2ebe5fafdf7e
+date: '1300'
+location:
+  latitude: 41.902121
+  longitude: 12.453947
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- de83a4c2-214e-45fb-a307-c835449e52bf
