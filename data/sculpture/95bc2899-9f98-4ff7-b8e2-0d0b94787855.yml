@@ -1,0 +1,16 @@
+id: 95bc2899-9f98-4ff7-b8e2-0d0b94787855
+type: sculpture
+slug: the-parson
+title: The Parson
+artist-ids:
+- 8221d084-6345-4eb5-9bc4-d1b3d278be36
+city-id: 29c04be3-e495-4c7c-bd72-b3d935fef86d
+date: '2000'
+location:
+  latitude: 43.81632
+  longitude: -79.07466
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- c9884cff-1c92-48b5-816b-aa0479de54fa
