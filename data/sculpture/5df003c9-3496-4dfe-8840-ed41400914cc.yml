@@ -1,0 +1,21 @@
+id: 5df003c9-3496-4dfe-8840-ed41400914cc
+type: sculpture
+slug: black-crescent
+title: Black Crescent
+artist-ids:
+- 7ad71af4-c9b7-49d0-9765-ba2a674856a0
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1960'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+- 9385bbd2-7cde-4f62-947f-3c517c785c1f
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 85105298-6047-4f80-88ec-76aa0b77d815
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e7c0d105-ed1d-4e46-8cd8-a5153a2a784d
