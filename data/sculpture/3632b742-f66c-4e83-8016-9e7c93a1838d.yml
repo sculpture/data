@@ -1,0 +1,20 @@
+id: 3632b742-f66c-4e83-8016-9e7c93a1838d
+type: sculpture
+slug: pope-gregory-xv
+title: Pope Gregory XV
+artist-ids:
+- f4693d05-5d93-4c05-868b-6fa45ade4f36
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1621'
+link-wikipedia: https://en.wikipedia.org/wiki/Bust_of_Pope_Gregory_XV
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6c068959-5222-4073-b890-313bf91ca2b4
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
