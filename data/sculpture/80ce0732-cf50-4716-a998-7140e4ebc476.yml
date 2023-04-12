@@ -1,0 +1,18 @@
+id: 80ce0732-cf50-4716-a998-7140e4ebc476
+type: sculpture
+slug: sea-form-porthmeor
+title: Sea Form (Porthmeor)
+artist-ids:
+- 3a4702d2-d46e-4c0a-8c65-590a5b788eea
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Gift of Sam and Ayala Zacks
+date: '1958'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
