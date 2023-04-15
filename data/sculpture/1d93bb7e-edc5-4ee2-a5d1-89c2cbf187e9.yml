@@ -1,0 +1,17 @@
+id: 1d93bb7e-edc5-4ee2-a5d1-89c2cbf187e9
+type: sculpture
+slug: fallen-and-murdered-in-the-east
+title: Fallen and Murdered in the East
+artist-ids:
+- 76466d39-2c43-4beb-ab8f-b463a531f0ec
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1995'
+link-wikipedia: https://en.wikipedia.org/wiki/Monument_to_the_Fallen_and_Murdered_in_the_East
+location:
+  latitude: 52.253743
+  longitude: 20.998594
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
