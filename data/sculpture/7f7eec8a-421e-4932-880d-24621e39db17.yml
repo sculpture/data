@@ -1,0 +1,19 @@
+id: 7f7eec8a-421e-4932-880d-24621e39db17
+type: sculpture
+slug: monumento-autonomia-funchal
+title: Monumento à Autonomia
+artist-ids:
+- 1b0915a9-9c11-4c89-94d4-b580389724da
+city-id: 2728c83e-bce6-4118-a504-439944bc5124
+date: '1987'
+location:
+  latitude: 32.646837
+  longitude: -16.905811
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
