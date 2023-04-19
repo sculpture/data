@@ -3,12 +3,12 @@ type: sculpture
 slug: jozef-bem-lazienki
 title: Józef Bem
 artist-ids:
-- 21b9c7c2-75ec-4e7c-8796-bab74d32930e
+- 1a25ec6a-bb17-4dad-bbd7-b891ea47f159
 city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
-date: '1927'
+date: '1924'
 location:
-  latitude: 52.215896
-  longitude: 21.038132
+  latitude: 52.213749
+  longitude: 21.038024
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
