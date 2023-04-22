@@ -1,0 +1,14 @@
+id: d63bea87-b46f-4878-9438-2b552687c8bd
+type: sculpture
+slug: musicians-warszawa
+title: Musicians
+artist-ids:
+- 4b011c26-471f-496e-a209-1e6b1f5919b7
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2010'
+location:
+  latitude: 52.21286
+  longitude: 20.999851
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
