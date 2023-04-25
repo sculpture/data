@@ -1,0 +1,18 @@
+id: cd01eb70-1326-4ad4-a495-8f9d69a12baa
+type: sculpture
+slug: christopher-columbus-funchal
+title: Christopher Columbus
+artist-ids:
+- 9213c0ec-3aa2-46e6-9e69-360c6bfde931
+city-id: 2728c83e-bce6-4118-a504-439944bc5124
+date: '1940'
+location:
+  latitude: 32.645121
+  longitude: -16.915005
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 69050b3c-166a-422e-86ce-a9c6f896805a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
