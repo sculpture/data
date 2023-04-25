@@ -1,0 +1,17 @@
+id: 3f2d7a4e-7a82-4753-83c9-3fdcba3a802a
+type: sculpture
+slug: fishermen
+title: Fishermen
+artist-ids:
+- 914b4b20-b3ae-4706-8acc-f8d5170c3e78
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1936'
+location:
+  latitude: 52.248222
+  longitude: 21.001408
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2d488599-d808-40db-80a2-88b41c7bdb67
