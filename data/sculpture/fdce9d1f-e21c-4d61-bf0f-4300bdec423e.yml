@@ -1,0 +1,20 @@
+id: fdce9d1f-e21c-4d61-bf0f-4300bdec423e
+type: sculpture
+slug: bust-moliere-llisbon
+title: 'Bust of Molière '
+artist-ids:
+- e5e32540-b144-417f-82b6-bbcdcc396abf
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1785'
+location:
+  latitude: 38.737812
+  longitude: -9.153546
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 6c2bfe1f-8ad4-42af-8a27-b996f6ebbdfa
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
