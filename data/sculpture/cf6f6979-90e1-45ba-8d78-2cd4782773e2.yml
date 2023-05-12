@@ -1,0 +1,17 @@
+id: cf6f6979-90e1-45ba-8d78-2cd4782773e2
+type: sculpture
+slug: o-drawing-ago
+title: O Drawing
+artist-ids:
+- ca17b203-f940-4f45-853d-3c61feb898a9
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1957'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
