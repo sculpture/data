@@ -1,0 +1,17 @@
+id: acb647af-17e8-475e-83c1-ed1410688598
+type: sculpture
+slug: motherhood-botero-lisbon
+title: La Maternidad
+artist-ids:
+- 62e84dc2-a16e-45c0-88e6-a4b03bbbe63c
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1989'
+link-wikipedia: https://es.wikipedia.org/wiki/La_Maternidad_(Botero)
+location:
+  latitude: 38.731334
+  longitude: -9.153997
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- ea310784-30d7-4a31-9c7b-22e86c3cf049
