@@ -1,0 +1,14 @@
+id: 5f408e3d-3a11-4c3b-a5d6-f0da7232a16c
+type: sculpture
+slug: hibou-a-montreal
+title: Hibou A
+artist-ids:
+- 022b1b00-5de3-41d8-89d1-e188d4d6fbbb
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1970'
+location:
+  latitude: 45.498244
+  longitude: -73.579776
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
