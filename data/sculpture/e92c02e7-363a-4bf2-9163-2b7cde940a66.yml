@@ -1,0 +1,18 @@
+id: e92c02e7-363a-4bf2-9163-2b7cde940a66
+type: sculpture
+slug: torso-self-portrait
+title: Torso, Self Portrait
+artist-ids:
+- 5c66fbc8-3069-4495-a5a7-8ecaacc2935c
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1964'
+location:
+  latitude: 38.695102
+  longitude: -9.209627
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
