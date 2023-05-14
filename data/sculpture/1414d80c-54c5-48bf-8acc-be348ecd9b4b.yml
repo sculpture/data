@@ -1,0 +1,18 @@
+id: 1414d80c-54c5-48bf-8acc-be348ecd9b4b
+type: sculpture
+slug: zittend-meisje
+title: ' Zittend Meisje'
+artist-ids:
+- 50073eda-6831-44e6-b4b2-84bf8eead621
+city-id: bc7ca2c7-aac6-4ab7-85ca-d4786262d8a8
+date: '1988'
+location:
+  latitude: 50.877852
+  longitude: 4.69096
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
