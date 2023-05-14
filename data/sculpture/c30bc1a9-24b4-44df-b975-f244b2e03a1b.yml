@@ -1,0 +1,17 @@
+id: c30bc1a9-24b4-44df-b975-f244b2e03a1b
+type: sculpture
+slug: borne-au-logos-v
+title: Borne au Logos V
+artist-ids:
+- a7230cc1-62f3-42ae-bb7c-23d59d79e17b
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1967'
+location:
+  latitude: 38.695874
+  longitude: -9.209091
+  precision: 10
+material-ids:
+- b46e929f-a326-483e-8abb-82c3f2695a69
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
