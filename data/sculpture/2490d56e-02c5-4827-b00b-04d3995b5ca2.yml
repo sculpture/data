@@ -1,0 +1,19 @@
+id: 2490d56e-02c5-4827-b00b-04d3995b5ca2
+type: sculpture
+slug: bruno-cherier
+title: Bruno Cherier
+artist-ids:
+- e2cef29d-151d-4857-acb2-d56e767f044c
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1875'
+location:
+  latitude: 38.737812
+  longitude: -9.153546
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b078f909-a131-4d37-8b36-59061078b159
