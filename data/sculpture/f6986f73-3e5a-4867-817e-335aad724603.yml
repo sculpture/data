@@ -1,0 +1,18 @@
+id: f6986f73-3e5a-4867-817e-335aad724603
+type: sculpture
+slug: ingmar-bergman-kielce
+title: Ingmar Bergman
+artist-ids:
+- 8148bc26-bc3e-40c4-83ad-31f48fdef184
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '2011'
+location:
+  latitude: 50.866303
+  longitude: 20.621284
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6c2bfe1f-8ad4-42af-8a27-b996f6ebbdfa
+- 71e997ad-79cb-4ded-9f64-ac3948528d27
