@@ -1,0 +1,18 @@
+id: 39dcb994-81b9-4ddd-9cfb-ecb424e50458
+type: sculpture
+slug: the-blessings-rodin
+title: The Blessings
+artist-ids:
+- 0d0131e9-ece4-417f-80bd-904e881f478e
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1900'
+location:
+  latitude: 38.737812
+  longitude: -9.153546
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
