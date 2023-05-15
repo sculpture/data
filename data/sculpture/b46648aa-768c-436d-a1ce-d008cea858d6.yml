@@ -1,0 +1,15 @@
+id: b46648aa-768c-436d-a1ce-d008cea858d6
+type: sculpture
+slug: cloaked-figure-ix
+title: Cloaked Figure IX
+artist-ids:
+- aee9b5c3-7165-4ae9-95a8-aeb8bfc2e348
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1978'
+location:
+  latitude: 45.498721
+  longitude: -73.579925
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast 1989 2/6
