@@ -1,0 +1,19 @@
+id: f13b82e5-72e9-4195-acce-e1e77a00b16b
+type: sculpture
+slug: white-aphrodisiac-telephone-lisbon
+title: 'White Aphrodisiac Telephone '
+artist-ids:
+- 63db084d-333a-4c71-8894-3c9357c592e2
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1938'
+link-wikipedia: https://en.wikipedia.org/wiki/Lobster_Telephone
+location:
+  latitude: 38.695874
+  longitude: -9.209091
+  precision: 10
+material-ids:
+- 1df5830e-aa31-460c-a366-f07356994824
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
