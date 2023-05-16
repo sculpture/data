@@ -1,0 +1,15 @@
+id: f03f3408-2294-4d92-8f56-ae0c524e05db
+type: sculpture
+slug: fire-ice-big-shoe
+title: 'Fire and Ice: A Really Big Shoe'
+artist-ids:
+- 82c749ec-d4ac-4e2f-a282-be2d511d7e17
+city-id: 52ca364d-2e9c-46da-aa22-a34ffe6cb7ee
+date: '2009'
+location:
+  latitude: 45.052581
+  longitude: -78.522001
+  precision: 10
+material-ids:
+- 9385bbd2-7cde-4f62-947f-3c517c785c1f
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
