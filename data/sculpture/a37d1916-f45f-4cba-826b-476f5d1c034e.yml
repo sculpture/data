@@ -1,0 +1,17 @@
+id: a37d1916-f45f-4cba-826b-476f5d1c034e
+type: sculpture
+slug: beast-160-lisbon
+title: Beast, 160
+artist-ids:
+- aee9b5c3-7165-4ae9-95a8-aeb8bfc2e348
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1955'
+location:
+  latitude: 38.695874
+  longitude: -9.209091
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
