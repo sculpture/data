@@ -1,0 +1,20 @@
+id: cd06bb94-4151-4c20-a997-c27ea50a6a42
+type: sculpture
+slug: alphonse-legros
+title: Alphonse Legros
+artist-ids:
+- 0d0131e9-ece4-417f-80bd-904e881f478e
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1919'
+location:
+  latitude: 38.737812
+  longitude: -9.153546
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 88a0e756-4193-4ff2-9d96-f1844c05f5e5
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b078f909-a131-4d37-8b36-59061078b159
