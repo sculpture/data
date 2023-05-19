@@ -1,0 +1,17 @@
+id: bf29ad39-7e2a-46de-9444-9c85e068e154
+type: sculpture
+slug: brant-war-memorial-young-2
+title: Brant War Memorial (2)
+artist-ids:
+- e7c4b90b-4f1a-4409-84c2-670a9bfd7e7a
+city-id: ceac255d-267b-4eb0-84ab-e518a441c459
+date: '1992'
+location:
+  latitude: 43.139387
+  longitude: -80.264425
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
