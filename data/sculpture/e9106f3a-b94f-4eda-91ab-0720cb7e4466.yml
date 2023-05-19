@@ -1,0 +1,19 @@
+id: e9106f3a-b94f-4eda-91ab-0720cb7e4466
+type: sculpture
+slug: venus-bleue-s-41
+title: Venus Bleue (S 41)
+artist-ids:
+- b34d2a5a-695a-4675-893f-4e058ef0c409
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1962'
+location:
+  latitude: 38.695874
+  longitude: -9.209091
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
