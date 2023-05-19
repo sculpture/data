@@ -1,0 +1,17 @@
+id: e995487d-f901-4a74-a56a-2b83d180c5db
+type: sculpture
+slug: stringed-figure-moore-lisbon
+title: Stringed Figure
+artist-ids:
+- 2fb2873a-8083-45af-b967-a8ffd1e0b75d
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1937'
+location:
+  latitude: 38.695874
+  longitude: -9.209091
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
