@@ -1,0 +1,15 @@
+id: 2fed4317-cd3f-40d0-b784-1a32f862d314
+type: sculpture
+slug: three-piece-reclining-figure-1-montreal
+title: Three Piece Reclining Figure No. 1  (M)
+artist-ids:
+- 2fb2873a-8083-45af-b967-a8ffd1e0b75d
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1962'
+link-wikipedia: https://en.wikipedia.org/wiki/Three_Piece_Elongated_Figure_No._1
+location:
+  latitude: 45.498496
+  longitude: -73.580092
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
