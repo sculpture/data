@@ -1,0 +1,20 @@
+id: 1741070b-0593-4771-91d3-af6e631ff595
+type: sculpture
+slug: donna-sdraiata-lisbon
+title: Donna Sdraiata
+artist-ids:
+- 7997a231-35dd-4fcd-8909-77551c938702
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1951'
+location:
+  latitude: 38.695874
+  longitude: -9.209091
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
