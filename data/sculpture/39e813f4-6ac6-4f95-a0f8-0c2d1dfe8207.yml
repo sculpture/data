@@ -1,0 +1,14 @@
+id: 39e813f4-6ac6-4f95-a0f8-0c2d1dfe8207
+type: sculpture
+slug: drogowskazy-kasten
+title: Drogowskazy
+artist-ids:
+- a113e0f4-722a-4c45-8709-a4fffc0d92d5
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1968'
+location:
+  latitude: 52.22776
+  longitude: 20.948941
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
