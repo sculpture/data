@@ -1,0 +1,20 @@
+id: 55e986ed-5ea1-4439-99fc-f76127c3017c
+type: sculpture
+slug: le-debardeur-warsaw
+title: 'Le Débardeur '
+artist-ids:
+- 1e6510b5-cb14-456d-b30c-f5eadebe4195
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1885'
+location:
+  latitude: 52.231599
+  longitude: 21.024799
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e7acccc-b938-4472-ab16-90a5bad576a3
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- c9884cff-1c92-48b5-816b-aa0479de54fa
