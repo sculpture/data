@@ -1,0 +1,18 @@
+id: 05f20a04-e4f2-4fde-84d9-2fb926328cf0
+type: sculpture
+slug: the-frst-cry-ago
+title: The First Cry
+artist-ids:
+- e9fbb5b3-979a-4f86-b95c-43a9d9a3c1ec
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1914'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- b056b6a2-cc0e-43ec-84ae-887480ee3706
+note: cast 1918
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
