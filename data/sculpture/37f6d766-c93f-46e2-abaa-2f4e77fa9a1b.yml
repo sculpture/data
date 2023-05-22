@@ -1,0 +1,18 @@
+id: 37f6d766-c93f-46e2-abaa-2f4e77fa9a1b
+type: sculpture
+slug: padrao-dos-descobrimentos
+title: Padrão dos Descobrimentos
+artist-ids:
+- c97bf8c1-e8b2-4c56-81a5-089abf660c71
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1960'
+link-wikipedia: https://en.wikipedia.org/wiki/Padr%C3%A3o_dos_Descobrimentos
+location:
+  latitude: 38.691794
+  longitude: -9.213842
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 69050b3c-166a-422e-86ce-a9c6f896805a
