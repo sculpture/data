@@ -1,0 +1,14 @@
+id: 462e8af7-3974-47da-8191-fcab80d08542
+type: sculpture
+slug: fygure-sopot
+title: Figure
+artist-ids:
+- 7caafc96-ff5b-425d-985e-7ddff665f588
+city-id: 6358b7c4-0c6c-4171-9d4b-be514ac39d61
+date: '2016'
+location:
+  latitude: 54.443489
+  longitude: 18.564586
+  precision: 100
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
