@@ -1,0 +1,17 @@
+id: f6475a89-b8f6-4c40-97f7-a3a2e1dcad5c
+type: sculpture
+slug: monumento-inmaculada-concepcion
+title: Monumento a la Inmaculada Concepción
+artist-ids:
+- 471829a9-aff6-4f4c-93a6-4ffac27eb4ca
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '1918'
+location:
+  latitude: 37.385149
+  longitude: -5.992097
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
+- 3896ed41-4440-40fa-9a21-6903c94fada2
