@@ -1,0 +1,15 @@
+id: 34aa447e-74da-48c7-bb87-3f356b9c8a98
+type: sculpture
+slug: monumento-tolerancia
+title: Monumento a la tolerancia
+artist-ids:
+- fd659bae-6fe7-4364-94f1-ab2a288cac22
+city-id: 6c2ff486-7a44-482f-923f-ad500130a742
+date: '1992'
+link-wikipedia: https://es.wikipedia.org/wiki/Monumento_a_la_tolerancia
+location:
+  latitude: 37.386214
+  longitude: -6.000902
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
