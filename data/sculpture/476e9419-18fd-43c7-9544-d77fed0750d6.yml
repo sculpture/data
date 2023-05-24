@@ -1,0 +1,16 @@
+id: 476e9419-18fd-43c7-9544-d77fed0750d6
+type: sculpture
+slug: in-memoriam-i
+title: 'In Memoriam I '
+artist-ids:
+- b373ce8a-c698-4668-8ec8-851c378ee92a
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1981'
+location:
+  latitude: 45.502079
+  longitude: -73.567875
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
