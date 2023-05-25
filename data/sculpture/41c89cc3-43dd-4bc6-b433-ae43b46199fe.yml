@@ -1,0 +1,16 @@
+id: 41c89cc3-43dd-4bc6-b433-ae43b46199fe
+type: sculpture
+slug: tomb-boleslaw-prus
+title: Tomb of Boleslaw Prus
+artist-ids:
+- dc406fe3-a9dd-4334-ab3d-4b5cb44bc60c
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1912'
+location:
+  latitude: 52.251369
+  longitude: 20.969569
+  precision: 100
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
