@@ -1,0 +1,18 @@
+id: efea1b43-5fb8-4eb4-9037-a4f2b3399c1b
+type: sculpture
+slug: jose-luis-vazquez
+title: 'José Luis Vázquez  '
+artist-ids:
+- 6dcce28a-85c7-42e0-b8d6-e80ac96faeae
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '2003'
+location:
+  latitude: 37.385516
+  longitude: -5.999462
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 74fdf053-e096-4324-86e0-baae0f54bde0
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
