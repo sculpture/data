@@ -1,0 +1,14 @@
+id: 0b38c283-ce92-4cfb-9048-605df61a04a1
+type: sculpture
+slug: love-buzz
+title: Love Buzz
+artist-ids:
+- eb6c2054-6978-43d9-b638-2bd1fbae1878
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '2011'
+location:
+  latitude: 45.498977
+  longitude: -73.57991
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
