@@ -1,0 +1,17 @@
+id: 8c96424f-872f-45c6-bb83-b20c708ba8fd
+type: sculpture
+slug: sxr-3-lisbon
+title: SXR/3
+artist-ids:
+- 7c25e636-5cf8-4b04-97a2-81eda5fcd152
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1936'
+location:
+  latitude: 38.695874
+  longitude: -9.209091
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
