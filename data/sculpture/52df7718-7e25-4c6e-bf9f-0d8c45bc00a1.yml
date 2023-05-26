@@ -1,0 +1,17 @@
+id: 52df7718-7e25-4c6e-bf9f-0d8c45bc00a1
+type: sculpture
+slug: la-mariee-lisbon
+title: La Mariée
+artist-ids:
+- b15e5537-c19f-4425-9f68-96e31aa0a0a3
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1963'
+location:
+  latitude: 38.695874
+  longitude: -9.209091
+  precision: 10
+material-ids:
+- 1df5830e-aa31-460c-a366-f07356994824
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
