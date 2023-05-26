@@ -1,0 +1,16 @@
+id: 550045e6-8b99-43b6-97c9-92eb1ada934f
+type: sculpture
+slug: globe-kaluzny
+title: Globe
+artist-ids:
+- 8c0df559-219c-4843-9781-d64bdd4f6a68
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1968'
+location:
+  latitude: 52.227438
+  longitude: 20.947804
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
