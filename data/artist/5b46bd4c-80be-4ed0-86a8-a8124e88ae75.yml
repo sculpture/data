@@ -3,6 +3,8 @@ type: artist
 slug: antonio-duarte
 name: António Duarte
 birth-date: '1912'
+death-date: '1998'
 gender: male
+link-wikipedia: https://pt.wikipedia.org/wiki/Ant%C3%B3nio_Duarte
 nationality-ids:
 - e841204c-c205-468b-a31c-303321401982
