@@ -1,0 +1,17 @@
+id: 44a9b464-ce5e-4aa3-9dc4-ade3e7a26e2c
+type: sculpture
+slug: nu-feminino
+title: Nu Feminino
+artist-ids:
+- 5b46bd4c-80be-4ed0-86a8-a8124e88ae75
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1960'
+location:
+  latitude: 38.736603
+  longitude: -9.153053
+  precision: 40
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
