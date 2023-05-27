@@ -1,0 +1,16 @@
+id: a3fb31ce-7ba1-48a3-8647-a52dd47c7791
+type: sculpture
+slug: cavalos-marinhos
+title: Cavalos Marinhos
+artist-ids:
+- 5b46bd4c-80be-4ed0-86a8-a8124e88ae75
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1940'
+location:
+  latitude: 38.695405
+  longitude: -9.206409
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
