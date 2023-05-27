@@ -1,0 +1,16 @@
+id: 46043550-cd3e-469c-ac5b-1a4a8bc4be43
+type: sculpture
+slug: puerta-de-la-amistad
+title: Puerta de la Amistad
+artist-ids:
+- 7c870b60-91cc-4830-8849-30177e858d9c
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1993'
+location:
+  latitude: 45.512954
+  longitude: -73.531898
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
