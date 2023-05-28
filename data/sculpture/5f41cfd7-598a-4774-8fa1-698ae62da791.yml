@@ -1,0 +1,18 @@
+id: 5f41cfd7-598a-4774-8fa1-698ae62da791
+type: sculpture
+slug: incontro-pienza
+title: L'Incontro
+artist-ids:
+- 9f880e19-3b12-42f2-ad93-3666672d3d22
+city-id: 1367c58b-6350-4217-ae36-6dbd59f407d2
+date: '1992'
+location:
+  latitude: 43.07745
+  longitude: 11.677595
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6883fc7a-540d-4fe9-9753-80f6e581f0ab
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
