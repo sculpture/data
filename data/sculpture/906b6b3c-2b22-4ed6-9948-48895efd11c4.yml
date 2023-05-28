@@ -1,0 +1,18 @@
+id: 906b6b3c-2b22-4ed6-9948-48895efd11c4
+type: sculpture
+slug: scotch-vapour
+title: Scotch Vapour
+artist-ids:
+- d71b6acd-cebf-4f51-b8fa-3c3442eb6df3
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1989'
+location:
+  latitude: 38.695874
+  longitude: -9.209091
+  precision: 10
+material-ids:
+- 983d1c37-99da-4b1d-baba-681a83e66d30
+tag-ids:
+- 4dae8901-072d-4758-9b44-c5089bf1a804
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
