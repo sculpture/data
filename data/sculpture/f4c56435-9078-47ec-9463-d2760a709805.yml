@@ -1,0 +1,18 @@
+id: f4c56435-9078-47ec-9463-d2760a709805
+type: sculpture
+slug: anabasis-ii
+title: Anabasis II
+artist-ids:
+- 1619f496-1e89-4553-98ed-5507e0049b1d
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1964'
+location:
+  latitude: 38.695874
+  longitude: -9.209091
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- b46e929f-a326-483e-8abb-82c3f2695a69
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
