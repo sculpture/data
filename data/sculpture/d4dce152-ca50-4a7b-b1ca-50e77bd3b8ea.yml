@@ -1,0 +1,17 @@
+id: d4dce152-ca50-4a7b-b1ca-50e77bd3b8ea
+type: sculpture
+slug: head-beksinski-sanok
+title: Head (Beksiński)
+artist-ids:
+- 682b666d-f569-4093-b15c-e1f4978a8508
+city-id: 5f7a0d0a-7d71-4629-94cf-7f2966a42e84
+date: 196*
+location:
+  latitude: 49.562266
+  longitude: 22.209312
+  precision: 10
+material-ids:
+- 30a429a5-046a-4178-9bfe-9474196b4ff5
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
