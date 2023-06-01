@@ -1,0 +1,20 @@
+id: fedda7c9-914c-44b2-84ee-0576fa4f7d25
+type: sculpture
+slug: virgen-de-las-cuevas
+title: Virgen de las Cuevas
+artist-ids:
+- 002c51ef-2624-413b-bbfb-14905b04204c
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '1623'
+location:
+  latitude: 37.39251
+  longitude: -6.000026
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
