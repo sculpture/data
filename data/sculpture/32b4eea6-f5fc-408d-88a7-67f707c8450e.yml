@@ -1,0 +1,18 @@
+id: 32b4eea6-f5fc-408d-88a7-67f707c8450e
+type: sculpture
+slug: our-lady-of-grace-krakow
+title: Our Lady of Grace
+artist-ids:
+- 3d0a77cb-11d9-4112-a163-db508f628b5d
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '1771'
+location:
+  latitude: 50.06465
+  longitude: 19.94498
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
