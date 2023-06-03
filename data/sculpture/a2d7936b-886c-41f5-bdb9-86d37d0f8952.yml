@@ -1,0 +1,15 @@
+id: a2d7936b-886c-41f5-bdb9-86d37d0f8952
+type: sculpture
+slug: enterspace-montreal
+title: Enterspace
+artist-ids:
+- b2d2495f-ef36-4f75-8c5d-7f992395a4b2
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1881'
+link-wikipedia: https://en.wikipedia.org/wiki/Enterspace
+location:
+  latitude: 45.501412
+  longitude: -73.576001
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
