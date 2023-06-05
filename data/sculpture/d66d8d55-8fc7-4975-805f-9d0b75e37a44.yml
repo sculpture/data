@@ -1,0 +1,20 @@
+id: d66d8d55-8fc7-4975-805f-9d0b75e37a44
+type: sculpture
+slug: girl-butler
+title: Girl (Butler)
+artist-ids:
+- a56890cd-411b-416b-8b8c-f0846ab2eaa7
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: gift of Walter Carsen
+date: '1954'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2094ee30-7294-478e-b118-b3fd48a7c570
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
