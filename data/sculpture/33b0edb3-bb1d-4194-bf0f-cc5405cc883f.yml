@@ -1,0 +1,18 @@
+id: 33b0edb3-bb1d-4194-bf0f-cc5405cc883f
+type: sculpture
+slug: sao-vicente
+title: São Vicente
+artist-ids:
+- a40de3ff-94a7-4b3b-b6e4-c823f9d20270
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1949'
+location:
+  latitude: 38.712335
+  longitude: -9.130504
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- de83a4c2-214e-45fb-a307-c835449e52bf
