@@ -1,0 +1,19 @@
+id: c4bb408f-ecf8-4556-9e64-5fce1812bbf2
+type: sculpture
+slug: mask-piqtoukun
+title: Mask (ago)
+artist-ids:
+- 7abba0af-7ecb-41d2-a30e-d926bad917af
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1980'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 3cd25954-9a6b-478f-a4a4-8470c3972f2c
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
