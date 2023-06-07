@@ -1,0 +1,20 @@
+id: 9edb7ac4-2d0d-4903-a4e3-cab049e896f9
+type: sculpture
+slug: crucified-jesus-ago
+title: Crucified Jesus
+artist-ids:
+- f4693d05-5d93-4c05-868b-6fa45ade4f36
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: 165*
+link-wikipedia: https://en.wikipedia.org/wiki/Corpus_(Bernini)
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
