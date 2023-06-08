@@ -1,0 +1,18 @@
+id: 6b500e0f-9a38-4475-ac4d-635f4d0c722b
+type: sculpture
+slug: beaver-haliburton
+title: Beaver
+artist-ids:
+- d1c91d4b-7b5d-4f5e-95f2-a9bbc369eded
+city-id: 52ca364d-2e9c-46da-aa22-a34ffe6cb7ee
+date: '2002'
+location:
+  latitude: 45.052847
+  longitude: -78.522307
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 4fb2f843-9c39-4dff-9caf-13aa2b4ea58c
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
