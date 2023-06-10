@@ -1,0 +1,19 @@
+id: a4380e96-b25a-4dca-baef-6171faf8ed4f
+type: sculpture
+slug: ernest-hemingway-ronda
+title: Ernest Hemingway
+artist-ids:
+- f391b253-90ea-416b-87fb-9410daa9708d
+city-id: 6510c585-9cc8-4937-a208-5826ab648a04
+date: '2015'
+location:
+  latitude: 36.741894
+  longitude: -5.167592
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
