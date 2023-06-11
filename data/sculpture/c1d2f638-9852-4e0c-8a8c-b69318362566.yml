@@ -1,0 +1,17 @@
+id: c1d2f638-9852-4e0c-8a8c-b69318362566
+type: sculpture
+slug: rabbit
+title: Rabbit
+artist-ids:
+- 02f90869-7651-48b4-959d-6c58863dc30a
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2022'
+location:
+  latitude: 43.76627
+  longitude: -79.372968
+  precision: 10
+material-ids:
+- 6ffae26a-1977-4e67-ae07-fbd423e0951b
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
