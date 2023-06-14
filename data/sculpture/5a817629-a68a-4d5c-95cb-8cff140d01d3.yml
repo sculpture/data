@@ -1,0 +1,21 @@
+id: 5a817629-a68a-4d5c-95cb-8cff140d01d3
+type: sculpture
+slug: fontaine-du-soleil-nice
+title: Fontaine du Soleil
+artist-ids:
+- 9b13945a-24ff-4445-983d-a6fc96f1f3c1
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '1956'
+location:
+  latitude: 43.696504
+  longitude: 7.270615
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 89f78d37-2315-4104-bfe7-610b444b2485
