@@ -1,0 +1,14 @@
+id: 1ce66fb3-2206-40b0-b500-43ae60646a82
+type: sculpture
+slug: krata-sosnowska
+title: 'Krata '
+artist-ids:
+- cd193557-f04e-4f79-b966-9411614be318
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2009'
+location:
+  latitude: 52.29175
+  longitude: 21.034662
+  precision: 10
+material-ids:
+- 3cd25954-9a6b-478f-a4a4-8470c3972f2c
