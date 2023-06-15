@@ -1,0 +1,15 @@
+id: 916b9b85-370c-415d-809f-3b86ecc09ddd
+type: sculpture
+slug: buspar-column
+title: Buspar Column
+artist-ids:
+- 4a7edeb5-e42f-4c96-9383-33166f4fdd31
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+commissioned-by: gift of Andrew Danyliw
+date: '2001'
+location:
+  latitude: 45.499236
+  longitude: -73.580408
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
