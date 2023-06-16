@@ -1,0 +1,14 @@
+id: f0b4221d-c194-462d-a62b-3f1b4312ca58
+type: sculpture
+slug: sculpture-bidon
+title: Sculpture Bidon
+artist-ids:
+- f5142b39-8020-41dc-a583-bb9a957efcf8
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '2012'
+location:
+  latitude: 45.499086
+  longitude: -73.580242
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
