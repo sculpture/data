@@ -1,9 +1,8 @@
 id: f5142b39-8020-41dc-a583-bb9a957efcf8
 type: artist
-slug: valerie-blass
-name: Valérie Blass
-birth-date: '1967'
-gender: female
-link-wikipedia: https://en.wikipedia.org/wiki/Val%C3%A9rie_Blass
+slug: david-nash
+name: ' David Nash'
+birth-date: '1945'
+gender: male
 nationality-ids:
-- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+- b699e0ba-2ab6-4fe3-844a-1435f1bc8008
