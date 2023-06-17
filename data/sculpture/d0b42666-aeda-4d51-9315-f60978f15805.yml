@@ -1,0 +1,16 @@
+id: d0b42666-aeda-4d51-9315-f60978f15805
+type: sculpture
+slug: heroes-of-wola
+title: Heroes of Wola
+artist-ids:
+- db0ddc11-b85c-4894-98fc-f7063287b166
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1968'
+location:
+  latitude: 52.227609
+  longitude: 20.948415
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
