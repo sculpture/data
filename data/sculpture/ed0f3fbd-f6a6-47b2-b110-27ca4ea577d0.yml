@@ -1,0 +1,19 @@
+id: ed0f3fbd-f6a6-47b2-b110-27ca4ea577d0
+type: sculpture
+slug: andalucia-aguero
+title: Andalucía
+artist-ids:
+- c2e4f650-5868-4f9d-9495-8fffc887b770
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '1929'
+location:
+  latitude: 37.39251
+  longitude: -6.000026
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
