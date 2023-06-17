@@ -1,0 +1,21 @@
+id: 79c09a3c-a519-48e1-acc3-73c354c82d54
+type: sculpture
+slug: eustache-saint-pierre-ago
+title: Eustache de Saint Pierre
+artist-ids:
+- 0d0131e9-ece4-417f-80bd-904e881f478e
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1886'
+link-wikipedia: https://en.wikipedia.org/wiki/Eustache_de_Saint_Pierre_%28sculpture%29
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast 1997
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
