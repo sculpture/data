@@ -1,0 +1,19 @@
+id: 23896ecc-5ea4-4aeb-a335-1c2501e0005e
+type: sculpture
+slug: the-hell-maitani
+title: The Hell
+artist-ids:
+- a5cbc20a-263c-4f4f-9c1d-cd64941941b1
+city-id: 6f6f1ffd-8616-431e-9d18-dc9dd8af38c5
+date: 131*
+location:
+  latitude: 42.716767
+  longitude: 12.113118
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 8edbb59e-b498-4210-9981-8781235cafcd
