@@ -1,0 +1,21 @@
+id: 2d12b598-d49c-49ff-bf0e-4d1f3f84d674
+type: sculpture
+slug: san-jeronimo-penitente
+title: San Jerónimo penitente
+artist-ids:
+- 8b4f5976-154a-46f5-8d49-cb567cf33066
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '1525'
+location:
+  latitude: 37.39251
+  longitude: -6.000026
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- ce5eba46-3dff-4d8c-89c8-4fab2da9a37d
+- de83a4c2-214e-45fb-a307-c835449e52bf
