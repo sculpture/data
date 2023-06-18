@@ -1,0 +1,19 @@
+id: f71ed190-2735-47c9-a022-65371d772538
+type: sculpture
+slug: joseph-i-of-portugal
+title: Joseph I of Portugal
+artist-ids:
+- 6ead8976-2b27-4250-87cb-77c2231ffe2a
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1775'
+location:
+  latitude: 38.707695
+  longitude: -9.136448
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
