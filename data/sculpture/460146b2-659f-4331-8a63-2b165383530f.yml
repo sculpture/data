@@ -1,0 +1,20 @@
+id: 460146b2-659f-4331-8a63-2b165383530f
+type: sculpture
+slug: ignace-bourget-papal-zouaves
+title: Ignace Bourget - Papal Zouaves
+artist-ids:
+- f6ba5000-2ac9-4069-bee4-09ca21d36852
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1903'
+link-wikipedia: https://en.wikipedia.org/wiki/Ignace_Bourget_Monument
+location:
+  latitude: 45.498726
+  longitude: -73.5702
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2d7e8f2e-e187-462b-a638-06a4ef145363
+- 2f65ce93-2124-4391-a225-855055c78203
+- 8edbb59e-b498-4210-9981-8781235cafcd
