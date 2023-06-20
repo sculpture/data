@@ -1,0 +1,18 @@
+id: 5e836e8d-fa2e-40cc-8328-fdd266f14270
+type: sculpture
+slug: libra-sebastian
+title: Libra
+artist-ids:
+- 7c870b60-91cc-4830-8849-30177e858d9c
+city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
+date: '2009'
+location:
+  latitude: 45.436308
+  longitude: -75.707492
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
+- f512d675-0554-4a67-987c-1da560f2c95a
