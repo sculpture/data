@@ -1,0 +1,16 @@
+id: cd4a7fa7-17e6-45cf-b73b-7013e6fcae01
+type: sculpture
+slug: escultura-para-espaco-urbano
+title: Escultura para Espaço Urbano I
+artist-ids:
+- b8992290-45b0-4ef7-8828-f09b36f13653
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1999'
+location:
+  latitude: 38.73792
+  longitude: -9.152234
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
