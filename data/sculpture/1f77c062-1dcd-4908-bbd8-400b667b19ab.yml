@@ -1,0 +1,14 @@
+id: 1f77c062-1dcd-4908-bbd8-400b667b19ab
+type: sculpture
+slug: burned-trees-nice
+title: Burned Trees (Nice)
+artist-ids:
+- cb3eda4e-f5a6-4fcd-a6e7-6c64db379ccd
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '2020'
+location:
+  latitude: 43.702136
+  longitude: 7.2792
+  precision: 10
+material-ids:
+- 449582e6-6741-4441-a519-81e7c5591f96
