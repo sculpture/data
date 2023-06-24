@@ -1,0 +1,17 @@
+id: d3611757-dda9-4b9e-a27b-1972ad16e92d
+type: sculpture
+slug: matka-ziemia
+title: Matka Ziemia
+artist-ids:
+- e5488a25-7602-43f4-9e41-4bd12cbe04db
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '1975'
+location:
+  latitude: 50.868898
+  longitude: 20.621748
+  precision: 10
+material-ids:
+- 4a979cf3-40f3-4be9-aa71-b79765408367
+tag-ids:
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
