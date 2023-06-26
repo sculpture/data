@@ -1,0 +1,21 @@
+id: 6ec9f6fc-7b78-4a9c-bb23-3c847a4ebe1b
+type: sculpture
+slug: apoll0-houdon-lisbon
+title: Apollo (Houdon)
+artist-ids:
+- 210ee7d7-575c-4530-8d11-7ba7a04c407b
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1790'
+location:
+  latitude: 38.737812
+  longitude: -9.153546
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
