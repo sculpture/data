@@ -1,0 +1,16 @@
+id: eff22516-0955-4c40-aa6f-134d6fd3165c
+type: sculpture
+slug: spring-persephone
+title: Spring (Persephone)
+artist-ids:
+- 8221d084-6345-4eb5-9bc4-d1b3d278be36
+city-id: 29c04be3-e495-4c7c-bd72-b3d935fef86d
+date: '2000'
+location:
+  latitude: 43.816452
+  longitude: -79.074955
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
