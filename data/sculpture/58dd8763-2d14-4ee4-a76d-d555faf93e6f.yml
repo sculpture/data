@@ -1,0 +1,18 @@
+id: 58dd8763-2d14-4ee4-a76d-d555faf93e6f
+type: sculpture
+slug: mercurio-dalo
+title: Mercurio
+artist-ids:
+- 63db084d-333a-4c71-8894-3c9357c592e2
+city-id: f7e1f736-a953-4820-8f8f-016c7c76d1bc
+date: '1975'
+location:
+  latitude: 36.508166
+  longitude: -4.886227
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
