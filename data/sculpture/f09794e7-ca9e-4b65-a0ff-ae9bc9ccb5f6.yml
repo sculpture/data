@@ -1,0 +1,18 @@
+id: f09794e7-ca9e-4b65-a0ff-ae9bc9ccb5f6
+type: sculpture
+slug: carmen-seville
+title: Carmen
+artist-ids:
+- 556d60f8-9774-4943-8cde-0c170a2167d5
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '1973'
+location:
+  latitude: 37.385871
+  longitude: -5.999993
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3d01002e-928d-47f0-9a30-5f38d5a8eb27
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
