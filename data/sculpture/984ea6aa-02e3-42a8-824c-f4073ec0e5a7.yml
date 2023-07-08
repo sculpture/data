@@ -1,0 +1,15 @@
+id: 984ea6aa-02e3-42a8-824c-f4073ec0e5a7
+type: sculpture
+slug: cherry-candies
+title: Cherry Candies
+artist-ids:
+- f9577c1c-e4d8-42bd-8b64-176f0c32bade
+date: '2016'
+location:
+  latitude: 43.686732
+  longitude: 7.10342
+  precision: 10
+material-ids:
+- 02f666a5-a96a-466a-9a4a-3ff26ba1bad5
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
