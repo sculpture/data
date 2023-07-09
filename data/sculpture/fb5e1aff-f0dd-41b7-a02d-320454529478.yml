@@ -1,0 +1,14 @@
+id: fb5e1aff-f0dd-41b7-a02d-320454529478
+type: sculpture
+slug: large-bull-stratford
+title: Large Bull
+artist-ids:
+- a791e704-3cf6-4e29-b923-0e8213816522
+city-id: 275b42cc-8227-4857-824d-40918fb1a44b
+date: '1969'
+location:
+  latitude: 43.374134
+  longitude: -80.969386
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
