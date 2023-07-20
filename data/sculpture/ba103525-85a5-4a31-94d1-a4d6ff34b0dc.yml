@@ -1,0 +1,19 @@
+id: ba103525-85a5-4a31-94d1-a4d6ff34b0dc
+type: sculpture
+slug: cabeza-femenina
+title: Cabeza Femenina
+artist-ids:
+- 16515761-db79-4b29-b3f3-7e2643650c0e
+city-id: 4caaf18b-6eea-482a-b6cd-5c5a06453ae6
+date: '1900'
+location:
+  latitude: 37.881279
+  longitude: -4.774802
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
