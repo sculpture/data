@@ -1,0 +1,21 @@
+id: 7f3e921b-adcc-4f14-9a08-5ffaad2f2e5c
+type: sculpture
+slug: san-rafael-arcangel-cordoba
+title: San Rafael Arcángel
+artist-ids:
+- bfe25800-5343-46c1-af63-b4d5f17aa169
+city-id: 4caaf18b-6eea-482a-b6cd-5c5a06453ae6
+date: '1768'
+location:
+  latitude: 37.878652
+  longitude: -4.778711
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- ebe1c069-813d-44f6-9738-e31078028499
+tag-ids:
+- 66ec2c31-c300-4e0f-bc36-93fa72a95fef
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
+- de83a4c2-214e-45fb-a307-c835449e52bf
