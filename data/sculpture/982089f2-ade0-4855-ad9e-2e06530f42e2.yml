@@ -1,0 +1,17 @@
+id: 982089f2-ade0-4855-ad9e-2e06530f42e2
+type: sculpture
+slug: stewie-the-sturgeon
+title: Stewie the Sturgeon
+artist-ids:
+- fa4daa33-789c-4120-9d08-5b5647edb93f
+city-id: dfc812fa-0588-474a-98a2-4cdccf6bad2f
+date: '2022'
+location:
+  latitude: 43.315296
+  longitude: -81.763399
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 399902cf-177a-4693-980d-eb86255cc25f
