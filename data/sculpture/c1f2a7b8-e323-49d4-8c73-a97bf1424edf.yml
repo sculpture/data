@@ -1,0 +1,18 @@
+id: c1f2a7b8-e323-49d4-8c73-a97bf1424edf
+type: sculpture
+slug: zurbaran-sevilla
+title: Zurbarán
+artist-ids:
+- a4601e14-f78f-4ac6-9f12-0acf4230f0c4
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '1929'
+location:
+  latitude: 37.389531
+  longitude: -5.986921
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- b078f909-a131-4d37-8b36-59061078b159
