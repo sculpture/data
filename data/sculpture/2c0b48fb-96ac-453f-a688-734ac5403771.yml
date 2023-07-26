@@ -1,0 +1,19 @@
+id: 2c0b48fb-96ac-453f-a688-734ac5403771
+type: sculpture
+slug: pau-cezanne-pontirer
+title: Paul Cézanne
+artist-ids:
+- 9d4bd6f4-978c-4606-8153-cfabb072d972
+city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
+date: '1900'
+location:
+  latitude: 43.525444
+  longitude: 5.452671
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b078f909-a131-4d37-8b36-59061078b159
