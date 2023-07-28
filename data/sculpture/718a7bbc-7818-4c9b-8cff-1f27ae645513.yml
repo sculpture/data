@@ -1,0 +1,16 @@
+id: 718a7bbc-7818-4c9b-8cff-1f27ae645513
+type: sculpture
+slug: partisan-monument-warsaw
+title: Partisan Monument
+artist-ids:
+- 998724cb-1bcc-43a0-a088-ec090b3705b7
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1962'
+location:
+  latitude: 52.232325
+  longitude: 21.021652
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
