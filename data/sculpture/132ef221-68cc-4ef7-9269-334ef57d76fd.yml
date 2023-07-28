@@ -1,0 +1,15 @@
+id: 132ef221-68cc-4ef7-9269-334ef57d76fd
+type: sculpture
+slug: foret-darbres
+title: Forêt d'Arbres
+artist-ids:
+- f0a8204c-9858-4707-b01b-10aea2cf79ad
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '2012'
+location:
+  latitude: 43.70146
+  longitude: 7.272332
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+note: unveiled 2020
