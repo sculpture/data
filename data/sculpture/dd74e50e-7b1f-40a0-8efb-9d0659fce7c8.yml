@@ -1,0 +1,19 @@
+id: dd74e50e-7b1f-40a0-8efb-9d0659fce7c8
+type: sculpture
+slug: arcanjo-cutileiro
+title: Arcanjo
+artist-ids:
+- 3ebf277d-f394-4397-8df3-586ef1f084f1
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1962'
+location:
+  latitude: 38.737356
+  longitude: -9.154608
+  precision: 10
+material-ids:
+- 4fb2f843-9c39-4dff-9caf-13aa2b4ea58c
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
