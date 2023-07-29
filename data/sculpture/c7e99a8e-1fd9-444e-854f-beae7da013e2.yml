@@ -1,0 +1,14 @@
+id: c7e99a8e-1fd9-444e-854f-beae7da013e2
+type: sculpture
+slug: la-plage-gilli
+title: La Plage
+artist-ids:
+- f0a8204c-9858-4707-b01b-10aea2cf79ad
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '1990'
+location:
+  latitude: 43.702435
+  longitude: 7.279044
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
