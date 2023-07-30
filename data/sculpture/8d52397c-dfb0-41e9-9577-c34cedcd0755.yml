@@ -1,0 +1,19 @@
+id: 8d52397c-dfb0-41e9-9577-c34cedcd0755
+type: sculpture
+slug: kiss-honfei
+title: Kiss
+artist-ids:
+- a0ac91ff-88ef-4288-a3e8-83c919b58de1
+city-id: 26d1abe7-0b41-4c95-b30d-76469c66ccb8
+date: '2010'
+location:
+  latitude: 43.092678
+  longitude: 11.781069
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6883fc7a-540d-4fe9-9753-80f6e581f0ab
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
