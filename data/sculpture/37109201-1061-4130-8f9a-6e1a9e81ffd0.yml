@@ -1,0 +1,20 @@
+id: 37109201-1061-4130-8f9a-6e1a9e81ffd0
+type: sculpture
+slug: jeanne-darc-ecoutant-ses-voix
+title: Jeanne d'Arc écoutant ses Voix
+artist-ids:
+- 922b7d27-602e-4893-9318-534f74f484d1
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1910'
+location:
+  latitude: 52.189091
+  longitude: 21.028412
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- de83a4c2-214e-45fb-a307-c835449e52bf
