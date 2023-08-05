@@ -1,0 +1,17 @@
+id: 440d9e69-38ed-4126-8c30-0bf93a802055
+type: sculpture
+slug: two-figures-hepworth-ago
+title: Two Figures
+artist-ids:
+- 3a4702d2-d46e-4c0a-8c65-590a5b788eea
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1943'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
