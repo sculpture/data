@@ -1,0 +1,16 @@
+id: 65476aef-2067-4c5d-bd42-bf4fd033d908
+type: sculpture
+slug: beaver-crest-pole
+title: Beaver Crest Pole
+artist-ids:
+- c8147104-1784-4fb3-a2fc-4c1055ea888e
+city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
+date: '1987'
+location:
+  latitude: 49.29739
+  longitude: -123.135934
+  precision: 10
+material-ids:
+- d10b6251-79c5-4fc3-b359-a45e7e3ce9b5
+tag-ids:
+- cade9829-ef07-4263-827c-a161323c585f
