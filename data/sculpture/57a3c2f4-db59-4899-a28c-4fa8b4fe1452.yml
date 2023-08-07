@@ -1,0 +1,21 @@
+id: 57a3c2f4-db59-4899-a28c-4fa8b4fe1452
+type: sculpture
+slug: charles-v-ghent
+title: Charles V
+artist-ids:
+- 282b71fd-557c-492c-9e00-01290b955c6a
+city-id: ca0e48aa-9f11-4867-9698-3009bb1fa395
+date: 155*
+location:
+  latitude: 51.058994
+  longitude: 3.716387
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: replica 1966
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- e1747e74-d399-45e0-98c6-60514c400683
