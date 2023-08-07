@@ -1,0 +1,18 @@
+id: 867aaff0-0959-489c-9338-1c4055389f6a
+type: sculpture
+slug: original-sin-orvieto
+title: Original sin
+artist-ids:
+- a5cbc20a-263c-4f4f-9c1d-cd64941941b1
+city-id: 6f6f1ffd-8616-431e-9d18-dc9dd8af38c5
+date: 131*
+location:
+  latitude: 42.716873
+  longitude: 12.113086
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 8edbb59e-b498-4210-9981-8781235cafcd
