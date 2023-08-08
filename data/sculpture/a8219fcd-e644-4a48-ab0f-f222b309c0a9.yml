@@ -1,0 +1,19 @@
+id: a8219fcd-e644-4a48-ab0f-f222b309c0a9
+type: sculpture
+slug: allegory-water-lazienki
+title: Allegory of Water
+artist-ids:
+- 7e4961dc-6a19-40f3-b925-34623b9d7d76
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: 179*
+location:
+  latitude: 52.214719
+  longitude: 21.035814
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+note: modelled after sculpture of Étienne Maurice Falconet
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
