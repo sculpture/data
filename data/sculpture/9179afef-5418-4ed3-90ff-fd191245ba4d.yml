@@ -1,0 +1,17 @@
+id: 9179afef-5418-4ed3-90ff-fd191245ba4d
+type: sculpture
+slug: st-mang-brunnen
+title: St.-Mang-Brunnen
+artist-ids:
+- 59e69c46-0ddf-4579-b041-fb93b68d2915
+city-id: f45da7a5-9b4b-4665-9bd5-fba0201749c7
+date: '1905'
+location:
+  latitude: 47.725347
+  longitude: 10.319791
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
