@@ -1,0 +1,17 @@
+id: 97887914-b961-4536-ac83-9e4562cd2e44
+type: sculpture
+slug: tooth-johnson-jr
+title: The Tooth
+artist-ids:
+- fe09db8b-577f-4cd5-bb6c-7835f372f5b4
+city-id: 4c133344-0cec-4448-b5cb-d702cc6e1913
+date: '1983'
+location:
+  latitude: 40.236831
+  longitude: -74.720125
+  precision: 10
+material-ids:
+- 3e4bf7e0-ae14-49c8-88f4-315ef2160400
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- 4a6d74ec-5562-41b3-bf73-41f316dbeaa3
