@@ -1,0 +1,19 @@
+id: 68eb69a9-f51b-4c85-ba93-80408fdf51e3
+type: sculpture
+slug: jan-iii-sobieski-gdansk
+title: Jan III Sobieski (Gdansk)
+artist-ids:
+- ebcf6078-7736-4421-adbd-5b90e5f78f29
+city-id: 6c0702d8-ba81-4f97-b2ad-11b1bdbaf349
+date: '1898'
+location:
+  latitude: 54.351943
+  longitude: 18.648395
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
