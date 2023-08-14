@@ -1,0 +1,18 @@
+id: f01bb344-68a7-4504-b004-c203b482dc1f
+type: sculpture
+slug: pope-julius-iii-danti
+title: Pope Julius III
+artist-ids:
+- ddb882fd-9a50-4922-9809-71bf4a7367c6
+city-id: 566c4d79-78da-412a-b533-e99b8758f179
+date: '1553'
+location:
+  latitude: 43.11226
+  longitude: 12.388744
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6c068959-5222-4073-b890-313bf91ca2b4
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
