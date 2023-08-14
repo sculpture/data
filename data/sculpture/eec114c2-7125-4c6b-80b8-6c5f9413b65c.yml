@@ -1,0 +1,18 @@
+id: eec114c2-7125-4c6b-80b8-6c5f9413b65c
+type: sculpture
+slug: hunter-and-seamstress
+title: The Hunter and the Seamstress
+artist-ids:
+- 8067917a-7e0c-4587-9b90-1b050626440c
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2001'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 0e188a8a-d083-4b9e-822e-c9bf27f6d61a
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
