@@ -9,8 +9,8 @@ city-id: 3bb40e2d-ed9c-409d-b7f5-99ba3d587449
 date: '1997'
 link-wikipedia: https://en.wikipedia.org/wiki/Guns_into_Plowshares
 location:
-  latitude: 38.4699
-  longitude: -78.8795
+  latitude: 38.470253
+  longitude: -78.879643
   precision: 10
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
