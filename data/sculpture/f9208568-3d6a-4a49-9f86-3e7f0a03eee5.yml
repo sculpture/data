@@ -1,0 +1,17 @@
+id: f9208568-3d6a-4a49-9f86-3e7f0a03eee5
+type: sculpture
+slug: olga-boznanska-kielce
+title: Olga Boznańska (Kielce)
+artist-ids:
+- 589ad41d-7501-40ee-ac3a-b32b4dd69537
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '2006'
+location:
+  latitude: 50.866743
+  longitude: 20.62196
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- b078f909-a131-4d37-8b36-59061078b159
