@@ -1,0 +1,18 @@
+id: 82fd5879-cbeb-4baf-9d2d-a2aa5d7eed9c
+type: sculpture
+slug: franciszek-karpinski-wilanow
+title: Franciszek Karpiński
+artist-ids:
+- 0a5864a8-2c58-4f41-b609-f97a25206a93
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1851'
+location:
+  latitude: 52.165731
+  longitude: 21.089613
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
