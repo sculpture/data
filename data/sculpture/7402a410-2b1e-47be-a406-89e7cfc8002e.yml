@@ -1,0 +1,17 @@
+id: 7402a410-2b1e-47be-a406-89e7cfc8002e
+type: sculpture
+slug: rape-of-europa-wagner
+title: Raub der Europa
+artist-ids:
+- b898ca86-1c5d-4546-aaf0-a4d772eb3c55
+city-id: 9d5db670-5313-4ffb-bcc4-b45700b6db65
+date: 177*
+location:
+  latitude: 49.792434
+  longitude: 9.938304
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
