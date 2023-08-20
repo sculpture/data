@@ -1,0 +1,17 @@
+id: 77360e9d-3689-455d-94f0-3d664e6da887
+type: sculpture
+slug: epee-flamboyante
+title: Épée Flamboyante
+artist-ids:
+- 2f83a1fa-93c2-4584-b85d-6d54c8a873c3
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1935'
+location:
+  latitude: 38.695874
+  longitude: -9.209091
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
