@@ -1,0 +1,19 @@
+id: 46bd5787-e11f-4aca-a400-29e5de31563b
+type: sculpture
+slug: francesco-nullo
+title: Francesco Nullo
+artist-ids:
+- c28c6a19-1828-45bf-b4d0-fc2def153954
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+commissioned-by: gift of city of Bergamo
+date: '1939'
+link-wikipedia: https://pl.wikipedia.org/wiki/Pomnik_Francesca_Nulla
+location:
+  latitude: 52.227268
+  longitude: 21.026589
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
