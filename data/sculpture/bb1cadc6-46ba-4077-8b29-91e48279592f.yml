@@ -1,0 +1,20 @@
+id: bb1cadc6-46ba-4077-8b29-91e48279592f
+type: sculpture
+slug: homeless-jesus-warsaw
+title: Homeless Jesus (W)
+artist-ids:
+- c48a5321-53f5-4a8e-9301-c394ede176a4
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2013'
+link-wikipedia: https://en.wikipedia.org/wiki/Homeless_Jesus
+location:
+  latitude: 52.247042
+  longitude: 21.009825
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 21b5d04c-9fea-4c3d-a0d6-2b9dff10c299
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
