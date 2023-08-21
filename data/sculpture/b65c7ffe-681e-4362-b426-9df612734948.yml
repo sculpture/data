@@ -1,0 +1,16 @@
+id: b65c7ffe-681e-4362-b426-9df612734948
+type: sculpture
+slug: pawiak-tree
+title: The Pawiak Tree
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2005'
+location:
+  latitude: 52.246471
+  longitude: 20.990819
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
