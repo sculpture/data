@@ -1,0 +1,19 @@
+id: 0f1766bb-e91d-4adf-a83c-eaffb8a43e00
+type: sculpture
+slug: jose-villegas-cordero
+title: José Villegas Cordero
+artist-ids:
+- 7a29f021-db8d-41ac-b0f8-24c177ade0eb
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '1887'
+location:
+  latitude: 37.39251
+  longitude: -6.000026
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b078f909-a131-4d37-8b36-59061078b159
