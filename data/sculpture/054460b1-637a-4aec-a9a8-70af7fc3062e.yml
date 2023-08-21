@@ -1,0 +1,16 @@
+id: 054460b1-637a-4aec-a9a8-70af7fc3062e
+type: sculpture
+slug: welcoming-the-day
+title: Welcoming the Day
+artist-ids:
+- 38a33b35-6caa-4912-a833-d5f665dc9a42
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '1981'
+location:
+  latitude: 51.313334
+  longitude: 20.985268
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
