@@ -1,0 +1,17 @@
+id: c99e0089-f311-4d0c-83db-5fa88ee87f9c
+type: sculpture
+slug: krzysztof-kieslowski
+title: Krzysztof Kieślowski
+artist-ids:
+- 8148bc26-bc3e-40c4-83ad-31f48fdef184
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '2007'
+location:
+  latitude: 50.866168
+  longitude: 20.621038
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 71e997ad-79cb-4ded-9f64-ac3948528d27
