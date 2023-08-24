@@ -1,0 +1,20 @@
+id: 0c85f76f-0274-422c-bb96-d0e0e430389b
+type: sculpture
+slug: virgen-de-belen
+title: Virgen de Belén
+artist-ids:
+- 8b4f5976-154a-46f5-8d49-cb567cf33066
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '1525'
+location:
+  latitude: 37.39251
+  longitude: -6.000026
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
