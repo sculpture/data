@@ -1,0 +1,19 @@
+id: 3a217687-bc1d-4590-b15a-34b74e88a43a
+type: sculpture
+slug: virgen-con-el-nino
+title: Virgen con el Niño
+artist-ids:
+- 6706ab67-4b2f-4756-825d-37d0115c9b75
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+location:
+  latitude: 37.39251
+  longitude: -6.000026
+  precision: 10
+material-ids:
+- 449582e6-6741-4441-a519-81e7c5591f96
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
