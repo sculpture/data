@@ -1,0 +1,14 @@
+id: 3eebcca0-7714-4f1d-9938-df1c499db446
+type: sculpture
+slug: warsaw-autumn
+title: Warsaw Autumn
+artist-ids:
+- 892f1507-a990-412a-83d1-81e5139456ee
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1975'
+location:
+  latitude: 52.235778
+  longitude: 21.023592
+  precision: 20
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
