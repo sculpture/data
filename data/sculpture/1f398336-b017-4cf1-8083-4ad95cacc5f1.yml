@@ -1,0 +1,17 @@
+id: 1f398336-b017-4cf1-8083-4ad95cacc5f1
+type: sculpture
+slug: georges-depinay
+title: Georges d'Epinay
+artist-ids:
+- 4fdd0c7a-a3fd-445e-ba3d-59283e8faa08
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1884'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 7735363d-fda4-4473-8973-e1e9193e2bbe
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
