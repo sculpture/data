@@ -1,0 +1,14 @@
+id: a83da89a-9d14-4612-ac11-d6a95f9f4732
+type: sculpture
+slug: san-ramon-nonato
+title: San Ramón Nonato
+artist-ids:
+- 002c51ef-2624-413b-bbfb-14905b04204c
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '1626'
+location:
+  latitude: 37.39251
+  longitude: -6.000026
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
