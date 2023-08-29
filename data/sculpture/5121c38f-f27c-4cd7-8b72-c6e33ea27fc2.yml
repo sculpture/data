@@ -1,0 +1,16 @@
+id: 5121c38f-f27c-4cd7-8b72-c6e33ea27fc2
+type: sculpture
+slug: la-stele-des-marechaux
+title: La stèle des Maréchaux
+artist-ids:
+- a55a3ae6-9f78-4d44-bcb1-d842cd10fbca
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '1983'
+location:
+  latitude: 43.698374
+  longitude: 7.257254
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
