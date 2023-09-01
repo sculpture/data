@@ -1,0 +1,16 @@
+id: 28bb98fd-c0d2-47c2-ab38-e8b41f9e32ec
+type: sculpture
+slug: unity-pole-cne
+title: Unity Pole
+artist-ids:
+- 24949c3e-d4d5-4918-9936-434c8818935b
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2017'
+location:
+  latitude: 43.631669
+  longitude: -79.423869
+  precision: 10
+material-ids:
+- 449582e6-6741-4441-a519-81e7c5591f96
+tag-ids:
+- cade9829-ef07-4263-827c-a161323c585f
