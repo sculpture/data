@@ -1,0 +1,19 @@
+id: 6b65d446-1df3-4931-8202-2c0c9580c8ae
+type: sculpture
+slug: nuno-alvares-pereira-batalha
+title: Nuno Álvares Pereira
+artist-ids:
+- c97bf8c1-e8b2-4c56-81a5-089abf660c71
+city-id: 3ec88af6-9616-48e0-abb6-fa11e1efc940
+date: '1961'
+location:
+  latitude: 39.660047
+  longitude: -8.824639
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 521f00f2-f976-4b69-89cf-6e8db0c94f29
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
