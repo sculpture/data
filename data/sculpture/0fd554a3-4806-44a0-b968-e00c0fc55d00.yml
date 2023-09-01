@@ -1,0 +1,18 @@
+id: 0fd554a3-4806-44a0-b968-e00c0fc55d00
+type: sculpture
+slug: ibn-marwan
+title: Ibn Marwân
+artist-ids:
+- ea23cd73-3557-4221-8c5d-d3b6667d79d4
+city-id: 9f2bda5c-d660-4e6c-9c0c-0cae0bb20282
+date: '2003'
+location:
+  latitude: 38.883318
+  longitude: -6.970437
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
