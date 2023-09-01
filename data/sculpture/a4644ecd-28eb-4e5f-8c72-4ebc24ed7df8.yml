@@ -1,0 +1,19 @@
+id: a4644ecd-28eb-4e5f-8c72-4ebc24ed7df8
+type: sculpture
+slug: charity-sansovino-ago
+title: Charity
+artist-ids:
+- 732d7785-6332-4878-870e-f6e5f6e6e002
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1513'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
