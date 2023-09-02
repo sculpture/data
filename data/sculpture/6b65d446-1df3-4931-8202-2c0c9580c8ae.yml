@@ -7,8 +7,8 @@ artist-ids:
 city-id: 3ec88af6-9616-48e0-abb6-fa11e1efc940
 date: '1961'
 location:
-  latitude: 39.658123
-  longitude: -8.82642
+  latitude: 39.658082
+  longitude: -8.826259
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
