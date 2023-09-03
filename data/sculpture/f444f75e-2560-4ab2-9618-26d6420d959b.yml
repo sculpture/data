@@ -1,0 +1,14 @@
+id: f444f75e-2560-4ab2-9618-26d6420d959b
+type: sculpture
+slug: xxx-kowalski
+title: XXX
+artist-ids:
+- a330a705-f72f-4374-9c5b-044646722059
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '1987'
+location:
+  latitude: 51.312764
+  longitude: 20.98309
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
