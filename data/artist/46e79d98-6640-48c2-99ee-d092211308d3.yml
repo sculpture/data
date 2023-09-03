@@ -1,0 +1,12 @@
+id: 46e79d98-6640-48c2-99ee-d092211308d3
+type: artist
+slug: naum-gabo
+name: Naum Gabo
+birth-date: '1890'
+death-date: '1977'
+gender: male
+link-wikipedia: https://en.wikipedia.org/wiki/Naum_Gabo
+nationality-ids:
+- a9f1263f-b9e5-4002-b489-28dc1e99f663
+tag-ids:
+- ba228b77-c711-47fc-85d1-9c8d48961343
