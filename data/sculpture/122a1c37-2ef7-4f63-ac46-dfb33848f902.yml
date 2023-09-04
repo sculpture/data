@@ -1,0 +1,17 @@
+id: 122a1c37-2ef7-4f63-ac46-dfb33848f902
+type: sculpture
+slug: winged-mercury-ny
+title: Winged Mercury
+artist-ids:
+- b6cc8977-bb40-41a2-b5cf-26a2770f53f7
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1933'
+location:
+  latitude: 40.758441
+  longitude: -73.977492
+  precision: 10
+material-ids:
+- a65b8bf8-4e4d-4467-a4b6-b6f5535f5ab6
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 8edbb59e-b498-4210-9981-8781235cafcd
