@@ -1,0 +1,18 @@
+id: 6a9eff78-8dec-43d4-99c6-e2e9aca17973
+type: sculpture
+slug: guidepost-ago
+title: Guidepost
+artist-ids:
+- 7abba0af-7ecb-41d2-a30e-d926bad917af
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1995'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 0e188a8a-d083-4b9e-822e-c9bf27f6d61a
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
