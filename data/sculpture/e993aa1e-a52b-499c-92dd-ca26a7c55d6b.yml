@@ -1,0 +1,17 @@
+id: e993aa1e-a52b-499c-92dd-ca26a7c55d6b
+type: sculpture
+slug: tarpaulin-belmore
+title: Tarpaulin
+artist-ids:
+- b52f1139-49ee-4393-b01c-8bba392b6a3e
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2021'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 63d1c802-2313-47a9-a87d-73b7ab53cbef
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
