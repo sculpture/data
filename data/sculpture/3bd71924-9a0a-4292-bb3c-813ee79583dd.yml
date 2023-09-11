@@ -1,0 +1,17 @@
+id: 3bd71924-9a0a-4292-bb3c-813ee79583dd
+type: sculpture
+slug: roseta-sebastian
+title: Roseta
+artist-ids:
+- 7c870b60-91cc-4830-8849-30177e858d9c
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '2009'
+location:
+  latitude: 45.434344
+  longitude: -75.707994
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
