@@ -1,0 +1,18 @@
+id: d2beca48-f47b-4fab-bcb7-44de91b5db7b
+type: sculpture
+slug: empress-sissi-funchal
+title: Empress Sissi
+artist-ids:
+- 394aa5d5-aadd-4c54-ace8-293510333b59
+city-id: 2728c83e-bce6-4118-a504-439944bc5124
+date: '2000'
+location:
+  latitude: 32.644835
+  longitude: -16.917317
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9c3360b2-448e-4f0e-a2c0-b4339e34d6a4
