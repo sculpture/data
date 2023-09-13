@@ -1,0 +1,18 @@
+id: 42727cc4-53d2-4aee-9e55-885208ab2563
+type: sculpture
+slug: rafael-romero-barros
+title: Rafael Romero Barros
+artist-ids:
+- bf15cc48-8c33-408a-b404-249089cd4859
+city-id: 4caaf18b-6eea-482a-b6cd-5c5a06453ae6
+date: '1926'
+location:
+  latitude: 37.888175
+  longitude: -4.779383
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- b078f909-a131-4d37-8b36-59061078b159
