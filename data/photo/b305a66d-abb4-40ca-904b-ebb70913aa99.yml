@@ -1,10 +1,12 @@
 id: b305a66d-abb4-40ca-904b-ebb70913aa99
 type: photo
-captured-at: 2019-02-08T21:26:02Z
+captured-at: 2019-02-08T11:26:02Z
 colors:
 - '#524F3C'
 - '#908965'
 - '#B4BEBF'
+featured?: false
 height: 3600
+sculpture-id: d2beca48-f47b-4fab-bcb7-44de91b5db7b
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
 width: 2700
