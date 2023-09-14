@@ -1,10 +1,12 @@
 id: 74c12c03-e5ca-4c35-94f9-ffb31f82b22f
 type: photo
-captured-at: 2022-11-25T22:08:11Z
+captured-at: 2022-11-25T12:08:11Z
 colors:
 - '#424343'
 - '#699598'
 - '#BBBBBC'
+featured?: false
 height: 2100
+sculpture-id: ae78da1b-daf1-4edc-afd5-04d1fb7e9c96
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
 width: 1477
