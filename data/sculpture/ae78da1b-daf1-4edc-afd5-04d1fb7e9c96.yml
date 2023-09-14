@@ -1,0 +1,17 @@
+id: ae78da1b-daf1-4edc-afd5-04d1fb7e9c96
+type: sculpture
+slug: crane-adulthood
+title: Cranes
+artist-ids:
+- 2b3fc4b2-b6ba-4fb0-b01a-6d957d039c76
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2022'
+location:
+  latitude: 43.664211
+  longitude: -79.385721
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- b982214e-52f9-48b0-b977-4a4359b49fdb
