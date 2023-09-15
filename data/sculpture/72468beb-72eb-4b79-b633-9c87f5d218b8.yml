@@ -1,0 +1,17 @@
+id: 72468beb-72eb-4b79-b633-9c87f5d218b8
+type: sculpture
+slug: noble-horse
+title: The Noble Horse
+artist-ids:
+- 898585d2-5269-4723-a8c9-450e394162a7
+city-id: e7772a72-f730-4155-aa50-95064c4becac
+date: '1999'
+location:
+  latitude: 41.656176
+  longitude: -83.620147
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
