@@ -1,0 +1,14 @@
+id: ef3e5f3c-7b25-46ec-93fe-37b0db6837f8
+type: sculpture
+slug: ghost-train
+title: Ghost Train
+artist-ids:
+- daa3739f-f25b-4e27-a19d-689c6f3740ac
+city-id: 80f5f02b-13d3-457b-a873-44e2b7a53cfc
+date: '2011'
+location:
+  latitude: 43.675552
+  longitude: -79.823139
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
