@@ -1,0 +1,14 @@
+id: ac451301-a914-481f-b716-fb42b6e2e9e4
+type: sculpture
+slug: niobe-stefanowicz
+title: Niobe s
+artist-ids:
+- 1a6dcdfa-68e5-43d6-b91f-e0cf30d41c30
+city-id: 6c0702d8-ba81-4f97-b2ad-11b1bdbaf349
+date: '1973'
+location:
+  latitude: 54.411408
+  longitude: 18.5606
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
