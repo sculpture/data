@@ -1,0 +1,16 @@
+id: eb55556a-53e5-4ca1-b284-7e7f5b87f52a
+type: sculpture
+slug: un-naufrago
+title: 'Un náufrago '
+artist-ids:
+- 3a0eab9f-9a0a-4076-bd61-bbbb9aecd18f
+city-id: 4caaf18b-6eea-482a-b6cd-5c5a06453ae6
+date: '1890'
+location:
+  latitude: 37.881279
+  longitude: -4.774802
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- c9884cff-1c92-48b5-816b-aa0479de54fa
