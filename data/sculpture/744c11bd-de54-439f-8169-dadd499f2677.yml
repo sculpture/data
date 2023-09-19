@@ -1,0 +1,14 @@
+id: 744c11bd-de54-439f-8169-dadd499f2677
+type: sculpture
+slug: sinfonia-del-mar
+title: Sinfonia del mar
+artist-ids:
+- ff14cb05-6c9a-484e-b0dc-e672bf45703a
+city-id: f7e1f736-a953-4820-8f8f-016c7c76d1bc
+date: 199*
+location:
+  latitude: 36.507407
+  longitude: -4.892674
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
