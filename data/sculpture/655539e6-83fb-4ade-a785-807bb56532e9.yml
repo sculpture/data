@@ -1,0 +1,17 @@
+id: 655539e6-83fb-4ade-a785-807bb56532e9
+type: sculpture
+slug: youth-crane
+title: Youth
+artist-ids:
+- 795ddaac-67a8-4e09-907f-f362c9481a81
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2022'
+location:
+  latitude: 43.664432
+  longitude: -79.386086
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- b982214e-52f9-48b0-b977-4a4359b49fdb
