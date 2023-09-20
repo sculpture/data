@@ -1,0 +1,21 @@
+id: a69bf849-a8e6-4593-ad8d-e26aea17d1ad
+type: sculpture
+slug: seneca
+title: Séneca
+artist-ids:
+- 3a0eab9f-9a0a-4076-bd61-bbbb9aecd18f
+city-id: 4caaf18b-6eea-482a-b6cd-5c5a06453ae6
+date: '1895'
+location:
+  latitude: 37.881279
+  longitude: -4.774802
+  precision: 10
+material-ids:
+- 20a2d498-24d5-40aa-8a11-f28b1679f63a
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6c2bfe1f-8ad4-42af-8a27-b996f6ebbdfa
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- cc034efc-b82b-42ee-a2d2-16753502bef1
