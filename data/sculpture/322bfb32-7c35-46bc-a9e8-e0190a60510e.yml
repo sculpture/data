@@ -1,0 +1,18 @@
+id: 322bfb32-7c35-46bc-a9e8-e0190a60510e
+type: sculpture
+slug: bottle-dryer-lisbon
+title: 'Bottle Dryer '
+artist-ids:
+- 25e6fed6-d9d1-41ff-bb81-853cfc360f0d
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1914'
+location:
+  latitude: 38.695874
+  longitude: -9.209091
+  precision: 10
+material-ids:
+- 32495469-6b62-477a-b272-a0e4e2c0e5c9
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e7c0d105-ed1d-4e46-8cd8-a5153a2a784d
