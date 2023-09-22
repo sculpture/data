@@ -1,0 +1,18 @@
+id: a7da3e83-b0e3-4788-81ba-78a301e7358c
+type: sculpture
+slug: onoratas-gate
+title: St. Onorata's Gate
+artist-ids:
+- 3a443103-fb5a-4f6b-aa2d-7d3e9af9e54e
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1915'
+location:
+  latitude: 52.253528
+  longitude: 20.977173
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2d7e8f2e-e187-462b-a638-06a4ef145363
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
