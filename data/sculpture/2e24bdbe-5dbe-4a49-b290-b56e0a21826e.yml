@@ -1,0 +1,17 @@
+id: 2e24bdbe-5dbe-4a49-b290-b56e0a21826e
+type: sculpture
+slug: marek-grechuta
+title: Marek Grechuta
+artist-ids:
+- aee49002-af99-4ef5-b907-eb68a3b1e6a6
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '2007'
+location:
+  latitude: 50.866743
+  longitude: 20.62196
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 025aebba-7303-441f-b755-ade5bb67ef90
+- 18d2fd29-8838-4290-a343-39182ae9b445
