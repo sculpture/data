@@ -1,0 +1,17 @@
+id: a7d427d9-2dd5-46af-87ec-918bb3d6fcf7
+type: sculpture
+slug: one-eyed-shaman-mask
+title: One Eyed Shaman Mask
+artist-ids:
+- 7abba0af-7ecb-41d2-a30e-d926bad917af
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
