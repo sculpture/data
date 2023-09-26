@@ -1,0 +1,18 @@
+id: 4847584f-fb5c-4ef4-bb13-f538643c9e41
+type: sculpture
+slug: dom-joao-iii
+title: D. João III
+artist-ids:
+- ab2edd4e-cc0b-428e-88ad-f0d241cae925
+city-id: 58b70c2d-3c46-4012-9497-8e3fbaeed2bb
+date: '1948'
+location:
+  latitude: 40.207365
+  longitude: -8.42605
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
