@@ -1,0 +1,14 @@
+id: 9af746b2-2559-4594-b3a8-5df948c44523
+type: sculpture
+slug: oltarz-pokoju
+title: Ołtarz Pokoju
+artist-ids:
+- b9ab5d79-3810-4949-bb91-57b4868bfab2
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2009'
+location:
+  latitude: 52.231755
+  longitude: 21.011547
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
