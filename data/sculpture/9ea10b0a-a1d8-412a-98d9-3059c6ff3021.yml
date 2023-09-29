@@ -1,0 +1,21 @@
+id: 9ea10b0a-a1d8-412a-98d9-3059c6ff3021
+type: sculpture
+slug: ferdinand-iii-of-castile
+title: Ferdinand III of Castile
+artist-ids:
+- 6bc026d9-abfa-4d81-bf81-bffd29b56eb4
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '1671'
+location:
+  latitude: 37.385825
+  longitude: -5.993107
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
