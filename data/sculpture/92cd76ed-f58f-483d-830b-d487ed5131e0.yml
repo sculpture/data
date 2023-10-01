@@ -1,0 +1,20 @@
+id: 92cd76ed-f58f-483d-830b-d487ed5131e0
+type: sculpture
+slug: san-bruno-montanes
+title: ' San Bruno'
+artist-ids:
+- d4d4feba-509d-4c5b-9ab1-7513ef2512e7
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '1634'
+location:
+  latitude: 37.39251
+  longitude: -6.000026
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
