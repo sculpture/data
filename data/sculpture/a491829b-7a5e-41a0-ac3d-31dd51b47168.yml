@@ -1,0 +1,18 @@
+id: a491829b-7a5e-41a0-ac3d-31dd51b47168
+type: sculpture
+slug: d-dinis
+title: D. Dinis
+artist-ids:
+- ab2edd4e-cc0b-428e-88ad-f0d241cae925
+city-id: 58b70c2d-3c46-4012-9497-8e3fbaeed2bb
+date: '1943'
+location:
+  latitude: 40.193848
+  longitude: -8.431105
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
