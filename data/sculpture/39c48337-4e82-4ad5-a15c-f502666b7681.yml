@@ -1,0 +1,18 @@
+id: 39c48337-4e82-4ad5-a15c-f502666b7681
+type: sculpture
+slug: beautiful-madonna-gdansk
+title: Beautiful Madonna of Gdańsk
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 6c0702d8-ba81-4f97-b2ad-11b1bdbaf349
+date: 14*
+location:
+  latitude: 54.34991
+  longitude: 18.65336
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- de83a4c2-214e-45fb-a307-c835449e52bf
