@@ -1,0 +1,17 @@
+id: c21149e3-38e3-4636-ae4f-dcde68d468fe
+type: sculpture
+slug: flow-between-hard-places
+title: The Flow Between Hard Places
+artist-ids:
+- 2742b164-3bbc-4d04-84ca-87a1799c7989
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2019'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
