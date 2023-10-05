@@ -1,0 +1,19 @@
+id: 7b845dbd-7de6-4bb7-bf07-01068e8704aa
+type: sculpture
+slug: pierre-puget-bust
+title: Pierre Puget
+artist-ids:
+- fdb8758b-f7df-4048-b8e3-8c357abd0665
+city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
+date: 166*
+location:
+  latitude: 43.525444
+  longitude: 5.452671
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 88a0e756-4193-4ff2-9d96-f1844c05f5e5
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
