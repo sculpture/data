@@ -1,0 +1,17 @@
+id: 6260661c-7251-4e8d-9a3e-60456f16eb59
+type: sculpture
+slug: eve-riemenschneider
+title: Eve R
+artist-ids:
+- 2b24657f-d87b-411e-bbea-e2e4aa0d4e81
+city-id: 9d5db670-5313-4ffb-bcc4-b45700b6db65
+date: '1493'
+location:
+  latitude: 49.794903
+  longitude: 9.929529
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
