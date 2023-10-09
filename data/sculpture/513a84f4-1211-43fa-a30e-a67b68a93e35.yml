@@ -1,0 +1,19 @@
+id: 513a84f4-1211-43fa-a30e-a67b68a93e35
+type: sculpture
+slug: angel-st-matthew-maitani
+title: Angel (St Matthew)
+artist-ids:
+- a5cbc20a-263c-4f4f-9c1d-cd64941941b1
+city-id: 6f6f1ffd-8616-431e-9d18-dc9dd8af38c5
+date: '1330'
+location:
+  latitude: 42.716905
+  longitude: 12.11307
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: symbol of St Matthew
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
