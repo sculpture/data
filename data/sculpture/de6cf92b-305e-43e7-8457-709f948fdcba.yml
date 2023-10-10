@@ -1,0 +1,19 @@
+id: de6cf92b-305e-43e7-8457-709f948fdcba
+type: sculpture
+slug: infante-d-henrique
+title: Infante D. Henrique
+artist-ids:
+- 0e4507ac-bb2d-4c24-b998-44d51cc885d3
+- 9e9ec2df-23a0-4d1a-8d7f-201ca6dfc410
+city-id: 3ec88af6-9616-48e0-abb6-fa11e1efc940
+date: '2010'
+location:
+  latitude: 39.658279
+  longitude: -8.825765
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 53670a93-6753-4afd-a6c7-219f31fc8088
+- 69050b3c-166a-422e-86ce-a9c6f896805a
