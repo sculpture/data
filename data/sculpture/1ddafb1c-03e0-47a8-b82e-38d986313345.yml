@@ -1,0 +1,19 @@
+id: 1ddafb1c-03e0-47a8-b82e-38d986313345
+type: sculpture
+slug: queen-wilhelmina-amsterdam
+title: Queen Wilhelmina
+artist-ids:
+- 0aee2c38-c9ff-4cd7-9518-d4450e18b7fc
+city-id: 6ba859f5-a74a-4e05-87ae-c2c2bf55650b
+date: '1972'
+location:
+  latitude: 52.369161
+  longitude: 4.892301
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9c3360b2-448e-4f0e-a2c0-b4339e34d6a4
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
