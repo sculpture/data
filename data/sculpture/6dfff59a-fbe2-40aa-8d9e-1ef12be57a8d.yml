@@ -1,0 +1,19 @@
+id: 6dfff59a-fbe2-40aa-8d9e-1ef12be57a8d
+type: sculpture
+slug: eternal-springtime-gulbekian
+title: Eternal Springtime
+artist-ids:
+- 0d0131e9-ece4-417f-80bd-904e881f478e
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1884'
+link-wikipedia: https://en.wikipedia.org/wiki/Eternal_Springtime
+location:
+  latitude: 38.737812
+  longitude: -9.153546
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6883fc7a-540d-4fe9-9753-80f6e581f0ab
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
