@@ -1,0 +1,18 @@
+id: 302d5c5f-4b34-427c-87cb-48138d64af35
+type: sculpture
+slug: hotel-europa-prague
+title: Hotel Europa
+artist-ids:
+- 00702d51-30e3-4c1d-badd-4f58bf81277e
+city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
+date: '1905'
+location:
+  latitude: 50.082224
+  longitude: 14.427013
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7847b3d8-40b7-4a02-8328-5d85a3254b00
