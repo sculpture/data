@@ -1,0 +1,20 @@
+id: dfc53e89-f18f-42cf-882b-d7effc1833ad
+type: sculpture
+slug: norbert-of-xanten-pulpit
+title: Pulpit of Norbert of Xanten
+artist-ids:
+- 13aca58c-2d60-41c2-8d01-93c040c4646c
+city-id: bc7ca2c7-aac6-4ab7-85ca-d4786262d8a8
+date: '1742'
+location:
+  latitude: 50.879729
+  longitude: 4.700699
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 2f65ce93-2124-4391-a225-855055c78203
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 6f13c768-5619-419e-97af-60440cab7f89
+- de83a4c2-214e-45fb-a307-c835449e52bf
