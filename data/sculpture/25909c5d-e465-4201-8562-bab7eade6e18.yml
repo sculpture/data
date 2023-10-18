@@ -1,0 +1,17 @@
+id: 25909c5d-e465-4201-8562-bab7eade6e18
+type: sculpture
+slug: camilo-pessanha
+title: Camilo Pessanha
+artist-ids:
+- fa3e7180-e016-45e1-8cd8-8ce1a4773c23
+city-id: 58b70c2d-3c46-4012-9497-8e3fbaeed2bb
+date: '1967'
+location:
+  latitude: 40.209673
+  longitude: -8.418746
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445
