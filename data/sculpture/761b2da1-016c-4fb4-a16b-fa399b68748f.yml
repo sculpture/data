@@ -1,0 +1,15 @@
+id: 761b2da1-016c-4fb4-a16b-fa399b68748f
+type: sculpture
+slug: head-fraczkiewicz
+title: Head
+artist-ids:
+- 3c4e106f-8462-475e-b075-26075dfda8f7
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '1985'
+location:
+  latitude: 51.312795
+  longitude: 20.982597
+  precision: 10
+material-ids:
+- 2aa408c8-4b60-4a40-a151-67661b57b97b
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
