@@ -1,0 +1,14 @@
+id: 66a08b28-1233-450b-b05f-bf063efae59d
+type: sculpture
+slug: hood-ornament
+title: Hood Ornament
+artist-ids:
+- 643a1bcf-4f04-4d0f-83ce-077722cc984f
+city-id: 4c133344-0cec-4448-b5cb-d702cc6e1913
+date: '1996'
+location:
+  latitude: 40.237392
+  longitude: -74.720291
+  precision: 10
+material-ids:
+- 590bc2f1-fd09-4c83-96da-39fa51cef820
