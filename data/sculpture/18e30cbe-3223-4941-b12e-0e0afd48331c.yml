@@ -1,0 +1,13 @@
+id: 18e30cbe-3223-4941-b12e-0e0afd48331c
+type: sculpture
+slug: double-oval-kendall-gardens
+title: Double Oval
+artist-ids:
+- 2fb2873a-8083-45af-b967-a8ffd1e0b75d
+date: '1966'
+location:
+  latitude: 41.03355
+  longitude: -73.693305
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
