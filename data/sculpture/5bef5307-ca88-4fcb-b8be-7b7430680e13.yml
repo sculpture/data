@@ -1,0 +1,18 @@
+id: 5bef5307-ca88-4fcb-b8be-7b7430680e13
+type: sculpture
+slug: boleslaw-wieniawa-dlugoszowski
+title: Bolesław Wieniawa-Długoszowski
+artist-ids:
+- 2fda5c56-6ddb-4b01-9f57-9abd5c7f154d
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2019'
+location:
+  latitude: 52.215796
+  longitude: 21.038
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 521f00f2-f976-4b69-89cf-6e8db0c94f29
