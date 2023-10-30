@@ -1,0 +1,21 @@
+id: 095a0cf6-f520-4def-90ef-04c799cbc4db
+type: sculpture
+slug: winter-houdon-met
+title: Winter
+artist-ids:
+- 210ee7d7-575c-4530-8d11-7ba7a04c407b
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1787'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
