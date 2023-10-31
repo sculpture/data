@@ -1,0 +1,16 @@
+id: 8752ab89-c9f3-45ec-9251-da705f91dd5e
+type: sculpture
+slug: kiosque-levide-kendall
+title: Kiosque l’évidé
+artist-ids:
+- a7230cc1-62f3-42ae-bb7c-23d59d79e17b
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1970'
+location:
+  latitude: 41.034397
+  longitude: -73.691444
+  precision: 10
+material-ids:
+- 56560105-70a1-4867-aaea-6d76d31576c0
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+- 813407d6-0182-4b87-a4ea-66df2291a0f8
