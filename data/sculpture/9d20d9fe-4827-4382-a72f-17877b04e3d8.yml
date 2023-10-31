@@ -1,0 +1,19 @@
+id: 9d20d9fe-4827-4382-a72f-17877b04e3d8
+type: sculpture
+slug: womans-head
+title: Woman's Head
+artist-ids:
+- 45ffa2d8-2122-418a-810f-c2dd1ffb1543
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1911'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
