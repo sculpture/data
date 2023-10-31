@@ -1,0 +1,19 @@
+id: fa91ebd5-3b00-43dd-970e-0dc64cd3d6f0
+type: sculpture
+slug: humming-plensa
+title: Humming
+artist-ids:
+- 24827920-a2c6-4427-ada2-0c28680fad21
+city-id: 1aff16e3-5963-4a1d-b9f6-1ebec654ea71
+date: '2011'
+location:
+  latitude: 42.430173
+  longitude: -71.311986
+  precision: 10
+material-ids:
+- 270dfb6d-92b2-464a-b5ff-827f6c828452
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
