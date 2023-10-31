@@ -1,0 +1,20 @@
+id: 28b7c91e-8e0b-4e18-b894-8511710a6e9d
+type: sculpture
+slug: angel-pasionario
+title: Ángel pasionario
+artist-ids:
+- 6bc026d9-abfa-4d81-bf81-bffd29b56eb4
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: 167*
+location:
+  latitude: 37.385825
+  longitude: -5.993107
+  precision: 10
+material-ids:
+- 449582e6-6741-4441-a519-81e7c5591f96
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 66ec2c31-c300-4e0f-bc36-93fa72a95fef
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
