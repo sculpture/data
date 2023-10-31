@@ -1,0 +1,20 @@
+id: a4b79e6a-1070-43ec-8a41-b6bdfe0511e6
+type: sculpture
+slug: saint-michael-archangel-met
+title: Saint Michael the Archangel
+artist-ids:
+- bc6b0029-c295-45cc-80de-f2dd7f10689c
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1475'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- a4828452-7739-4398-9236-e0c62eda53c2
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
