@@ -1,0 +1,15 @@
+id: bfee07ed-87cd-4e1f-af42-a2211275cfd5
+type: sculpture
+slug: grande-disco-kendall
+title: Grande Disco
+artist-ids:
+- b0f670b0-dd0d-4118-9e1c-68d5837a902f
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1972'
+link-wikipedia: https://it.wikipedia.org/wiki/Disco_Grande
+location:
+  latitude: 41.034028
+  longitude: -73.692555
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
