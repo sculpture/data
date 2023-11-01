@@ -1,0 +1,14 @@
+id: 4f8d4278-3266-4684-bc52-d8693f008153
+type: sculpture
+slug: schubert-sonata
+title: Schubert Sonata
+artist-ids:
+- bd9de07c-dcbb-4c62-9d26-d63b6736a547
+city-id: d2389309-5fb4-45b6-a60c-c3f8be44c8e6
+date: '1992'
+location:
+  latitude: 47.616603
+  longitude: -122.355317
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
