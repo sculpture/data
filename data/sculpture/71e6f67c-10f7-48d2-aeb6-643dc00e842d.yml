@@ -1,0 +1,14 @@
+id: 71e6f67c-10f7-48d2-aeb6-643dc00e842d
+type: sculpture
+slug: borealis-suvero
+title: Borealis
+artist-ids:
+- bd9de07c-dcbb-4c62-9d26-d63b6736a547
+city-id: 317edb54-dd37-402f-9b78-4ea66a5edf50
+date: '1988'
+location:
+  latitude: 41.020823
+  longitude: -73.625647
+  precision: 10
+material-ids:
+- d0c52472-81c0-4c1d-abd7-3a32fd760700
