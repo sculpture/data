@@ -1,0 +1,17 @@
+id: af91cbe3-c016-462d-90e0-6f884f7f452a
+type: sculpture
+slug: torse-nombril
+title: Torse-nombril
+artist-ids:
+- 751ba8f1-a286-4846-bc74-0ccd9d70d63a
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1921'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- 449582e6-6741-4441-a519-81e7c5591f96
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
