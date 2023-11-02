@@ -1,0 +1,19 @@
+id: e2d6c4e6-7283-495c-bfa5-9faa2fab6f8e
+type: sculpture
+slug: angel-with-cross-ferrata
+title: Angel with a Cross
+artist-ids:
+- 9279a342-da4c-4c07-a634-85209afae29a
+city-id: 569920f5-7103-4e7b-8bef-a08ea0c3bd14
+date: '1669'
+location:
+  latitude: 41.901749
+  longitude: 12.466462
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
