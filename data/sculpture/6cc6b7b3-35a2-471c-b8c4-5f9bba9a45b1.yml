@@ -1,0 +1,17 @@
+id: 6cc6b7b3-35a2-471c-b8c4-5f9bba9a45b1
+type: sculpture
+slug: three-figures-four-benches
+title: Three Figures and Four Benches
+artist-ids:
+- d74e7d14-e1b0-47e3-a523-62e3679cbb37
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1979'
+location:
+  latitude: 41.033822
+  longitude: -73.693021
+  precision: 10
+material-ids:
+- 20ec9050-85db-4ec6-8fef-806598bcee75
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 21b5d04c-9fea-4c3d-a0d6-2b9dff10c299
