@@ -1,0 +1,14 @@
+id: 3cb38139-c747-496d-a7c4-cb69d4597da9
+type: sculpture
+slug: the-codex-lipton
+title: The Codex
+artist-ids:
+- e427dd13-9ae2-4a22-b2f5-f67d4b2cebe9
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1960'
+location:
+  latitude: 41.034296
+  longitude: -73.693161
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
