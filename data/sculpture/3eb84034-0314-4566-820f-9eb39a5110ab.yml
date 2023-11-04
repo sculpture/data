@@ -1,0 +1,16 @@
+id: 3eb84034-0314-4566-820f-9eb39a5110ab
+type: sculpture
+slug: passage-erdman
+title: Passage
+artist-ids:
+- ce9b1de4-6b42-458a-b36b-38a1a5c79e3e
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1985'
+location:
+  latitude: 41.03451
+  longitude: -73.692914
+  precision: 10
+material-ids:
+- 7bc93270-67d5-44dc-88fa-2bbaf7d47f49
+tag-ids:
+- df4890c4-2701-4782-a670-d019b3b95547
