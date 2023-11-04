@@ -1,0 +1,16 @@
+id: 74fb34de-0f56-4730-9404-8187835349b1
+type: sculpture
+slug: haida-totems-davidson
+title: Haida Totems
+artist-ids:
+- c9d009a1-cf67-4075-b50d-06a661ad7afa
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1986'
+location:
+  latitude: 41.032887
+  longitude: -73.693708
+  precision: 10
+material-ids:
+- d10b6251-79c5-4fc3-b359-a45e7e3ce9b5
+tag-ids:
+- cade9829-ef07-4263-827c-a161323c585f
