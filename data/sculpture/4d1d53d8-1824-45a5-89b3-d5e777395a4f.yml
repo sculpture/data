@@ -1,0 +1,17 @@
+id: 4d1d53d8-1824-45a5-89b3-d5e777395a4f
+type: sculpture
+slug: mozart-ii-snelson
+title: Mozart II
+artist-ids:
+- 28867969-9132-450a-b8a6-5e7842d7e26a
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1982'
+location:
+  latitude: 41.034409
+  longitude: -73.692726
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 374738f3-78e8-4926-b7f8-a0c6a597bcc8
+tag-ids:
+- 7847b3d8-40b7-4a02-8328-5d85a3254b00
