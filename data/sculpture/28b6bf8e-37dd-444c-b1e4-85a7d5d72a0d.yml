@@ -1,0 +1,19 @@
+id: 28b6bf8e-37dd-444c-b1e4-85a7d5d72a0d
+type: sculpture
+slug: girl-with-dolphin
+title: Girl with a Dolphin
+artist-ids:
+- 239688b8-7785-467b-bdfe-c152db5ed892
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1973'
+location:
+  latitude: 41.034992
+  longitude: -73.693397
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2094ee30-7294-478e-b118-b3fd48a7c570
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
