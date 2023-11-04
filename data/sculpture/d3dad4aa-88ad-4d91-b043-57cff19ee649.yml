@@ -1,0 +1,19 @@
+id: d3dad4aa-88ad-4d91-b043-57cff19ee649
+type: sculpture
+slug: torso-navel-mustache-flower
+title: Torso, Navel, Mustache-Flower
+artist-ids:
+- 751ba8f1-a286-4846-bc74-0ccd9d70d63a
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1930'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 449582e6-6741-4441-a519-81e7c5591f96
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
