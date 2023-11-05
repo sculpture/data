@@ -1,0 +1,16 @@
+id: 3f7e4bd9-910d-4dfa-a39f-cc45c6f924bb
+type: sculpture
+slug: giant-trowel-ii
+title: Giant Trowel II
+artist-ids:
+- 0d8ec7e1-a63e-4863-928e-ad581ca65564
+- 88ecb931-e524-412b-80a4-8cc409acd192
+date: '1976'
+location:
+  latitude: 41.03472
+  longitude: -73.691884
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- 91dc9534-fac3-4f77-aaa1-5a701b6ab79b
