@@ -1,0 +1,16 @@
+id: 0bb449e7-0e02-450b-bad0-8122261589f3
+type: sculpture
+slug: duck-smith
+title: Duck
+artist-ids:
+- cdd1cc4b-d0a8-48dd-9442-be56ef5f5f42
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1963'
+location:
+  latitude: 41.036602
+  longitude: -73.694346
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
