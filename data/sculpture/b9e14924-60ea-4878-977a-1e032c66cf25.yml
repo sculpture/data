@@ -1,0 +1,16 @@
+id: b9e14924-60ea-4878-977a-1e032c66cf25
+type: sculpture
+slug: modern-head-yale
+title: 'Modern Head '
+artist-ids:
+- 6c982673-ff3d-44cb-96e7-d6f173d1a332
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1989'
+location:
+  latitude: 41.316324
+  longitude: -72.922343
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 91dc9534-fac3-4f77-aaa1-5a701b6ab79b
