@@ -1,0 +1,19 @@
+id: 95127c19-ce91-43e3-9222-40a56d373349
+type: sculpture
+slug: john-cockerill
+title: John Cockerill
+artist-ids:
+- 6d8558c7-cd0b-421b-9ec2-c9bcb9daf51a
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1872'
+link-wikipedia: https://fr.wikipedia.org/wiki/Monument_%C3%A0_John_Cockerill_(Bruxelles)
+location:
+  latitude: 50.839172
+  longitude: 4.372657
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- bf6e2af4-6918-408e-9ebf-f559bf8f16cb
