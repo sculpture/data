@@ -1,0 +1,21 @@
+id: 1d42a3f2-dc8e-4d3b-a6a5-cb2679628fb6
+type: sculpture
+slug: youthful-saint-john-baptist
+title: The Youthful Saint John the Baptist
+artist-ids:
+- e12a053e-a335-4b23-b6ae-c689c92e128a
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: 162*
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
