@@ -1,0 +1,14 @@
+id: f5085cf2-52b1-4c6d-9252-30ce9da58512
+type: sculpture
+slug: pine-sanctuary
+title: Pine Sanctuary
+artist-ids:
+- 95f68f45-069f-430b-b02f-b45f00326e88
+city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
+date: '2017'
+location:
+  latitude: 43.564112
+  longitude: -79.67037
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
