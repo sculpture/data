@@ -1,0 +1,20 @@
+id: 5522a569-b764-4825-ba91-3df0232eb8f9
+type: sculpture
+slug: herakles-the-archer
+title: Herakles the Archer
+artist-ids:
+- b51b9561-0a08-4fea-8ed3-a617ab2f8b24
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1909'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 46fe9fce-6a4f-4a44-89d7-dedc6f731b39
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- ce5eba46-3dff-4d8c-89c8-4fab2da9a37d
