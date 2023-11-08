@@ -1,11 +1,12 @@
 id: 5522a569-b764-4825-ba91-3df0232eb8f9
 type: sculpture
-slug: herakles-the-archer
-title: Herakles the Archer
+slug: hercules-the-archer
+title: Hercules the Archer
 artist-ids:
 - b51b9561-0a08-4fea-8ed3-a617ab2f8b24
 city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
 date: '1909'
+link-wikipedia: https://en.wikipedia.org/wiki/Hercules_the_Archer
 location:
   latitude: 40.779437
   longitude: -73.963244
