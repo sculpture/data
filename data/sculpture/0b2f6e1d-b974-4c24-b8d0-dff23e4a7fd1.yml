@@ -1,0 +1,16 @@
+id: 0b2f6e1d-b974-4c24-b8d0-dff23e4a7fd1
+type: sculpture
+slug: jester-taylor-kendall
+title: Jester
+artist-ids:
+- ab439e99-d37b-454e-b3ba-d7be7fdbc520
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1994'
+location:
+  latitude: 41.037355
+  longitude: -73.696595
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
