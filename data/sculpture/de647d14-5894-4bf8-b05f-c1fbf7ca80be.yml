@@ -1,0 +1,17 @@
+id: de647d14-5894-4bf8-b05f-c1fbf7ca80be
+type: sculpture
+slug: grizzly-bear-wynne
+title: Grizzly Bear
+artist-ids:
+- 239688b8-7785-467b-bdfe-c152db5ed892
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1974'
+location:
+  latitude: 41.033402
+  longitude: -73.690892
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
