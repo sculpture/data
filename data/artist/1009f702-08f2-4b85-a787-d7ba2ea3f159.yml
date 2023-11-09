@@ -1,0 +1,12 @@
+id: 1009f702-08f2-4b85-a787-d7ba2ea3f159
+type: artist
+slug: barnett-newman
+name: Barnett Newman
+birth-date: '1905'
+death-date: '1970'
+gender: male
+link-wikipedia: https://en.wikipedia.org/wiki/Barnett_Newman
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553
+tag-ids:
+- 92f5b43c-299b-49c6-a5f6-f1aa2b4eaa61
