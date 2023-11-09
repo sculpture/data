@@ -1,0 +1,17 @@
+id: f1f62be9-1791-45df-8d33-4916dc4fb8bb
+type: sculpture
+slug: broken-obelisk-newman
+title: Broken Obelisk
+artist-ids:
+- 1009f702-08f2-4b85-a787-d7ba2ea3f159
+city-id: d2389309-5fb4-45b6-a60c-c3f8be44c8e6
+date: '1967'
+link-wikipedia: https://en.wikipedia.org/wiki/Broken_Obelisk
+location:
+  latitude: 47.656085
+  longitude: -122.30906
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- da7678e3-55c7-4a57-8c34-f4a7fd3be717
