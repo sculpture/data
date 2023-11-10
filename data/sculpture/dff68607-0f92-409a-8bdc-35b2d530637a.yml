@@ -1,0 +1,18 @@
+id: dff68607-0f92-409a-8bdc-35b2d530637a
+type: sculpture
+slug: mae-west-lips-sofa-figueres
+title: Mae West Lips Sofa
+artist-ids:
+- 63db084d-333a-4c71-8894-3c9357c592e2
+city-id: a75c8dbc-3678-4d58-8c87-20ded6915cd2
+date: '1972'
+location:
+  latitude: 42.267988
+  longitude: 2.959663
+  precision: 10
+material-ids:
+- 2dc45cd1-a7d7-4496-b4da-0ab63b1f8545
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b60664f3-1a68-41a3-bcb7-1dce648ebfc4
