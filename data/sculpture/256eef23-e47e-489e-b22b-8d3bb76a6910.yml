@@ -1,0 +1,16 @@
+id: 256eef23-e47e-489e-b22b-8d3bb76a6910
+type: sculpture
+slug: man-with-mandolin
+title: Man with Mandolin
+artist-ids:
+- 77141594-2cbf-482f-a270-b9b9c37eee58
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1916'
+location:
+  latitude: 41.30837
+  longitude: -72.930631
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
