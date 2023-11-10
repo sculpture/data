@@ -1,0 +1,17 @@
+id: 3abd4977-2aee-44eb-8e0d-c012903a0a1e
+type: sculpture
+slug: birds-of-welcome
+title: Birds of Welcome
+artist-ids:
+- e314a84d-406c-434e-85db-2419b0fbacb1
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1971'
+location:
+  latitude: 41.037977
+  longitude: -73.696503
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- b982214e-52f9-48b0-b977-4a4359b49fdb
