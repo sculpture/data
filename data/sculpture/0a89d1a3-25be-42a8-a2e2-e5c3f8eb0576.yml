@@ -1,0 +1,17 @@
+id: 0a89d1a3-25be-42a8-a2e2-e5c3f8eb0576
+type: sculpture
+slug: olympic-iliad
+title: Olympic Iliad
+artist-ids:
+- b2c54f03-b05b-43b4-8811-e4d959f022ac
+city-id: d2389309-5fb4-45b6-a60c-c3f8be44c8e6
+date: '1984'
+link-wikipedia: https://en.wikipedia.org/wiki/Olympic_Iliad
+location:
+  latitude: 47.619412
+  longitude: -122.350089
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
