@@ -1,0 +1,15 @@
+id: b3b9778e-16d6-46c0-ade2-1c746ff2ae26
+type: sculpture
+slug: sheep-piece-moore-kendall
+title: Sheep Piece
+artist-ids:
+- 2fb2873a-8083-45af-b967-a8ffd1e0b75d
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1972'
+link-wikipedia: https://en.wikipedia.org/wiki/Sheep_Piece_1971%E2%80%9372
+location:
+  latitude: 41.033911
+  longitude: -73.694201
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
