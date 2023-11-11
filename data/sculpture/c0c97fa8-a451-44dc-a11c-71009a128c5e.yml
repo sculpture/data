@@ -1,0 +1,20 @@
+id: c0c97fa8-a451-44dc-a11c-71009a128c5e
+type: sculpture
+slug: soft-calendar-for-august
+title: Soft Calendar for the Month of August
+artist-ids:
+- 88ecb931-e524-412b-80a4-8cc409acd192
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1962'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 17846e26-3089-4526-a65e-8bd77bd4e8e0
+- 320e46a3-79a7-4912-a5c5-821e31e7fdfd
+- 39ecc0e3-135f-44a3-952e-8482067fde73
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
