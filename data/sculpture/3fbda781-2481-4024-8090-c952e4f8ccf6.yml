@@ -1,0 +1,14 @@
+id: 3fbda781-2481-4024-8090-c952e4f8ccf6
+type: sculpture
+slug: caryatids-brown
+title: Cartatids
+artist-ids:
+- 061eec68-e391-48ac-971f-010df515fc34
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1981'
+location:
+  latitude: 41.034842
+  longitude: -73.697414
+  precision: 10
+material-ids:
+- d0c52472-81c0-4c1d-abd7-3a32fd760700
