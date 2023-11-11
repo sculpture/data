@@ -1,10 +1,12 @@
 id: 74fce896-4b62-43a2-8233-f611705919fb
 type: photo
-captured-at: 2015-09-24T20:21:27Z
+captured-at: 2015-09-24T14:21:27Z
 colors:
 - '#3C3C3D'
 - '#7D7B7F'
 - '#D1D1CF'
+featured?: true
 height: 2400
+sculpture-id: 487c5dc9-c10e-45de-8ebc-fd82d7f19a9e
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
 width: 1722
