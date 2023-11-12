@@ -1,0 +1,16 @@
+id: 7e448c11-f8e7-45e3-8f17-38accdcb5874
+type: sculpture
+slug: hats-off-calder
+title: Hats Off
+artist-ids:
+- 7ad71af4-c9b7-49d0-9765-ba2a674856a0
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1969'
+location:
+  latitude: 41.033923
+  longitude: -73.691466
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
