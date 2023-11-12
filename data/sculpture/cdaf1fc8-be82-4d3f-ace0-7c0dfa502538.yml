@@ -1,0 +1,18 @@
+id: cdaf1fc8-be82-4d3f-ace0-7c0dfa502538
+type: sculpture
+slug: dancer-with-bird
+title: Dancer with a Bird
+artist-ids:
+- 239688b8-7785-467b-bdfe-c152db5ed892
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1974'
+location:
+  latitude: 41.036857
+  longitude: -73.696154
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
