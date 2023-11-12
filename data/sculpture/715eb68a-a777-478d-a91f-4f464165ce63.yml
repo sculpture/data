@@ -1,0 +1,18 @@
+id: 715eb68a-a777-478d-a91f-4f464165ce63
+type: sculpture
+slug: musico-para-sordos
+title: Músico Para Sordos
+artist-ids:
+- 3d1a455b-4efe-4afd-8d5f-3cb045ed5206
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '2007'
+location:
+  latitude: 41.035825
+  longitude: -73.695478
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- e67f346e-191a-4f0f-a6c2-861e72e7f78f
