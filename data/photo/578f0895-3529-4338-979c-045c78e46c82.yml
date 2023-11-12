@@ -1,10 +1,12 @@
 id: 578f0895-3529-4338-979c-045c78e46c82
 type: photo
-captured-at: 2021-10-10T17:24:40Z
+captured-at: 2021-10-10T11:24:40Z
 colors:
 - '#605F5D'
 - '#A7A9AA'
 - '#CCCDCD'
+featured?: false
 height: 2000
+sculpture-id: 1287ae63-dd6f-476c-9363-959a625b4b5e
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
 width: 1368
