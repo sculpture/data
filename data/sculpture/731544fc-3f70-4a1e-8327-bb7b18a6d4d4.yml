@@ -1,0 +1,23 @@
+id: 731544fc-3f70-4a1e-8327-bb7b18a6d4d4
+type: sculpture
+slug: little-dancer-degas-met
+title: Little Dancer of Fourteen Years
+artist-ids:
+- 75d3c4a6-69c2-4f17-bbdb-8d5f85850ae5
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1880'
+link-wikipedia: https://en.wikipedia.org/wiki/Little_Dancer_of_Fourteen_Years
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 35913622-405e-4e52-b409-6acc87a4dd77
+note: cast 1922
+tag-ids:
+- 2094ee30-7294-478e-b118-b3fd48a7c570
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
