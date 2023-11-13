@@ -1,0 +1,16 @@
+id: d7023f4a-1df6-43cb-acd6-79abaa4b6c47
+type: sculpture
+slug: yellow-bird-yale
+title: 'Yellow Bird '
+artist-ids:
+- e9fbb5b3-979a-4f86-b95c-43a9d9a3c1ec
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1919'
+location:
+  latitude: 41.308414
+  longitude: -72.930851
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
