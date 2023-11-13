@@ -1,0 +1,14 @@
+id: 7f5b8235-5f31-43bd-a870-340e1aa4da76
+type: sculpture
+slug: through-sound-barrier-kendall
+title: 'Through the Sound Barrier '
+artist-ids:
+- cb0f2326-78fa-40c6-97b8-ee01bfe47505
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1969'
+location:
+  latitude: 41.033312
+  longitude: -73.689991
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
