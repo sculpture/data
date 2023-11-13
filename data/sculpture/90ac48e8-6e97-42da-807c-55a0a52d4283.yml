@@ -1,0 +1,16 @@
+id: 90ac48e8-6e97-42da-807c-55a0a52d4283
+type: sculpture
+slug: horse-and-rider-marini-kendall
+title: Horse and Rider
+artist-ids:
+- cc102819-9d50-4efa-a8a2-d1450cfabade
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1953'
+location:
+  latitude: 41.034696
+  longitude: -73.692587
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
