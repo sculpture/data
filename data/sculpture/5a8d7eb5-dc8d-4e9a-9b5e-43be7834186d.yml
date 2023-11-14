@@ -1,0 +1,20 @@
+id: 5a8d7eb5-dc8d-4e9a-9b5e-43be7834186d
+type: sculpture
+slug: jan-karski-krakow
+title: Jan Karski
+artist-ids:
+- bd577251-bcf1-4a39-a67d-b96a35dd450a
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '2016'
+location:
+  latitude: 50.06465
+  longitude: 19.94498
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 21b5d04c-9fea-4c3d-a0d6-2b9dff10c299
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 6357f79b-9010-443c-bf4e-1fe3dddd3649
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
