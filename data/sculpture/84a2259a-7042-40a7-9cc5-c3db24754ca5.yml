@@ -1,0 +1,18 @@
+id: 84a2259a-7042-40a7-9cc5-c3db24754ca5
+type: sculpture
+slug: glorification-frantisek-serafinsky
+title: Glorification of František Serafínský
+artist-ids:
+- 563381d4-85a2-4d91-8787-3e20d071cd14
+city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
+date: '1695'
+location:
+  latitude: 50.088329
+  longitude: 14.424641
+  precision: 10
+material-ids:
+- 2d8ad17d-5e23-4ec3-9057-eeafe0e3c188
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- de83a4c2-214e-45fb-a307-c835449e52bf
