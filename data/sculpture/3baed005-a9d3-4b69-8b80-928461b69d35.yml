@@ -1,0 +1,17 @@
+id: 3baed005-a9d3-4b69-8b80-928461b69d35
+type: sculpture
+slug: mains-tenant-le-vide-yale
+title: Mains tenant le vide
+artist-ids:
+- cfc0ccc8-abfa-480e-844c-f9c931a65b2a
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1934'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6f13c768-5619-419e-97af-60440cab7f89
