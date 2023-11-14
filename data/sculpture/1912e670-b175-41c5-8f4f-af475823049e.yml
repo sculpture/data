@@ -1,0 +1,17 @@
+id: 1912e670-b175-41c5-8f4f-af475823049e
+type: sculpture
+slug: le-matin-laurens
+title: Le Matin
+artist-ids:
+- a4e2ac0d-1be0-4691-82da-323f2fb7803a
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1944'
+location:
+  latitude: 41.034142
+  longitude: -73.693214
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
