@@ -1,0 +1,18 @@
+id: 05e18a05-a45c-421e-8bc8-03cecb84385b
+type: sculpture
+slug: les-ondines-laurens
+title: Les Ondines
+artist-ids:
+- a4e2ac0d-1be0-4691-82da-323f2fb7803a
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1934'
+location:
+  latitude: 41.034081
+  longitude: -73.693064
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
