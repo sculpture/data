@@ -1,0 +1,20 @@
+id: 9cefb435-4ffc-425b-86fe-591b93ec4352
+type: sculpture
+slug: girl-on-horse
+title: Girl on a Horse
+artist-ids:
+- 239688b8-7785-467b-bdfe-c152db5ed892
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1972'
+location:
+  latitude: 41.034073
+  longitude: -73.690897
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2094ee30-7294-478e-b118-b3fd48a7c570
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
