@@ -1,0 +1,17 @@
+id: 4709688b-3337-4154-81b4-0836fea5a827
+type: sculpture
+slug: jeune-fille-sechappant-yale
+title: Jeune Fille s'échappant
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1968'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- 20ec9050-85db-4ec6-8fef-806598bcee75
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6f13c768-5619-419e-97af-60440cab7f89
