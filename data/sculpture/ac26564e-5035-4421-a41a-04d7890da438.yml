@@ -1,0 +1,15 @@
+id: ac26564e-5035-4421-a41a-04d7890da438
+type: sculpture
+slug: personnage-miro-kendall
+title: Personnage
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+location:
+  latitude: 41.034473
+  longitude: -73.694502
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
