@@ -1,0 +1,17 @@
+id: 3e522716-6f5e-482b-89eb-654111719c54
+type: sculpture
+slug: man-seen-by-flower
+title: Man Seen by a Flower
+artist-ids:
+- 751ba8f1-a286-4846-bc74-0ccd9d70d63a
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1958'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
