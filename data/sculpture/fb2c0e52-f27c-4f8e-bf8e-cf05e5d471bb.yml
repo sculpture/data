@@ -1,0 +1,16 @@
+id: fb2c0e52-f27c-4f8e-bf8e-cf05e5d471bb
+type: sculpture
+slug: eros-bendato
+title: Eros Bendato
+artist-ids:
+- e31569f5-c19d-41b1-98e8-4a14e439b562
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '1999'
+location:
+  latitude: 50.061041
+  longitude: 19.937492
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
