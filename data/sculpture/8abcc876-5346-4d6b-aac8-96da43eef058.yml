@@ -1,0 +1,19 @@
+id: 8abcc876-5346-4d6b-aac8-96da43eef058
+type: sculpture
+slug: construction-in-space-gabo-yale
+title: 'Construction in Space with Balance on Two Points '
+artist-ids:
+- 46e79d98-6640-48c2-99ee-d092211308d3
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1925'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- 983d1c37-99da-4b1d-baba-681a83e66d30
+- 9da26974-d142-42ce-86aa-f28559a6d575
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
