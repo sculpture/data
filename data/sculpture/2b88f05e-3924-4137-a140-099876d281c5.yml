@@ -1,0 +1,17 @@
+id: 2b88f05e-3924-4137-a140-099876d281c5
+type: sculpture
+slug: wiggins-fork
+title: Wiggins Fork
+artist-ids:
+- 28867969-9132-450a-b8a6-5e7842d7e26a
+city-id: 1aff16e3-5963-4a1d-b9f6-1ebec654ea71
+date: '1967'
+location:
+  latitude: 42.430748
+  longitude: -71.311283
+  precision: 10
+material-ids:
+- 9385bbd2-7cde-4f62-947f-3c517c785c1f
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
