@@ -1,0 +1,17 @@
+id: 8d02a279-489a-4bab-8dc7-8995f584c54e
+type: sculpture
+slug: aquarius-sebastian
+title: Aquarius
+artist-ids:
+- 7c870b60-91cc-4830-8849-30177e858d9c
+city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
+date: '2009'
+location:
+  latitude: 45.43416
+  longitude: -75.707839
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
