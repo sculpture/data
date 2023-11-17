@@ -1,0 +1,18 @@
+id: fa4ec9a9-f781-4cea-8378-ce8671069d93
+type: sculpture
+slug: rachel-seattle
+title: Rachel
+artist-ids:
+- 38f1ce43-c454-45cf-bf46-d13a51e8a0a8
+city-id: d2389309-5fb4-45b6-a60c-c3f8be44c8e6
+date: '1986'
+link-wikipedia: https://en.wikipedia.org/wiki/Rachel_(Gerber)
+location:
+  latitude: 47.608739
+  longitude: -122.341163
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
