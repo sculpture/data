@@ -1,0 +1,16 @@
+id: ae409bab-7dae-49d3-9bfa-0eb72fed48ec
+type: sculpture
+slug: bec-dida-day
+title: 'Bec-Dida Day '
+artist-ids:
+- ca17b203-f940-4f45-853d-3c61feb898a9
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1963'
+location:
+  latitude: 41.308632
+  longitude: -72.930743
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 91dc9534-fac3-4f77-aaa1-5a701b6ab79b
