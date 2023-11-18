@@ -1,0 +1,18 @@
+id: 266e3d06-b1de-4f99-a7b7-0d4db482d8ac
+type: sculpture
+slug: unit-three-equal-volumes
+title: Unit of Three Equal Volumes
+artist-ids:
+- bd6b26ae-ae78-40f7-9567-9c41c042c274
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1965'
+location:
+  latitude: 41.425027
+  longitude: -74.059196
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da7678e3-55c7-4a57-8c34-f4a7fd3be717
