@@ -1,0 +1,14 @@
+id: 09322ef1-b7e9-4534-ba76-f7b8c1fa90bb
+type: sculpture
+slug: cubi-xxii-yale
+title: 'Cubi XXII '
+artist-ids:
+- ca17b203-f940-4f45-853d-3c61feb898a9
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1964'
+location:
+  latitude: 41.308591
+  longitude: -72.930749
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
