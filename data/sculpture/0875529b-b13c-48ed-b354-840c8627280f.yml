@@ -1,0 +1,16 @@
+id: 0875529b-b13c-48ed-b354-840c8627280f
+type: sculpture
+slug: man-walking-wotruba
+title: Man Walking
+artist-ids:
+- 1593cde7-d731-4ec3-a5a5-b9d880d684d0
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1952'
+location:
+  latitude: 41.425288
+  longitude: -74.059325
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
