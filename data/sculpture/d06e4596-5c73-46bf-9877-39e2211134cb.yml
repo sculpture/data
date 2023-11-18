@@ -1,0 +1,20 @@
+id: d06e4596-5c73-46bf-9877-39e2211134cb
+type: sculpture
+slug: vladimir-lenin
+title: Vladimir Lenin
+artist-ids:
+- 79dcddc2-4bb0-424d-ada5-a2da173da560
+city-id: d2389309-5fb4-45b6-a60c-c3f8be44c8e6
+date: '1988'
+link-wikipedia: https://en.wikipedia.org/wiki/Statue_of_Lenin_(Seattle)
+location:
+  latitude: 47.651274
+  longitude: -122.350744
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 66ec2c31-c300-4e0f-bc36-93fa72a95fef
+- 6e9f5dde-187e-4a79-8816-375f4e66539a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
