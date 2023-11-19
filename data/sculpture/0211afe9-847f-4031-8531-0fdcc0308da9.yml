@@ -1,0 +1,17 @@
+id: 0211afe9-847f-4031-8531-0fdcc0308da9
+type: sculpture
+slug: iliad-liberman
+title: Iliad
+artist-ids:
+- b2c54f03-b05b-43b4-8811-e4d959f022ac
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1976'
+location:
+  latitude: 41.425111
+  longitude: -74.059802
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- f512d675-0554-4a67-987c-1da560f2c95a
