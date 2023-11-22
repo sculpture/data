@@ -1,0 +1,16 @@
+id: 8e225c82-25c7-42c9-a413-6b74ef7df50b
+type: sculpture
+slug: square-forms-with-circles
+title: Square Forms with Circles
+artist-ids:
+- 3a4702d2-d46e-4c0a-8c65-590a5b788eea
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1963'
+location:
+  latitude: 41.425111
+  longitude: -74.059518
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
