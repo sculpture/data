@@ -1,0 +1,17 @@
+id: 5966cfc2-9f53-410d-a89d-6c2f24657b59
+type: sculpture
+slug: bitter-sky-caro
+title: Bitter Sky
+artist-ids:
+- 35afd1d7-072f-4c06-b5cb-c2316c1b8875
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1983'
+location:
+  latitude: 41.425252
+  longitude: -74.058933
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
