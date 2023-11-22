@@ -1,0 +1,14 @@
+id: 3b83c553-37aa-400c-bf3d-87447af28df6
+type: sculpture
+slug: momo-taro
+title: Momo Taro
+artist-ids:
+- 08511d84-b856-47b8-9c18-03cc69f05415
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1978'
+location:
+  latitude: 41.425208
+  longitude: -74.059346
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
