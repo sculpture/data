@@ -1,0 +1,20 @@
+id: 19e72535-0280-4486-9f93-1c7c147d04e0
+type: sculpture
+slug: madame-x-rodin-met
+title: 'Madame X '
+artist-ids:
+- 0d0131e9-ece4-417f-80bd-904e881f478e
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1907'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+note: Countess Anna-Elizabeth de Noailles
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e2626649-0316-44ca-bcfe-2cb5dbaf4e91
