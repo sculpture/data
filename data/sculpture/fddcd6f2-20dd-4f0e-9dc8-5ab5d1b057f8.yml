@@ -1,0 +1,16 @@
+id: fddcd6f2-20dd-4f0e-9dc8-5ab5d1b057f8
+type: sculpture
+slug: xi-books-iii-apples
+title: XI Books III Apples
+artist-ids:
+- ca17b203-f940-4f45-853d-3c61feb898a9
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1959'
+location:
+  latitude: 41.425003
+  longitude: -74.059137
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
