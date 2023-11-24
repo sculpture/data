@@ -1,0 +1,16 @@
+id: 79999d54-2212-46b9-975b-dc96d57b4829
+type: sculpture
+slug: julia-mammuth-barcelona
+title: Júlia
+artist-ids:
+- e7c72923-6ee2-4cb4-96c0-e4fffc9b7cb8
+date: '1907'
+location:
+  latitude: 41.389133
+  longitude: 2.186133
+  precision: 10
+material-ids:
+- 5fd1cc05-abf6-4f86-b491-43ae800ae2b2
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
