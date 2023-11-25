@@ -1,0 +1,21 @@
+id: 90c104df-1cab-4a18-8c65-fe122ff5eaef
+type: sculpture
+slug: bather-houdon-met
+title: Bather
+artist-ids:
+- 210ee7d7-575c-4530-8d11-7ba7a04c407b
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1782'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
