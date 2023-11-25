@@ -1,0 +1,19 @@
+id: b4dc7378-e95d-4e10-8210-e62a462b3179
+type: sculpture
+slug: girl-in-straw-bonnet
+title: Girl in a Straw Bonnet
+artist-ids:
+- 90bf803a-c89c-48d1-bd6e-02e42e4cd97e
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1870'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 2094ee30-7294-478e-b118-b3fd48a7c570
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
