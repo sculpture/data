@@ -1,0 +1,20 @@
+id: c86f85e9-5745-4150-b51c-df79e3b5525a
+type: sculpture
+slug: comte-du-muy
+title: Comte du Muy
+artist-ids:
+- e5e32540-b144-417f-82b6-bbcdcc396abf
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1776'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- afe881a8-8283-4438-8c73-3ce55aae32dc
