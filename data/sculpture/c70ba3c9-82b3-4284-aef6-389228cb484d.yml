@@ -1,0 +1,17 @@
+id: c70ba3c9-82b3-4284-aef6-389228cb484d
+type: sculpture
+slug: sun-and-moon
+title: The Sun and the Moon
+artist-ids:
+- e8bae0a4-bffe-447b-94c8-e4428a5469fd
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2021'
+location:
+  latitude: 41.424166
+  longitude: -74.0594
+  precision: 10
+material-ids:
+- 590bc2f1-fd09-4c83-96da-39fa51cef820
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
