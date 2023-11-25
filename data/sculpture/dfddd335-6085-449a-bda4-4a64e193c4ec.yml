@@ -1,0 +1,18 @@
+id: dfddd335-6085-449a-bda4-4a64e193c4ec
+type: sculpture
+slug: lookout-puryear
+title: Lookout
+artist-ids:
+- 43444f99-5d70-42a3-b295-2a6ea73590c6
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2023'
+location:
+  latitude: 41.425292
+  longitude: -74.059057
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 7dddb3b0-527f-462a-ba4b-86046384bea1
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
