@@ -1,0 +1,19 @@
+id: 9b31f213-41e5-4cd0-b3a8-819a91e2bde7
+type: sculpture
+slug: pietrarubbia-group
+title: The Pietrarubbia Group
+artist-ids:
+- b0f670b0-dd0d-4118-9e1c-68d5837a902f
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1976'
+location:
+  latitude: 41.425208
+  longitude: -74.059373
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
