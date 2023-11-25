@@ -1,0 +1,17 @@
+id: e8fd3d7d-2799-422e-ac13-30ef745cab7a
+type: sculpture
+slug: spawning-tamley
+title: Spawning
+artist-ids:
+- 07ab4ff1-4d39-4ba3-a93f-51f86651ffb8
+city-id: dfaeb1e6-a6b9-4fdf-b366-aa3492600d37
+date: '2010'
+location:
+  latitude: 49.175788
+  longitude: -123.151321
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 399902cf-177a-4693-980d-eb86255cc25f
+- 5e46697e-16c7-4478-a438-202749e4888d
