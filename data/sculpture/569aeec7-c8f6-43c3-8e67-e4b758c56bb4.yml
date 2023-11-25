@@ -1,0 +1,18 @@
+id: 569aeec7-c8f6-43c3-8e67-e4b758c56bb4
+type: sculpture
+slug: andrzej-pruszynski-powazki
+title: Andrzej Pruszyński
+artist-ids:
+- 2f572708-931e-4424-9c43-30d5e4a70b76
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1887'
+location:
+  latitude: 52.25096
+  longitude: 20.970563
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 88a0e756-4193-4ff2-9d96-f1844c05f5e5
