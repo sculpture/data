@@ -1,0 +1,17 @@
+id: 7653f3c5-f9fa-4179-81f3-d9cc19d3e879
+type: sculpture
+slug: reclining-man-pillhofer
+title: Reclining Man
+artist-ids:
+- 947a72d5-0a71-43bd-9d3f-c506b9a06346
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1964'
+location:
+  latitude: 41.42489
+  longitude: -74.059314
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- c9884cff-1c92-48b5-816b-aa0479de54fa
