@@ -1,0 +1,14 @@
+id: fbd0f021-b231-4818-88ab-bd6b2077930d
+type: sculpture
+slug: cubi-vii-chicago
+title: Cubi VII
+artist-ids:
+- ca17b203-f940-4f45-853d-3c61feb898a9
+city-id: 8fa25799-a952-4ff5-9506-2f3b95f48200
+date: '1963'
+location:
+  latitude: 41.880148
+  longitude: -87.623745
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
