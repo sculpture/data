@@ -1,0 +1,18 @@
+id: 4fd92185-6089-47bb-a6b2-71090f9fccd4
+type: sculpture
+slug: wayside-drainpipe
+title: Wayside Drainpipe
+artist-ids:
+- 0d8ec7e1-a63e-4863-928e-ad581ca65564
+- 88ecb931-e524-412b-80a4-8cc409acd192
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1979'
+location:
+  latitude: 41.42485
+  longitude: -74.059561
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
