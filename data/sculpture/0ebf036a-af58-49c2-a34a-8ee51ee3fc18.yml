@@ -1,0 +1,19 @@
+id: 0ebf036a-af58-49c2-a34a-8ee51ee3fc18
+type: sculpture
+slug: jucambe-cardenas
+title: Jucambe
+artist-ids:
+- b0d0ec20-7129-4767-8fe4-320483347918
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1958'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- 3cd25954-9a6b-478f-a4a4-8470c3972f2c
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
