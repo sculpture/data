@@ -1,0 +1,17 @@
+id: f933bb1b-f650-4b98-9136-15754a97f531
+type: sculpture
+slug: sit-down-buren
+title: Sit Down
+artist-ids:
+- ad808510-e219-49f9-bd65-829a92e5a398
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1998'
+location:
+  latitude: 41.424327
+  longitude: -74.059191
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+note: refabricated 2010
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
