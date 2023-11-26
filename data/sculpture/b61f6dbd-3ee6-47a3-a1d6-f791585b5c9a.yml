@@ -1,0 +1,16 @@
+id: b61f6dbd-3ee6-47a3-a1d6-f791585b5c9a
+type: sculpture
+slug: sitting-printer-smith
+title: Sitting Printer
+artist-ids:
+- ca17b203-f940-4f45-853d-3c61feb898a9
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1955'
+location:
+  latitude: 41.424894
+  longitude: -74.059159
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
