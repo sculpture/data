@@ -1,0 +1,17 @@
+id: 2dc308cd-0b1c-456a-9bf9-8423b7122a1b
+type: sculpture
+slug: female-torso-lehmbruck
+title: Female Torso
+artist-ids:
+- 7bd5a84f-c5aa-470e-b03b-91225547fd46
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1914'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- 2bbf7631-76ad-44dd-ac61-6d91ac0cedf8
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6f13c768-5619-419e-97af-60440cab7f89
