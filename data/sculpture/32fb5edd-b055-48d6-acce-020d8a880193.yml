@@ -1,0 +1,17 @@
+id: 32fb5edd-b055-48d6-acce-020d8a880193
+type: sculpture
+slug: lao-tzu-suvero
+title: Lao Tzu
+artist-ids:
+- bd9de07c-dcbb-4c62-9d26-d63b6736a547
+city-id: 654193ea-2c93-4dca-8815-a5ce2ad930b8
+date: '1991'
+location:
+  latitude: 39.737304
+  longitude: -104.988916
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- f512d675-0554-4a67-987c-1da560f2c95a
