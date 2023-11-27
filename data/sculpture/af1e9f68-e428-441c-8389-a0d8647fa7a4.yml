@@ -1,0 +1,18 @@
+id: af1e9f68-e428-441c-8389-a0d8647fa7a4
+type: sculpture
+slug: ann-buchan-robinson
+title: 'Ann Buchan Robinson '
+artist-ids:
+- eded3fd4-f61e-4858-9782-d4adccf8cfba
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1831'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
