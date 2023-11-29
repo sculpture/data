@@ -1,0 +1,17 @@
+id: bff2fd76-024e-4b4a-9a55-cb0982caa097
+type: sculpture
+slug: big-bird-maquette-calder
+title: Big Bird (maquette)
+artist-ids:
+- 7ad71af4-c9b7-49d0-9765-ba2a674856a0
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1936'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- 3cd25954-9a6b-478f-a4a4-8470c3972f2c
+- 9385bbd2-7cde-4f62-947f-3c517c785c1f
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
