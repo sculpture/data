@@ -1,0 +1,18 @@
+id: a707c553-3f1f-4bdd-b834-6cea1e257335
+type: sculpture
+slug: o-menino-imperativo
+title: 'O Menino Imperativo '
+artist-ids:
+- 7fec12be-d3a3-4e62-9bd8-2ace2798a194
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1952'
+location:
+  latitude: 38.738046
+  longitude: -9.153702
+  precision: 10
+material-ids:
+- 1df5830e-aa31-460c-a366-f07356994824
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
