@@ -1,0 +1,16 @@
+id: 7b76891b-4475-45f2-811f-484bbfcc6168
+type: sculpture
+slug: venus-epstein-yale
+title: Venus
+artist-ids:
+- df1f80b4-ca05-473f-ad37-7d450c0f1322
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1917'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
