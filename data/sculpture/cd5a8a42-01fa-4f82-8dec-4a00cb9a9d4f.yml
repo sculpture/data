@@ -1,0 +1,17 @@
+id: cd5a8a42-01fa-4f82-8dec-4a00cb9a9d4f
+type: sculpture
+slug: architectural-cactus-6
+title: 'Architectural Cactus #6'
+artist-ids:
+- c9698bb5-bf2d-43fd-9a6c-0dc861f8e00a
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2008'
+location:
+  latitude: 41.425429
+  longitude: -74.059336
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
