@@ -1,0 +1,18 @@
+id: 95eafbce-13cd-446c-a066-253f3a6b1c03
+type: sculpture
+slug: mirror-fence
+title: Mirror Fence
+artist-ids:
+- aa2cd2a2-a04a-48c9-bb60-193be992e7ad
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2003'
+location:
+  latitude: 41.42454
+  longitude: -74.059207
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
