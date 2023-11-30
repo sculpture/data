@@ -1,0 +1,18 @@
+id: c4ff9147-3fc6-462a-b77a-8e367c636be1
+type: sculpture
+slug: jan-frans-willem
+title: Jan Frans Willem
+artist-ids:
+- 07390142-c450-4ce9-9793-770772bbf693
+city-id: ca0e48aa-9f11-4867-9698-3009bb1fa395
+date: '1899'
+location:
+  latitude: 51.050018
+  longitude: 3.730335
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
