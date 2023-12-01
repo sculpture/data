@@ -1,0 +1,14 @@
+id: 6eb935ad-9323-43dd-b88a-fcaf84bef03d
+type: sculpture
+slug: ocean-caro-yale
+title: Ocean
+artist-ids:
+- 35afd1d7-072f-4c06-b5cb-c2316c1b8875
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1983'
+location:
+  latitude: 41.308712
+  longitude: -72.92981
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
