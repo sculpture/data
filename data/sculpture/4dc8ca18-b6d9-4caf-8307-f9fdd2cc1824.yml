@@ -1,0 +1,19 @@
+id: 4dc8ca18-b6d9-4caf-8307-f9fdd2cc1824
+type: sculpture
+slug: angel-abdiel-greenough
+title: 'Angel Abdiel '
+artist-ids:
+- 0e31bcfc-b416-4571-ac70-6fcc73d7f774
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1839'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 66ec2c31-c300-4e0f-bc36-93fa72a95fef
+- 6f13c768-5619-419e-97af-60440cab7f89
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
