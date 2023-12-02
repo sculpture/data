@@ -1,0 +1,16 @@
+id: 3efaa3d7-d864-4772-9fa6-eb9b4d4f7f14
+type: sculpture
+slug: petaloid-gottlieb
+title: Petaloid
+artist-ids:
+- 39c2f8b6-3711-4d71-9a24-dce346875288
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1968'
+location:
+  latitude: 41.425341
+  longitude: -74.058933
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
