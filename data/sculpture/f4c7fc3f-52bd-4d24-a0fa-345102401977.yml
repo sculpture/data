@@ -1,0 +1,17 @@
+id: f4c7fc3f-52bd-4d24-a0fa-345102401977
+type: sculpture
+slug: outlooks-walden
+title: Outlooks
+artist-ids:
+- 893dec4b-6442-47d3-b827-3f2d5a491eb9
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2021'
+location:
+  latitude: 41.424331
+  longitude: -74.059802
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
