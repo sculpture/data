@@ -1,0 +1,16 @@
+id: b78e8cbf-bc67-4d8c-b202-f064b9a40b2a
+type: sculpture
+slug: gallows-and-lollipops-calder
+title: Gallows and Lollipops
+artist-ids:
+- 7ad71af4-c9b7-49d0-9765-ba2a674856a0
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1960'
+location:
+  latitude: 41.308733
+  longitude: -72.930711
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 85105298-6047-4f80-88ec-76aa0b77d815
