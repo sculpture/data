@@ -1,0 +1,19 @@
+id: 1f0e37cf-a297-4c8b-9255-3b5ff8400450
+type: sculpture
+slug: napoleon-iii-carpeaux-met
+title: 'Napoléon III '
+artist-ids:
+- e2cef29d-151d-4857-acb2-d56e767f044c
+date: '1873'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b3e92e64-c83c-4c32-981a-18cb40402f4d
+- e1747e74-d399-45e0-98c6-60514c400683
