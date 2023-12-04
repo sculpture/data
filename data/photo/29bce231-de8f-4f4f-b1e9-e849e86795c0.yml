@@ -1,10 +1,12 @@
 id: 29bce231-de8f-4f4f-b1e9-e849e86795c0
 type: photo
-captured-at: 2023-10-20T23:37:13Z
+captured-at: 2023-10-21T12:37:13Z
 colors:
 - '#5C5249'
 - '#927D65'
 - '#B7B0AB'
+featured?: false
 height: 2001
-user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
+sculpture-id: 022b4d68-bf83-4a67-8d0b-1fe608027acd
+user-id: 736a3323-27e2-44e0-a6ee-b13087e46af2
 width: 2580
