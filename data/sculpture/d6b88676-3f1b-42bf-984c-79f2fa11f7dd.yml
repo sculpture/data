@@ -1,0 +1,17 @@
+id: d6b88676-3f1b-42bf-984c-79f2fa11f7dd
+type: sculpture
+slug: benedetto-egio
+title: Benedetto Egio
+artist-ids:
+- ddb882fd-9a50-4922-9809-71bf4a7367c6
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: 157*
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
