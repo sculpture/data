@@ -1,0 +1,18 @@
+id: 3a612251-a161-4348-b107-d39e5e3f44dd
+type: sculpture
+slug: torso-rodin-met
+title: Torso (R)
+artist-ids:
+- 0d0131e9-ece4-417f-80bd-904e881f478e
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1878'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: 'cast 1979 '
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
