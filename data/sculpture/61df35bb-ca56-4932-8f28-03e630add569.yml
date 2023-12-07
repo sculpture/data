@@ -1,0 +1,16 @@
+id: 61df35bb-ca56-4932-8f28-03e630add569
+type: sculpture
+slug: 1979-4-stankiewicz
+title: 1979-4
+artist-ids:
+- 5aa8dd13-f479-48d7-a515-286ae2401dac
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1979'
+location:
+  latitude: 41.425212
+  longitude: -74.05881
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
