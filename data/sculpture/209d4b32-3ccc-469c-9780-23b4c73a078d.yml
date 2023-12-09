@@ -1,0 +1,20 @@
+id: 209d4b32-3ccc-469c-9780-23b4c73a078d
+type: sculpture
+slug: anne-audeoud-houdon-met
+title: 'Anne Audéoud of Geneva '
+artist-ids:
+- 210ee7d7-575c-4530-8d11-7ba7a04c407b
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1780'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+note: After a composition by Jean Antoine Houdon
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- f3c0c272-150c-42cd-9a87-bd121fdc1309
