@@ -1,0 +1,14 @@
+id: 90d761e7-5eb8-4c2a-84aa-f2d3e6749411
+type: sculpture
+slug: fayette-for-evers
+title: 'Fayette: For Charles and Medgar Evers'
+artist-ids:
+- a5b8c213-99a0-484a-b647-2efc6603ec00
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1979'
+location:
+  latitude: 41.425594
+  longitude: -74.05896
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
