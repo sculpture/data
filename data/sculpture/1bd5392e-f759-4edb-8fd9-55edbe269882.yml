@@ -1,0 +1,18 @@
+id: 1bd5392e-f759-4edb-8fd9-55edbe269882
+type: sculpture
+slug: cenatauro-mitoraj
+title: Centaturo
+artist-ids:
+- e31569f5-c19d-41b1-98e8-4a14e439b562
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1994'
+location:
+  latitude: 52.248003
+  longitude: 21.014003
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
