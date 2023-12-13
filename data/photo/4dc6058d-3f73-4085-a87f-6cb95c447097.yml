@@ -1,10 +1,12 @@
 id: 4dc6058d-3f73-4085-a87f-6cb95c447097
 type: photo
-captured-at: 2009-06-03T09:26:47Z
+captured-at: 2009-06-03T13:26:47Z
 colors:
 - '#5F686C'
 - '#7189A4'
 - '#7597CC'
+featured?: false
 height: 1300
-user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
+sculpture-id: a05468f2-7e54-452f-ade4-87115777db6c
+user-id: 736a3323-27e2-44e0-a6ee-b13087e46af2
 width: 1018
