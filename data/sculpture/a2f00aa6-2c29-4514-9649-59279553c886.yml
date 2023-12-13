@@ -1,0 +1,18 @@
+id: a2f00aa6-2c29-4514-9649-59279553c886
+type: sculpture
+slug: lamour-blesse
+title: L’Amour blessé
+artist-ids:
+- e2cef29d-151d-4857-acb2-d56e767f044c
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1873'
+location:
+  latitude: 38.737812
+  longitude: -9.153546
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
