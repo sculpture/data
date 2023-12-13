@@ -1,0 +1,19 @@
+id: 8553f935-aaf5-4259-8255-da8a2e9e7f58
+type: sculpture
+slug: theseus-fighting-centaur-met
+title: Theseus Fighting the Centaur Bianor
+artist-ids:
+- 6bff887d-8c52-4b32-ad31-a4a1e021e8cb
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1849'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: 'cast ca. 1867 '
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
