@@ -1,0 +1,20 @@
+id: fe0e2399-7083-4de1-874a-36b900309849
+type: sculpture
+slug: la-fille-de-jepht
+title: La fille de Jephté
+artist-ids:
+- aef1bf04-d8d1-49cb-9e3a-7d491755ddd8
+city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
+date: '1857'
+location:
+  latitude: 43.525444
+  longitude: 5.452671
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
