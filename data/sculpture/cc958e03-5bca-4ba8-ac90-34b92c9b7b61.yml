@@ -1,0 +1,22 @@
+id: cc958e03-5bca-4ba8-ac90-34b92c9b7b61
+type: sculpture
+slug: marcus-aurelius-providence
+title: Marcus Aurelius
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: ea939486-3e5c-4db4-b30e-3e768a55dd4e
+date: '1907'
+link-wikipedia: https://en.wikipedia.org/wiki/Equestrian_Statue_of_Marcus_Aurelius
+location:
+  latitude: 41.825777
+  longitude: -71.403169
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: replica of ancient Rome statue
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- cc034efc-b82b-42ee-a2d2-16753502bef1
+- e1747e74-d399-45e0-98c6-60514c400683
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
