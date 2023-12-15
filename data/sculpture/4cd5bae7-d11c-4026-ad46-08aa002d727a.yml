@@ -1,0 +1,16 @@
+id: 4cd5bae7-d11c-4026-ad46-08aa002d727a
+type: sculpture
+slug: eight-positive-trees
+title: Eight Positive Trees
+artist-ids:
+- 8c71686e-4f0d-4b07-ad95-87b04c4ed958
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1977'
+location:
+  latitude: 41.424785
+  longitude: -74.058885
+  precision: 10
+material-ids:
+- 3766e674-65cd-465e-a424-0b60e4609ab0
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
