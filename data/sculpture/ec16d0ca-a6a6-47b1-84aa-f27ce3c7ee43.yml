@@ -1,0 +1,17 @@
+id: ec16d0ca-a6a6-47b1-84aa-f27ce3c7ee43
+type: sculpture
+slug: flood-lipton-met
+title: Flood
+artist-ids:
+- e427dd13-9ae2-4a22-b2f5-f67d4b2cebe9
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1937'
+location:
+  latitude: 40.712775
+  longitude: -74.005973
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
