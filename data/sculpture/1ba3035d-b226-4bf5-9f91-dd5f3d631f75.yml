@@ -1,0 +1,17 @@
+id: 1ba3035d-b226-4bf5-9f91-dd5f3d631f75
+type: sculpture
+slug: hommage-carre-noir
+title: Hommage à carré noir
+artist-ids:
+- 0cbfd787-5974-4305-a144-3828d8673066
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '1998'
+location:
+  latitude: 51.312328
+  longitude: 20.982135
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: photo 2017 Warsaw exhibition of sculptures from Orońsko
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
