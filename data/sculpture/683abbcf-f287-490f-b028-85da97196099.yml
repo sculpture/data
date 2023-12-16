@@ -1,0 +1,17 @@
+id: 683abbcf-f287-490f-b028-85da97196099
+type: sculpture
+slug: lightweb-liberman
+title: 'Lightweb '
+artist-ids:
+- b2c54f03-b05b-43b4-8811-e4d959f022ac
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1991'
+location:
+  latitude: 41.31184
+  longitude: -72.927225
+  precision: 26
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+- d0c52472-81c0-4c1d-abd7-3a32fd760700
+tag-ids:
+- df4890c4-2701-4782-a670-d019b3b95547
