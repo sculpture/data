@@ -1,0 +1,17 @@
+id: b3325b1d-1a2b-4ac7-be44-d466ba316b71
+type: sculpture
+slug: stacked-heads
+title: Stacked Heads
+artist-ids:
+- c8fffac2-af3a-426c-92a5-820e5ff4d5fd
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2020'
+location:
+  latitude: 41.425316
+  longitude: -74.05874
+  precision: 10
+material-ids:
+- 02d55e95-5e1e-48c6-9da1-65f54749ad2c
+- 590bc2f1-fd09-4c83-96da-39fa51cef820
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
