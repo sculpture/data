@@ -1,0 +1,16 @@
+id: 84ca6a03-bfb9-489c-a38b-f1c3d3440908
+type: sculpture
+slug: ilopango-volcano
+title: Ilopango, the Volcano that Left
+artist-ids:
+- 8e39230b-e445-4206-905f-c47370bd1c9a
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2023'
+location:
+  latitude: 41.424737
+  longitude: -74.05954
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
