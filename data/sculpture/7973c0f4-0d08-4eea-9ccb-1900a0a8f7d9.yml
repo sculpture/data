@@ -1,0 +1,19 @@
+id: 7973c0f4-0d08-4eea-9ccb-1900a0a8f7d9
+type: sculpture
+slug: estatua-com-cavalo
+title: Estátua com Cavalo
+artist-ids:
+- 61cd1e8d-232a-4a33-8958-270a7cdc0908
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1958'
+location:
+  latitude: 38.728572
+  longitude: -9.154633
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
