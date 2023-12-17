@@ -1,0 +1,14 @@
+id: 2ee539d1-b15c-433c-8393-f58a55d8222e
+type: sculpture
+slug: le-prix-yale
+title: 'Le Prix '
+artist-ids:
+- 43444f99-5d70-42a3-b295-2a6ea73590c6
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '2006'
+location:
+  latitude: 41.308535
+  longitude: -72.930776
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
