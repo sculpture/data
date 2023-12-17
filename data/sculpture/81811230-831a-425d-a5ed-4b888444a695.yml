@@ -1,0 +1,16 @@
+id: 81811230-831a-425d-a5ed-4b888444a695
+type: sculpture
+slug: sculpture-for-snow
+title: 'Sculpture for Snow '
+artist-ids:
+- 5abdeccd-1edb-48fc-a032-3c2aa65df660
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '2011'
+location:
+  latitude: 41.308684
+  longitude: -72.93091
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
