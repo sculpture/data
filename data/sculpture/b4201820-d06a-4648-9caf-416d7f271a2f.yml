@@ -1,0 +1,16 @@
+id: b4201820-d06a-4648-9caf-416d7f271a2f
+type: sculpture
+slug: mutants-abakanowicz
+title: Mutants
+artist-ids:
+- 7dfcc415-fab6-492d-90d9-6c0ca0cc5583
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '2000'
+location:
+  latitude: 51.312186
+  longitude: 20.982081
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
