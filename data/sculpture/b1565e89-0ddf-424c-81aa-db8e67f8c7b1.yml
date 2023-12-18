@@ -1,0 +1,17 @@
+id: b1565e89-0ddf-424c-81aa-db8e67f8c7b1
+type: sculpture
+slug: shackled-puryear
+title: Shackled
+artist-ids:
+- 43444f99-5d70-42a3-b295-2a6ea73590c6
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2014'
+location:
+  latitude: 41.424995
+  longitude: -74.059459
+  precision: 10
+material-ids:
+- 32495469-6b62-477a-b272-a0e4e2c0e5c9
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
