@@ -1,0 +1,15 @@
+id: 3bb77a12-3465-468e-9e1b-fb8cb215f56a
+type: sculpture
+slug: slavery-memorial-puryear
+title: Slavery Memorial
+artist-ids:
+- 43444f99-5d70-42a3-b295-2a6ea73590c6
+city-id: ea939486-3e5c-4db4-b30e-3e768a55dd4e
+date: '2014'
+link-wikipedia: https://en.wikipedia.org/wiki/Slavery_Memorial_(Brown_University)
+location:
+  latitude: 41.826204
+  longitude: -71.403256
+  precision: 10
+material-ids:
+- 2aa408c8-4b60-4a40-a151-67661b57b97b
