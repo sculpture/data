@@ -1,0 +1,18 @@
+id: 5c7ded42-38d0-4c58-bdbc-af6655e07b35
+type: sculpture
+slug: genevieve-de-malboissiere
+title: 'Geneviève-Françoise Randon de Malboissière '
+artist-ids:
+- 9f5a34c2-0a2a-4e20-9989-b461c99612e6
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1768'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
