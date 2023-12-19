@@ -1,0 +1,14 @@
+id: 11c5119b-506e-4a7e-a746-6327d35fda32
+type: sculpture
+slug: garden-pyramid-sun-cube
+title: The Garden (Pyramid, Sun, and Cube)
+artist-ids:
+- 08511d84-b856-47b8-9c18-03cc69f05415
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1963'
+location:
+  latitude: 41.311491
+  longitude: -72.927025
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
