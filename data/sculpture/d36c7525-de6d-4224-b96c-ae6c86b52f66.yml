@@ -1,0 +1,18 @@
+id: d36c7525-de6d-4224-b96c-ae6c86b52f66
+type: sculpture
+slug: young-warrior-lombardo-met
+title: Young Warrior
+artist-ids:
+- 07a2ab83-8c42-4306-a697-fcb7df62eb50
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: 149*
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- c9884cff-1c92-48b5-816b-aa0479de54fa
