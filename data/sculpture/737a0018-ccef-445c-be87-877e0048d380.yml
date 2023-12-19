@@ -1,0 +1,16 @@
+id: 737a0018-ccef-445c-be87-877e0048d380
+type: sculpture
+slug: stela-z
+title: Stela Z, after Quiriguá (Contrary Warrior)
+artist-ids:
+- 8e39230b-e445-4206-905f-c47370bd1c9a
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2023'
+location:
+  latitude: 41.424777
+  longitude: -74.059475
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
