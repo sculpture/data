@@ -1,10 +1,12 @@
 id: afc90b0d-98e8-4a03-895c-a2097979be63
 type: photo
-captured-at: 2016-09-14T16:16:54Z
+captured-at: 2016-09-14T12:16:54Z
 colors:
 - '#544942'
 - '#9D7763'
 - '#ACA09A'
+featured?: true
 height: 3600
+sculpture-id: dfd85663-e0de-4201-b190-8d597e2813fc
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
 width: 2531
