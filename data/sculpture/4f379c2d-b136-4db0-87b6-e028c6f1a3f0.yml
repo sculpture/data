@@ -5,11 +5,11 @@ title: Mantra
 artist-ids:
 - e7be25e6-2a78-470a-961c-87ba8b0ce8f0
 city-id: 8fa25799-a952-4ff5-9506-2f3b95f48200
-date: '2014'
+date: '2013'
 location:
-  latitude: 41.95461
-  longitude: -87.673697
-  precision: 10
+  latitude: 41.887729
+  longitude: -87.612655
+  precision: 454
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids:
