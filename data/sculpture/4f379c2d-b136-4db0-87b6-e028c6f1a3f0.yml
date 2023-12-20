@@ -1,0 +1,17 @@
+id: 4f379c2d-b136-4db0-87b6-e028c6f1a3f0
+type: sculpture
+slug: mantra-katz
+title: Mantra
+artist-ids:
+- e7be25e6-2a78-470a-961c-87ba8b0ce8f0
+city-id: 8fa25799-a952-4ff5-9506-2f3b95f48200
+date: '2014'
+location:
+  latitude: 41.95461
+  longitude: -87.673697
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
