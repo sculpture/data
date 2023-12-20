@@ -1,0 +1,18 @@
+id: dfd85663-e0de-4201-b190-8d597e2813fc
+type: sculpture
+slug: prophet-daniel-langman
+title: Prophet Daniel
+artist-ids:
+- 8b86706c-687b-4c6f-b8e9-c3835b75209d
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '1892'
+location:
+  latitude: 50.061641
+  longitude: 19.93939
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
