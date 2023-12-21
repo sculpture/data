@@ -1,0 +1,20 @@
+id: c7d5a382-e6fa-49b5-b992-80a89bb74d19
+type: sculpture
+slug: galatea-klinger-met
+title: Galatea
+artist-ids:
+- b64f89ba-72e0-4b74-b58a-c2cdcf6207ba
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1906'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 8db305b7-c64c-4862-ad05-d6d3c502c4fb
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
