@@ -8,8 +8,8 @@ city-id: 8fa25799-a952-4ff5-9506-2f3b95f48200
 date: '2006'
 link-wikipedia: https://en.wikipedia.org/wiki/Cloud_Gate
 location:
-  latitude: 41.883776
-  longitude: -87.623353
+  latitude: 41.883289
+  longitude: -87.623374
   precision: 10
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
