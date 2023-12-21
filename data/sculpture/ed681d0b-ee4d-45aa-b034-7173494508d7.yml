@@ -1,0 +1,15 @@
+id: ed681d0b-ee4d-45aa-b034-7173494508d7
+type: sculpture
+slug: cloud-gate-kapoor
+title: Cloud Gate
+artist-ids:
+- cbc391fc-7a7f-4fab-8f76-5e953737463c
+city-id: 8fa25799-a952-4ff5-9506-2f3b95f48200
+date: '2006'
+link-wikipedia: https://en.wikipedia.org/wiki/Cloud_Gate
+location:
+  latitude: 41.883776
+  longitude: -87.623353
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
