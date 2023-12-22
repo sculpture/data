@@ -7,9 +7,9 @@ artist-ids:
 city-id: a5a2d35a-0cfe-448a-95d7-99b3343e74ed
 date: '1984'
 location:
-  latitude: 35.189038
-  longitude: -80.831298
-  precision: 25
+  latitude: 35.188323
+  longitude: -80.831674
+  precision: 10
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
 note: foto at Washington DC
