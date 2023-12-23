@@ -1,0 +1,19 @@
+id: 7b60b74e-231d-4ed6-a3b3-1a216a851a6b
+type: sculpture
+slug: oswiecim-ii-strinkiewicz
+title: Oświęcim II
+artist-ids:
+- 0ec438a0-9fa8-4e5e-8c01-bf07e3b09390
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1948'
+link-wikipedia: https://pl.wikipedia.org/wiki/Rze%C5%BAba_O%C5%9Bwi%C4%99cim_II_w_Warszawie
+location:
+  latitude: 52.248822
+  longitude: 21.009792
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
