@@ -1,0 +1,14 @@
+id: 70e6177a-eaa7-4230-b316-d820d2d7e0ce
+type: sculpture
+slug: brotherhood-fubu
+title: Brotherhood FUBU (For Us, By Us)
+artist-ids:
+- 769739dd-7d7c-4400-a42a-2530d25283c2
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2022'
+location:
+  latitude: 43.639632
+  longitude: -79.376338
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
