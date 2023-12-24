@@ -1,0 +1,14 @@
+id: cb1c29fb-b9d6-4c68-99c8-b24196c05c97
+type: sculpture
+slug: 222-5-arc-x-5
+title: 222.5° Arc x 5
+artist-ids:
+- e3a5d8a5-6d53-44f7-a6a5-fe865ad4dd96
+city-id: 654193ea-2c93-4dca-8815-a5ce2ad930b8
+date: '1999'
+location:
+  latitude: 39.75653
+  longitude: -105.004265
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
