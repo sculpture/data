@@ -1,0 +1,19 @@
+id: 449b3602-1410-45bf-84f2-15fb476fd606
+type: sculpture
+slug: adonis-corradini-met
+title: Adonis (C)
+artist-ids:
+- f9e4888b-7e0b-4054-9c8e-a1e212805c8b
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1725'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
