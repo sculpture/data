@@ -1,0 +1,16 @@
+id: 083767d2-2279-4db5-811f-48985d946f4b
+type: sculpture
+slug: jacobs-dream-witkin
+title: Jacob's Dream
+artist-ids:
+- 679b5d0a-4228-461e-b167-f8dc8ad18eb2
+city-id: 1aff16e3-5963-4a1d-b9f6-1ebec654ea71
+date: '1986'
+location:
+  latitude: 42.430047
+  longitude: -71.312732
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
