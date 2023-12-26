@@ -1,0 +1,20 @@
+id: 25626b20-ed4d-48bf-a27f-a3ac63743b00
+type: sculpture
+slug: eurydice-mordue-par-serpent
+title: Eurydice mordue par un serpent
+artist-ids:
+- 2872f887-4504-4226-bea5-8b62c0b96b98
+city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
+date: '1859'
+location:
+  latitude: 43.525444
+  longitude: 5.452671
+  precision: 7
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
