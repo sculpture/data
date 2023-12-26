@@ -1,0 +1,14 @@
+id: a4148510-e62a-420e-b597-46a1f8aed91a
+type: sculpture
+slug: changing-form
+title: Changing Form
+artist-ids:
+- 5ef0030b-fadf-4a5c-a032-908403c9bed9
+city-id: d2389309-5fb4-45b6-a60c-c3f8be44c8e6
+date: '1969'
+location:
+  latitude: 47.629342
+  longitude: -122.35994
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
