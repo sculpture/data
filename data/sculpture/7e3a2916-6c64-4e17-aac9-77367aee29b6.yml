@@ -1,0 +1,17 @@
+id: 7e3a2916-6c64-4e17-aac9-77367aee29b6
+type: sculpture
+slug: three-bowls-yale
+title: 'Three Bowls '
+artist-ids:
+- 82359539-c433-4369-b192-638bfa397968
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1989'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- bbfba247-ceee-40ad-a3a3-7f9b7172b6dc
+- d10b6251-79c5-4fc3-b359-a45e7e3ce9b5
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
