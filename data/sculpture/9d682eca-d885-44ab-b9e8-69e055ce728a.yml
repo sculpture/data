@@ -1,0 +1,19 @@
+id: 9d682eca-d885-44ab-b9e8-69e055ce728a
+type: sculpture
+slug: enrique-romero-torres
+title: Enrique Romero de Torres
+artist-ids:
+- fc7a23f5-641c-4298-9580-48d778542ae6
+city-id: 4caaf18b-6eea-482a-b6cd-5c5a06453ae6
+date: '1951'
+location:
+  latitude: 37.881279
+  longitude: -4.774802
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b078f909-a131-4d37-8b36-59061078b159
