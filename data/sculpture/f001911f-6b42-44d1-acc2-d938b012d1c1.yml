@@ -1,0 +1,17 @@
+id: f001911f-6b42-44d1-acc2-d938b012d1c1
+type: sculpture
+slug: fallen-caryatid-rodin-met
+title: Fallen Caryatid Carrying an Urn
+artist-ids:
+- 0d0131e9-ece4-417f-80bd-904e881f478e
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1883'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
