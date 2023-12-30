@@ -1,0 +1,20 @@
+id: cecd7f01-c6b8-4a88-9697-e2416be78700
+type: sculpture
+slug: jozef-pilsudski-gdansk
+title: Józefa Piłsudski
+artist-ids:
+- 65b9707d-1823-4888-b6ef-33f1a793eada
+city-id: 6c0702d8-ba81-4f97-b2ad-11b1bdbaf349
+date: '2006'
+link-wikipedia: https://pl.wikipedia.org/wiki/Pomnik_marsza%C5%82ka_J%C3%B3zefa_Pi%C5%82sudskiego_w_Gda%C5%84sku
+location:
+  latitude: 54.387211
+  longitude: 18.590669
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- afe881a8-8283-4438-8c73-3ce55aae32dc
