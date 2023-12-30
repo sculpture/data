@@ -1,0 +1,14 @@
+id: 3101bf7c-5e2c-4107-b716-989f652d1262
+type: sculpture
+slug: diana-with-deer-sanok
+title: Diana with a deer
+artist-ids:
+- 944909a2-7285-4b41-85ee-ad35dfe62871
+city-id: 5f7a0d0a-7d71-4629-94cf-7f2966a42e84
+date: '1968'
+location:
+  latitude: 49.562504
+  longitude: 22.20961
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
