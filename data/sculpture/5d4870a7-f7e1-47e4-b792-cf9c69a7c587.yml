@@ -1,0 +1,16 @@
+id: 5d4870a7-f7e1-47e4-b792-cf9c69a7c587
+type: sculpture
+slug: day-game-stoltz
+title: Day Game
+artist-ids:
+- e0e25982-8af7-420d-a049-3d6a10154b77
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1972'
+location:
+  latitude: 41.42524
+  longitude: -74.05896
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
