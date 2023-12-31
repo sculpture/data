@@ -1,0 +1,20 @@
+id: 5c591f54-194d-48a7-9d0b-84eff682a725
+type: sculpture
+slug: st-anna-and-virgin
+title: St Anna and the Virgin
+artist-ids:
+- edf96e13-4ca4-490a-9c27-550b33eaf3ed
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1653'
+location:
+  latitude: 50.847828
+  longitude: 4.3601
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- ea310784-30d7-4a31-9c7b-22e86c3cf049
