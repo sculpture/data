@@ -1,0 +1,21 @@
+id: 349d975c-33c2-4b93-8655-6b6bfbf83a5c
+type: sculpture
+slug: allegorical-figure-met
+title: Allegorical figure
+artist-ids:
+- 3e4edfd3-1e4b-430a-8d69-f6c1dd06f432
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1675'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
