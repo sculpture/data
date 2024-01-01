@@ -1,0 +1,20 @@
+id: b43cc50c-14c8-4b96-8aa9-5927b5d2f31d
+type: sculpture
+slug: saint-tarcisius-met
+title: Saint Tarcisius
+artist-ids:
+- 0d9810d4-1931-4af0-a241-1ca5d85e08da
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1880'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
