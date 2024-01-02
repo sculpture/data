@@ -1,0 +1,18 @@
+id: f6a2349d-88d6-4b7b-ba01-f10527918c55
+type: sculpture
+slug: don-quijote-sentado-dali
+title: Don Quijote sentado
+artist-ids:
+- 63db084d-333a-4c71-8894-3c9357c592e2
+city-id: f7e1f736-a953-4820-8f8f-016c7c76d1bc
+date: '1972'
+location:
+  latitude: 36.508032
+  longitude: -4.886292
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 3d01002e-928d-47f0-9a30-5f38d5a8eb27
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
