@@ -1,0 +1,17 @@
+id: e2e35c81-4c50-4579-9437-ad6e5c6da8f3
+type: sculpture
+slug: art-trumpene-aix
+title: Art
+artist-ids:
+- 8fb7721a-eb96-4334-8059-cf852b0203b8
+location:
+  latitude: 43.526447
+  longitude: 5.446118
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
