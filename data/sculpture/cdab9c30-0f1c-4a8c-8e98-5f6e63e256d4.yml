@@ -1,0 +1,18 @@
+id: cdab9c30-0f1c-4a8c-8e98-5f6e63e256d4
+type: sculpture
+slug: infanta-carries-met
+title: The Infanta
+artist-ids:
+- 4232dd1e-a1ee-41ad-8c1f-6da1cd3e07bc
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: 189*
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- a4828452-7739-4398-9236-e0c62eda53c2
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- f3c0c272-150c-42cd-9a87-bd121fdc1309
