@@ -1,10 +1,7 @@
 id: 4f9b7254-924a-4c30-a64d-d08cfd85cc6e
 type: artist
-slug: stanislaw-szwechowicz
-name: Stanisław Szwechowicz
-birth-date: '1949'
+slug: robert-schelling
+name: Robert Schelling
 gender: male
-link-website: http://stanislawszwechowicz.pl/
-link-wikipedia: https://pl.wikipedia.org/wiki/Stanis%C5%82aw_Szwechowicz
 nationality-ids:
-- 25711868-6ccc-4b3c-9238-bee64ad1a684
+- f41cbf6e-d705-45da-acdc-7d0dc4896553
