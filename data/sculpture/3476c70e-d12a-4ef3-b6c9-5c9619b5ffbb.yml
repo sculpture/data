@@ -1,0 +1,18 @@
+id: 3476c70e-d12a-4ef3-b6c9-5c9619b5ffbb
+type: sculpture
+slug: capricornio-sebastian
+title: Capricornio
+artist-ids:
+- 7c870b60-91cc-4830-8849-30177e858d9c
+city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
+date: '2008'
+location:
+  latitude: 45.433847
+  longitude: -75.707677
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
