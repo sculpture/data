@@ -1,0 +1,17 @@
+id: b1f4c99f-ed40-42f6-8420-81d63bda7567
+type: sculpture
+slug: antoni-abraham-wladyslawowo
+title: Antoni Abraham
+artist-ids:
+- 4f9b7254-924a-4c30-a64d-d08cfd85cc6e
+city-id: f34da6a2-7e81-4e77-a2fc-436559a69c7b
+date: '1995'
+location:
+  latitude: 54.800555
+  longitude: 18.399551
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6e9f5dde-187e-4a79-8816-375f4e66539a
