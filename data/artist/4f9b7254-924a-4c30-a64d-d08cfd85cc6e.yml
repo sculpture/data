@@ -2,6 +2,7 @@ id: 4f9b7254-924a-4c30-a64d-d08cfd85cc6e
 type: artist
 slug: robert-schelling
 name: Robert Schelling
+birth-date: '1960'
 gender: male
 nationality-ids:
 - f41cbf6e-d705-45da-acdc-7d0dc4896553
