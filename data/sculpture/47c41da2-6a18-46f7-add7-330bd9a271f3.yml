@@ -1,0 +1,14 @@
+id: 47c41da2-6a18-46f7-add7-330bd9a271f3
+type: sculpture
+slug: missing-persons-memorial
+title: Missing Persons Memorial
+artist-ids:
+- 8e94d49a-22f7-4120-92e5-7f650086c99f
+city-id: ca0e48aa-9f11-4867-9698-3009bb1fa395
+date: '1996'
+location:
+  latitude: 51.057002
+  longitude: 3.720836
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
