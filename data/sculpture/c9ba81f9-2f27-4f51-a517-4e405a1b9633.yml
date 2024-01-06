@@ -1,0 +1,18 @@
+id: c9ba81f9-2f27-4f51-a517-4e405a1b9633
+type: sculpture
+slug: henryk-sienkiewicz-wloclawek
+title: Henryk Sienkiewicz
+artist-ids:
+- 2d64c985-79d4-44d7-a89b-e2962ffd2e72
+city-id: 06558204-3fa8-4b06-ab9d-f80c4f4c6f23
+date: '1971'
+location:
+  latitude: 52.660397
+  longitude: 19.060527
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 74db4d61-1290-4efd-8270-a34d061a8e66
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
