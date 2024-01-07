@@ -1,0 +1,14 @@
+id: f1702024-70c8-4004-87a0-d845acbaf0d6
+type: sculpture
+slug: colorado-chihuly
+title: Colorado
+artist-ids:
+- f4a726ef-08c3-4a5d-b0b8-208f80b32fa1
+city-id: 654193ea-2c93-4dca-8815-a5ce2ad930b8
+date: '2014'
+location:
+  latitude: 39.732096
+  longitude: -104.961284
+  precision: 10
+material-ids:
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
