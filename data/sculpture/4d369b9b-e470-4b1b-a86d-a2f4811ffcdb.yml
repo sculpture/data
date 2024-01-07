@@ -1,0 +1,14 @@
+id: 4d369b9b-e470-4b1b-a86d-a2f4811ffcdb
+type: sculpture
+slug: chthonodynamis
+title: Chthonodynamis
+artist-ids:
+- 97a85df7-8466-400f-aaba-0033e386b34a
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1978'
+location:
+  latitude: 38.886502
+  longitude: -77.025051
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
