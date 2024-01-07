@@ -1,0 +1,18 @@
+id: 761ecd71-54e9-4f65-802e-9226247f682e
+type: sculpture
+slug: gloria-victis-mercie-met
+title: Gloria Victis
+artist-ids:
+- 8422c636-2069-4d5d-a1fe-b3c784604985
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1874'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
