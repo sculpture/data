@@ -1,0 +1,18 @@
+id: a0c5a545-eced-464b-acc9-1e6e7ed0b8f9
+type: sculpture
+slug: temptation-adam-eve-dupre
+title: Temptation of Adam and Eve
+artist-ids:
+- 53eddce6-cb39-40ca-9207-451c34f40cfe
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1853'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6f13c768-5619-419e-97af-60440cab7f89
