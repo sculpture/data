@@ -1,0 +1,19 @@
+id: b7b16fe6-1462-4b09-a4b2-bb952bfffa0d
+type: sculpture
+slug: brunhilde-brussels
+title: Brunhilde
+artist-ids:
+- 8a6a2188-193b-4799-8155-8ef77c0fc01d
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1908'
+location:
+  latitude: 50.841562
+  longitude: 4.358183
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
