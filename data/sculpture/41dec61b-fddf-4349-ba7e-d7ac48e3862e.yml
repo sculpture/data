@@ -1,0 +1,19 @@
+id: 41dec61b-fddf-4349-ba7e-d7ac48e3862e
+type: sculpture
+slug: bust-of-englishman-met
+title: Bust of an Englishman
+artist-ids:
+- cc1caaf3-5fd3-40c6-b75c-cb254b5c1156
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1740'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- c9884cff-1c92-48b5-816b-aa0479de54fa
