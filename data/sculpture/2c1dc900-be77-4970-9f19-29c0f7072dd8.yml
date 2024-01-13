@@ -1,0 +1,21 @@
+id: 2c1dc900-be77-4970-9f19-29c0f7072dd8
+type: sculpture
+slug: alexander-danilovich-menshikov
+title: 'Alexander Danilovich Menshikov '
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1704'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 53670a93-6753-4afd-a6c7-219f31fc8088
+- 6cac5bfb-8079-494d-bdff-dffb9c54e908
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- afe881a8-8283-4438-8c73-3ce55aae32dc
