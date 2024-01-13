@@ -1,0 +1,18 @@
+id: 00921b6e-d579-4ff6-8e2c-700369cb44f6
+type: sculpture
+slug: orpheus-ascending
+title: Orpheus Ascending
+artist-ids:
+- 4880468d-c854-4196-af9c-d0139ca31a7e
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1963'
+location:
+  latitude: 41.823989
+  longitude: -71.412834
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
