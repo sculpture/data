@@ -1,0 +1,19 @@
+id: e1eb7d1e-de7b-4ab7-98c0-46be9821399d
+type: sculpture
+slug: entombment-christ-roldan
+title: Entombment of Christ
+artist-ids:
+- 740c5c53-ac53-4da4-a690-5cad33c3e2b0
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1701'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 7735363d-fda4-4473-8973-e1e9193e2bbe
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
