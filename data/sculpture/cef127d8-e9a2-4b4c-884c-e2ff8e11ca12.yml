@@ -1,0 +1,17 @@
+id: cef127d8-e9a2-4b4c-884c-e2ff8e11ca12
+type: sculpture
+slug: casey-shearer-memorial
+title: Casey Shearer Memorial
+artist-ids:
+- cfcca75b-8d04-4cb5-a1e8-59fa8ec0ed5e
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '2003'
+location:
+  latitude: 41.823989
+  longitude: -71.412834
+  precision: 10
+material-ids:
+- 590bc2f1-fd09-4c83-96da-39fa51cef820
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
+tag-ids:
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
