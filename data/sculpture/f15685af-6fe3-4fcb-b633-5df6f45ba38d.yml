@@ -6,12 +6,14 @@ artist-ids:
 - ce1ba76b-f1b4-49f5-a797-f4b435525d2c
 city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
 date: '1790'
+link-wikipedia: https://en.wikipedia.org/wiki/Apollo_Belvedere
 location:
   latitude: 52.215055
   longitude: 21.035828
   precision: 10
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
+note: comy of greek roman sculpture
 tag-ids:
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
 - 5c663cd6-6348-4c33-ba88-0d9152262a9b
