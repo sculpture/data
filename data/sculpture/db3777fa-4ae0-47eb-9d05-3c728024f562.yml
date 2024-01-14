@@ -1,0 +1,17 @@
+id: db3777fa-4ae0-47eb-9d05-3c728024f562
+type: sculpture
+slug: polyester-knot
+title: Polyester Knot
+artist-ids:
+- e6bb49d3-0cae-4c04-b5d3-619b47701f8c
+city-id: 6ba859f5-a74a-4e05-87ae-c2c2bf55650b
+date: '1975'
+location:
+  latitude: 52.313174
+  longitude: 4.773071
+  precision: 10
+material-ids:
+- 02f666a5-a96a-466a-9a4a-3ff26ba1bad5
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- df4890c4-2701-4782-a670-d019b3b95547
