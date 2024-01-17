@@ -1,0 +1,17 @@
+id: b4d04b42-ef63-4837-8959-c578140725cd
+type: sculpture
+slug: mass-art-vehicle
+title: Mass Art Vehicle
+artist-ids:
+- 40717381-69b0-42d8-9f40-e79e8cb787a9
+city-id: 1aff16e3-5963-4a1d-b9f6-1ebec654ea71
+date: '1970'
+location:
+  latitude: 42.430399
+  longitude: -71.309267
+  precision: 10
+material-ids:
+- d0c52472-81c0-4c1d-abd7-3a32fd760700
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
