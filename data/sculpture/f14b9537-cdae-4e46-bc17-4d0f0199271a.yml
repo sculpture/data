@@ -1,0 +1,18 @@
+id: f14b9537-cdae-4e46-bc17-4d0f0199271a
+type: sculpture
+slug: untitled-drum-beater
+title: Untitled (Drum Beater)
+artist-ids:
+- a652c484-e353-4332-82ce-a4d8524960c2
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1973'
+location:
+  latitude: 43.66771
+  longitude: -79.394777
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
