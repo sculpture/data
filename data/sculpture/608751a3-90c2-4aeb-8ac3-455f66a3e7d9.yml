@@ -1,0 +1,15 @@
+id: 608751a3-90c2-4aeb-8ac3-455f66a3e7d9
+type: sculpture
+slug: loulivie-bosio-nice
+title: L'oulivié
+artist-ids:
+- 6291775b-f25f-434c-a6ce-cdf56c096e16
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '2021'
+location:
+  latitude: 43.710173
+  longitude: 7.261953
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
