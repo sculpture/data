@@ -1,0 +1,14 @@
+id: b36662a5-3f84-40d6-8242-7d550babe69b
+type: sculpture
+slug: wind-oracle
+title: Wind Oracle
+artist-ids:
+- babf3869-2885-4bfe-8802-364e0db4e7a1
+date: '2022'
+location:
+  latitude: 43.640415
+  longitude: -79.459973
+  precision: 10
+material-ids:
+- 1df5830e-aa31-460c-a366-f07356994824
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
