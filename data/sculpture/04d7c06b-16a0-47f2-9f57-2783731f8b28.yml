@@ -7,8 +7,8 @@ artist-ids:
 city-id: 83e8235c-7b13-40f9-a343-345bad175adb
 date: '2021'
 location:
-  latitude: 43.676852
-  longitude: 4.627115
+  latitude: 43.675088
+  longitude: 4.628271
   precision: 10
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
