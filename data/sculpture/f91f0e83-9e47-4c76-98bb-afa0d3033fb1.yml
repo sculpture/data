@@ -1,0 +1,17 @@
+id: f91f0e83-9e47-4c76-98bb-afa0d3033fb1
+type: sculpture
+slug: roosevelt-davidson-qcity
+title: Franklin D. Roosevelt
+artist-ids:
+- 705a4f66-6ebe-4a2a-8ae5-e198e479d784
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1933'
+location:
+  latitude: 46.813082
+  longitude: -71.20746
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- b3e92e64-c83c-4c32-981a-18cb40402f4d
