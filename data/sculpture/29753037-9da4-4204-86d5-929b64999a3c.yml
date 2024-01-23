@@ -1,0 +1,19 @@
+id: 29753037-9da4-4204-86d5-929b64999a3c
+type: sculpture
+slug: untitled-salcedo-met
+title: Untitled sal
+artist-ids:
+- 2ccc137d-9a7b-4cd8-b6ae-c3df7327df59
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1999'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
