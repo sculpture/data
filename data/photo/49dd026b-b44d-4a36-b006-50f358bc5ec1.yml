@@ -1,10 +1,12 @@
 id: 49dd026b-b44d-4a36-b006-50f358bc5ec1
 type: photo
-captured-at: 2008-08-23T19:18:00Z
+captured-at: 2008-08-23T13:18:00Z
 colors:
 - '#3D3F42'
 - '#7C7F83'
 - '#989798'
+featured?: true
 height: 2600
+sculpture-id: f91f0e83-9e47-4c76-98bb-afa0d3033fb1
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
 width: 1838
