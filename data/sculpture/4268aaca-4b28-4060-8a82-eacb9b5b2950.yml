@@ -1,0 +1,16 @@
+id: 4268aaca-4b28-4060-8a82-eacb9b5b2950
+type: sculpture
+slug: decordova-ball
+title: DeCordova Ball
+artist-ids:
+- 6738d422-70d8-4ff7-8797-73f0febb1bd8
+city-id: 1aff16e3-5963-4a1d-b9f6-1ebec654ea71
+date: '1999'
+location:
+  latitude: 42.430181
+  longitude: -71.312029
+  precision: 10
+material-ids:
+- 1df5830e-aa31-460c-a366-f07356994824
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
