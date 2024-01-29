@@ -1,0 +1,18 @@
+id: 5c707b1f-7b16-469c-bec7-33008a620f7c
+type: sculpture
+slug: archivaldo-marin
+title: Archivaldo
+artist-ids:
+- b56eeaaa-83d2-4182-9d93-c72ed95c5b29
+city-id: 654193ea-2c93-4dca-8815-a5ce2ad930b8
+date: '2008'
+location:
+  latitude: 39.739236
+  longitude: -104.990251
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
