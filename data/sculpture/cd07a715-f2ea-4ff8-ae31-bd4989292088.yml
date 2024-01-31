@@ -1,0 +1,17 @@
+id: cd07a715-f2ea-4ff8-ae31-bd4989292088
+type: sculpture
+slug: sea-change-cutts
+title: Sea Change
+artist-ids:
+- 996b4f3b-197c-45fb-93d4-36d0f1fa434e
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1998'
+location:
+  latitude: 41.425236
+  longitude: -74.059025
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 85105298-6047-4f80-88ec-76aa0b77d815
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
