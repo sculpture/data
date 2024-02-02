@@ -1,0 +1,18 @@
+id: dfc6e565-13a2-4030-8f3e-37530c87a90a
+type: sculpture
+slug: el-tiempo-marin
+title: El Tiempo
+artist-ids:
+- b56eeaaa-83d2-4182-9d93-c72ed95c5b29
+city-id: 654193ea-2c93-4dca-8815-a5ce2ad930b8
+date: '2010'
+location:
+  latitude: 39.754948
+  longitude: -105.004301
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
