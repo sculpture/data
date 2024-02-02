@@ -1,0 +1,14 @@
+id: 6a28207b-3dff-41b0-b3e8-be9ee0fae0fc
+type: sculpture
+slug: twisted-form-shiro
+title: Twisted Form
+artist-ids:
+- ed1879b9-8a50-4aef-af2b-1e356249e2f0
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1981'
+location:
+  latitude: 38.888418
+  longitude: -77.027609
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
