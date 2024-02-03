@@ -1,0 +1,17 @@
+id: bdb3296d-bf40-4aed-a769-b49907707af5
+type: sculpture
+slug: nautilus-horowitz
+title: Nautilus
+artist-ids:
+- 769e4c54-fc44-4c26-ad79-e5a0861acf2e
+city-id: 8fa25799-a952-4ff5-9506-2f3b95f48200
+date: '2011'
+location:
+  latitude: 41.876983
+  longitude: -87.619384
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
