@@ -1,0 +1,14 @@
+id: 1632c675-5938-417e-acd0-6228eb146126
+type: sculpture
+slug: portals-of-future-marti
+title: Portals Of the Future
+artist-ids:
+- 3aee727c-0703-4e81-ae70-7704fa2823fa
+city-id: dfaeb1e6-a6b9-4fdf-b366-aa3492600d37
+date: '2000'
+location:
+  latitude: 49.174659
+  longitude: -123.148715
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
