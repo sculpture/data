@@ -1,0 +1,19 @@
+id: 6ca4d9d4-a387-42e4-ad03-543152eb62ab
+type: sculpture
+slug: female-drum-dancer
+title: Female Drum Dancer
+artist-ids:
+- 3d730958-3b85-460e-9a88-e249ff9b1ee6
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1987'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- 3a4dcc02-c767-49b3-98e7-44cc13cc7dcd
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
