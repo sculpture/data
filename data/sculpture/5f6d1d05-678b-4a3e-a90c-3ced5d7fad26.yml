@@ -1,0 +1,18 @@
+id: 5f6d1d05-678b-4a3e-a90c-3ced5d7fad26
+type: sculpture
+slug: hanging-column-nevelson-yale
+title: Hanging Column
+artist-ids:
+- 1e232b2a-d5ff-4001-aa06-b85f41badb9b
+city-id: fa87ecab-5627-4e55-af08-250c1e8e6640
+date: '1959'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- 449582e6-6741-4441-a519-81e7c5591f96
+note: Hanging Column, from Dawn's Wedding Feast
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- e7c0d105-ed1d-4e46-8cd8-a5153a2a784d
