@@ -1,0 +1,18 @@
+id: ab3f7d22-cf58-45eb-9a96-c6c30f986319
+type: sculpture
+slug: hippo-ballerina
+title: Hippo Ballerina
+artist-ids:
+- ff19c06d-f70e-4fba-bbab-3e157e6d6345
+city-id: b0856b52-3e5e-44e2-89e3-8261363c5096
+date: '2016'
+location:
+  latitude: 41.05343
+  longitude: -73.538734
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
