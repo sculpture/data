@@ -1,0 +1,16 @@
+id: dde5dc4d-4a50-4a43-9743-418eeea4aca0
+type: sculpture
+slug: angel-stone
+title: Angel (Stone)
+artist-ids:
+- b8352450-f422-461c-adbf-73567c6ffe68
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2023'
+location:
+  latitude: 43.693179
+  longitude: -79.41235
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
