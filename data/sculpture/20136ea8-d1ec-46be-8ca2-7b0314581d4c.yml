@@ -1,0 +1,19 @@
+id: 20136ea8-d1ec-46be-8ca2-7b0314581d4c
+type: sculpture
+slug: millennium-polish-cavalry
+title: 'Millennium Polish Cavalry '
+artist-ids:
+- 997078ac-85fe-4203-a64f-050079b27d5f
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1994'
+link-wikipedia: https://en.wikipedia.org/wiki/Polish_Cavalry_Monument
+location:
+  latitude: 52.2165
+  longitude: 21.014182
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
+- 2d7e8f2e-e187-462b-a638-06a4ef145363
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
