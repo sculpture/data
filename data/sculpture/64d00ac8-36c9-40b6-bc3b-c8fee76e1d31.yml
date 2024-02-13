@@ -1,0 +1,14 @@
+id: 64d00ac8-36c9-40b6-bc3b-c8fee76e1d31
+type: sculpture
+slug: aspire-held-yale
+title: Aspire
+artist-ids:
+- 810c35cb-a6c5-4f1f-8336-620204304506
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '2021'
+location:
+  latitude: 41.311927
+  longitude: -72.9271
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
