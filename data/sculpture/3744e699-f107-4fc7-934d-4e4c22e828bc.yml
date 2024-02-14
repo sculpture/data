@@ -1,0 +1,16 @@
+id: 3744e699-f107-4fc7-934d-4e4c22e828bc
+type: sculpture
+slug: navigator-barrett
+title: Navigator
+artist-ids:
+- 52ab54b8-d3f9-497a-b5bc-aa84ecfd9fa4
+city-id: b0856b52-3e5e-44e2-89e3-8261363c5096
+date: '2011'
+location:
+  latitude: 41.054157
+  longitude: -73.541619
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
