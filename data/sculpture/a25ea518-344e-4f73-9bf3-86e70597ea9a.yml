@@ -1,0 +1,18 @@
+id: a25ea518-344e-4f73-9bf3-86e70597ea9a
+type: sculpture
+slug: homage-to-newton-dali-figueres
+title: Homage to Newton
+artist-ids:
+- 63db084d-333a-4c71-8894-3c9357c592e2
+city-id: a75c8dbc-3678-4d58-8c87-20ded6915cd2
+date: '1980'
+location:
+  latitude: 42.267988
+  longitude: 2.959663
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
