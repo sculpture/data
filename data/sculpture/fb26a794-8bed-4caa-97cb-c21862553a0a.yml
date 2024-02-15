@@ -1,0 +1,18 @@
+id: fb26a794-8bed-4caa-97cb-c21862553a0a
+type: sculpture
+slug: william-shakespeare-horne
+title: William Shakespeare
+artist-ids:
+- bc329d87-d430-45ca-a9bc-e7acd01d129a
+city-id: 275b42cc-8227-4857-824d-40918fb1a44b
+date: '1949'
+location:
+  latitude: 43.371851
+  longitude: -80.9857
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6c2bfe1f-8ad4-42af-8a27-b996f6ebbdfa
