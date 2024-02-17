@@ -1,10 +1,10 @@
 id: 43d79601-24c9-4ef0-bf5f-12eaf5f10c8e
 type: artist
-slug: walter-dusenbery
-name: Walter Dusenbery
-birth-date: '1939'
+slug: vladas-vildziunas
+name: Vladas Vildžiūnas
+birth-date: '1932'
+death-date: '2013'
 gender: male
-link-website: http://www.walterdusenbery.com/
-link-wikipedia: https://en.wikipedia.org/wiki/Walter_Dusenbery
+link-wikipedia: https://lt.wikipedia.org/wiki/Vladas_Vild%C5%BEi%C5%ABnas
 nationality-ids:
-- f41cbf6e-d705-45da-acdc-7d0dc4896553
+- dc772619-c973-4ec1-a130-271dc1f26f12
