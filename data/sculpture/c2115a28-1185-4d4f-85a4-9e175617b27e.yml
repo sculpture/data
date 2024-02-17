@@ -1,0 +1,18 @@
+id: c2115a28-1185-4d4f-85a4-9e175617b27e
+type: sculpture
+slug: soundsuit-cave-yale
+title: 'Soundsuit '
+artist-ids:
+- 1b760985-35ef-4ae2-a0de-6af465742ef1
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '2006'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- 0d63dfd2-b637-471f-8c6b-1262b0085fb8
+- 3deb83a1-45dc-45bd-9e41-ba5ed37fa5b1
+- 449582e6-6741-4441-a519-81e7c5591f96
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
