@@ -1,0 +1,11 @@
+id: 1b760985-35ef-4ae2-a0de-6af465742ef1
+type: artist
+slug: nick-cave
+name: Nick Cave
+birth-date: '1959'
+gender: male
+link-wikipedia: https://en.wikipedia.org/wiki/Nick_Cave_(artist)
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553
+tag-ids:
+- af620c73-e4a8-460f-aec9-cec3014e9689
