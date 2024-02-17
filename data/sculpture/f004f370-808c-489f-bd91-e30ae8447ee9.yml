@@ -1,0 +1,14 @@
+id: f004f370-808c-489f-bd91-e30ae8447ee9
+type: sculpture
+slug: barbora
+title: Barbora
+artist-ids:
+- 43d79601-24c9-4ef0-bf5f-12eaf5f10c8e
+city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
+date: '2009'
+location:
+  latitude: 49.27403
+  longitude: -123.099191
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
