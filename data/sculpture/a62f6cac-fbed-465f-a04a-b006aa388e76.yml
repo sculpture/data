@@ -1,0 +1,18 @@
+id: a62f6cac-fbed-465f-a04a-b006aa388e76
+type: sculpture
+slug: beethoven-with-two-hands
+title: 'Beethoven with Two Hands '
+artist-ids:
+- b51b9561-0a08-4fea-8ed3-a617ab2f8b24
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1908'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- ac86ac3d-0564-479e-a5f0-5de5b5e7f7f4
