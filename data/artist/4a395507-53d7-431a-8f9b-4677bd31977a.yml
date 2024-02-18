@@ -1,0 +1,12 @@
+id: 4a395507-53d7-431a-8f9b-4677bd31977a
+type: artist
+slug: donatello
+name: Donatello
+birth-date: '1386'
+death-date: '1466'
+gender: male
+link-wikipedia: https://en.wikipedia.org/wiki/Donatello
+nationality-ids:
+- b6ab1d97-6e0c-4d16-8310-d013488cf08a
+tag-ids:
+- ba228b77-c711-47fc-85d1-9c8d48961343
