@@ -1,0 +1,14 @@
+id: 44ff6236-6b02-460d-90c7-b837188047f0
+type: sculpture
+slug: mirth-bonner
+title: Mirth
+artist-ids:
+- 2def89ed-519d-4e63-ad27-860ca742abdf
+city-id: ea939486-3e5c-4db4-b30e-3e768a55dd4e
+date: '2007'
+location:
+  latitude: 41.826772
+  longitude: -71.402548
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
