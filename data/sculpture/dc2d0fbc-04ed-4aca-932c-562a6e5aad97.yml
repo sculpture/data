@@ -1,0 +1,18 @@
+id: dc2d0fbc-04ed-4aca-932c-562a6e5aad97
+type: sculpture
+slug: mommys-shoes
+title: Mommy's Shoes
+artist-ids:
+- 6ca960f3-8b4a-47f7-958d-a27c6f4e7f39
+city-id: b0856b52-3e5e-44e2-89e3-8261363c5096
+date: '1990'
+location:
+  latitude: 41.057226
+  longitude: -73.53785
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2094ee30-7294-478e-b118-b3fd48a7c570
+- 21b5d04c-9fea-4c3d-a0d6-2b9dff10c299
+- 2d488599-d808-40db-80a2-88b41c7bdb67
