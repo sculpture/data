@@ -1,0 +1,20 @@
+id: 0d80a1ed-0095-4079-9f0a-6a6669ce07c6
+type: sculpture
+slug: moliere-avignon
+title: Molière
+artist-ids:
+- 5809257a-f5ba-4a4d-aa90-88bbf0012c66
+city-id: 5de4ea43-e782-46c9-8ddf-7251d6e9038a
+date: '1848'
+location:
+  latitude: 43.949317
+  longitude: 4.805641
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 6c2bfe1f-8ad4-42af-8a27-b996f6ebbdfa
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
