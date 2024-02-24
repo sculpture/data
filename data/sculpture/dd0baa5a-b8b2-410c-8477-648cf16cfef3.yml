@@ -1,0 +1,17 @@
+id: dd0baa5a-b8b2-410c-8477-648cf16cfef3
+type: sculpture
+slug: diana-gaudens-yale
+title: Diana
+artist-ids:
+- 11b10fd0-2b5f-4557-b73b-8d6a04b36008
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1895'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
