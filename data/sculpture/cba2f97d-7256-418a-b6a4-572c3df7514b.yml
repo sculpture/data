@@ -1,0 +1,15 @@
+id: cba2f97d-7256-418a-b6a4-572c3df7514b
+type: sculpture
+slug: idee-di-pietra-penone
+title: Idee di Pietra
+artist-ids:
+- 00b54d7e-b790-49b4-9283-95146e64ccbd
+city-id: ea939486-3e5c-4db4-b30e-3e768a55dd4e
+date: '2006'
+location:
+  latitude: 41.826314
+  longitude: -71.403112
+  precision: 10
+material-ids:
+- 590bc2f1-fd09-4c83-96da-39fa51cef820
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
