@@ -1,0 +1,17 @@
+id: 5e22f6c4-f987-43f6-a654-c118653bf3ad
+type: sculpture
+slug: man-broken-nose
+title: Man with a Broken Nose
+artist-ids:
+- 11943544-76d7-4ab9-8834-7c0218f2aa92
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '1975'
+location:
+  latitude: 50.86627
+  longitude: 20.621046
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- c9884cff-1c92-48b5-816b-aa0479de54fa
