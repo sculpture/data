@@ -1,0 +1,17 @@
+id: e4143249-621e-4577-80a0-f88e4439f097
+type: sculpture
+slug: self-portrait-haring-agh
+title: Self Portrait
+artist-ids:
+- 7b35f543-f2f8-47f0-850f-97c29456ec93
+city-id: 0ee02da1-45f2-450a-90de-ae994dd75a5e
+date: '1989'
+location:
+  latitude: 43.257433
+  longitude: -79.872129
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- db51c2ea-c8f2-4b20-ba2d-1eb26ea058d1
