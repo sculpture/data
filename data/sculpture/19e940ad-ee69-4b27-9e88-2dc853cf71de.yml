@@ -1,0 +1,14 @@
+id: 19e940ad-ee69-4b27-9e88-2dc853cf71de
+type: sculpture
+slug: hecuba-nakian
+title: Hecuba
+artist-ids:
+- 3e7c1053-1ecb-45e8-99d7-f1a37dedf64d
+city-id: b0856b52-3e5e-44e2-89e3-8261363c5096
+date: '1964'
+location:
+  latitude: 41.05343
+  longitude: -73.538734
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
