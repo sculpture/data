@@ -1,0 +1,16 @@
+id: a8a24753-f7b7-4a76-a1da-ac78c0aeb4ae
+type: sculpture
+slug: five-men-seventeen-days
+title: Five Men, Seventeen Days, Fifteen Boulders, One Wall
+artist-ids:
+- 5c024742-495b-4560-82df-cb49336f8e99
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2010'
+location:
+  latitude: 41.424633
+  longitude: -74.059958
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
