@@ -1,0 +1,17 @@
+id: 0cd30d1c-d5d6-4215-a090-d7887abb0eed
+type: sculpture
+slug: resurrection-steger-yale
+title: 'Resurrection (Memorial to Two Sisters) '
+artist-ids:
+- b80f4f82-28bd-4d63-ae30-ddaaace279fe
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: 192*
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- f3c0c272-150c-42cd-9a87-bd121fdc1309
