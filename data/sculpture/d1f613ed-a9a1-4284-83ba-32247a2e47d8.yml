@@ -1,0 +1,19 @@
+id: d1f613ed-a9a1-4284-83ba-32247a2e47d8
+type: sculpture
+slug: king-david-sandomierz
+title: King David
+artist-ids:
+- 9385d8a1-4a19-4321-ab2b-bff5004fb3ce
+city-id: 40dd465e-0f69-4976-aca4-03c60b8bf585
+date: '1773'
+location:
+  latitude: 50.676567
+  longitude: 21.749759
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
