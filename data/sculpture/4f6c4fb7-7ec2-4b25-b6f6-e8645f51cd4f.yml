@@ -1,0 +1,14 @@
+id: 4f6c4fb7-7ec2-4b25-b6f6-e8645f51cd4f
+type: sculpture
+slug: elevation-ii
+title: Elevation II
+artist-ids:
+- 63584b72-e681-41b1-8a5f-cc33f33ff1ea
+city-id: ea939486-3e5c-4db4-b30e-3e768a55dd4e
+date: '2018'
+location:
+  latitude: 41.826305
+  longitude: -71.411555
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
