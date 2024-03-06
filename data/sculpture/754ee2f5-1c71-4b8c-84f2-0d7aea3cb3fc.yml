@@ -1,0 +1,17 @@
+id: 754ee2f5-1c71-4b8c-84f2-0d7aea3cb3fc
+type: sculpture
+slug: musical-fence
+title: Musical Fence
+artist-ids:
+- 6d5035e8-4a42-4ce0-8cb5-364986354866
+city-id: 1aff16e3-5963-4a1d-b9f6-1ebec654ea71
+date: '1980'
+location:
+  latitude: 42.430257
+  longitude: -71.311101
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
