@@ -1,0 +1,17 @@
+id: acf36152-9fd3-41dc-9b82-77168d77cfd9
+type: sculpture
+slug: san-marco-ii
+title: San Marco II
+artist-ids:
+- a25bc790-1e30-491a-824f-8a56c7c92632
+city-id: 8fa25799-a952-4ff5-9506-2f3b95f48200
+date: '1986'
+location:
+  latitude: 41.875976
+  longitude: -87.632173
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
