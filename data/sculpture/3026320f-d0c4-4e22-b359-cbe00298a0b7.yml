@@ -1,0 +1,17 @@
+id: 3026320f-d0c4-4e22-b359-cbe00298a0b7
+type: sculpture
+slug: cros-pollination-rojek
+title: Cross Pollination
+artist-ids:
+- 8177bc1d-cd91-42ba-ba5f-d1cd29b5c28d
+city-id: 8fa25799-a952-4ff5-9506-2f3b95f48200
+date: '2012'
+location:
+  latitude: 41.878114
+  longitude: -87.629798
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
