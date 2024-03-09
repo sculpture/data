@@ -1,0 +1,12 @@
+id: 5e92d3e7-df44-4cde-979a-80248470ff15
+type: artist
+slug: gustave-courbet
+name: Gustave Courbet
+birth-date: '1819'
+death-date: '1877'
+gender: male
+link-wikipedia: https://en.wikipedia.org/wiki/Gustave_Courbet
+nationality-ids:
+- a651bd10-8516-4046-a33d-8ec16799a830
+tag-ids:
+- 92f5b43c-299b-49c6-a5f6-f1aa2b4eaa61
