@@ -1,0 +1,10 @@
+id: a1571d6b-8cb4-4164-a060-c8cad55a9f48
+type: artist
+slug: man-ray
+name: Man Ray
+birth-date: '1890'
+death-date: '1976'
+gender: male
+link-wikipedia: https://en.wikipedia.org/wiki/Man_Ray
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553
