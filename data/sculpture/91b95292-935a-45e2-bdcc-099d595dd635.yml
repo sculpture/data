@@ -1,0 +1,21 @@
+id: 91b95292-935a-45e2-bdcc-099d595dd635
+type: sculpture
+slug: obstruction-tay-met
+title: Obstruction
+artist-ids:
+- a1571d6b-8cb4-4164-a060-c8cad55a9f48
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1920'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+note: Sculpture belongs to an edition of 15 reproductions he created in 1961
+tag-ids:
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 85105298-6047-4f80-88ec-76aa0b77d815
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e7c0d105-ed1d-4e46-8cd8-a5153a2a784d
