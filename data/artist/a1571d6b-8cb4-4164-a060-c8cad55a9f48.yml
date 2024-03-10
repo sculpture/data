@@ -5,6 +5,7 @@ name: Man Ray
 birth-date: '1890'
 death-date: '1976'
 gender: male
+link-website: https://www.manray.net/
 link-wikipedia: https://en.wikipedia.org/wiki/Man_Ray
 nationality-ids:
 - f41cbf6e-d705-45da-acdc-7d0dc4896553
