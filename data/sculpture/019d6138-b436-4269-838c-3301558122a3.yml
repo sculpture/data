@@ -1,0 +1,18 @@
+id: 019d6138-b436-4269-838c-3301558122a3
+type: sculpture
+slug: boy-on-dolpin-cox
+title: Garden of the Greek Gods - Boy on a Dolphin
+artist-ids:
+- 56d243ae-7954-4107-b7fa-6290ac7cb48f
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1963'
+location:
+  latitude: 43.630611
+  longitude: -79.420919
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- d973207a-6b23-4505-a84d-d2339bc3a55c
