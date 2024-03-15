@@ -1,0 +1,18 @@
+id: 21ba15a8-42a7-4f7c-914a-ee48aa818f95
+type: sculpture
+slug: nelsons-column-montreal
+title: Nelson's Column
+artist-ids:
+- 6c64a11e-779a-485a-82ee-d00f8febc5c9
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1809'
+link-wikipedia: https://en.wikipedia.org/wiki/Nelson%27s_Column,_Montreal
+location:
+  latitude: 45.507875
+  longitude: -73.55337
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
+- eb894191-c7e1-40fd-97ee-d7700490d2dd
