@@ -1,0 +1,18 @@
+id: 025f6fab-da6e-4f98-8272-7a2a39473d11
+type: sculpture
+slug: duquesa-de-alba
+title: Duquesa de Alba
+artist-ids:
+- a79e53ac-b315-41b5-8674-91c332cbf8ed
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '2011'
+link-wikipedia: https://es.wikipedia.org/wiki/Monumento_a_la_Duquesa_de_Alba
+location:
+  latitude: 37.38124
+  longitude: -5.994395
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
