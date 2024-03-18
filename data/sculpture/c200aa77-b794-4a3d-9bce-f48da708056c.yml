@@ -1,0 +1,14 @@
+id: c200aa77-b794-4a3d-9bce-f48da708056c
+type: sculpture
+slug: 1-1-2
+title: 1½
+artist-ids:
+- 5fe79085-db98-4fe3-92ce-f8f44f8f3f2a
+city-id: ea939486-3e5c-4db4-b30e-3e768a55dd4e
+date: '1985'
+location:
+  latitude: 41.825301
+  longitude: -71.404962
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
