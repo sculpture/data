@@ -1,0 +1,14 @@
+id: 255edd87-751f-4605-b87c-d719fd6b7a38
+type: sculpture
+slug: compartment-earth
+title: Compartment Earth
+artist-ids:
+- 5b506765-1424-4978-9248-9df561ec8dd1
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2014'
+location:
+  latitude: 43.64065
+  longitude: -79.379028
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
