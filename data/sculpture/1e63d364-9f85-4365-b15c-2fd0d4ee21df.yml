@@ -1,0 +1,18 @@
+id: 1e63d364-9f85-4365-b15c-2fd0d4ee21df
+type: sculpture
+slug: le-dos-argente-no7
+title: Le Dos Argenté n°7
+artist-ids:
+- 71bb6cd5-66fb-4d2d-89af-00172f60c2b8
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: 201*
+location:
+  latitude: 43.697148
+  longitude: 7.121929
+  precision: 10
+material-ids:
+- 56560105-70a1-4867-aaea-6d76d31576c0
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
