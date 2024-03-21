@@ -1,0 +1,14 @@
+id: 46670e39-8e30-4aec-a16e-4894a10ac285
+type: sculpture
+slug: starfish-obrian
+title: Starfish
+artist-ids:
+- 264669a7-24b4-4c11-9e23-2cbc813739b1
+city-id: 1aff16e3-5963-4a1d-b9f6-1ebec654ea71
+date: '2016'
+location:
+  latitude: 42.431052
+  longitude: -71.312442
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
