@@ -1,0 +1,16 @@
+id: b1d69396-9a33-40dc-af14-f221dc486756
+type: sculpture
+slug: cursed0s-oldiers-torun
+title: Cursed Soldiers Monument
+artist-ids:
+- 92747fc1-4a5a-49f0-bce5-1b87378a945a
+city-id: 04e0fe28-d11f-4df8-9b7d-2f1addbffd0d
+date: '2014'
+location:
+  latitude: 53.014396
+  longitude: 18.603137
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
