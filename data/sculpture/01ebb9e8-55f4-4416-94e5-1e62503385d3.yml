@@ -1,0 +1,16 @@
+id: 01ebb9e8-55f4-4416-94e5-1e62503385d3
+type: sculpture
+slug: personnage-miro-1968
+title: Personnage (1968)
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1968'
+location:
+  latitude: 43.700969
+  longitude: 7.114364
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
