@@ -1,0 +1,22 @@
+id: bb0c9e21-c164-40f6-9d90-844001ebd0d9
+type: sculpture
+slug: jozef-pilsudski-belweder
+title: 'Józef Piłsudski '
+artist-ids:
+- 4ce04038-5ded-4f97-ae22-3110fe6acd7c
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: 193*
+link-wikipedia: https://pl.wikipedia.org/wiki/Pomnik_J%C3%B3zefa_Pi%C5%82sudskiego_w_Warszawie_(Belweder)
+location:
+  latitude: 52.213619
+  longitude: 21.026946
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 5e3a958c-c298-4da2-8d31-39fde44e7bbe
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- afe881a8-8283-4438-8c73-3ce55aae32dc
