@@ -1,0 +1,21 @@
+id: b28a4588-4337-49e3-9fc7-a95b31448735
+type: sculpture
+slug: burghers-of-calais-met
+title: The Burghers of Calais (Met)
+artist-ids:
+- 0d0131e9-ece4-417f-80bd-904e881f478e
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1889'
+link-wikipedia: https://en.wikipedia.org/wiki/The_Burghers_of_Calais
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast 1985
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
