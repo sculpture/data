@@ -1,0 +1,17 @@
+id: 3035f231-f686-4f61-b209-e0f925aa5d7b
+type: sculpture
+slug: la-peri-hoffman-yale
+title: 'La Péri '
+artist-ids:
+- 670bda5a-44d8-4afe-9c51-baaf35f40f7b
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1921'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6883fc7a-540d-4fe9-9753-80f6e581f0ab
+- 6f13c768-5619-419e-97af-60440cab7f89
