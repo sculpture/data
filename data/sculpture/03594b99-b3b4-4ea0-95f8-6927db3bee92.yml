@@ -1,0 +1,19 @@
+id: 03594b99-b3b4-4ea0-95f8-6927db3bee92
+type: sculpture
+slug: george-bernard-shaw-niagara
+title: George Bernard Shaw
+artist-ids:
+- 0d82da5c-ef04-4a02-b501-0507d7a66f3b
+city-id: c11baca1-5331-4363-9000-20173369b350
+date: '1996'
+location:
+  latitude: 43.256554
+  longitude: -79.074129
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6c2bfe1f-8ad4-42af-8a27-b996f6ebbdfa
+- 6e9f5dde-187e-4a79-8816-375f4e66539a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
