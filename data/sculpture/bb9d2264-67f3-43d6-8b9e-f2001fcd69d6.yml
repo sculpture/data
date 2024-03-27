@@ -1,0 +1,20 @@
+id: bb9d2264-67f3-43d6-8b9e-f2001fcd69d6
+type: sculpture
+slug: fear-of-cupids-darts
+title: The Fear of Cupid's Darts
+artist-ids:
+- 9f5a34c2-0a2a-4e20-9989-b461c99612e6
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1740'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
