@@ -1,10 +1,12 @@
 id: 92ca2090-c288-40cf-914f-2ae9740e2afd
 type: photo
-captured-at: 2024-02-25T03:53:52Z
+captured-at: 2024-02-25T15:53:52Z
 colors:
 - '#5C555A'
 - '#847F7F'
 - '#C6C0BE'
+featured?: false
 height: 2500
-user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
+sculpture-id: 03594b99-b3b4-4ea0-95f8-6927db3bee92
+user-id: 736a3323-27e2-44e0-a6ee-b13087e46af2
 width: 1721
