@@ -1,0 +1,17 @@
+id: 6523a8b0-5bc1-4cb4-b318-a582c578c05d
+type: sculpture
+slug: teyoninhokarawen
+title: Teyoninhokarawen - John Norton
+artist-ids:
+- d5b8d62d-16a0-428e-b8a1-927c424a5c7e
+city-id: c11baca1-5331-4363-9000-20173369b350
+date: '2018'
+location:
+  latitude: 43.159268
+  longitude: -79.055938
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
