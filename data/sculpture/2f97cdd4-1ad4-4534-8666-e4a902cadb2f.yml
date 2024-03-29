@@ -1,0 +1,14 @@
+id: 2f97cdd4-1ad4-4534-8666-e4a902cadb2f
+type: sculpture
+slug: uninvited-advice
+title: Uninvited Advice
+artist-ids:
+- fe09db8b-577f-4cd5-bb6c-7835f372f5b4
+city-id: b0856b52-3e5e-44e2-89e3-8261363c5096
+date: '1992'
+location:
+  latitude: 41.05321
+  longitude: -73.541492
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
