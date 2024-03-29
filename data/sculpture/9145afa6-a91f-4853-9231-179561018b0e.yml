@@ -1,0 +1,19 @@
+id: 9145afa6-a91f-4853-9231-179561018b0e
+type: sculpture
+slug: waiting-for-ufo
+title: Waiting for UFO
+artist-ids:
+- 40b67e5f-700e-41a2-9595-c9a0b7541e6a
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1992'
+location:
+  latitude: 41.425003
+  longitude: -74.058907
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 9da26974-d142-42ce-86aa-f28559a6d575
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
