@@ -1,0 +1,21 @@
+id: cbe9b85a-3559-4876-9e00-46105829d206
+type: sculpture
+slug: st-martin-of-tours-gargallo
+title: St Martin of Tours
+artist-ids:
+- f829930d-ea83-4852-ae19-9d67b0768ee0
+city-id: 16e2f36d-eb09-4c02-9fd2-334682ca2e1c
+date: '1910'
+location:
+  latitude: 41.411868
+  longitude: 2.174378
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
