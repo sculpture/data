@@ -1,0 +1,18 @@
+id: c8a471b1-11df-45f1-ade1-eb09c59f847e
+type: sculpture
+slug: luis-de-gongora-cordoba
+title: Luis de Góngora
+artist-ids:
+- fc7a23f5-641c-4298-9580-48d778542ae6
+city-id: 4caaf18b-6eea-482a-b6cd-5c5a06453ae6
+date: '1967'
+location:
+  latitude: 37.888175
+  longitude: -4.779383
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
