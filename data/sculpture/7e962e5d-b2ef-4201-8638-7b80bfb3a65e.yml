@@ -1,0 +1,19 @@
+id: 7e962e5d-b2ef-4201-8638-7b80bfb3a65e
+type: sculpture
+slug: bacchus-logteren
+title: Bacchus
+artist-ids:
+- caf690ef-f2f2-4077-a02d-9809b9cab5d2
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1739'
+location:
+  latitude: 38.737812
+  longitude: -9.153546
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
