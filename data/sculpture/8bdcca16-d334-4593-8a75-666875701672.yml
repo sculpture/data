@@ -1,0 +1,17 @@
+id: 8bdcca16-d334-4593-8a75-666875701672
+type: sculpture
+slug: sergei-prokofiev-kielce
+title: Sergei Prokofiev
+artist-ids:
+- c1835a65-a55c-4674-b82a-558367a5aa22
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '2007'
+location:
+  latitude: 50.866743
+  longitude: 20.62196
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- ac86ac3d-0564-479e-a5f0-5de5b5e7f7f4
