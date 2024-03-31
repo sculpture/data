@@ -1,0 +1,20 @@
+id: 27e9dad3-08ce-4191-b1cf-f91025a7cd18
+type: sculpture
+slug: stefan-zeromski-siedlce
+title: 'Stefan Żeromski '
+artist-ids:
+- 8ff0c2eb-792f-497e-ad10-b725282b0548
+city-id: 8a43d315-fd2c-4002-90bb-5d628eca8f9d
+date: '2011'
+location:
+  latitude: 52.168273
+  longitude: 22.280595
+  precision: 20
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 21b5d04c-9fea-4c3d-a0d6-2b9dff10c299
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6c2bfe1f-8ad4-42af-8a27-b996f6ebbdfa
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
