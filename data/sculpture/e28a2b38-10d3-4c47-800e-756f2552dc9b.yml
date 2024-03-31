@@ -1,0 +1,19 @@
+id: e28a2b38-10d3-4c47-800e-756f2552dc9b
+type: sculpture
+slug: frederic-mistral-avignon
+title: Frédéric Mistral
+artist-ids:
+- e2bf79b2-108b-4f0a-bb14-b11b7d61ef48
+city-id: 5de4ea43-e782-46c9-8ddf-7251d6e9038a
+date: '1930'
+location:
+  latitude: 43.947252
+  longitude: 4.805783
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 74db4d61-1290-4efd-8270-a34d061a8e66
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
