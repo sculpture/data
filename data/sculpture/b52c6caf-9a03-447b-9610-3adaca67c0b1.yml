@@ -1,0 +1,18 @@
+id: b52c6caf-9a03-447b-9610-3adaca67c0b1
+type: sculpture
+slug: spheres-knowlton
+title: Spheres
+artist-ids:
+- a4f1da03-62d3-4ad1-90d6-07d9411a4a7e
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1975'
+location:
+  latitude: 41.424902
+  longitude: -74.05962
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 2c971567-aa58-40f7-bf83-b5a97ed653c9
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
