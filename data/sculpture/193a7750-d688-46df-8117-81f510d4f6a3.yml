@@ -1,0 +1,16 @@
+id: 193a7750-d688-46df-8117-81f510d4f6a3
+type: sculpture
+slug: martyrs-algerie-francaise-nice
+title: Aux martyrs de l'algérie française
+artist-ids:
+- f7f5d461-af72-43ff-8032-29e98e7ace37
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '1973'
+location:
+  latitude: 43.698131
+  longitude: 7.257157
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
