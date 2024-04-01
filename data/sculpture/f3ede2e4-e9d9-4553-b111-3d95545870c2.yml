@@ -1,0 +1,19 @@
+id: f3ede2e4-e9d9-4553-b111-3d95545870c2
+type: sculpture
+slug: edward-vii-montreal
+title: Edward VII
+artist-ids:
+- f6ba5000-2ac9-4069-bee4-09ca21d36852
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1914'
+link-wikipedia: https://en.wikipedia.org/wiki/Edward_VII_Monument_(Montreal)
+location:
+  latitude: 45.504112
+  longitude: -73.566946
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
