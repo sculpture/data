@@ -1,0 +1,14 @@
+id: be04134d-a219-49f9-b33b-149d676180f2
+type: sculpture
+slug: koronos
+title: Koronos
+artist-ids:
+- a5b8c213-99a0-484a-b647-2efc6603ec00
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1978'
+location:
+  latitude: 41.037249
+  longitude: -73.698129
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
