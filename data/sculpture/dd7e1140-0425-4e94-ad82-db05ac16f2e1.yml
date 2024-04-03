@@ -1,0 +1,16 @@
+id: dd7e1140-0425-4e94-ad82-db05ac16f2e1
+type: sculpture
+slug: sun-voyager-arnason
+title: Sun Voyager
+artist-ids:
+- 88e6b353-1775-4079-adf2-d47e809b66e6
+city-id: 61e161d1-a37e-46bd-a626-4c409992e524
+date: '1990'
+link-wikipedia: https://en.wikipedia.org/wiki/The_Sun_Voyager
+location:
+  latitude: 64.147355
+  longitude: -21.894526
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
