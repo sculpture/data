@@ -1,0 +1,14 @@
+id: 6ecbe1c9-fa26-4e24-ae61-70d775f0a0a3
+type: sculpture
+slug: untitlred-nivola-yale
+title: Untiltled
+artist-ids:
+- 27cb488f-a8f7-426f-b25b-a6b92442d2bc
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1960'
+location:
+  latitude: 41.312743
+  longitude: -72.930095
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
