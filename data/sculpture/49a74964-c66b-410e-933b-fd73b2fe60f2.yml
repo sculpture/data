@@ -1,0 +1,18 @@
+id: 49a74964-c66b-410e-933b-fd73b2fe60f2
+type: sculpture
+slug: dream-mol-hamilton
+title: Dream
+artist-ids:
+- cec9248d-fb9e-4a84-be6e-31c0f447b9b4
+city-id: 0ee02da1-45f2-450a-90de-ae994dd75a5e
+date: '1974'
+location:
+  latitude: 43.255721
+  longitude: -79.871102
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast 9/10
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
