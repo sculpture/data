@@ -1,0 +1,14 @@
+id: 7ad13484-c178-4273-8152-67e75d001506
+type: sculpture
+slug: large-2-forms-moore-purchase
+title: Large Two Forms
+artist-ids:
+- 2fb2873a-8083-45af-b967-a8ffd1e0b75d
+city-id: 9748acfb-c495-4e21-92b4-49195923e3e3
+date: '1969'
+location:
+  latitude: 41.040288
+  longitude: -73.696722
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
