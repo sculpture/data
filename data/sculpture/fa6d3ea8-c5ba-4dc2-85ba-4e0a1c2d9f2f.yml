@@ -1,0 +1,17 @@
+id: fa6d3ea8-c5ba-4dc2-85ba-4e0a1c2d9f2f
+type: sculpture
+slug: ingolfr-arnarson
+title: Ingólfr Arnarson
+artist-ids:
+- 0b3432df-2629-4764-b7dd-5e6fa9477d5b
+city-id: 61e161d1-a37e-46bd-a626-4c409992e524
+date: '1924'
+location:
+  latitude: 64.147806
+  longitude: -21.933109
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
