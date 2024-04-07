@@ -1,0 +1,17 @@
+id: 7840eff3-5bc2-4ada-b273-14805a17684a
+type: sculpture
+slug: pablo-picasso-kielce
+title: Pablo Picasso
+artist-ids:
+- 5176e96d-3776-40ed-9ab8-b458a6e06aa6
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '2006'
+location:
+  latitude: 50.865318
+  longitude: 20.620276
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- b078f909-a131-4d37-8b36-59061078b159
