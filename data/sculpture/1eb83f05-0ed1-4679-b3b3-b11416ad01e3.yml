@@ -1,0 +1,17 @@
+id: 1eb83f05-0ed1-4679-b3b3-b11416ad01e3
+type: sculpture
+slug: ncolas-claude-fabri-peiresc
+title: Nicolas-Claude Fabri de Peiresc
+artist-ids:
+- 8cd3a8fe-173a-432d-8a14-bf5c4c0741c1
+city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
+date: '1895'
+location:
+  latitude: 43.532158
+  longitude: 5.447974
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 9905d2f9-00e0-443b-8640-dfb98d4795a1
