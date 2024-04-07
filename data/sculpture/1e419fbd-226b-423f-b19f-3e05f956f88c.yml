@@ -1,0 +1,21 @@
+id: 1e419fbd-226b-423f-b19f-3e05f956f88c
+type: sculpture
+slug: vierge-chastel-aix
+title: Vierge
+artist-ids:
+- 509e5337-bfc5-4ced-a1c5-5a186ed12b68
+city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
+date: '1757'
+location:
+  latitude: 43.525444
+  longitude: 5.452671
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
