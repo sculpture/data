@@ -1,0 +1,16 @@
+id: 25ebd103-5a5e-4bfe-b581-2bd29d502238
+type: sculpture
+slug: donut-with-3-balls
+title: Donut with 3 Balls
+artist-ids:
+- fb39bdcf-71d7-4f5c-ab80-8279784cbe98
+city-id: 1aff16e3-5963-4a1d-b9f6-1ebec654ea71
+date: '2002'
+location:
+  latitude: 42.430427
+  longitude: -71.311707
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
