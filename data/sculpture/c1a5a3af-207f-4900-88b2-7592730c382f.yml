@@ -1,0 +1,16 @@
+id: c1a5a3af-207f-4900-88b2-7592730c382f
+type: sculpture
+slug: gargouille-miro-maeght
+title: Gargouille
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1964'
+location:
+  latitude: 43.700383
+  longitude: 7.115201
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
