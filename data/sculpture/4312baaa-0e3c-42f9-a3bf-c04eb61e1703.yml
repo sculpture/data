@@ -1,0 +1,18 @@
+id: 4312baaa-0e3c-42f9-a3bf-c04eb61e1703
+type: sculpture
+slug: unweaving-rainbow
+title: Unweaving the Rainbow
+artist-ids:
+- 51a039d0-e260-41b6-a2e9-c3e93d72f7d9
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2021'
+location:
+  latitude: 43.641542
+  longitude: -79.373039
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- b0a3d164-8b6a-440a-89a5-1bbb85c10c40
+tag-ids:
+- df4890c4-2701-4782-a670-d019b3b95547
