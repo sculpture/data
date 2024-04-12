@@ -1,0 +1,19 @@
+id: db4709a3-f9b1-42c2-a5f8-ef9cc66c7304
+type: sculpture
+slug: george-washington-mills
+title: George Washington
+artist-ids:
+- ddc0e6cc-88f8-476f-8af9-853e8bb9f28a
+city-id: dbf718ca-c493-478d-b05f-d45f3548dc14
+date: '1860'
+location:
+  latitude: 38.902509
+  longitude: -77.050121
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- b3e92e64-c83c-4c32-981a-18cb40402f4d
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
