@@ -1,0 +1,14 @@
+id: a2e37f0f-bf75-4ea5-907c-57f415e0b807
+type: sculpture
+slug: king-griffis
+title: King
+artist-ids:
+- 79a0945e-148b-4be1-b210-fb1f1aaecc0c
+city-id: 737ab47f-e563-4b73-ad71-436695cb1160
+date: 196*
+location:
+  latitude: 42.370113
+  longitude: -78.691542
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
