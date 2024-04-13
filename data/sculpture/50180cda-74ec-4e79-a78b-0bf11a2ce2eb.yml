@@ -1,0 +1,16 @@
+id: 50180cda-74ec-4e79-a78b-0bf11a2ce2eb
+type: sculpture
+slug: centrepiece-hide
+title: Centrepiece
+artist-ids:
+- 77ad7204-9b5f-49a7-885e-2ab9a4359a8e
+city-id: 0ee02da1-45f2-450a-90de-ae994dd75a5e
+date: '1990'
+location:
+  latitude: 43.257433
+  longitude: -79.872129
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
