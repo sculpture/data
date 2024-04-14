@@ -1,0 +1,17 @@
+id: a4a95875-157a-4526-b18f-539bd206ae56
+type: sculpture
+slug: gossip-pettigrew
+title: Gossip
+artist-ids:
+- 8ef70f08-5b15-43bb-a425-5a5ff5026e69
+city-id: b0856b52-3e5e-44e2-89e3-8261363c5096
+date: '2004'
+location:
+  latitude: 41.057618
+  longitude: -73.537764
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
