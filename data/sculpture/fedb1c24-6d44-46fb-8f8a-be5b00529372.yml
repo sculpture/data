@@ -1,0 +1,18 @@
+id: fedb1c24-6d44-46fb-8f8a-be5b00529372
+type: sculpture
+slug: rene-levesque
+title: René Lévesque
+artist-ids:
+- 7059b486-c25f-48f8-8e3b-b44ba73d8cfb
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1998'
+location:
+  latitude: 46.793141
+  longitude: -71.246389
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 5e3a958c-c298-4da2-8d31-39fde44e7bbe
+- f608c279-0df9-40f8-b0c6-c900a4ded7bf
