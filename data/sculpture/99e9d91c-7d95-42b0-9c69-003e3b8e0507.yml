@@ -1,0 +1,16 @@
+id: 99e9d91c-7d95-42b0-9c69-003e3b8e0507
+type: sculpture
+slug: faune-des-mers
+title: Faune des Mers
+artist-ids:
+- 07668236-c98a-4431-9bcb-87b151cb5380
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1959'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
