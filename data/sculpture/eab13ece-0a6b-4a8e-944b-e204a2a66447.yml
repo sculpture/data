@@ -1,0 +1,18 @@
+id: eab13ece-0a6b-4a8e-944b-e204a2a66447
+type: sculpture
+slug: pierre-corneille
+title: Pierre Corneille
+artist-ids:
+- e26e41de-06ad-4404-af8f-ecb6eda6fe53
+city-id: 5de4ea43-e782-46c9-8ddf-7251d6e9038a
+date: '1848'
+location:
+  latitude: 43.949317
+  longitude: 4.805528
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6c2bfe1f-8ad4-42af-8a27-b996f6ebbdfa
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
