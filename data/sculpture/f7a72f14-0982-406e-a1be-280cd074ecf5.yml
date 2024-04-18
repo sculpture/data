@@ -1,0 +1,17 @@
+id: f7a72f14-0982-406e-a1be-280cd074ecf5
+type: sculpture
+slug: breughelienne
+title: Breughelienne
+artist-ids:
+- d281c305-3fa5-4b85-8be0-ac03e97c2dc5
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '2000'
+location:
+  latitude: 50.841845
+  longitude: 4.353234
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- f3c0c272-150c-42cd-9a87-bd121fdc1309
