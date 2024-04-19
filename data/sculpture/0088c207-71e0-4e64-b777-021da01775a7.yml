@@ -1,0 +1,18 @@
+id: 0088c207-71e0-4e64-b777-021da01775a7
+type: sculpture
+slug: wladyslaw-broniewski
+title: Władysław Broniewski
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: 195*
+location:
+  latitude: 52.189255
+  longitude: 21.027522
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+note: sculptor Alfons Karny?
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445
