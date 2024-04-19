@@ -1,0 +1,18 @@
+id: d23d82a0-8044-4e81-9d9e-a804f21520f9
+type: sculpture
+slug: woje-tarkowski
+title: Woje
+artist-ids:
+- 944909a2-7285-4b41-85ee-ad35dfe62871
+city-id: 5f7a0d0a-7d71-4629-94cf-7f2966a42e84
+date: '1975'
+location:
+  latitude: 49.563335
+  longitude: 22.207193
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2d7e8f2e-e187-462b-a638-06a4ef145363
