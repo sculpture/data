@@ -2,6 +2,7 @@ id: 9fa095ca-e212-4d19-b7a1-2444f831d575
 type: artist
 slug: john-mcenroe
 name: John McEnroe
+birth-date: '1968'
 gender: male
 link-website: https://www.johnmcenroeart.com/
 nationality-ids:
