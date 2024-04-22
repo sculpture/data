@@ -1,0 +1,17 @@
+id: f740cbc5-b0ec-4082-8ffc-76e2c7e81b97
+type: sculpture
+slug: national-velvet
+title: National Velvet
+artist-ids:
+- 9fa095ca-e212-4d19-b7a1-2444f831d575
+city-id: 654193ea-2c93-4dca-8815-a5ce2ad930b8
+date: '2008'
+location:
+  latitude: 39.739236
+  longitude: -104.990251
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
