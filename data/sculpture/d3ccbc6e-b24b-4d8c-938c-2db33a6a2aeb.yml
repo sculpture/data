@@ -1,0 +1,17 @@
+id: d3ccbc6e-b24b-4d8c-938c-2db33a6a2aeb
+type: sculpture
+slug: pillar-bourgeois
+title: Pillar
+artist-ids:
+- 5c66fbc8-3069-4495-a5a7-8ecaacc2935c
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1949'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- 449582e6-6741-4441-a519-81e7c5591f96
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
