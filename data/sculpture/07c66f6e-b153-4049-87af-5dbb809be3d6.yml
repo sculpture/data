@@ -1,0 +1,14 @@
+id: 07c66f6e-b153-4049-87af-5dbb809be3d6
+type: sculpture
+slug: balinesian-queen
+title: Balinesian Queen
+artist-ids:
+- 79a0945e-148b-4be1-b210-fb1f1aaecc0c
+city-id: 737ab47f-e563-4b73-ad71-436695cb1160
+date: 196*
+location:
+  latitude: 42.370113
+  longitude: -78.691542
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
