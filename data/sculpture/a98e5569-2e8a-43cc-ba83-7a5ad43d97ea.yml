@@ -1,0 +1,16 @@
+id: a98e5569-2e8a-43cc-ba83-7a5ad43d97ea
+type: sculpture
+slug: golden-horde-2
+title: Golden Horde 2
+artist-ids:
+- 4a403e0b-b7a7-483b-9e39-ece7efda7176
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '2006'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- 1df5830e-aa31-460c-a366-f07356994824
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
