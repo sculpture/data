@@ -1,0 +1,16 @@
+id: 88e7ebd8-c816-4702-b29a-7ea4daf84223
+type: sculpture
+slug: untitled-almeida
+title: Untitled (almeida)
+artist-ids:
+- f3d33196-28a0-43fc-b77e-b660162ce1ae
+city-id: ea939486-3e5c-4db4-b30e-3e768a55dd4e
+date: '1985'
+location:
+  latitude: 41.824493
+  longitude: -71.407416
+  precision: 10
+material-ids:
+- 32495469-6b62-477a-b272-a0e4e2c0e5c9
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
