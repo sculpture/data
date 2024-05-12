@@ -1,0 +1,16 @@
+id: 5905d87b-4791-499e-af6c-b2d927198408
+type: sculpture
+slug: heart-shadow
+title: Heart Shadow
+artist-ids:
+- aee581ed-f4ce-4508-9136-a330b0baf053
+city-id: 4c133344-0cec-4448-b5cb-d702cc6e1913
+date: '1999'
+location:
+  latitude: 40.236983
+  longitude: -74.720237
+  precision: 10
+material-ids:
+- 2aa408c8-4b60-4a40-a151-67661b57b97b
+- 90961d65-c887-44b3-9153-7364b69806bc
+- b056b6a2-cc0e-43ec-84ae-887480ee3706
