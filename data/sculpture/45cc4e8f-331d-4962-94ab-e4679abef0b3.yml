@@ -1,0 +1,18 @@
+id: 45cc4e8f-331d-4962-94ab-e4679abef0b3
+type: sculpture
+slug: pomona-marini-venice
+title: Pomona
+artist-ids:
+- cc102819-9d50-4efa-a8a2-d1450cfabade
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1945'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
