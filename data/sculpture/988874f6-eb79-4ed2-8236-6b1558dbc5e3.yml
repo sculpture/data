@@ -1,0 +1,17 @@
+id: 988874f6-eb79-4ed2-8236-6b1558dbc5e3
+type: sculpture
+slug: war-memorial-avignon
+title: War Memorial Avignon
+artist-ids:
+- 196bfbdc-6468-4924-a2af-0b89c11e0d5b
+city-id: 5de4ea43-e782-46c9-8ddf-7251d6e9038a
+date: '1924'
+location:
+  latitude: 43.951897
+  longitude: 4.807333
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
