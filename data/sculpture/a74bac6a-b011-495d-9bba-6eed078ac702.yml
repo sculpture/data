@@ -1,0 +1,18 @@
+id: a74bac6a-b011-495d-9bba-6eed078ac702
+type: sculpture
+slug: stringed-object-head
+title: Stringed Object (Head)
+artist-ids:
+- 2fb2873a-8083-45af-b967-a8ffd1e0b75d
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1938'
+location:
+  latitude: 45.430881
+  longitude: 12.331548
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast 1956
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
