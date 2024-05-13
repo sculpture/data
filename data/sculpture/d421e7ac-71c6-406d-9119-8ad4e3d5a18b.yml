@@ -1,0 +1,19 @@
+id: d421e7ac-71c6-406d-9119-8ad4e3d5a18b
+type: sculpture
+slug: angel-of-city-marini
+title: The Angel of the City
+artist-ids:
+- cc102819-9d50-4efa-a8a2-d1450cfabade
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1948'
+location:
+  latitude: 45.430907
+  longitude: 12.331553
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast 1949
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- c9884cff-1c92-48b5-816b-aa0479de54fa
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
