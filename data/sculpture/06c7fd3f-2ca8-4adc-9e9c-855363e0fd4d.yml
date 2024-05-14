@@ -1,0 +1,18 @@
+id: 06c7fd3f-2ca8-4adc-9e9c-855363e0fd4d
+type: sculpture
+slug: mars-sansovino-venice
+title: Mars
+artist-ids:
+- 732d7785-6332-4878-870e-f6e5f6e6e002
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: 155*
+location:
+  latitude: 45.43428
+  longitude: 12.340314
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
