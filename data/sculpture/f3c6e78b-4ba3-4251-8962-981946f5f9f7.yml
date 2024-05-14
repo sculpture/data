@@ -1,0 +1,19 @@
+id: f3c6e78b-4ba3-4251-8962-981946f5f9f7
+type: sculpture
+slug: prince-bruncvik-prague
+title: Prince Bruncvik
+artist-ids:
+- 5818f114-0caf-4e87-8f01-9c56e619ac72
+city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
+date: '1884'
+link-wikipedia: https://en.wikipedia.org/wiki/Statue_of_Bruncv%C3%ADk,_Charles_Bridge
+location:
+  latitude: 50.086112
+  longitude: 14.413465
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- bde62dd4-de03-48b1-bc5b-812694b8a9de
