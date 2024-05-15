@@ -1,0 +1,17 @@
+id: e1103be9-592d-4a26-b4fd-3939b9efdf69
+type: sculpture
+slug: tiny-piece-1-venice
+title: 'Tiny Piece #1'
+artist-ids:
+- d71b6acd-cebf-4f51-b8fa-3c3442eb6df3
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1961'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
