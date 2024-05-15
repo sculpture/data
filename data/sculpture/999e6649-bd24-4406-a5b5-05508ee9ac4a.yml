@@ -1,0 +1,19 @@
+id: 999e6649-bd24-4406-a5b5-05508ee9ac4a
+type: sculpture
+slug: construction-volumetric-interrelationships
+title: Construction of Volumetric Interrelationships
+artist-ids:
+- 7c25e636-5cf8-4b04-97a2-81eda5fcd152
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1924'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- 4fb2f843-9c39-4dff-9caf-13aa2b4ea58c
+note: Construction of Volumetric Interrelationships Derived from the Inscribed Square
+  and the Square Circumscribed by a Circle
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
