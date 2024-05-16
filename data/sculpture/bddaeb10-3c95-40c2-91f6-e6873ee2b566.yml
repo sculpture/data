@@ -1,0 +1,17 @@
+id: bddaeb10-3c95-40c2-91f6-e6873ee2b566
+type: sculpture
+slug: shostakovich-kielce
+title: Dmitri Shostakovich
+artist-ids:
+- 4486df13-12a9-4617-a9fe-bfc161e13ad9
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '2009'
+location:
+  latitude: 50.866743
+  longitude: 20.62196
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- ac86ac3d-0564-479e-a5f0-5de5b5e7f7f4
