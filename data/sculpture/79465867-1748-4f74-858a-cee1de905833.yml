@@ -1,0 +1,19 @@
+id: 79465867-1748-4f74-858a-cee1de905833
+type: sculpture
+slug: klemens-janicki
+title: Klemens Janicki
+artist-ids:
+- 39f7d954-c458-41a1-beaa-23d2ec2d604e
+- ef64d717-fa75-4ab8-a558-db0654c2bf2e
+city-id: ee74e895-68e1-4423-a29c-7113dafddb5f
+date: '2015'
+location:
+  latitude: 52.409879
+  longitude: 16.93257
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
