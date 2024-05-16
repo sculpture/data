@@ -1,0 +1,16 @@
+id: 5ee7edd2-79b4-4245-9a3a-5fdb4887815f
+type: sculpture
+slug: environmental-impact-statement
+title: Environmental Impact Statement
+artist-ids:
+- 05df2c81-36e5-4f27-96b7-68fbe05cec15
+city-id: 1aff16e3-5963-4a1d-b9f6-1ebec654ea71
+date: '1988'
+location:
+  latitude: 42.430482
+  longitude: -71.31131
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
