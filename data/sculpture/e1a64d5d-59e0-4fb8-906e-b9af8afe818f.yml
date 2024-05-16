@@ -1,0 +1,20 @@
+id: e1a64d5d-59e0-4fb8-906e-b9af8afe818f
+type: sculpture
+slug: busto-di-venezia
+title: Busto di Venezia
+artist-ids:
+- a22e2c6e-8407-4380-92c9-ba1fb88ddf2b
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1821'
+location:
+  latitude: 45.431078
+  longitude: 12.328139
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
