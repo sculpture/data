@@ -1,0 +1,19 @@
+id: e051baa7-e41b-49be-9134-a966e5964f5f
+type: sculpture
+slug: bust-of-titian-venice
+title: Bust of Titian
+artist-ids:
+- 399360a4-2fa3-4ef5-b2a7-08b1607608fd
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1816'
+location:
+  latitude: 45.431078
+  longitude: 12.328139
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b078f909-a131-4d37-8b36-59061078b159
