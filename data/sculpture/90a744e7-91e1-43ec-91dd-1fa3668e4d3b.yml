@@ -1,0 +1,16 @@
+id: 90a744e7-91e1-43ec-91dd-1fa3668e4d3b
+type: sculpture
+slug: lesny-batyskaf
+title: 'Leśny Batyskaf '
+artist-ids:
+- 1f7d681c-109b-4497-a789-2adccd499e32
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '2016'
+location:
+  latitude: 51.312854
+  longitude: 20.985895
+  precision: 10
+material-ids:
+- a3636884-5ce3-4c60-9ea2-cd1d46423159
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
