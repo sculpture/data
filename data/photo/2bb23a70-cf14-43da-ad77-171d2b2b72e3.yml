@@ -1,10 +1,12 @@
 id: 2bb23a70-cf14-43da-ad77-171d2b2b72e3
 type: photo
-captured-at: 2009-06-23T07:04:56Z
+captured-at: 2009-06-23T13:04:56Z
 colors:
 - '#5B352C'
 - '#916956'
 - '#CFBEAD'
+featured?: true
 height: 1500
+sculpture-id: 675b2b33-d8b1-43ff-88c0-a90ab51c4447
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
 width: 1021
