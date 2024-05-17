@@ -1,0 +1,17 @@
+id: 675b2b33-d8b1-43ff-88c0-a90ab51c4447
+type: sculpture
+slug: bust-virgil-ulm
+title: 'Virgil '
+artist-ids:
+- ff39a867-07ed-4b93-beb2-85fe5ba9bb3e
+city-id: f227e8f5-fd61-47f8-82b2-6b747f8f7ebc
+location:
+  latitude: 48.398523
+  longitude: 9.992555
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
