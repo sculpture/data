@@ -1,0 +1,16 @@
+id: c6709e1e-0489-4ed9-baf7-6a3d6cf4cb4e
+type: sculpture
+slug: sphere-no-3-venice
+title: Sphere No. 3
+artist-ids:
+- b0f670b0-dd0d-4118-9e1c-68d5837a902f
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1964'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
