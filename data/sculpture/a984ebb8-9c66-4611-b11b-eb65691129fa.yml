@@ -1,0 +1,17 @@
+id: a984ebb8-9c66-4611-b11b-eb65691129fa
+type: sculpture
+slug: helmet-head-no2-venice
+title: Helmet Head No.2
+artist-ids:
+- 2fb2873a-8083-45af-b967-a8ffd1e0b75d
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1950'
+location:
+  latitude: 33.994091
+  longitude: -118.45273
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
