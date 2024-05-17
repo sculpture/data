@@ -1,10 +1,12 @@
 id: 487a5b87-e448-4d18-96cf-679b10862d07
 type: photo
-captured-at: 2024-05-04T16:31:24Z
+captured-at: 2024-05-05T14:31:24Z
 colors:
 - '#373738'
 - '#81827C'
 - '#ECEBEA'
+featured?: false
 height: 2400
-user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
+sculpture-id: a984ebb8-9c66-4611-b11b-eb65691129fa
+user-id: 736a3323-27e2-44e0-a6ee-b13087e46af2
 width: 1772
