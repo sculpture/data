@@ -1,0 +1,17 @@
+id: f691ef9c-99c7-4e19-80d2-8b761e32f7b8
+type: sculpture
+slug: dramaturg-v
+title: Dramaturg (V)
+artist-ids:
+- 80aacbbf-caa2-4cd3-b520-4ad597b3e881
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1922'
+location:
+  latitude: 52.213799
+  longitude: 21.036273
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
