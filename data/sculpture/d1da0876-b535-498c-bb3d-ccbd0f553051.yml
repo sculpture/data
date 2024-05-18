@@ -1,0 +1,17 @@
+id: d1da0876-b535-498c-bb3d-ccbd0f553051
+type: sculpture
+slug: letizia-bonaparte-canova-venice
+title: Letizia Bonaparte
+artist-ids:
+- 51529d14-3684-48c3-9995-9469fb5b69ba
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1807'
+location:
+  latitude: 45.431078
+  longitude: 12.328139
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
