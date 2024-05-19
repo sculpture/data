@@ -1,0 +1,17 @@
+id: 600342fa-d281-41e9-94f4-495eecbb812f
+type: sculpture
+slug: incomplete-cube-6-8-venice
+title: Incomplete Open Cube 6/8
+artist-ids:
+- ae4a69cb-1c8a-4d5f-9ff6-47f49a8d1676
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1974'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- df4890c4-2701-4782-a670-d019b3b95547
