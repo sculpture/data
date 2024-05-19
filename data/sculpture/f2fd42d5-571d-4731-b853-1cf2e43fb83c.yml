@@ -1,0 +1,19 @@
+id: f2fd42d5-571d-4731-b853-1cf2e43fb83c
+type: sculpture
+slug: woman-venice-iv-accademia
+title: 'Woman of Venice IV '
+artist-ids:
+- cfc0ccc8-abfa-480e-844c-f9c931a65b2a
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1956'
+location:
+  latitude: 45.431172
+  longitude: 12.328214
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
