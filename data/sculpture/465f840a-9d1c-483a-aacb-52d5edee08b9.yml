@@ -1,0 +1,14 @@
+id: 465f840a-9d1c-483a-aacb-52d5edee08b9
+type: sculpture
+slug: together-extraordinary
+title: Together We Achieve the Extraordinary
+artist-ids:
+- 5509aa62-b0bb-4e6e-8e43-69e104f52894
+city-id: 52ca364d-2e9c-46da-aa22-a34ffe6cb7ee
+date: '2020'
+location:
+  latitude: 45.051998
+  longitude: -78.521894
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
