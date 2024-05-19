@@ -1,0 +1,16 @@
+id: e8bfdc1a-de11-4be0-9914-7b73b81eaa74
+type: sculpture
+slug: warsaw-tradeswoman
+title: Warsaw tradeswoman
+artist-ids:
+- 2697546b-85c1-4f1c-af11-929a963ae614
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1949'
+location:
+  latitude: 52.246092
+  longitude: 21.016651
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
