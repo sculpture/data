@@ -1,0 +1,17 @@
+id: 55863327-373e-418b-8c66-bec5e983fc34
+type: sculpture
+slug: pierrot-assis-venice
+title: Pierrot assis
+artist-ids:
+- 77141594-2cbf-482f-a270-b9b9c37eee58
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1922'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- 270dfb6d-92b2-464a-b5ff-827f6c828452
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
