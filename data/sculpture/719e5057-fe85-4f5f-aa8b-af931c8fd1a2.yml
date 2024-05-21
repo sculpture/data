@@ -1,0 +1,18 @@
+id: 719e5057-fe85-4f5f-aa8b-af931c8fd1a2
+type: sculpture
+slug: le-cheval-duchamp-venice
+title: Le Cheval
+artist-ids:
+- bfeca5f4-5d3d-4b6b-b348-ce3b72ef9f15
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1912'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast c.1930
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- f50b4a73-c624-4c23-95b4-6ae5909fbed2
