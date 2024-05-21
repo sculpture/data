@@ -1,0 +1,16 @@
+id: af0e270c-1687-441b-9dce-720b46786d69
+type: sculpture
+slug: temporal-shift
+title: Temporal Shift
+artist-ids:
+- aa2cd2a2-a04a-48c9-bb60-193be992e7ad
+city-id: 1aff16e3-5963-4a1d-b9f6-1ebec654ea71
+date: '2021'
+location:
+  latitude: 42.430534
+  longitude: -71.311165
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
