@@ -1,0 +1,19 @@
+id: e7da0db1-ef5d-4e2b-9de6-400649fb47c4
+type: sculpture
+slug: la-partigiana
+title: La Partigiana
+artist-ids:
+- 6c6663e0-b59e-4e9b-89ba-64c73d075a15
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1955'
+location:
+  latitude: 45.441068
+  longitude: 12.331652
+  precision: 10
+material-ids:
+- e2cbe97c-ba5c-4a61-b0e1-b871f4f757d3
+tag-ids:
+- 2d7e8f2e-e187-462b-a638-06a4ef145363
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
