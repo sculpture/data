@@ -1,0 +1,19 @@
+id: 0d96d723-7759-4c61-956e-38fc5a122b99
+type: sculpture
+slug: porcellino-waterloo
+title: Porcellino
+artist-ids:
+- 5d423a25-97d0-48b7-8756-7837b533ab98
+city-id: b50c816a-bc64-45db-b0db-f86504c9b799
+date: 163*
+location:
+  latitude: 43.469158
+  longitude: -80.542443
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast of 1973
+tag-ids:
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
