@@ -1,0 +1,17 @@
+id: e7b61dbf-a2dd-413c-af7d-78342cd25e4e
+type: sculpture
+slug: two-figures-minguzzi-venice
+title: Two Figures
+artist-ids:
+- b16b017c-3d70-4a5b-ba6a-e882ca10e8ec
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1952'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
