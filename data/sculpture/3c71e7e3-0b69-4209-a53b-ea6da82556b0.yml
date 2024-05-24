@@ -1,0 +1,18 @@
+id: 3c71e7e3-0b69-4209-a53b-ea6da82556b0
+type: sculpture
+slug: il-buffone-martini-venice
+title: Il buffone
+artist-ids:
+- 4d2baa29-a7fd-4994-9f0c-35e8c9ac2488
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1914'
+location:
+  latitude: 45.441061
+  longitude: 12.331567
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- c9884cff-1c92-48b5-816b-aa0479de54fa
