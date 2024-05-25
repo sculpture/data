@@ -1,0 +1,16 @@
+id: 30798b7c-a618-45a9-bde8-1a52e518c9c6
+type: sculpture
+slug: prehension-millette
+title: Prehension
+artist-ids:
+- 2b8154b2-b0cb-4a07-b41a-de6fe9e32158
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2015'
+location:
+  latitude: 43.650258
+  longitude: -79.360031
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
