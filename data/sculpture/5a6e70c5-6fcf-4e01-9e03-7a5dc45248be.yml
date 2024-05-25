@@ -1,0 +1,16 @@
+id: 5a6e70c5-6fcf-4e01-9e03-7a5dc45248be
+type: sculpture
+slug: leone-urlante-ii
+title: Leone urlante II
+artist-ids:
+- 2a35e4a2-0f7b-4d42-8a1f-e4c722153a84
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1956'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
