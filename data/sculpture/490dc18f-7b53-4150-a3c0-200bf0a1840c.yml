@@ -1,0 +1,17 @@
+id: 490dc18f-7b53-4150-a3c0-200bf0a1840c
+type: sculpture
+slug: friendship-america-france-ny
+title: Friendship between America and France
+artist-ids:
+- 9b13945a-24ff-4445-983d-a6fc96f1f3c1
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1934'
+location:
+  latitude: 40.758742
+  longitude: -73.978752
+  precision: 10
+material-ids:
+- 46fe9fce-6a4f-4a44-89d7-dedc6f731b39
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
