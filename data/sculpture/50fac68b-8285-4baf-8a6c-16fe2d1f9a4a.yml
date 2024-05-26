@@ -1,0 +1,16 @@
+id: 50fac68b-8285-4baf-8a6c-16fe2d1f9a4a
+type: sculpture
+slug: untitled-kapoor-venice
+title: Untitled (Kapoor)
+artist-ids:
+- cbc391fc-7a7f-4fab-8f76-5e953737463c
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2007'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- a1d83c21-c2ec-4d6f-852d-a880fdd65176
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
