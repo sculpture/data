@@ -1,0 +1,17 @@
+id: 23e62d12-79ca-4f27-ad8b-ae04617b80a8
+type: sculpture
+slug: friendship-balloon
+title: Friendship Balloon
+artist-ids:
+- ba33f643-9ddc-439d-9b8a-8de8220602d8
+city-id: bc7ca2c7-aac6-4ab7-85ca-d4786262d8a8
+date: '1988'
+location:
+  latitude: 50.882287
+  longitude: 4.713765
+  precision: 10
+material-ids:
+- 90961d65-c887-44b3-9153-7364b69806bc
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
