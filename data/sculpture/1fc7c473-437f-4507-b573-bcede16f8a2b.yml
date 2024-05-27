@@ -1,0 +1,16 @@
+id: 1fc7c473-437f-4507-b573-bcede16f8a2b
+type: sculpture
+slug: two-one-noguchi-venice
+title: Two is One
+artist-ids:
+- 08511d84-b856-47b8-9c18-03cc69f05415
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1964'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
