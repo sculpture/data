@@ -7,8 +7,8 @@ artist-ids:
 city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
 date: '1933'
 location:
-  latitude: 38.714177
-  longitude: -9.134147
+  latitude: 38.713846
+  longitude: -9.133417
   precision: 10
 material-ids:
 - a267fb56-e090-4da4-b72c-152f966877d9
