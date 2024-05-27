@@ -1,0 +1,19 @@
+id: 2d3ce52d-f664-49f7-9df8-37b8356f032f
+type: sculpture
+slug: partisan-woman-venice
+title: Monument to the Partisan Woman
+artist-ids:
+- db1c5e0b-de47-48e4-a25a-265224fcd7ee
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1961'
+location:
+  latitude: 45.42966
+  longitude: 12.35534
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 2d7e8f2e-e187-462b-a638-06a4ef145363
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
