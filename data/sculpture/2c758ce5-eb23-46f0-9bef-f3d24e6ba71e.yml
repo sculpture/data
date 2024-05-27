@@ -1,0 +1,18 @@
+id: 2c758ce5-eb23-46f0-9bef-f3d24e6ba71e
+type: sculpture
+slug: manuel-i-portugal-lisbon
+title: Manuel I of Portugal
+artist-ids:
+- cfe62d94-d44d-47eb-976e-e39185f8eda9
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1933'
+location:
+  latitude: 38.714177
+  longitude: -9.134147
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
