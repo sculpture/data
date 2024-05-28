@@ -1,0 +1,19 @@
+id: a8d75a96-4a99-4c54-b2f6-9156b832103f
+type: sculpture
+slug: anchored-cross-pevsner-venice
+title: Anchored Cross
+artist-ids:
+- 84765c96-f7fd-49f9-b7be-151ff7207132
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1933'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- b056b6a2-cc0e-43ec-84ae-887480ee3706
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
