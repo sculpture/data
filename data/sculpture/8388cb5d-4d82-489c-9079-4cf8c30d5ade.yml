@@ -1,0 +1,18 @@
+id: 8388cb5d-4d82-489c-9079-4cf8c30d5ade
+type: sculpture
+slug: people-wind-armitage-venice
+title: People in a Wind
+artist-ids:
+- ccd0c099-0921-4859-b005-3d3479398ea3
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1951'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
