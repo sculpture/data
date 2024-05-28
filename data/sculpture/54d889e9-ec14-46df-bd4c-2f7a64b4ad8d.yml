@@ -1,0 +1,18 @@
+id: 54d889e9-ec14-46df-bd4c-2f7a64b4ad8d
+type: sculpture
+slug: lanima-dei-padri
+title: L'anima dei Padri
+artist-ids:
+- 42acb2f0-dff3-4f48-8ae9-a011af8b085f
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1922'
+location:
+  latitude: 45.441091
+  longitude: 12.331652
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
