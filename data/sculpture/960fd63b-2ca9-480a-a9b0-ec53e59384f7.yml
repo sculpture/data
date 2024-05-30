@@ -1,0 +1,16 @@
+id: 960fd63b-2ca9-480a-a9b0-ec53e59384f7
+type: sculpture
+slug: presence-giraldi-venice
+title: Presence
+artist-ids:
+- 4d7dd16b-aa89-42dd-a64c-47a67c34777c
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1967'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
