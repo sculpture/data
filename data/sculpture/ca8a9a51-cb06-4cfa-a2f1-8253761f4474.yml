@@ -1,0 +1,17 @@
+id: ca8a9a51-cb06-4cfa-a2f1-8253761f4474
+type: sculpture
+slug: prostituta-martini-venice
+title: Prostituta
+artist-ids:
+- 4d2baa29-a7fd-4994-9f0c-35e8c9ac2488
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1913'
+location:
+  latitude: 45.431078
+  longitude: 12.328139
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
