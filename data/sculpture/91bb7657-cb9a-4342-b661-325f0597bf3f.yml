@@ -1,0 +1,16 @@
+id: 91bb7657-cb9a-4342-b661-325f0597bf3f
+type: sculpture
+slug: storm-king-wavefield
+title: Storm King Wavefield
+artist-ids:
+- b84e091f-4896-4a06-baab-e6de001d84de
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2008'
+location:
+  latitude: 41.424592
+  longitude: -74.058869
+  precision: 10
+material-ids:
+- 313deab6-cc6c-4608-bf26-6e6f20ac21b9
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
