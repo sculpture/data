@@ -1,0 +1,17 @@
+id: 4a3a3447-ad67-41d3-980f-fc5dd0a4f9f4
+type: sculpture
+slug: curve-xxv
+title: Curve XXV
+artist-ids:
+- 37f9a388-ce5f-4298-b3d8-7b6d84ba029e
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1981'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da7678e3-55c7-4a57-8c34-f4a7fd3be717
