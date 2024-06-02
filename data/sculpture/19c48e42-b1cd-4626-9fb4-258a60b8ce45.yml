@@ -1,0 +1,16 @@
+id: 19c48e42-b1cd-4626-9fb4-258a60b8ce45
+type: sculpture
+slug: woman-form-flower-ernst-venice
+title: Young Woman in the Form of a Flower
+artist-ids:
+- 90464fe9-cf11-4770-a0b3-3a69d2ad4c08
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1960'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
