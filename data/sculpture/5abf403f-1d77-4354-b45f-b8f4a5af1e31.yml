@@ -1,0 +1,19 @@
+id: 5abf403f-1d77-4354-b45f-b8f4a5af1e31
+type: sculpture
+slug: jean-baptiste-van-loo-aix
+title: Jean-Baptiste van Loo
+artist-ids:
+- e2d9f82d-9276-4957-888d-29b94e1adea5
+city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
+date: '1882'
+location:
+  latitude: 43.525444
+  longitude: 5.452671
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b078f909-a131-4d37-8b36-59061078b159
