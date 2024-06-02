@@ -1,7 +1,7 @@
 id: 5e814968-08e5-48cf-a86a-e75772a5366f
 type: sculpture
 slug: john-graves-simcoe-niagara
-title: John Graves Simcoe (Niagara)
+title: John Graves Simcoe
 artist-ids:
 - 55a11439-d6da-4b33-8a9c-fc3cdbbed687
 city-id: c11baca1-5331-4363-9000-20173369b350
@@ -13,7 +13,7 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- 3f7e079f-a6cd-41f4-838e-8276cea37ca7
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3f7e079f-a6cd-41f4-838e-8276cea37ca7
 - 521f00f2-f976-4b69-89cf-6e8db0c94f29
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
