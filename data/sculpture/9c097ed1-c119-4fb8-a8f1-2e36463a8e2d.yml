@@ -1,0 +1,17 @@
+id: 9c097ed1-c119-4fb8-a8f1-2e36463a8e2d
+type: sculpture
+slug: logogriph-of-blades
+title: Logogriph of Blades
+artist-ids:
+- a7230cc1-62f3-42ae-bb7c-23d59d79e17b
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1969'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- 79961d06-4491-4cd9-9e9d-e47cabd5f570
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
