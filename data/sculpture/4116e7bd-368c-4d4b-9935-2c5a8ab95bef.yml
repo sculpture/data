@@ -1,0 +1,18 @@
+id: 4116e7bd-368c-4d4b-9935-2c5a8ab95bef
+type: sculpture
+slug: antonio-vivaldi-putte
+title: Antonio Vivaldi - Le Putte
+artist-ids:
+- e7588070-09d1-4e81-b009-dc4793774a9f
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2001'
+location:
+  latitude: 45.430538
+  longitude: 12.32084
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- e67f346e-191a-4f0f-a6c2-861e72e7f78f
