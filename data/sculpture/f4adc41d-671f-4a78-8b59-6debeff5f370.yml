@@ -1,0 +1,19 @@
+id: f4adc41d-671f-4a78-8b59-6debeff5f370
+type: sculpture
+slug: antonio-deste-venice
+title: Antonio d'Este
+artist-ids:
+- ce1ba76b-f1b4-49f5-a797-f4b435525d2c
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1815'
+location:
+  latitude: 45.440379
+  longitude: 12.315955
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 88a0e756-4193-4ff2-9d96-f1844c05f5e5
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
