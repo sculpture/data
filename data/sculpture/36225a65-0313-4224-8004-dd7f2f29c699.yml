@@ -1,0 +1,17 @@
+id: 36225a65-0313-4224-8004-dd7f2f29c699
+type: sculpture
+slug: la-grande-madre-viani
+title: La Grande madre
+artist-ids:
+- 79eb0175-42e0-4528-a288-c4694cdfa0b3
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1966'
+location:
+  latitude: 45.441023
+  longitude: 12.331599
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
