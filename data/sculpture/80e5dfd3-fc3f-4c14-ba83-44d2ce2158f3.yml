@@ -1,0 +1,18 @@
+id: 80e5dfd3-fc3f-4c14-ba83-44d2ce2158f3
+type: sculpture
+slug: bambino-alle-cucine-economiche
+title: Bambino alle cucine economiche
+artist-ids:
+- e4a68bdc-fb00-461d-bc65-9658d132b1a6
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1897'
+location:
+  latitude: 45.441069
+  longitude: 12.331621
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- f3c0c272-150c-42cd-9a87-bd121fdc1309
