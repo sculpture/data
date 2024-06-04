@@ -1,0 +1,17 @@
+id: 11135185-40f1-4694-ba07-cfc16b93c7ea
+type: sculpture
+slug: felix-gras
+title: Félix Gras
+artist-ids:
+- e2bf79b2-108b-4f0a-bb14-b11b7d61ef48
+city-id: 5de4ea43-e782-46c9-8ddf-7251d6e9038a
+date: '1905'
+location:
+  latitude: 43.952994
+  longitude: 4.80757
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445
