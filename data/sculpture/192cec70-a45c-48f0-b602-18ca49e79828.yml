@@ -1,0 +1,17 @@
+id: 192cec70-a45c-48f0-b602-18ca49e79828
+type: sculpture
+slug: gertrude-marini-venice
+title: Gertrude
+artist-ids:
+- cc102819-9d50-4efa-a8a2-d1450cfabade
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1952'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
