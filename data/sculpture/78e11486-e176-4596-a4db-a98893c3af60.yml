@@ -1,0 +1,18 @@
+id: 78e11486-e176-4596-a4db-a98893c3af60
+type: sculpture
+slug: fanciulla-verso-sera
+title: Fanciulla verso sera
+artist-ids:
+- 4d2baa29-a7fd-4994-9f0c-35e8c9ac2488
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1919'
+location:
+  latitude: 45.441042
+  longitude: 12.331572
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
