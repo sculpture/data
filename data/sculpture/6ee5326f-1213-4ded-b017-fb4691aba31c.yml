@@ -1,0 +1,18 @@
+id: 6ee5326f-1213-4ded-b017-fb4691aba31c
+type: sculpture
+slug: small-seated-figure
+title: Small Seated Figure
+artist-ids:
+- 0a037033-ecf0-4c21-a498-664e79b6d3de
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1973'
+location:
+  latitude: 45.440379
+  longitude: 12.315955
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
