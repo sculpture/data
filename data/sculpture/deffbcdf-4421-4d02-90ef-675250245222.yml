@@ -1,0 +1,19 @@
+id: deffbcdf-4421-4d02-90ef-675250245222
+type: sculpture
+slug: niccolo-tommaseo
+title: Niccolò Tommaseo
+artist-ids:
+- 1c84bbf6-db8c-4858-8dec-12343736a42a
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1882'
+location:
+  latitude: 45.433246
+  longitude: 12.330464
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f608c279-0df9-40f8-b0c6-c900a4ded7bf
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
