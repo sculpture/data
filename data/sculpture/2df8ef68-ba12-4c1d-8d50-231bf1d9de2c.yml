@@ -1,0 +1,17 @@
+id: 2df8ef68-ba12-4c1d-8d50-231bf1d9de2c
+type: sculpture
+slug: communication-x9
+title: Communication X9
+artist-ids:
+- 011e2061-cad1-4faa-82d5-c4e864bc2470
+city-id: 8fa25799-a952-4ff5-9506-2f3b95f48200
+date: '1983'
+location:
+  latitude: 41.884614
+  longitude: -87.624701
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 85105298-6047-4f80-88ec-76aa0b77d815
+- bbcb416f-d400-4a07-8a83-79a445209a57
