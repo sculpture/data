@@ -1,0 +1,17 @@
+id: 91f95b84-ccd1-4ec6-9c30-89fd8157f48c
+type: sculpture
+slug: moon-cage-hare-venice
+title: Moon Cage
+artist-ids:
+- 3008a34a-5186-4697-a9d8-9280df1a1b0c
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1955'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- d0c52472-81c0-4c1d-abd7-3a32fd760700
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
