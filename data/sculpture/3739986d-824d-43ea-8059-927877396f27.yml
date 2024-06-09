@@ -1,0 +1,19 @@
+id: 3739986d-824d-43ea-8059-927877396f27
+type: sculpture
+slug: fanciulla-damore-marini
+title: Fanciulla piena d'amore
+artist-ids:
+- 4d2baa29-a7fd-4994-9f0c-35e8c9ac2488
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1913'
+location:
+  latitude: 45.441091
+  longitude: 12.33162
+  precision: 10
+material-ids:
+- 313deab6-cc6c-4608-bf26-6e6f20ac21b9
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
