@@ -1,0 +1,14 @@
+id: 6499f028-325d-4133-b59e-4764253371ef
+type: sculpture
+slug: hafnasaga
+title: Hafnasaga
+artist-ids:
+- f8df28cb-aac4-46db-a937-7645b30c62f2
+city-id: 61e161d1-a37e-46bd-a626-4c409992e524
+date: '1997'
+location:
+  latitude: 64.146987
+  longitude: -21.940755
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
