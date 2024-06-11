@@ -1,0 +1,20 @@
+id: f1f7759a-a6dc-4bd3-9d8b-b27bc077cf46
+type: sculpture
+slug: venus-italica
+title: Venus Italica
+artist-ids:
+- 51529d14-3684-48c3-9995-9469fb5b69ba
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: 181*
+link-wikipedia: https://en.wikipedia.org/wiki/Venus_Italica
+location:
+  latitude: 45.433635
+  longitude: 12.337153
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
