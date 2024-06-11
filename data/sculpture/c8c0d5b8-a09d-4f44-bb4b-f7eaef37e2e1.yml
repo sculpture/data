@@ -1,0 +1,18 @@
+id: c8c0d5b8-a09d-4f44-bb4b-f7eaef37e2e1
+type: sculpture
+slug: daedalus-icarus-canova-venice
+title: Daedalus and Icarus
+artist-ids:
+- 51529d14-3684-48c3-9995-9469fb5b69ba
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1778'
+location:
+  latitude: 45.433676
+  longitude: 12.337191
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
