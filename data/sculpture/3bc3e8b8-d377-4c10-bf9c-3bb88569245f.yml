@@ -1,0 +1,19 @@
+id: 3bc3e8b8-d377-4c10-bf9c-3bb88569245f
+type: sculpture
+slug: amants-suspendus
+title: Les Amants suspendus
+artist-ids:
+- 8dbb73d5-04b9-4596-9f7a-610b8316d711
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2006'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
