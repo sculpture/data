@@ -1,0 +1,18 @@
+id: be832848-0901-4b1e-bb8b-3e0d3525e940
+type: sculpture
+slug: mother-christianity-venice
+title: The mother of Christianity
+artist-ids:
+- 42acb2f0-dff3-4f48-8ae9-a011af8b085f
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1917'
+location:
+  latitude: 45.441049
+  longitude: 12.331567
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
