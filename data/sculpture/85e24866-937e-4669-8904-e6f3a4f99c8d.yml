@@ -1,0 +1,19 @@
+id: 85e24866-937e-4669-8904-e6f3a4f99c8d
+type: sculpture
+slug: taras-shevchenko-warsaw
+title: Taras Shevchenko
+artist-ids:
+- f5ae39a7-4460-4389-9748-21201066a76f
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2002'
+location:
+  latitude: 52.211639
+  longitude: 21.023272
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
