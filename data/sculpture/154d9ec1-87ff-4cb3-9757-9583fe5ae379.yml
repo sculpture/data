@@ -1,0 +1,18 @@
+id: 154d9ec1-87ff-4cb3-9757-9583fe5ae379
+type: sculpture
+slug: agostino-barbarigo
+title: Agostino Barbarigo
+artist-ids:
+- 7b86c581-cb67-4d5b-9cb6-6e49f8938962
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1599'
+location:
+  latitude: 45.434095
+  longitude: 12.340657
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
