@@ -1,0 +1,19 @@
+id: 38e7cc24-df36-40a8-b727-5dd9f9aa8fb3
+type: sculpture
+slug: mobile-calder-venice
+title: Mobile
+artist-ids:
+- 7ad71af4-c9b7-49d0-9765-ba2a674856a0
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1934'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- 32495469-6b62-477a-b272-a0e4e2c0e5c9
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e7c0d105-ed1d-4e46-8cd8-a5153a2a784d
