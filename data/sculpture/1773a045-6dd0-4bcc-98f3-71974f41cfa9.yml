@@ -1,0 +1,19 @@
+id: 1773a045-6dd0-4bcc-98f3-71974f41cfa9
+type: sculpture
+slug: marcantonio-bragadin
+title: Marco Antonio Bragadin
+artist-ids:
+- 7b86c581-cb67-4d5b-9cb6-6e49f8938962
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1598'
+location:
+  latitude: 45.433704
+  longitude: 12.340389
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
