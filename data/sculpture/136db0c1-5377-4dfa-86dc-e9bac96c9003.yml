@@ -1,0 +1,16 @@
+id: 136db0c1-5377-4dfa-86dc-e9bac96c9003
+type: sculpture
+slug: spine-schimert
+title: 'Spine '
+artist-ids:
+- 8a61dac5-a269-4166-879b-38284e50b647
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '2021'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- ecc428b2-eb8c-4510-a62f-84bf4adecb90
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
