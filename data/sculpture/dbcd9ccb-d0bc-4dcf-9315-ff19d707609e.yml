@@ -1,0 +1,20 @@
+id: dbcd9ccb-d0bc-4dcf-9315-ff19d707609e
+type: sculpture
+slug: leopoldo-cicognara-canova
+title: Leopoldo Cicognara
+artist-ids:
+- 51529d14-3684-48c3-9995-9469fb5b69ba
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1820'
+location:
+  latitude: 45.43104
+  longitude: 12.3283
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 11cbd80d-bde2-496c-8d3b-2add7099fb20
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- a4a33b49-0f08-4cc0-9dd0-c1eec947dd5b
