@@ -1,0 +1,20 @@
+id: 3fe3d758-96f2-4b8b-901c-3484b2b5024e
+type: sculpture
+slug: madonna-del-bacio
+title: Madonna del Bacio
+artist-ids:
+- 732d7785-6332-4878-870e-f6e5f6e6e002
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1560'
+location:
+  latitude: 45.440838
+  longitude: 12.333926
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
