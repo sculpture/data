@@ -1,0 +1,19 @@
+id: d04572cd-b9f2-47f1-a922-7a00b556031b
+type: sculpture
+slug: double-portrait-lombardo
+title: Double Portrait
+artist-ids:
+- 07a2ab83-8c42-4306-a697-fcb7df62eb50
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: 149*
+location:
+  latitude: 45.440838
+  longitude: 12.333926
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6883fc7a-540d-4fe9-9753-80f6e581f0ab
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
