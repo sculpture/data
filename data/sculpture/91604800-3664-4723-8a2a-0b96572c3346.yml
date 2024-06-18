@@ -1,0 +1,17 @@
+id: 91604800-3664-4723-8a2a-0b96572c3346
+type: sculpture
+slug: europe-et-la-mer
+title: L'Europe et la Mer
+artist-ids:
+- 1fd2c579-5a60-4c70-a721-f3fcb63a7b98
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '1986'
+location:
+  latitude: 43.709762
+  longitude: 7.263782
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
+- ce5eba46-3dff-4d8c-89c8-4fab2da9a37d
