@@ -1,0 +1,16 @@
+id: 335ba734-00b5-4b54-8d39-6f761db316a8
+type: sculpture
+slug: daniele-manin
+title: Daniele Manin
+artist-ids:
+- d96fa4b4-20ed-4202-8482-152e4a475535
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1875'
+location:
+  latitude: 45.435337
+  longitude: 12.334205
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
