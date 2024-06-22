@@ -1,0 +1,16 @@
+id: 947d7bf8-71ab-42e9-a12b-c1c6a67e3d45
+type: sculpture
+slug: sans-titre-kapoor
+title: Sans titre
+artist-ids:
+- cbc391fc-7a7f-4fab-8f76-5e953737463c
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1993'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
