@@ -1,0 +1,19 @@
+id: 6b3cd9e8-a3e5-40f1-8021-780b8f848e01
+type: sculpture
+slug: bust-young-boy-romano
+title: Bust of a Young Boy
+artist-ids:
+- ea70dade-e3e0-402d-b052-973be997715d
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: 148*
+location:
+  latitude: 45.440838
+  longitude: 12.333926
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- d973207a-6b23-4505-a84d-d2339bc3a55c
