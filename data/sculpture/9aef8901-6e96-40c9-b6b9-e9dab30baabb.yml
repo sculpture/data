@@ -1,0 +1,19 @@
+id: 9aef8901-6e96-40c9-b6b9-e9dab30baabb
+type: sculpture
+slug: bottles-on-shelf
+title: Bottles on a Shelf
+artist-ids:
+- bf30a157-6a15-4521-9f41-3e4766f1eefc
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1981'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- 9da26974-d142-42ce-86aa-f28559a6d575
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
