@@ -1,0 +1,19 @@
+id: 2467dc39-fb71-44a8-95c8-87e95110e212
+type: sculpture
+slug: sebastiano-del-piombo
+title: Sebastiano del Piombo
+artist-ids:
+- d100362f-fa2a-4d4f-a8c1-6acd5595d5d6
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1872'
+location:
+  latitude: 45.431078
+  longitude: 12.328139
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b078f909-a131-4d37-8b36-59061078b159
