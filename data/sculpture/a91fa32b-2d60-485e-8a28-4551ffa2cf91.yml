@@ -1,0 +1,18 @@
+id: a91fa32b-2d60-485e-8a28-4551ffa2cf91
+type: sculpture
+slug: seneca-ulm
+title: Seneca
+artist-ids:
+- ff39a867-07ed-4b93-beb2-85fe5ba9bb3e
+city-id: f227e8f5-fd61-47f8-82b2-6b747f8f7ebc
+date: 147*
+location:
+  latitude: 48.398523
+  longitude: 9.992555
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- cc034efc-b82b-42ee-a2d2-16753502bef1
