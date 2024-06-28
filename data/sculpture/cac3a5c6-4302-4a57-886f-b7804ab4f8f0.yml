@@ -1,11 +1,12 @@
 id: cac3a5c6-4302-4a57-886f-b7804ab4f8f0
 type: sculpture
 slug: fontana-del-moro-rome
-title: Fontana del Moro
+title: Fontana del Moro (Moor)
 artist-ids:
 - f4693d05-5d93-4c05-868b-6fa45ade4f36
 city-id: 569920f5-7103-4e7b-8bef-a08ea0c3bd14
 date: '1654'
+link-wikipedia: https://en.wikipedia.org/wiki/Fontana_del_Moro
 location:
   latitude: 41.898105
   longitude: 12.473154
