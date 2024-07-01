@@ -1,0 +1,17 @@
+id: 4873af1e-0330-4663-925c-a4127f74667a
+type: sculpture
+slug: allegorical-figure-rizzo
+title: Allegorical figure
+artist-ids:
+- a8cbe97c-6e12-4dfa-a689-aecb02208aa1
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: 148*
+location:
+  latitude: 45.440838
+  longitude: 12.333926
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
