@@ -1,0 +1,17 @@
+id: add65a33-d985-4af5-b5aa-8cf4ec32ebd4
+type: sculpture
+slug: parlatori-wildt
+title: Parlatori
+artist-ids:
+- 42acb2f0-dff3-4f48-8ae9-a011af8b085f
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1905'
+location:
+  latitude: 45.441109
+  longitude: 12.331673
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
