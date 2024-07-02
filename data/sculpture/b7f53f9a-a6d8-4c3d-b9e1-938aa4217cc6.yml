@@ -1,0 +1,19 @@
+id: b7f53f9a-a6d8-4c3d-b9e1-938aa4217cc6
+type: sculpture
+slug: vir-temporis-acti-2
+title: Vir temporis acti (2)
+artist-ids:
+- 42acb2f0-dff3-4f48-8ae9-a011af8b085f
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1911'
+location:
+  latitude: 45.441071
+  longitude: 12.331619
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- c9884cff-1c92-48b5-816b-aa0479de54fa
