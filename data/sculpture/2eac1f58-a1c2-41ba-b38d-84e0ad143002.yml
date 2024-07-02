@@ -1,0 +1,19 @@
+id: 2eac1f58-a1c2-41ba-b38d-84e0ad143002
+type: sculpture
+slug: benedetto-manzini
+title: Benedetto Manzini
+artist-ids:
+- 9359dbf5-1294-442a-b1fa-a9c92eb242cb
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1550'
+location:
+  latitude: 45.440838
+  longitude: 12.333926
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 62501ae5-7d99-4fb1-ac89-3984d67a6d24
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
