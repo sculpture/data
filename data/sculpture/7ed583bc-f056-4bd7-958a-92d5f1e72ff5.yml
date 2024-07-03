@@ -1,0 +1,19 @@
+id: 7ed583bc-f056-4bd7-958a-92d5f1e72ff5
+type: sculpture
+slug: eve-rizzo-venice
+title: Eve (Rizzo)
+artist-ids:
+- a8cbe97c-6e12-4dfa-a689-aecb02208aa1
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1472'
+location:
+  latitude: 45.434167
+  longitude: 12.340566
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
