@@ -1,0 +1,18 @@
+id: 0f544455-ee38-4cbd-9b7a-2aa7a1a1b704
+type: sculpture
+slug: alexander-pushkin-qc
+title: Alexander Pushkin
+artist-ids:
+- 499ceaf5-dc3d-427e-9c5c-e73d5928e3bb
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '2004'
+location:
+  latitude: 46.813082
+  longitude: -71.20746
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
