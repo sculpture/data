@@ -1,0 +1,21 @@
+id: 4ba0b1c1-20cf-415a-a49d-bd53228dce1b
+type: sculpture
+slug: bautismo-de-cristo-adan
+title: Bautismo de Cristo
+artist-ids:
+- bffd9577-8683-40dd-8f4e-83ac3de5a9a8
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '1594'
+location:
+  latitude: 37.39251
+  longitude: -6.000026
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
