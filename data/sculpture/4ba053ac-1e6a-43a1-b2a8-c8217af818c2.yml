@@ -7,8 +7,8 @@ artist-ids:
 city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
 date: '1596'
 location:
-  latitude: 45.441482
-  longitude: 12.332886
+  latitude: 45.44088
+  longitude: 12.333889
   precision: 10
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
