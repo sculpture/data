@@ -1,0 +1,17 @@
+id: 2adb3845-30fa-41ff-a4a1-126534f83a93
+type: sculpture
+slug: white-brillo-boxes
+title: White Brillo Boxes
+artist-ids:
+- 5f75d456-9664-4637-89dc-74e399439f4d
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1964'
+location:
+  latitude: 45.441019
+  longitude: 12.331587
+  precision: 10
+material-ids:
+- 449582e6-6741-4441-a519-81e7c5591f96
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
