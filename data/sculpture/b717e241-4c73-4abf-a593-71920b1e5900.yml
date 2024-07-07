@@ -1,0 +1,17 @@
+id: b717e241-4c73-4abf-a593-71920b1e5900
+type: sculpture
+slug: estatua-feminina-lisbon
+title: Estátua feminina 2
+artist-ids:
+- a6cf6752-e2c3-4821-9f2b-17e59f9ac5d0
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: 195*
+location:
+  latitude: 38.728409
+  longitude: -9.154142
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
