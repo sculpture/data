@@ -1,0 +1,19 @@
+id: cf023e39-5a27-43f3-ada5-4ab6c68c3fd0
+type: sculpture
+slug: hippocrates-scribes
+title: Hippocrates and Scribes
+artist-ids:
+- 95aab595-ad7a-4581-8ebd-bcbe6be27384
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: 195*
+location:
+  latitude: 43.658557
+  longitude: -79.389421
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- cc034efc-b82b-42ee-a2d2-16753502bef1
+- ce9dd639-edaa-4ed7-99b6-b2423117457a
