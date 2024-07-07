@@ -1,0 +1,17 @@
+id: d5b15a8b-8d94-4333-99bc-c73baefe7712
+type: sculpture
+slug: estatua-feminina-albuquerque
+title: Estátua feminina
+artist-ids:
+- a6cf6752-e2c3-4821-9f2b-17e59f9ac5d0
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: 195*
+location:
+  latitude: 38.729522
+  longitude: -9.154606
+  precision: 20
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
