@@ -1,0 +1,21 @@
+id: a7cbb282-ffcd-4aa3-8757-9482893886a7
+type: sculpture
+slug: tomb-pope-alexander-vii-bernini
+title: Tomb of Pope Alexander VII
+artist-ids:
+- f4693d05-5d93-4c05-868b-6fa45ade4f36
+city-id: 6f764414-6c09-413d-94b9-2ebe5fafdf7e
+date: 167*
+link-wikipedia: https://en.wikipedia.org/wiki/Tomb_of_Pope_Alexander_VII
+location:
+  latitude: 41.901728
+  longitude: 12.453519
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6c068959-5222-4073-b890-313bf91ca2b4
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
