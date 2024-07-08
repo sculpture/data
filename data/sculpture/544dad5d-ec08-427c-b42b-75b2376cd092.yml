@@ -1,0 +1,18 @@
+id: 544dad5d-ec08-427c-b42b-75b2376cd092
+type: sculpture
+slug: monument-livernois
+title: Monument des Livernois
+artist-ids:
+- 399ab0c4-7c2c-485b-b7ec-e747bc8f9457
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1985'
+location:
+  latitude: 46.814746
+  longitude: -71.209299
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 566d5388-7241-4299-95ae-379de08368c4
+- 8edbb59e-b498-4210-9981-8781235cafcd
