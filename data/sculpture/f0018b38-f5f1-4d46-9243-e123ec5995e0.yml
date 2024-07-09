@@ -1,0 +1,18 @@
+id: f0018b38-f5f1-4d46-9243-e123ec5995e0
+type: sculpture
+slug: un-rosario-wildt-venice
+title: 'Un rosario '
+artist-ids:
+- 42acb2f0-dff3-4f48-8ae9-a011af8b085f
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1915'
+location:
+  latitude: 45.441053
+  longitude: 12.331588
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
