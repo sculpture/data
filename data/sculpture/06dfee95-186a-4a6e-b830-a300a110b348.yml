@@ -1,0 +1,20 @@
+id: 06dfee95-186a-4a6e-b830-a300a110b348
+type: sculpture
+slug: uno-e-mezzo
+title: 'Uno e Mezzo '
+artist-ids:
+- 868767ac-da3c-469b-af1f-6544c0693428
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1960'
+location:
+  latitude: 45.440978
+  longitude: 12.33147
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 36a5c7ef-1419-449a-8231-b2f360415380
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
+- f512d675-0554-4a67-987c-1da560f2c95a
