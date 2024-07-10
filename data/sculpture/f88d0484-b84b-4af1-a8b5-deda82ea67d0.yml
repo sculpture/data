@@ -1,0 +1,20 @@
+id: f88d0484-b84b-4af1-a8b5-deda82ea67d0
+type: sculpture
+slug: hecuba-peplos-athena
+title: Hecuba offer the Peplos to Athena
+artist-ids:
+- 51529d14-3684-48c3-9995-9469fb5b69ba
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: 179*
+location:
+  latitude: 45.433563
+  longitude: 12.337255
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
