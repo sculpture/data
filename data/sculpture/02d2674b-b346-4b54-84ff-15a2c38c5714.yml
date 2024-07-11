@@ -1,0 +1,19 @@
+id: 02d2674b-b346-4b54-84ff-15a2c38c5714
+type: sculpture
+slug: meringue-chantilly-capesaro
+title: Meringue Chantilly
+artist-ids:
+- 88ecb931-e524-412b-80a4-8cc409acd192
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1964'
+location:
+  latitude: 45.441016
+  longitude: 12.331588
+  precision: 10
+material-ids:
+- 2931c09f-312d-49ff-a29f-76a8f13c7f21
+- 36a5c7ef-1419-449a-8231-b2f360415380
+- c90a98bd-a424-47a7-bff5-4e618ee03b3e
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
