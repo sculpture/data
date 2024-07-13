@@ -1,0 +1,16 @@
+id: 9900de9f-f041-4e44-8b36-9c6a398b30bb
+type: sculpture
+slug: richard-wagner-venice
+title: Richard Wagner
+artist-ids:
+- 12b26567-79ab-4f79-9de8-46cf04d7e7e1
+date: '1908'
+location:
+  latitude: 45.429514
+  longitude: 12.355817
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- ac86ac3d-0564-479e-a5f0-5de5b5e7f7f4
