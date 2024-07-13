@@ -1,0 +1,18 @@
+id: 9d03cd65-e346-4fac-b701-9d314adb044a
+type: sculpture
+slug: princess-maria-mercedes
+title: Princess María de las Mercedes
+artist-ids:
+- d3c5997d-0136-4a77-aba7-7f842ecc687c
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '2008'
+location:
+  latitude: 37.389092
+  longitude: -5.984459
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- e2626649-0316-44ca-bcfe-2cb5dbaf4e91
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
