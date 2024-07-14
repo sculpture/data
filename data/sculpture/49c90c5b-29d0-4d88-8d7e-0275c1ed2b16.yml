@@ -1,0 +1,17 @@
+id: 49c90c5b-29d0-4d88-8d7e-0275c1ed2b16
+type: sculpture
+slug: cosmos-gaudi-moma
+title: Cosmos
+artist-ids:
+- 60e5b32d-d706-4969-9443-d5e97fd8ae41
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1907'
+location:
+  latitude: 40.761326
+  longitude: -73.977401
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
