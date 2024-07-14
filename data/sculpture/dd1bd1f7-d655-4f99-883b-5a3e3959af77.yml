@@ -1,0 +1,19 @@
+id: dd1bd1f7-d655-4f99-883b-5a3e3959af77
+type: sculpture
+slug: il-bevitore-martini
+title: Il bevitore
+artist-ids:
+- 4d2baa29-a7fd-4994-9f0c-35e8c9ac2488
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1928'
+location:
+  latitude: 45.441084
+  longitude: 12.331599
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- c9884cff-1c92-48b5-816b-aa0479de54fa
