@@ -7,8 +7,8 @@ artist-ids:
 city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
 date: '1907'
 location:
-  latitude: 40.761326
-  longitude: -73.977401
+  latitude: 40.761537
+  longitude: -73.977583
   precision: 10
 material-ids:
 - 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
