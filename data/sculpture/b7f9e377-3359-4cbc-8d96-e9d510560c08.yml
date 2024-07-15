@@ -1,0 +1,18 @@
+id: b7f9e377-3359-4cbc-8d96-e9d510560c08
+type: sculpture
+slug: giant-aspetti
+title: Giant
+artist-ids:
+- 7b86c581-cb67-4d5b-9cb6-6e49f8938962
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1591'
+location:
+  latitude: 45.433337
+  longitude: 12.339399
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- c9884cff-1c92-48b5-816b-aa0479de54fa
