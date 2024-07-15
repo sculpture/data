@@ -1,0 +1,18 @@
+id: 964c9201-9ebf-4da5-bdf3-0938bf820e36
+type: sculpture
+slug: shaman-pearl-wisdom
+title: Shaman Protectcing the Pearl of Wisdom
+artist-ids:
+- 7abba0af-7ecb-41d2-a30e-d926bad917af
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2015'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 0e188a8a-d083-4b9e-822e-c9bf27f6d61a
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
