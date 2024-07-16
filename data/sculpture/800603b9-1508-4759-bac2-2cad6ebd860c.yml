@@ -1,0 +1,19 @@
+id: 800603b9-1508-4759-bac2-2cad6ebd860c
+type: sculpture
+slug: space-girl
+title: Space Girl
+artist-ids:
+- 0b79e67e-644b-4b01-bc97-c05df0a8730a
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2010'
+location:
+  latitude: 45.430792
+  longitude: 12.353882
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
