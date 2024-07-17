@@ -1,0 +1,16 @@
+id: 464e0f25-753e-4dd3-9d9e-1c3059b10675
+type: sculpture
+slug: daphne-semtenis
+title: Daphne
+artist-ids:
+- e18e5dc6-57ef-411f-99ff-68734ccd70b5
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1930'
+location:
+  latitude: 40.761463
+  longitude: -73.976987
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
