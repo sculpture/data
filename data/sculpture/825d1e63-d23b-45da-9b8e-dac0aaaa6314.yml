@@ -1,0 +1,18 @@
+id: 825d1e63-d23b-45da-9b8e-dac0aaaa6314
+type: sculpture
+slug: rhinoceros-rona
+title: Rhinoceros
+artist-ids:
+- 460adc8f-46fc-442c-b941-6865f66c5d6e
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2020'
+location:
+  latitude: 45.4315
+  longitude: 12.352486
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
