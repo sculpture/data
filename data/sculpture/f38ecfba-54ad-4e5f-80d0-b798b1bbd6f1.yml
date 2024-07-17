@@ -1,0 +1,19 @@
+id: f38ecfba-54ad-4e5f-80d0-b798b1bbd6f1
+type: sculpture
+slug: signora-noblet-rosso
+title: Signora Noblet
+artist-ids:
+- e4a68bdc-fb00-461d-bc65-9658d132b1a6
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1897'
+location:
+  latitude: 45.441068
+  longitude: 12.33162
+  precision: 10
+material-ids:
+- 6e00cbb8-1e8c-4d23-8e6e-0f50d374c37b
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
