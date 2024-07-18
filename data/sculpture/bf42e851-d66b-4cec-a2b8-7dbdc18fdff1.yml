@@ -1,0 +1,18 @@
+id: bf42e851-d66b-4cec-a2b8-7dbdc18fdff1
+type: sculpture
+slug: horse-adamson-cne
+title: Horse (CNE)
+artist-ids:
+- fe979272-4879-4a74-a70e-281f567603d4
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: 193*
+location:
+  latitude: 43.634448
+  longitude: -79.417418
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- 8edbb59e-b498-4210-9981-8781235cafcd
