@@ -1,0 +1,17 @@
+id: 86fa7abd-f1b2-49df-8138-1f162541ebb2
+type: sculpture
+slug: gargouille-miro-labirynth
+title: Gargouille
+artist-ids:
+- b66cb2b4-21dd-440b-87a0-e8b9304c6692
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1968'
+location:
+  latitude: 43.700566
+  longitude: 7.115319
+  precision: 10
+material-ids:
+- 4a979cf3-40f3-4be9-aa71-b79765408367
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
