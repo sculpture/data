@@ -1,0 +1,20 @@
+id: 96ee67a1-9833-42df-ab79-ea753106f265
+type: sculpture
+slug: my-buddy-pollio-tarrytown
+title: My Buddy
+artist-ids:
+- 02e4823b-4451-4fcb-86cf-4f8a7f581a26
+city-id: 0da62b98-7f4e-480d-9f71-03661cd1a69c
+date: '1927'
+location:
+  latitude: 40.713759
+  longitude: -74.013397
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 2d7e8f2e-e187-462b-a638-06a4ef145363
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
