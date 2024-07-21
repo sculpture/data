@@ -7,8 +7,8 @@ artist-ids:
 city-id: 0da62b98-7f4e-480d-9f71-03661cd1a69c
 date: '1927'
 location:
-  latitude: 41.076812
-  longitude: -73.857183
+  latitude: 41.076994
+  longitude: -73.857634
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
