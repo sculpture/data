@@ -1,0 +1,19 @@
+id: 08fd8f4e-c338-4ba9-b684-8fbccca3b89f
+type: sculpture
+slug: ramalho-ortigao-porto
+title: Ramalho Ortigão
+artist-ids:
+- c97bf8c1-e8b2-4c56-81a5-089abf660c71
+city-id: 168c0188-7edf-4b78-845b-452b127541c8
+date: '1954'
+location:
+  latitude: 41.145802
+  longitude: -8.616712
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
