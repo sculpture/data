@@ -1,0 +1,20 @@
+id: bf0caff7-1666-4e45-adf7-badd9f8a56bb
+type: sculpture
+slug: monument-andrea-vendramin
+title: Monument of Andrea Vendramin
+artist-ids:
+- 07a2ab83-8c42-4306-a697-fcb7df62eb50
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: 148*
+location:
+  latitude: 45.439371
+  longitude: 12.341954
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
