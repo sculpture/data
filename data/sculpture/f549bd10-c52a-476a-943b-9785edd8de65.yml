@@ -1,0 +1,18 @@
+id: f549bd10-c52a-476a-943b-9785edd8de65
+type: sculpture
+slug: antonio-ferreira-gomes
+title: António Ferreira Gomes
+artist-ids:
+- d7828789-6e27-4643-b9f8-ccc88cf08ec2
+city-id: 3b930473-fa76-42c7-8b75-8d460d649251
+date: '1979'
+location:
+  latitude: 41.145671
+  longitude: -8.614598
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2f65ce93-2124-4391-a225-855055c78203
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
