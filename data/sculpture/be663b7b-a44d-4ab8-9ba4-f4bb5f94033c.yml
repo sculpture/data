@@ -1,0 +1,17 @@
+id: be663b7b-a44d-4ab8-9ba4-f4bb5f94033c
+type: sculpture
+slug: opera-3-omura
+title: Opera 3
+artist-ids:
+- 97a9a4e7-cc36-4549-9e1f-e9c72d121191
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1969'
+location:
+  latitude: 45.430821
+  longitude: 12.331537
+  precision: 10
+material-ids:
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
