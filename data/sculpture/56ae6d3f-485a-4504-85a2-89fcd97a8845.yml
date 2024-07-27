@@ -7,8 +7,8 @@ artist-ids:
 city-id: 4caaf18b-6eea-482a-b6cd-5c5a06453ae6
 date: '1920'
 location:
-  latitude: 37.889303
-  longitude: -4.779275
+  latitude: 37.881342
+  longitude: -4.774862
   precision: 10
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
