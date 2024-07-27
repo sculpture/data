@@ -1,10 +1,12 @@
 id: ea60db21-fe6a-4083-8094-05867267c7fe
 type: photo
-captured-at: 2023-04-27T16:39:17Z
+captured-at: 2023-04-27T12:39:17Z
 colors:
 - '#5C584F'
 - '#8B857A'
 - '#A29990'
+featured?: true
 height: 3200
+sculpture-id: 56ae6d3f-485a-4504-85a2-89fcd97a8845
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
 width: 2332
