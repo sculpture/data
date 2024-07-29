@@ -1,0 +1,20 @@
+id: 5e558c9f-e537-4d99-a0b7-e3323b58357f
+type: sculpture
+slug: monument-orazio-baglioni
+title: Monument to Orazio Baglioni
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1617'
+location:
+  latitude: 45.439379
+  longitude: 12.341713
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 521f00f2-f976-4b69-89cf-6e8db0c94f29
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
