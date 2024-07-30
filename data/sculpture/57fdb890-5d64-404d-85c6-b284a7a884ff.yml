@@ -1,0 +1,18 @@
+id: 57fdb890-5d64-404d-85c6-b284a7a884ff
+type: sculpture
+slug: madonna--bambino-maitani
+title: Madonna col Bambino
+artist-ids:
+- a5cbc20a-263c-4f4f-9c1d-cd64941941b1
+city-id: 6f6f1ffd-8616-431e-9d18-dc9dd8af38c5
+date: 130*
+location:
+  latitude: 42.716822
+  longitude: 12.113102
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- c4d43f20-6227-4d28-a802-ac07639375bf
+- de83a4c2-214e-45fb-a307-c835449e52bf
