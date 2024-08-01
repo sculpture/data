@@ -1,0 +1,17 @@
+id: 20ddc9fd-524d-444f-8250-9995fc792b6b
+type: sculpture
+slug: john-lennon-kielce
+title: John Lennon
+artist-ids:
+- 5176e96d-3776-40ed-9ab8-b458a6e06aa6
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '2011'
+location:
+  latitude: 50.866743
+  longitude: 20.62196
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 025aebba-7303-441f-b755-ade5bb67ef90
+- 18d2fd29-8838-4290-a343-39182ae9b445
