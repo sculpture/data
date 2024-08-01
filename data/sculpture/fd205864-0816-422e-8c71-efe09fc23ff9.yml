@@ -1,0 +1,20 @@
+id: fd205864-0816-422e-8c71-efe09fc23ff9
+type: sculpture
+slug: francesco-morosini
+title: Francesco Morosini
+artist-ids:
+- 9a20f909-e18b-44c9-98dc-97e477880aef
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1687'
+location:
+  latitude: 45.433563
+  longitude: 12.337255
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18694c37-89e8-4e01-9c31-16245323218a
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- eb894191-c7e1-40fd-97ee-d7700490d2dd
