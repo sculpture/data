@@ -1,0 +1,18 @@
+id: 250cf128-0146-4aba-a9bf-398d8aefcfd9
+type: sculpture
+slug: homem-do-leme
+title: Homem do Leme
+artist-ids:
+- 5d28664f-6e1a-4012-9b10-4751ff7e9e65
+city-id: 3b930473-fa76-42c7-8b75-8d460d649251
+date: '1938'
+location:
+  latitude: 41.163194
+  longitude: -8.685905
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- c9884cff-1c92-48b5-816b-aa0479de54fa
