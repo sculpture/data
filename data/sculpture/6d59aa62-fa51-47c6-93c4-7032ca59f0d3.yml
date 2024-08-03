@@ -1,0 +1,18 @@
+id: 6d59aa62-fa51-47c6-93c4-7032ca59f0d3
+type: sculpture
+slug: saint-mark-yale
+title: 'Saint Mark '
+artist-ids:
+- dd5604be-40fe-4bf9-8c22-6c483666bdf7
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: 156*
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- d0e544f1-8f9a-4225-acc0-39833a263af0
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- de83a4c2-214e-45fb-a307-c835449e52bf
