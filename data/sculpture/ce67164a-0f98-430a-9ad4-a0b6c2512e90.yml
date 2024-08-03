@@ -1,0 +1,18 @@
+id: ce67164a-0f98-430a-9ad4-a0b6c2512e90
+type: sculpture
+slug: homer-funchal
+title: Homer
+artist-ids:
+- 4fd0e417-8a87-4f3b-9a9b-68ae13c25959
+city-id: 2728c83e-bce6-4118-a504-439944bc5124
+date: '1958'
+location:
+  latitude: 32.676067
+  longitude: -16.901045
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
