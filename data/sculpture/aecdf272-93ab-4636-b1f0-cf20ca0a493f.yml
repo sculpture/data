@@ -1,0 +1,18 @@
+id: aecdf272-93ab-4636-b1f0-cf20ca0a493f
+type: sculpture
+slug: stele-volpato
+title: Funerary Stele of Giovanni Volpato
+artist-ids:
+- 51529d14-3684-48c3-9995-9469fb5b69ba
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1804'
+location:
+  latitude: 45.431236
+  longitude: 12.328332
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 8edbb59e-b498-4210-9981-8781235cafcd
