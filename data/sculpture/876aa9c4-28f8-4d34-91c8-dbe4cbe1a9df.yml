@@ -1,0 +1,17 @@
+id: 876aa9c4-28f8-4d34-91c8-dbe4cbe1a9df
+type: sculpture
+slug: las-meninas-valdes
+title: Las Meninas
+artist-ids:
+- 7305883a-bfab-4e6a-bc45-5f174367bd48
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2006'
+location:
+  latitude: 45.433712
+  longitude: 12.339577
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
