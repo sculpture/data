@@ -1,0 +1,12 @@
+id: 42350e62-94d3-4ac9-a177-84638f5d03c2
+type: sculpture
+slug: bunny-eggy
+title: Bunny & Eggy
+artist-ids:
+- 01ba56d7-64e4-4c63-9d22-61779b54d025
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2022'
+location:
+  latitude: 45.43146
+  longitude: 12.352597
+  precision: 10
