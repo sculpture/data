@@ -1,11 +1,11 @@
 id: 768efd9d-d633-4a49-8c63-7721588e714d
 type: sculpture
-slug: arts-sciences-aix
-title: 'Arts et Sciences '
+slug: industrie-art-aix
+title: L'Industrie et l'Art
 artist-ids:
 - 8fb7721a-eb96-4334-8059-cf852b0203b8
 city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
-date: '1883'
+date: '1882'
 location:
   latitude: 43.526285
   longitude: 5.445888
