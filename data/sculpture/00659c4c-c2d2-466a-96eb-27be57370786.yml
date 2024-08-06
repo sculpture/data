@@ -1,0 +1,17 @@
+id: 00659c4c-c2d2-466a-96eb-27be57370786
+type: sculpture
+slug: lesh-lah
+title: Lesh Lah (Why Not?)
+artist-ids:
+- caa11b4f-f295-4aa2-a182-b103d44b580b
+city-id: 1aff16e3-5963-4a1d-b9f6-1ebec654ea71
+date: '2015'
+location:
+  latitude: 42.430126
+  longitude: -71.312023
+  precision: 10
+material-ids:
+- 590bc2f1-fd09-4c83-96da-39fa51cef820
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- db51c2ea-c8f2-4b20-ba2d-1eb26ea058d1
