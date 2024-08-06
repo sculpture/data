@@ -1,0 +1,16 @@
+id: e42b4960-186a-4f27-acf1-ba14c02f6b4f
+type: sculpture
+slug: lupus-raimondi
+title: Lupus
+artist-ids:
+- 96ddb48e-4af6-45fe-bdb7-29f37c81d089
+city-id: 1aff16e3-5963-4a1d-b9f6-1ebec654ea71
+date: '1985'
+location:
+  latitude: 42.430589
+  longitude: -71.312013
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
