@@ -1,0 +1,17 @@
+id: 2a83100a-d7bf-4cb3-9d8c-8a3b51067abf
+type: sculpture
+slug: empty-chairs
+title: Empty Chairs
+artist-ids:
+- 5fbd6397-a81c-4ca4-8b8f-b09319e61e85
+- c27bf8d7-db43-40b1-bee3-b2be576edc8a
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '2005'
+location:
+  latitude: 50.046759
+  longitude: 19.954371
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
