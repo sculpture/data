@@ -1,0 +1,19 @@
+id: d7faf001-9951-46ee-8d21-de76898ede37
+type: sculpture
+slug: palinuro-martini
+title: Palinuro
+artist-ids:
+- 4d2baa29-a7fd-4994-9f0c-35e8c9ac2488
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1946'
+location:
+  latitude: 45.406739
+  longitude: 11.877151
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- c9884cff-1c92-48b5-816b-aa0479de54fa
