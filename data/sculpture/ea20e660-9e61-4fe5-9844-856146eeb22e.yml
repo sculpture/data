@@ -1,0 +1,19 @@
+id: ea20e660-9e61-4fe5-9844-856146eeb22e
+type: sculpture
+slug: clifton-hil-memorial-nagara
+title: Clifton Hill War Memorial
+artist-ids:
+- 636f93f0-f14b-4e5f-96cf-ab23cbf5529c
+city-id: 398dffa8-e6a4-4477-801e-5eaac8904694
+date: '1927'
+location:
+  latitude: 43.089932
+  longitude: -79.072931
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 2d7e8f2e-e187-462b-a638-06a4ef145363
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
