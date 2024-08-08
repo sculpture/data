@@ -1,0 +1,19 @@
+id: d970ba9b-e31f-4b13-ac1e-96634fa7ed63
+type: sculpture
+slug: tomb-niccolo-orsini
+title: Tomb of Niccolò Orsini
+artist-ids:
+- ce40467b-0d4c-40b9-b07a-b879e4d62eb4
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: 151*
+location:
+  latitude: 45.439307
+  longitude: 12.342142
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
