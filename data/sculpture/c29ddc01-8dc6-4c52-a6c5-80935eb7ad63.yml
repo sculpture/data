@@ -1,0 +1,19 @@
+id: c29ddc01-8dc6-4c52-a6c5-80935eb7ad63
+type: sculpture
+slug: shoe-box-samaras
+title: Shoe Box
+artist-ids:
+- ca70c784-ece2-4edd-9659-9ef5a632d4a7
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1965'
+location:
+  latitude: 38.695874
+  longitude: -9.209091
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- 80328ae5-5a1a-48de-8590-e74b98b84b86
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
