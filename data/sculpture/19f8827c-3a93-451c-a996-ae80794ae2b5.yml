@@ -1,0 +1,16 @@
+id: 19f8827c-3a93-451c-a996-ae80794ae2b5
+type: sculpture
+slug: pomnik-obroncow-wybrzeza-gdynia
+title: Pomnik Obrońców Wybrzeża
+artist-ids:
+- bab6dd43-2899-4e14-8042-7c762afcfcef
+city-id: 9c298122-4f25-4374-ac43-8f49a6d1e4c0
+date: '1970'
+location:
+  latitude: 54.49065
+  longitude: 18.545475
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
