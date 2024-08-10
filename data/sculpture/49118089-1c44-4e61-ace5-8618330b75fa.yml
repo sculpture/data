@@ -1,0 +1,20 @@
+id: 49118089-1c44-4e61-ace5-8618330b75fa
+type: sculpture
+slug: pius-vi-praying-canova-venice
+title: Pius VI praying
+artist-ids:
+- 51529d14-3684-48c3-9995-9469fb5b69ba
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1817'
+location:
+  latitude: 45.433563
+  longitude: 12.337255
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6c068959-5222-4073-b890-313bf91ca2b4
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- ce5eba46-3dff-4d8c-89c8-4fab2da9a37d
