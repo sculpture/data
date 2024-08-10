@@ -1,0 +1,19 @@
+id: a21e096c-6846-4111-95a1-93955f38b3ca
+type: sculpture
+slug: joao-vi-portugal
+title: João VI de Portugal
+artist-ids:
+- 1a76d9fe-3c2b-4671-9a6c-53e4ec1e1905
+city-id: 3b930473-fa76-42c7-8b75-8d460d649251
+date: '1966'
+location:
+  latitude: 41.167904
+  longitude: -8.689265
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
