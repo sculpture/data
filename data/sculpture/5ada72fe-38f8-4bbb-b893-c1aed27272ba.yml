@@ -1,0 +1,20 @@
+id: 5ada72fe-38f8-4bbb-b893-c1aed27272ba
+type: sculpture
+slug: napoleone-bonaparte-pizzi
+title: Napoleone Bonaparte (Pizzi)
+artist-ids:
+- 690c14df-6f97-4513-a128-ec94fca73720
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1810'
+location:
+  latitude: 45.433563
+  longitude: 12.337255
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 521f00f2-f976-4b69-89cf-6e8db0c94f29
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e1747e74-d399-45e0-98c6-60514c400683
