@@ -1,0 +1,21 @@
+id: f2d08e65-eb8b-4354-bf5d-20f4f54d8992
+type: sculpture
+slug: saint-john-baptist-donatello
+title: Saint John the Baptist (Donatello)
+artist-ids:
+- 4a395507-53d7-431a-8f9b-4677bd31977a
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1438'
+link-wikipedia: https://en.wikipedia.org/wiki/Saint_John_the_Baptist_(Donatello)
+location:
+  latitude: 45.436741
+  longitude: 12.326224
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
