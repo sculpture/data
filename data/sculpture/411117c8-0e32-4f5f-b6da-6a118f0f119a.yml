@@ -1,0 +1,17 @@
+id: 411117c8-0e32-4f5f-b6da-6a118f0f119a
+type: sculpture
+slug: o-cubo-porto
+title: O Cubo
+artist-ids:
+- eea11352-c5d5-467c-9a1e-ec88105d369b
+city-id: 3b930473-fa76-42c7-8b75-8d460d649251
+date: '1976'
+location:
+  latitude: 41.140618
+  longitude: -8.613096
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
