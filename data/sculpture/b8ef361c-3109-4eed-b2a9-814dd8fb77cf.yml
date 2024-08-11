@@ -1,0 +1,19 @@
+id: b8ef361c-3109-4eed-b2a9-814dd8fb77cf
+type: sculpture
+slug: bust-youth-lombardo
+title: Bust of a Youth
+artist-ids:
+- 07a2ab83-8c42-4306-a697-fcb7df62eb50
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1514'
+location:
+  latitude: 45.433767
+  longitude: 12.330933
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- d973207a-6b23-4505-a84d-d2339bc3a55c
