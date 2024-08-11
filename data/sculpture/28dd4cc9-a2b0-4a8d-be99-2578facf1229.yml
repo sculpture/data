@@ -1,0 +1,20 @@
+id: 28dd4cc9-a2b0-4a8d-be99-2578facf1229
+type: sculpture
+slug: melancholy-barthel
+title: Melancholy
+artist-ids:
+- f63e5fec-6714-4d22-925e-b215c3be7775
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: 169*
+location:
+  latitude: 45.439326
+  longitude: 12.341874
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+note: Chapel of Mary Magdalene - tomb of Melchiore Lanza
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
