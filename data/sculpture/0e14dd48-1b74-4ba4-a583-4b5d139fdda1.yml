@@ -1,0 +1,19 @@
+id: 0e14dd48-1b74-4ba4-a583-4b5d139fdda1
+type: sculpture
+slug: sky-dances-light
+title: Sky Dances Light
+artist-ids:
+- 79b169c3-6317-4fa4-bd26-fdc1220d0eed
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '2023'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- 02f666a5-a96a-466a-9a4a-3ff26ba1bad5
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 3deb83a1-45dc-45bd-9e41-ba5ed37fa5b1
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
