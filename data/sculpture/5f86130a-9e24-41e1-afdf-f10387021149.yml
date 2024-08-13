@@ -1,0 +1,20 @@
+id: 5f86130a-9e24-41e1-afdf-f10387021149
+type: sculpture
+slug: st-john-baptist-sansovino
+title: Saint John the Baptist (Sansovino)
+artist-ids:
+- 732d7785-6332-4878-870e-f6e5f6e6e002
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1540'
+location:
+  latitude: 45.437042
+  longitude: 12.326863
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
