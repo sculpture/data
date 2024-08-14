@@ -1,0 +1,18 @@
+id: b7b4315c-0cf8-45f9-8df1-3379fd2018c5
+type: sculpture
+slug: america-le-brun
+title: America
+artist-ids:
+- 7596537f-567d-4c9d-92f6-d8fbffe0018d
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1789'
+location:
+  latitude: 52.214966
+  longitude: 21.035835
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
