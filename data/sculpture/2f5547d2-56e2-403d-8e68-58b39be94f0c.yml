@@ -1,0 +1,20 @@
+id: 2f5547d2-56e2-403d-8e68-58b39be94f0c
+type: sculpture
+slug: morte-san-domenico-mazza
+title: Morte di San Domenico
+artist-ids:
+- 241606ff-e540-4b6b-895f-deaa2135e252
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1722'
+location:
+  latitude: 45.439191
+  longitude: 12.341906
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
