@@ -1,0 +1,18 @@
+id: 82c63527-9699-4964-a349-29b5e3d82ff4
+type: sculpture
+slug: pax-sansovino
+title: Pax
+artist-ids:
+- 732d7785-6332-4878-870e-f6e5f6e6e002
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: 154*
+location:
+  latitude: 45.434095
+  longitude: 12.339293
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
