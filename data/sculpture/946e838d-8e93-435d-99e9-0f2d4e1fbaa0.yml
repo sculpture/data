@@ -1,0 +1,18 @@
+id: 946e838d-8e93-435d-99e9-0f2d4e1fbaa0
+type: sculpture
+slug: world-war-i-memorial-providence
+title: World War I Memorial
+artist-ids:
+- 8febfb9b-7a10-43aa-99a0-d70465dd748e
+city-id: ea939486-3e5c-4db4-b30e-3e768a55dd4e
+date: '1929'
+location:
+  latitude: 41.824397
+  longitude: -71.412319
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- a267fb56-e090-4da4-b72c-152f966877d9
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
