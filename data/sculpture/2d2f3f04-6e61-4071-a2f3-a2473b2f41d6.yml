@@ -1,0 +1,18 @@
+id: 2d2f3f04-6e61-4071-a2f3-a2473b2f41d6
+type: sculpture
+slug: christopher-columbus-stamford
+title: Christopher Columbus
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: b0856b52-3e5e-44e2-89e3-8261363c5096
+date: '1960'
+location:
+  latitude: 41.0532
+  longitude: -73.54202
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 69050b3c-166a-422e-86ce-a9c6f896805a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
