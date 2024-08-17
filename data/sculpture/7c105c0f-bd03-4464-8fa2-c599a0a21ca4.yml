@@ -1,0 +1,20 @@
+id: 7c105c0f-bd03-4464-8fa2-c599a0a21ca4
+type: sculpture
+slug: monument-garibaldi-nice
+title: Monument à Garibaldi (Nice)
+artist-ids:
+- 9c287cb9-66f2-446e-a009-8a6c86615fe3
+- 9e78b4f0-89ae-45dd-a168-66dd9fab0a5c
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '1891'
+link-wikipedia: https://fr.wikipedia.org/wiki/Monument_%C3%A0_Garibaldi_(Nice)
+location:
+  latitude: 43.70087
+  longitude: 7.280143
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
