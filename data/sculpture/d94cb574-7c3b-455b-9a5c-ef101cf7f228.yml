@@ -1,0 +1,17 @@
+id: d94cb574-7c3b-455b-9a5c-ef101cf7f228
+type: sculpture
+slug: flamenco-revisited-migdal
+title: Flamenco Revisited
+artist-ids:
+- 0a69ee99-21ef-4dad-9d5c-666b08ded3dd
+city-id: 8fa25799-a952-4ff5-9506-2f3b95f48200
+date: '2013'
+location:
+  latitude: 41.879344
+  longitude: -87.616709
+  precision: 20
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
+- f512d675-0554-4a67-987c-1da560f2c95a
