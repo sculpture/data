@@ -1,0 +1,16 @@
+id: d41911f7-574b-4753-91af-f44f4761d70d
+type: sculpture
+slug: equus
+title: Equus
+artist-ids:
+- 62f65260-159c-47a9-ba03-49004989c591
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2023'
+location:
+  latitude: 45.43146
+  longitude: 12.352597
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
