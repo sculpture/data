@@ -1,0 +1,19 @@
+id: 0dc74b10-edd0-41eb-9fd6-e2b14be62033
+type: sculpture
+slug: st-jerome-vittoria
+title: St Jerome
+artist-ids:
+- 9359dbf5-1294-442a-b1fa-a9c92eb242cb
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1577'
+location:
+  latitude: 45.439304
+  longitude: 12.342249
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- ce5eba46-3dff-4d8c-89c8-4fab2da9a37d
+- de83a4c2-214e-45fb-a307-c835449e52bf
