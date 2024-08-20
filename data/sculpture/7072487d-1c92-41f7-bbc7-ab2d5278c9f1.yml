@@ -1,0 +1,20 @@
+id: 7072487d-1c92-41f7-bbc7-ab2d5278c9f1
+type: sculpture
+slug: st-jerome-vittoria-frari
+title: St Jerome
+artist-ids:
+- 9359dbf5-1294-442a-b1fa-a9c92eb242cb
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1565'
+location:
+  latitude: 45.436986
+  longitude: 12.3266
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
