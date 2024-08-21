@@ -1,0 +1,20 @@
+id: 66a8ab64-0e2c-4c8e-b8a5-0ce4d5e3117c
+type: sculpture
+slug: monumento-pompeo-giustiniani
+title: 'Monumento di Pompeo Giustiniani '
+artist-ids:
+- 1b6918d5-3f9b-46a9-aa72-de9a90f7d011
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1617'
+location:
+  latitude: 45.439149
+  longitude: 12.3424
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
