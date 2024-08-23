@@ -1,0 +1,19 @@
+id: 68b691a8-f34d-42a1-b311-36b4cac3ad21
+type: sculpture
+slug: robbe-de-beauveset
+title: Robbé de Beauveset
+artist-ids:
+- 9f5a34c2-0a2a-4e20-9989-b461c99612e6
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1765'
+location:
+  latitude: 38.737833
+  longitude: -9.153605
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
