@@ -1,0 +1,18 @@
+id: 4012302e-a7b8-4e08-adfe-469852c25d5d
+type: sculpture
+slug: tomb-titian
+title: Tomb of Titian
+artist-ids:
+- 41cc5a08-8adb-484d-8dbc-c41f67119c6e
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1852'
+location:
+  latitude: 45.437175
+  longitude: 12.326691
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
