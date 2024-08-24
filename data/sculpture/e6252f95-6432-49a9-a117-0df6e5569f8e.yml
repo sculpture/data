@@ -1,0 +1,18 @@
+id: e6252f95-6432-49a9-a117-0df6e5569f8e
+type: sculpture
+slug: la-danse-study
+title: Study for La Danse
+artist-ids:
+- e2cef29d-151d-4857-acb2-d56e767f044c
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1868'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6f13c768-5619-419e-97af-60440cab7f89
