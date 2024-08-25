@@ -9,7 +9,7 @@ date: '1926'
 location:
   latitude: 52.252937
   longitude: 20.972827
-  precision: 10
+  precision: 100
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
