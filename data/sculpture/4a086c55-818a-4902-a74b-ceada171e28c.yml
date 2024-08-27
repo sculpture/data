@@ -1,0 +1,19 @@
+id: 4a086c55-818a-4902-a74b-ceada171e28c
+type: sculpture
+slug: andre-gretry
+title: André Grétry
+artist-ids:
+- a5e3344f-9c9d-4980-8d13-ca7e30d089f4
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- ac86ac3d-0564-479e-a5f0-5de5b5e7f7f4
