@@ -1,0 +1,17 @@
+id: 63fee79a-f40b-4537-b4f0-09e17d0eeecf
+type: sculpture
+slug: pies-perrault
+title: Pies
+artist-ids:
+- a9c0fce2-216c-4c4b-8a12-d0a74030e321
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1887'
+location:
+  latitude: 52.189061
+  longitude: 21.027774
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
