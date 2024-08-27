@@ -1,0 +1,17 @@
+id: 9102a0bd-b373-4cf9-9d8b-d3af00a2f398
+type: sculpture
+slug: joao-de-deus-faro
+title: João de Deus
+artist-ids:
+- 72146fb5-efbc-40c6-9f87-156ce9457086
+city-id: 143f8300-0f7c-48c6-8b33-0f234260f803
+date: '1930'
+location:
+  latitude: 37.016463
+  longitude: -7.935198
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445
