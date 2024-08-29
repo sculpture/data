@@ -1,0 +1,19 @@
+id: b9097260-3ad1-43ae-b399-a0acf6df408e
+type: sculpture
+slug: angel-tom-canova
+title: Angel (tomb of Canova)
+artist-ids:
+- 5684668b-c72e-4f5a-855a-aaffbf95152a
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1927'
+location:
+  latitude: 45.437005
+  longitude: 12.326879
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
