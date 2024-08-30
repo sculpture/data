@@ -1,0 +1,20 @@
+id: 42e0574d-dfed-462d-8493-eeee771bd520
+type: sculpture
+slug: giuseppe-garibaldi-verona
+title: Giuseppe Garibaldi-verona
+artist-ids:
+- 1c84bbf6-db8c-4858-8dec-12343736a42a
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: '1886'
+location:
+  latitude: 45.438498
+  longitude: 10.992385
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 521f00f2-f976-4b69-89cf-6e8db0c94f29
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
