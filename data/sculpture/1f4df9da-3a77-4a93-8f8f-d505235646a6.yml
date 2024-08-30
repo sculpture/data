@@ -1,0 +1,20 @@
+id: 1f4df9da-3a77-4a93-8f8f-d505235646a6
+type: sculpture
+slug: st-catherine-siena-ferrata
+title: St. Catherine of Siena
+artist-ids:
+- 9279a342-da4c-4c07-a634-85209afae29a
+city-id: d2b07441-23d2-4ec3-8897-7266c2354a15
+date: '1662'
+location:
+  latitude: 43.317776
+  longitude: 11.328821
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- de83a4c2-214e-45fb-a307-c835449e52bf
