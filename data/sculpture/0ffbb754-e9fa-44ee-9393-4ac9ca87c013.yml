@@ -1,0 +1,15 @@
+id: 0ffbb754-e9fa-44ee-9393-4ac9ca87c013
+type: sculpture
+slug: sequi-graves
+title: Sequi
+artist-ids:
+- 7eec3ffa-b523-489f-8386-2c84c18116fa
+city-id: fd14bdab-7cb5-49d7-a9e8-84595c2d2088
+date: '1984'
+location:
+  latitude: 33.783433
+  longitude: -118.114704
+  precision: 10
+material-ids:
+- 590bc2f1-fd09-4c83-96da-39fa51cef820
+note: photo at old location
