@@ -1,0 +1,17 @@
+id: 3cdac359-d300-4ef8-99e3-d6e46ce43283
+type: sculpture
+slug: tomb-antonio-roselli
+title: Tomb of Antonio Roselli
+artist-ids:
+- 57bf179d-c6aa-4593-9c28-fe9fd8d28f40
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1467'
+location:
+  latitude: 45.401394
+  longitude: 11.880773
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
