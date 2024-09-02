@@ -1,0 +1,18 @@
+id: 84728244-2903-4a04-90a2-c85bc62860db
+type: sculpture
+slug: abel-salazar
+title: Abel Salazar
+artist-ids:
+- e18851d6-f8b3-4a36-9d41-0efddd1112f9
+city-id: 3b930473-fa76-42c7-8b75-8d460d649251
+date: '2009'
+location:
+  latitude: 41.148362
+  longitude: -8.619074
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- ce9dd639-edaa-4ed7-99b6-b2423117457a
