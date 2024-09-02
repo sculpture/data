@@ -1,0 +1,16 @@
+id: 2a2accee-d4fe-49fd-aeeb-411420b677e4
+type: sculpture
+slug: prezent-dla-pani-m
+title: Prezent dla Pani M
+artist-ids:
+- 165e1b71-77fb-49c5-a7c1-f947338883d3
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '1988'
+location:
+  latitude: 51.312
+  longitude: 20.981964
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
