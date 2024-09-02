@@ -1,0 +1,19 @@
+id: 3adef0f6-c58c-43fb-9ab8-e8561d0c46da
+type: sculpture
+slug: miracle-unbroken-glass
+title: Miracle of the Unbroken Glass
+artist-ids:
+- 9c509143-59f3-4831-83a3-18bea6e3f7f5
+- e2d3fbfc-3f3c-4678-b609-a37b1134b54d
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1529'
+location:
+  latitude: 45.401601
+  longitude: 11.8808
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
