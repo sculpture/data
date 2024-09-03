@@ -5,8 +5,9 @@ colors:
 - '#5E4940'
 - '#868078'
 - '#BDBCB9'
-featured?: true
+featured?: false
 height: 3600
-sculpture-id: 3acc6468-9581-4ccf-8ca8-3aea29cecf95
+sculpture-id: 05d24ed3-c270-4f9a-b97c-f1a999f2ec4b
+segment-id: 541a8a30-42be-44d5-9b71-7bc098a32901
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
 width: 2775
