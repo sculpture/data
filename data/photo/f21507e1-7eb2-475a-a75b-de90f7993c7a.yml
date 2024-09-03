@@ -5,8 +5,9 @@ colors:
 - '#302E2E'
 - '#867F7B'
 - '#BBBABE'
-featured?: true
+featured?: false
 height: 3534
-sculpture-id: 304e2fbc-2b13-450a-ab32-1d33d1b15367
+sculpture-id: 05d24ed3-c270-4f9a-b97c-f1a999f2ec4b
+segment-id: fece5979-f6ba-4ccb-9d2e-69e25d2461b3
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
 width: 2582
