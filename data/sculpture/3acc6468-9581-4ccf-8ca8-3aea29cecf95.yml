@@ -1,18 +1,16 @@
 id: 3acc6468-9581-4ccf-8ca8-3aea29cecf95
 type: sculpture
-slug: hope-charity-canova-tomb
-title: Hope and Charity (Tomb of Canova)
+slug: between-heaven-hell
+title: Between Heaven and Hell
 artist-ids:
-- 41cc5a08-8adb-484d-8dbc-c41f67119c6e
+- d5e1626b-32fc-45b3-b819-f3347d88b1ae
 city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
-date: '1827'
+date: '2023'
 location:
-  latitude: 45.437012
-  longitude: 12.326874
+  latitude: 45.43146
+  longitude: 12.352597
   precision: 10
 material-ids:
-- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+- 56560105-70a1-4867-aaea-6d76d31576c0
 tag-ids:
-- 6f13c768-5619-419e-97af-60440cab7f89
-- 9010cc4c-c852-4176-a7fe-04f0885fcffc
-- 9f63b713-73f7-46b1-9a00-5f35064e4c04
+- 2d488599-d808-40db-80a2-88b41c7bdb67
