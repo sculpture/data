@@ -1,0 +1,17 @@
+id: ae727484-c38e-4683-b4da-c606b02f9755
+type: sculpture
+slug: adelino-amaro-costa
+title: Adelino Amaro da Costa
+artist-ids:
+- e003bf48-ef30-431d-bac9-3a06a63b469b
+city-id: 3b930473-fa76-42c7-8b75-8d460d649251
+date: '2003'
+location:
+  latitude: 41.148268
+  longitude: -8.625516
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 20ba399b-d962-4b4b-8695-6723679a005b
