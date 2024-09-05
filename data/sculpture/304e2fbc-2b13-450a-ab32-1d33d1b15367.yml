@@ -1,19 +1,19 @@
 id: 304e2fbc-2b13-450a-ab32-1d33d1b15367
 type: sculpture
-slug: woman-urn-canova-tomb
-title: Woman with Urn (Tomb of Canova)
+slug: providence-independent-thought
+title: Providence as Independent Thought
 artist-ids:
-- b095b890-a193-4bbc-8a80-c59075770093
-city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
-date: '1827'
+- c559a7af-8b12-411f-aa33-b572ead7e13d
+city-id: ea939486-3e5c-4db4-b30e-3e768a55dd4e
+date: '1908'
 location:
-  latitude: 45.437039
-  longitude: 12.326857
+  latitude: 41.826278
+  longitude: -71.411262
   precision: 10
 material-ids:
-- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
 tag-ids:
-- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
-- 6f13c768-5619-419e-97af-60440cab7f89
-- 7bd0ecbd-b646-466a-95cb-42eebacc6072
-- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
