@@ -1,19 +1,17 @@
 id: 2ad78953-f94f-4053-a5d7-8614d958e227
 type: sculpture
-slug: winged-lion-canova-tomb
-title: Winged Lion (Tomb of Canova)
+slug: angelo-blu-accoglienza
+title: L’Angelo blu dell’accoglienza
 artist-ids:
-- 399360a4-2fa3-4ef5-b2a7-08b1607608fd
-city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
-date: '1827'
+- 15b66818-abd9-4262-9a31-7b565f338f4a
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: '2015'
 location:
-  latitude: 45.437009
-  longitude: 12.326841
+  latitude: 45.446963
+  longitude: 10.996614
   precision: 10
 material-ids:
-- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
-- 6f13c768-5619-419e-97af-60440cab7f89
-- 9010cc4c-c852-4176-a7fe-04f0885fcffc
-- 9f63b713-73f7-46b1-9a00-5f35064e4c04
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
