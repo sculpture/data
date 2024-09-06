@@ -1,0 +1,21 @@
+id: 106bc796-48c3-4980-8a2b-3d56ac2f0868
+type: sculpture
+slug: monument-pietro-mocenigo
+title: Monument of Pietro Mocenigo
+artist-ids:
+- 57bf179d-c6aa-4593-9c28-fe9fd8d28f40
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1481'
+location:
+  latitude: 45.439477
+  longitude: 12.341724
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18694c37-89e8-4e01-9c31-16245323218a
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
