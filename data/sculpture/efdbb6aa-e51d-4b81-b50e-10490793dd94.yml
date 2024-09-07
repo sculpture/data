@@ -1,0 +1,14 @@
+id: efdbb6aa-e51d-4b81-b50e-10490793dd94
+type: sculpture
+slug: libertad-de-expresion
+title: Libertad de Expresión
+artist-ids:
+- a9d3fa0a-fe88-4682-90d7-757647ad2e5e
+city-id: f7e1f736-a953-4820-8f8f-016c7c76d1bc
+date: '2007'
+location:
+  latitude: 36.507286
+  longitude: -4.886576
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
