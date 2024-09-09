@@ -1,0 +1,16 @@
+id: eba8fbfe-0263-435c-a289-473d2407c8eb
+type: sculpture
+slug: justus-lipsius
+title: Justus Lipsius
+artist-ids:
+- 8d656143-1ff7-4706-a009-0c32f2bfce09
+city-id: bc7ca2c7-aac6-4ab7-85ca-d4786262d8a8
+date: '1909'
+location:
+  latitude: 50.880351
+  longitude: 4.709675
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- cc034efc-b82b-42ee-a2d2-16753502bef1
