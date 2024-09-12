@@ -1,0 +1,18 @@
+id: 27e6bf6d-5557-4bc6-a4d7-f3e1d45b8aa2
+type: sculpture
+slug: large-torso-kooning
+title: Large Torso
+artist-ids:
+- 0a037033-ecf0-4c21-a498-664e79b6d3de
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1974'
+location:
+  latitude: 45.431078
+  longitude: 12.328139
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
