@@ -1,0 +1,19 @@
+id: 43fb45e1-0d1e-4301-8726-591aa7a63df8
+type: sculpture
+slug: stele-souza-holstein
+title: Funerary Stele of Alexandra de Souza Holstein
+artist-ids:
+- 51529d14-3684-48c3-9995-9469fb5b69ba
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1808'
+location:
+  latitude: 45.431078
+  longitude: 12.328139
+  precision: 10
+material-ids:
+- 9c1aaa8f-5dc6-4ad1-a0b8-762cc7a0f4e7
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
