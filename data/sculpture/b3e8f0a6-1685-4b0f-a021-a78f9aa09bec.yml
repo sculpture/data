@@ -1,0 +1,19 @@
+id: b3e8f0a6-1685-4b0f-a021-a78f9aa09bec
+type: sculpture
+slug: st-mark-healing-anianus
+title: St Mark Healing Anianus
+artist-ids:
+- 07a2ab83-8c42-4306-a697-fcb7df62eb50
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1489'
+location:
+  latitude: 45.439573
+  longitude: 12.341455
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- de83a4c2-214e-45fb-a307-c835449e52bf
