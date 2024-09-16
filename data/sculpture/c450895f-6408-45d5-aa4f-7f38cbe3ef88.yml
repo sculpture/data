@@ -1,0 +1,18 @@
+id: c450895f-6408-45d5-aa4f-7f38cbe3ef88
+type: sculpture
+slug: mariposas-valdes
+title: Mariposas
+artist-ids:
+- 7305883a-bfab-4e6a-bc45-5f174367bd48
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2024'
+location:
+  latitude: 45.433883
+  longitude: 12.344802
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
