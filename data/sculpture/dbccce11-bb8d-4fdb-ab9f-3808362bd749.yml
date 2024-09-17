@@ -1,0 +1,18 @@
+id: dbccce11-bb8d-4fdb-ab9f-3808362bd749
+type: sculpture
+slug: pasquino-orefice
+title: Pasquino
+artist-ids:
+- 83a3df61-8151-498c-b43a-ec2e1a037a7e
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: '1571'
+location:
+  latitude: 45.445241
+  longitude: 10.999963
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6f13c768-5619-419e-97af-60440cab7f89
+- c9884cff-1c92-48b5-816b-aa0479de54fa
