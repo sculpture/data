@@ -1,0 +1,16 @@
+id: f5ec36b2-1376-47e1-ad6b-2e56c001caff
+type: sculpture
+slug: humpies-bitter
+title: Humpes
+artist-ids:
+- 63f008e7-bf57-4a55-b566-4dd7f15af1cb
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2023'
+location:
+  latitude: 45.43146
+  longitude: 12.352597
+  precision: 10
+material-ids:
+- 4a979cf3-40f3-4be9-aa71-b79765408367
+tag-ids:
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
