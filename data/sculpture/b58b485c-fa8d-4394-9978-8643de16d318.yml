@@ -1,0 +1,19 @@
+id: b58b485c-fa8d-4394-9978-8643de16d318
+type: sculpture
+slug: monumento-raul-brandao
+title: Raul Brandão
+artist-ids:
+- 39b29d35-9a19-4c24-a178-3ae896a399a7
+city-id: 3b930473-fa76-42c7-8b75-8d460d649251
+date: '1967'
+location:
+  latitude: 41.147645
+  longitude: -8.672009
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- f608c279-0df9-40f8-b0c6-c900a4ded7bf
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
