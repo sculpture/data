@@ -1,0 +1,18 @@
+id: a698fe87-d6a7-4890-ba78-301922c0d9f6
+type: sculpture
+slug: jean-althen
+title: Jean Althen
+artist-ids:
+- e26e41de-06ad-4404-af8f-ecb6eda6fe53
+city-id: 5de4ea43-e782-46c9-8ddf-7251d6e9038a
+date: '1847'
+location:
+  latitude: 43.953442
+  longitude: 4.807655
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 1c17a584-e0bc-4bfb-9bc2-6506ff32b728
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
