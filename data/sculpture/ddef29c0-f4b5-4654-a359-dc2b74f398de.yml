@@ -1,0 +1,22 @@
+id: ddef29c0-f4b5-4654-a359-dc2b74f398de
+type: sculpture
+slug: monument-giovanni-pesaro
+title: Monument to Giovanni Pesaro
+artist-ids:
+- c6a1f295-692d-45dd-b358-f9515804477b
+- f63e5fec-6714-4d22-925e-b215c3be7775
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1669'
+location:
+  latitude: 45.436978
+  longitude: 12.326782
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 18694c37-89e8-4e01-9c31-16245323218a
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
