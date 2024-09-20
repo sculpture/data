@@ -1,0 +1,19 @@
+id: 6fdfe36b-f1a4-473c-8045-d496b126950e
+type: sculpture
+slug: tommaso-rangone
+title: Tommaso Rangone
+artist-ids:
+- 9359dbf5-1294-442a-b1fa-a9c92eb242cb
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1575'
+location:
+  latitude: 45.433563
+  longitude: 12.337255
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- ce9dd639-edaa-4ed7-99b6-b2423117457a
