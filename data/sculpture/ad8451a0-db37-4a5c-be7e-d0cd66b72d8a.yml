@@ -1,0 +1,19 @@
+id: ad8451a0-db37-4a5c-be7e-d0cd66b72d8a
+type: sculpture
+slug: segno-testa
+title: Segno
+artist-ids:
+- 868767ac-da3c-469b-af1f-6544c0693428
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1990'
+location:
+  latitude: 45.441054
+  longitude: 12.33161
+  precision: 10
+material-ids:
+- 449582e6-6741-4441-a519-81e7c5591f96
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
