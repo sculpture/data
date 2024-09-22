@@ -1,0 +1,10 @@
+id: 6671a888-7b39-4359-8aac-7b02e7eb31ad
+type: artist
+slug: tom-paul
+name: Tom Paul
+birth-date: '1979'
+gender: male
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+tag-ids:
+- bbeea8e9-711a-44e7-85f9-424b44c4c05f
