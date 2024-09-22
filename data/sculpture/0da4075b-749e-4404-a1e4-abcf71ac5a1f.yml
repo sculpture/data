@@ -1,0 +1,18 @@
+id: 0da4075b-749e-4404-a1e4-abcf71ac5a1f
+type: sculpture
+slug: wounded-bunkie-yale
+title: 'Wounded Bunkie '
+artist-ids:
+- 76ebdec9-df94-4eea-b50c-dcae0975c1eb
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1896'
+location:
+  latitude: 41.30839
+  longitude: -72.930958
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- c9884cff-1c92-48b5-816b-aa0479de54fa
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
