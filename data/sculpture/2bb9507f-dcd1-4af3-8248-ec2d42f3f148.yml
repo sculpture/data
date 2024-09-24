@@ -1,0 +1,19 @@
+id: 2bb9507f-dcd1-4af3-8248-ec2d42f3f148
+type: sculpture
+slug: monumento-bersagliere
+title: Monumento al Bersagliere
+artist-ids:
+- 83518515-212d-421f-84a2-fb5802455d2e
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: '1964'
+location:
+  latitude: 45.441489
+  longitude: 10.97952
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 2d7e8f2e-e187-462b-a638-06a4ef145363
