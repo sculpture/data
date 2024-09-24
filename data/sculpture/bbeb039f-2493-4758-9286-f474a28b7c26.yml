@@ -1,0 +1,19 @@
+id: bbeb039f-2493-4758-9286-f474a28b7c26
+type: sculpture
+slug: monument-almerico-deste
+title: Monument to Almerico d'Este
+artist-ids:
+- 65bc5a24-2481-4194-aaf4-5216d14d727c
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1666'
+location:
+  latitude: 45.43702
+  longitude: 12.326418
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 521f00f2-f976-4b69-89cf-6e8db0c94f29
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
