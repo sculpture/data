@@ -1,0 +1,18 @@
+id: fcfa4aa0-10d5-465d-b865-f6daa7a0d578
+type: sculpture
+slug: st-peter-de-fabris
+title: Saint Peter
+artist-ids:
+- 5684668b-c72e-4f5a-855a-aaffbf95152a
+city-id: 6f764414-6c09-413d-94b9-2ebe5fafdf7e
+date: '1838'
+location:
+  latitude: 41.901959
+  longitude: 12.455364
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- de83a4c2-214e-45fb-a307-c835449e52bf
