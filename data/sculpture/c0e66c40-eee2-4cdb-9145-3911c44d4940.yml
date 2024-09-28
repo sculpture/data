@@ -8,13 +8,13 @@ city-id: d2389309-5fb4-45b6-a60c-c3f8be44c8e6
 date: '1912'
 link-wikipedia: https://en.wikipedia.org/wiki/Statue_of_Chief_Seattle
 location:
-  latitude: 47.618581
-  longitude: -122.347435
+  latitude: 47.618386
+  longitude: -122.347478
   precision: 10
 material-ids:
 - 90961d65-c887-44b3-9153-7364b69806bc
 tag-ids:
-- c68abb5f-2194-441e-9e75-71098c797e89
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
 - c07d27c7-f11b-4798-b551-683b08c15a10
+- c68abb5f-2194-441e-9e75-71098c797e89
