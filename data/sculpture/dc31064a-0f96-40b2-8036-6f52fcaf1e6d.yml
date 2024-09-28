@@ -1,0 +1,17 @@
+id: dc31064a-0f96-40b2-8036-6f52fcaf1e6d
+type: sculpture
+slug: ionia-iii
+title: 'Ionia III '
+artist-ids:
+- f590631c-e86d-42f7-a9d1-12d4f6cc96b3
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1986'
+location:
+  latitude: 38.737812
+  longitude: -9.153546
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
