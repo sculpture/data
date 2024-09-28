@@ -1,0 +1,18 @@
+id: dc0aee35-7bc4-4184-b096-9b4c2ff41d79
+type: sculpture
+slug: gregory-of-nin
+title: Gregory of Nin
+artist-ids:
+- ffa03678-310d-4685-8cc4-5ffd96ac1c91
+city-id: b194b50f-d34b-41c8-b068-38d14fddbfad
+date: '1929'
+location:
+  latitude: 43.509414
+  longitude: 16.440845
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2f65ce93-2124-4391-a225-855055c78203
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
