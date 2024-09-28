@@ -1,0 +1,18 @@
+id: c0e66c40-eee2-4cdb-9145-3911c44d4940
+type: sculpture
+slug: chief-seattle
+title: Chief Seattle
+artist-ids:
+- 8098a5ef-ce24-4e99-bca2-31f0b5cd8f56
+city-id: d2389309-5fb4-45b6-a60c-c3f8be44c8e6
+date: '1912'
+link-wikipedia: https://en.wikipedia.org/wiki/Statue_of_Chief_Seattle
+location:
+  latitude: 47.618581
+  longitude: -122.347435
+  precision: 10
+material-ids:
+- 90961d65-c887-44b3-9153-7364b69806bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
