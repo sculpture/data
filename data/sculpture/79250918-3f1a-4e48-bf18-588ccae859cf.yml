@@ -1,0 +1,15 @@
+id: 79250918-3f1a-4e48-bf18-588ccae859cf
+type: sculpture
+slug: wherever-you-go
+title: Wherever You Go Always Take The Weather
+artist-ids:
+- d87ed4e3-840e-4035-94f8-14769151e48f
+city-id: 80f5f02b-13d3-457b-a873-44e2b7a53cfc
+date: '1999'
+location:
+  latitude: 43.689171
+  longitude: -79.756101
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
