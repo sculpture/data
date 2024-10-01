@@ -1,0 +1,16 @@
+id: 6b91c8fc-1be8-4d77-a077-7ef9c665e627
+type: sculpture
+slug: porta-della-carta
+title: Porta della Carta
+artist-ids:
+- 0c1c98a5-1efe-44eb-974b-073594921cc1
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1442'
+location:
+  latitude: 45.43425
+  longitude: 12.340056
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18694c37-89e8-4e01-9c31-16245323218a
