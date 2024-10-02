@@ -1,0 +1,17 @@
+id: 047993fe-a6ba-4d10-acc2-7333e96458c7
+type: sculpture
+slug: prince-edward-island
+title: Prince Edward Island
+artist-ids:
+- ace1f5d4-d008-45de-9b78-fa7ebf47f733
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1948'
+location:
+  latitude: 43.74806
+  longitude: -79.19244
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
