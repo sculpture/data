@@ -1,0 +1,18 @@
+id: b6313b42-2c60-415f-ad74-b10026bebbdf
+type: sculpture
+slug: enrico-carli
+title: Enrico Carli
+artist-ids:
+- 6007fb15-1ab3-4e05-a6be-c404e9a787ed
+- f541d34b-8f67-4ac5-8817-ba83779b904e
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: '1898'
+location:
+  latitude: 45.43009
+  longitude: 10.983974
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 05f12a7a-8656-445c-ad89-8617853c6f35
+- 18d2fd29-8838-4290-a343-39182ae9b445
