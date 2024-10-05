@@ -1,0 +1,18 @@
+id: 101f8325-cee6-4d3a-bf54-13e56377e391
+type: sculpture
+slug: facades-palais-mediterranee
+title: Façade du Palais de la Méditerranée
+artist-ids:
+- a5c4caad-5acb-4460-a559-bdcbf739761b
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '1928'
+location:
+  latitude: 43.695017
+  longitude: 7.263086
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 8edbb59e-b498-4210-9981-8781235cafcd
