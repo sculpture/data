@@ -1,0 +1,17 @@
+id: 3989c970-3e48-45a6-a7c8-62f837494504
+type: sculpture
+slug: angel-greco-orvieto
+title: Angel (Orvieto)
+artist-ids:
+- 7997a231-35dd-4fcd-8909-77551c938702
+city-id: 6f6f1ffd-8616-431e-9d18-dc9dd8af38c5
+date: '1964'
+location:
+  latitude: 42.716818
+  longitude: 12.113113
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
