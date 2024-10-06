@@ -1,0 +1,18 @@
+id: 6be63b4b-0bfe-4c79-85e4-71eb1784ef06
+type: sculpture
+slug: fontana-maggiore-perugia
+title: Fontana Maggiore
+artist-ids:
+- a745c426-8c4a-42d7-b099-2429286de7bd
+- d11e4be8-f5d6-4caa-a158-71a2b6448bc0
+city-id: 566c4d79-78da-412a-b533-e99b8758f179
+date: '1278'
+location:
+  latitude: 43.112165
+  longitude: 12.388868
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 8edbb59e-b498-4210-9981-8781235cafcd
