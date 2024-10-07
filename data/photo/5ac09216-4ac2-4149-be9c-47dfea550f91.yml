@@ -1,10 +1,12 @@
 id: 5ac09216-4ac2-4149-be9c-47dfea550f91
 type: photo
-captured-at: 1980-01-01T00:00:19Z
+captured-at: 2013-09-29T11:00:19Z
 colors:
 - '#61504C'
 - '#887F74'
 - '#AFABA6'
+featured?: false
 height: 2400
-user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
+sculpture-id: 6be63b4b-0bfe-4c79-85e4-71eb1784ef06
+user-id: 736a3323-27e2-44e0-a6ee-b13087e46af2
 width: 1643
