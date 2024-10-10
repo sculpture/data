@@ -1,0 +1,16 @@
+id: ed16e9f6-ea0f-47de-850b-63553d59fb7a
+type: sculpture
+slug: festival-walkway
+title: Festival Walkway
+artist-ids:
+- 1b4620b2-1423-43af-afe4-31c5e10bcd8a
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2003'
+location:
+  latitude: 43.669707
+  longitude: -79.391691
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- e7c0d105-ed1d-4e46-8cd8-a5153a2a784d
