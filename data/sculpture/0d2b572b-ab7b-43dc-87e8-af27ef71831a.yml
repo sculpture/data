@@ -1,0 +1,15 @@
+id: 0d2b572b-ab7b-43dc-87e8-af27ef71831a
+type: sculpture
+slug: bronze-eroded-rome-deified
+title: Bronze Eroded Rome Deified
+artist-ids:
+- 4308a638-3e4e-47b2-aaa0-382aa5f0cd9d
+date: '2021'
+location:
+  latitude: 43.670941
+  longitude: -79.392051
+  precision: 10
+material-ids:
+- 590bc2f1-fd09-4c83-96da-39fa51cef820
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
