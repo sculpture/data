@@ -1,0 +1,21 @@
+id: a02b2de4-a25a-4bbc-8014-ade654fa2d7b
+type: sculpture
+slug: ambrose-burnside
+title: Ambrose Burnside
+artist-ids:
+- 53b14218-c6b0-43d9-b144-4ee42d3f9d26
+city-id: ea939486-3e5c-4db4-b30e-3e768a55dd4e
+date: '1887'
+location:
+  latitude: 41.825513
+  longitude: -71.41213
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 3f7e079f-a6cd-41f4-838e-8276cea37ca7
+- 521f00f2-f976-4b69-89cf-6e8db0c94f29
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
