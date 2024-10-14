@@ -1,0 +1,18 @@
+id: 7a58a472-4a36-4db7-a51d-c32272ef393e
+type: sculpture
+slug: sallustio-bandini
+title: Sallustio Bandini
+artist-ids:
+- abc167f7-ae07-4b7b-9db0-a74305db5c8b
+city-id: d2b07441-23d2-4ec3-8897-7266c2354a15
+date: '1880'
+location:
+  latitude: 43.321251
+  longitude: 11.330786
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 62501ae5-7d99-4fb1-ac89-3984d67a6d24
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
