@@ -1,0 +1,16 @@
+id: 6d99962e-1426-4d70-b4d4-52b38f757d7c
+type: sculpture
+slug: monument-prisoners-internees
+title: Monument to Prisoners and Internees
+artist-ids:
+- ce3275e9-1e7c-435d-8dc4-7822094f3fe1
+city-id: b194b50f-d34b-41c8-b068-38d14fddbfad
+date: '1976'
+location:
+  latitude: 43.514449
+  longitude: 16.443316
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
