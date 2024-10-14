@@ -1,0 +1,14 @@
+id: 814451e5-1d5f-4480-bfbd-b53843eff3f9
+type: sculpture
+slug: sem-titulo
+title: Untitled (coimbra)
+artist-ids:
+- 63e305f3-af8e-40ff-a00b-bb3bf862b502
+city-id: 58b70c2d-3c46-4012-9497-8e3fbaeed2bb
+date: '1971'
+location:
+  latitude: 40.218642
+  longitude: -8.413744
+  precision: 10
+material-ids:
+- b33c44d3-f360-4361-a312-4662066b9bdf
