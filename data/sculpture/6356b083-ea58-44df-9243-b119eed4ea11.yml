@@ -1,0 +1,19 @@
+id: 6356b083-ea58-44df-9243-b119eed4ea11
+type: sculpture
+slug: nation-sovereign-power
+title: Nation as Sovereign Power
+artist-ids:
+- c559a7af-8b12-411f-aa33-b572ead7e13d
+city-id: ea939486-3e5c-4db4-b30e-3e768a55dd4e
+date: '1908'
+location:
+  latitude: 41.824213
+  longitude: -71.412534
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
