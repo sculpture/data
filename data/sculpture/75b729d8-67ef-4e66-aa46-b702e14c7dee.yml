@@ -1,0 +1,19 @@
+id: 75b729d8-67ef-4e66-aa46-b702e14c7dee
+type: sculpture
+slug: giuseppe-garibaldi-padua
+title: Giuseppe Garibaldi (Padua)
+artist-ids:
+- 4226b351-98bd-4a57-8d41-bde5151bff57
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1887'
+location:
+  latitude: 45.410503
+  longitude: 11.878207
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 521f00f2-f976-4b69-89cf-6e8db0c94f29
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
