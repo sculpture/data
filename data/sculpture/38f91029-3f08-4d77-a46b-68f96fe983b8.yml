@@ -1,0 +1,18 @@
+id: 38f91029-3f08-4d77-a46b-68f96fe983b8
+type: sculpture
+slug: michele-sanmicheli
+title: Michele Sanmicheli
+artist-ids:
+- 44a06077-a821-4477-b6c0-2f1b2fc2664b
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: '1874'
+location:
+  latitude: 45.435032
+  longitude: 10.989917
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- aa96c2c8-29f8-458e-bd0c-eab80c54286a
