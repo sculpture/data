@@ -1,0 +1,14 @@
+id: 05be5a03-b858-4f0d-8d1a-41a28aea901c
+type: sculpture
+slug: under-laurentide
+title: Under the Laurentide
+artist-ids:
+- b84e091f-4896-4a06-baab-e6de001d84de
+city-id: ea939486-3e5c-4db4-b30e-3e768a55dd4e
+date: '2014'
+location:
+  latitude: 41.827004
+  longitude: -71.40194
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
