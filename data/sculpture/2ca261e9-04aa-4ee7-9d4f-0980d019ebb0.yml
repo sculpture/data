@@ -1,0 +1,20 @@
+id: 2ca261e9-04aa-4ee7-9d4f-0980d019ebb0
+type: sculpture
+slug: josip-jelacic
+title: Josip Jelačić
+artist-ids:
+- 24d15c09-d17f-4e24-82fa-7579f7dd37b3
+city-id: a4bce8ca-fbdf-4833-8f5a-b3c9d49d0049
+date: '1866'
+location:
+  latitude: 45.813121
+  longitude: 15.977301
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- afe881a8-8283-4438-8c73-3ce55aae32dc
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
