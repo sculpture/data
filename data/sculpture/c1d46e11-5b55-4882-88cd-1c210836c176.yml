@@ -1,0 +1,19 @@
+id: c1d46e11-5b55-4882-88cd-1c210836c176
+type: sculpture
+slug: medieval-scholar-sml
+title: Medieval Scholar
+artist-ids:
+- 69a7e4f9-005a-48dd-ab46-dc88a67999ae
+- b6cc8977-bb40-41a2-b5cf-26a2770f53f7
+city-id: 67502ee4-ba34-434c-b3bc-86efa7affde8
+date: '1931'
+location:
+  latitude: 41.310999
+  longitude: -72.928366
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 22f35a04-d625-43f8-bc7d-832314d91fb7
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 8edbb59e-b498-4210-9981-8781235cafcd
