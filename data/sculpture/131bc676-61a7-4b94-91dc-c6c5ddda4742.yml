@@ -1,0 +1,18 @@
+id: 131bc676-61a7-4b94-91dc-c6c5ddda4742
+type: sculpture
+slug: dante-alighieri
+title: Dante Alighieri (Padua)
+artist-ids:
+- 5ddc3afb-7768-4aa2-8be0-749e35bf20a2
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1865'
+location:
+  latitude: 45.398917
+  longitude: 11.874976
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
