@@ -1,0 +1,18 @@
+id: 4a3d69d2-93fc-4976-b4c5-6a78be793386
+type: sculpture
+slug: giotto-padua
+title: Giotto
+artist-ids:
+- 5ddc3afb-7768-4aa2-8be0-749e35bf20a2
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1865'
+location:
+  latitude: 45.398917
+  longitude: 11.874976
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- b078f909-a131-4d37-8b36-59061078b159
