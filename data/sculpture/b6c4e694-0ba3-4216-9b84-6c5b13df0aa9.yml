@@ -1,0 +1,17 @@
+id: b6c4e694-0ba3-4216-9b84-6c5b13df0aa9
+type: sculpture
+slug: faun-biernacki
+title: Faun
+artist-ids:
+- 4cb92c05-fa41-4b1a-a561-71731b7ef700
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1930'
+location:
+  latitude: 52.244273
+  longitude: 21.057481
+  precision: 31
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
