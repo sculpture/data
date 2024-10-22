@@ -1,0 +1,17 @@
+id: 6d644119-3ccf-4b2f-ba80-8b5e410057a3
+type: sculpture
+slug: palazzo-dei-priori
+title: Palazzo dei Priori - Portale
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 566c4d79-78da-412a-b533-e99b8758f179
+date: '1346'
+location:
+  latitude: 43.111783
+  longitude: 12.388728
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 22f35a04-d625-43f8-bc7d-832314d91fb7
+- de83a4c2-214e-45fb-a307-c835449e52bf
