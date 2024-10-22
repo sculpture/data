@@ -1,0 +1,18 @@
+id: 11b1c8f8-27af-48e8-94d6-62b32646c047
+type: sculpture
+slug: dancing-satyr-lebrun
+title: Dancing Satyr
+artist-ids:
+- 7596537f-567d-4c9d-92f6-d8fbffe0018d
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1776'
+location:
+  latitude: 52.214962
+  longitude: 21.035587
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
