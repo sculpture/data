@@ -1,0 +1,20 @@
+id: 7fd132b5-b3f8-4715-bf8b-d941835c63f0
+type: sculpture
+slug: nicolaus-copernicus-chicago
+title: Nicolaus Copernicus (Chicago replica)
+artist-ids:
+- c4c8ec33-facc-423a-a3a9-eb6c1e5df7d4
+city-id: 8fa25799-a952-4ff5-9506-2f3b95f48200
+date: '1830'
+link-wikipedia: https://en.wikipedia.org/wiki/Nicolaus_Copernicus_Monument_(Chicago)
+location:
+  latitude: 41.865988
+  longitude: -87.607487
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9905d2f9-00e0-443b-8640-dfb98d4795a1
