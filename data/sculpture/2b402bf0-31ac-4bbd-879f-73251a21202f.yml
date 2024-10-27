@@ -1,0 +1,19 @@
+id: 2b402bf0-31ac-4bbd-879f-73251a21202f
+type: sculpture
+slug: tango-of-love
+title: Tango Of Love
+artist-ids:
+- 078ab445-c4a4-4f30-99ce-2ab657f58f93
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2019'
+location:
+  latitude: 45.431483
+  longitude: 12.352742
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6883fc7a-540d-4fe9-9753-80f6e581f0ab
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
