@@ -1,0 +1,14 @@
+id: 5a5557d6-86a2-4df3-a424-4ffa47ce49fe
+type: sculpture
+slug: pre-natal-memories
+title: Pre-Natal Memories
+artist-ids:
+- bd9de07c-dcbb-4c62-9d26-d63b6736a547
+city-id: fd14bdab-7cb5-49d7-a9e8-84595c2d2088
+date: '1981'
+location:
+  latitude: 34.053248
+  longitude: -118.250552
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
