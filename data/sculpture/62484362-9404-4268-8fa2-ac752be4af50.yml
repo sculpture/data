@@ -1,0 +1,16 @@
+id: 62484362-9404-4268-8fa2-ac752be4af50
+type: sculpture
+slug: fire-bench
+title: Fire Bench
+artist-ids:
+- fa4daa33-789c-4120-9d08-5b5647edb93f
+city-id: 52ca364d-2e9c-46da-aa22-a34ffe6cb7ee
+date: '2020'
+location:
+  latitude: 45.05254
+  longitude: -78.520933
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- 21b5d04c-9fea-4c3d-a0d6-2b9dff10c299
