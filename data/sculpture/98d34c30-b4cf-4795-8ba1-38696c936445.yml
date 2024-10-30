@@ -1,0 +1,17 @@
+id: 98d34c30-b4cf-4795-8ba1-38696c936445
+type: sculpture
+slug: loggetta-justice-venus
+title: Loggetta - Justice Venus
+artist-ids:
+- 732d7785-6332-4878-870e-f6e5f6e6e002
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: 154*
+location:
+  latitude: 45.433828
+  longitude: 12.339276
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 8edbb59e-b498-4210-9981-8781235cafcd
