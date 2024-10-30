@@ -1,0 +1,18 @@
+id: ad49ad2b-b5de-44a9-a92b-2ad59543cb46
+type: sculpture
+slug: francesco-querini
+title: Francesco Querini
+artist-ids:
+- 762d57c0-ee48-46ec-be9d-ca3a4b3770dd
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1905'
+location:
+  latitude: 45.429671
+  longitude: 12.355787
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 69050b3c-166a-422e-86ce-a9c6f896805a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
