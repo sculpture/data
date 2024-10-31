@@ -1,0 +1,18 @@
+id: cb7deade-73ab-4719-8a99-13c90aed2d63
+type: sculpture
+slug: virtue-crowns-merit
+title: Virtue Crowning Merit
+artist-ids:
+- 043a00f3-7dad-4fac-9f78-baddb1f6eaad
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1708'
+location:
+  latitude: 45.439253
+  longitude: 12.342474
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
