@@ -1,0 +1,17 @@
+id: 257bd2a3-1598-4d6e-9d92-0e6d1eff00cd
+type: sculpture
+slug: piotr-skrzynecki
+title: Piotr Skrzynecki
+artist-ids:
+- f45aa9ec-a634-41bb-ba3b-63fce16ad4a8
+- f7fec2e6-b97a-416c-a778-d9ffcb3536fc
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '2000'
+location:
+  latitude: 50.061816
+  longitude: 19.93566
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 21b5d04c-9fea-4c3d-a0d6-2b9dff10c299
