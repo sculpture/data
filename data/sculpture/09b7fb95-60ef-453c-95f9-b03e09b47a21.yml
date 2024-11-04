@@ -1,0 +1,19 @@
+id: 09b7fb95-60ef-453c-95f9-b03e09b47a21
+type: sculpture
+slug: petar-zoranic
+title: Petar Zoranić
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 8bc72753-947c-4ed4-a818-d6751770e9bb
+date: '1969'
+location:
+  latitude: 44.119371
+  longitude: 15.231365
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
