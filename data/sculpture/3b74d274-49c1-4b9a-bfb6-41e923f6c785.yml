@@ -1,0 +1,20 @@
+id: 3b74d274-49c1-4b9a-bfb6-41e923f6c785
+type: sculpture
+slug: agnieszka-osiecka
+title: Agnieszka Osiecka
+artist-ids:
+- 3e79192b-abbe-4c14-99c6-baea2711a630
+- 4b011c26-471f-496e-a209-1e6b1f5919b7
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2007'
+location:
+  latitude: 52.233225
+  longitude: 21.054806
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 21b5d04c-9fea-4c3d-a0d6-2b9dff10c299
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
