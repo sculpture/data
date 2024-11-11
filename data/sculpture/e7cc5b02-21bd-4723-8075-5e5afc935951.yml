@@ -5,7 +5,7 @@ title: Gobbo di Verona
 artist-ids:
 - 6cc59db2-3d52-435f-8ca2-054f62bdfc5b
 city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
-date: 159*
+date: '1495'
 location:
   latitude: 45.445132
   longitude: 10.999732
@@ -13,7 +13,7 @@ location:
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
-- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
 - 2d488599-d808-40db-80a2-88b41c7bdb67
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
 - 6f13c768-5619-419e-97af-60440cab7f89
 - c9884cff-1c92-48b5-816b-aa0479de54fa
