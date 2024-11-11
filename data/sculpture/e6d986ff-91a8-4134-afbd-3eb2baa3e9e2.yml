@@ -1,0 +1,15 @@
+id: e6d986ff-91a8-4134-afbd-3eb2baa3e9e2
+type: sculpture
+slug: spiridon-brusina
+title: Spiridon Brusina
+artist-ids:
+- 58c19a78-8bd5-4ce1-bfef-8e02f4e1726d
+city-id: 8bc72753-947c-4ed4-a818-d6751770e9bb
+location:
+  latitude: 44.119402
+  longitude: 15.227106
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 981f0f0b-7f88-43af-b1d6-1ed2653e71ae
