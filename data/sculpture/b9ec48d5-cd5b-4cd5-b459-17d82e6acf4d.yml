@@ -1,0 +1,20 @@
+id: b9ec48d5-cd5b-4cd5-b459-17d82e6acf4d
+type: sculpture
+slug: puro-folle-wildt
+title: Il Puro Folle
+artist-ids:
+- 42acb2f0-dff3-4f48-8ae9-a011af8b085f
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1930'
+location:
+  latitude: 45.441076
+  longitude: 12.331642
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3d01002e-928d-47f0-9a30-5f38d5a8eb27
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
