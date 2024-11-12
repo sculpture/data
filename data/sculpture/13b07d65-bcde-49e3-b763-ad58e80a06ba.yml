@@ -1,0 +1,19 @@
+id: 13b07d65-bcde-49e3-b763-ad58e80a06ba
+type: sculpture
+slug: ggolino-and-his-sons
+title: Ugolino and His Sons
+artist-ids:
+- e2cef29d-151d-4857-acb2-d56e767f044c
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1867'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- c18859b5-46fe-40c0-9b36-834204f18a97
