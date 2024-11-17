@@ -1,0 +1,19 @@
+id: 4e24e84a-d5c8-4edd-9fec-e9da97b4dbaf
+type: sculpture
+slug: groser-elefant
+title: Großer Elefant
+artist-ids:
+- e1c34b01-3d8a-498c-8c40-65bf442e15a0
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1996'
+location:
+  latitude: 45.440379
+  longitude: 12.315955
+  precision: 10
+material-ids:
+- 590bc2f1-fd09-4c83-96da-39fa51cef820
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
