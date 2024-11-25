@@ -1,0 +1,21 @@
+id: e3c29a18-c7af-4e0d-9b52-3ed12aa82d08
+type: sculpture
+slug: fregoso-altar
+title: Fregoso Altar
+artist-ids:
+- ab79b61b-d3c6-4393-856e-cc04d5c0fbaf
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: '1565'
+location:
+  latitude: 45.445283
+  longitude: 10.999914
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
+- de83a4c2-214e-45fb-a307-c835449e52bf
