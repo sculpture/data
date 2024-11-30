@@ -1,0 +1,21 @@
+id: 7b30b1b1-7514-40fa-ad97-f1a80ecae4c5
+type: sculpture
+slug: monument-doge-tommaso-mocenigo
+title: Monument to Doge Tommaso Mocenigo
+artist-ids:
+- 1e1b40ab-5ac1-4ca7-bde5-86140330f846
+- 4c309694-deeb-4731-bb41-76922df2c936
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1423'
+location:
+  latitude: 45.439379
+  longitude: 12.341713
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18694c37-89e8-4e01-9c31-16245323218a
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
