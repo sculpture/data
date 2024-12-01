@@ -1,0 +1,19 @@
+id: 37defba7-136e-48c3-be29-ec76fe288bae
+type: sculpture
+slug: godfrey-of-bouillon
+title: Godfrey of Bouillon
+artist-ids:
+- 0843a961-7fc3-4836-a770-1a4a915d6b74
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1848'
+location:
+  latitude: 50.842281
+  longitude: 4.359483
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6cac5bfb-8079-494d-bdff-dffb9c54e908
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
