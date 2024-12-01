@@ -1,0 +1,17 @@
+id: 34b0602f-c1db-44d4-a980-f16456d3f1cd
+type: sculpture
+slug: salt-miners
+title: Salt Miners
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 89900932-3fd0-4c0d-9568-f7b3ba98285b
+date: '2011'
+location:
+  latitude: 49.98236
+  longitude: 20.060359
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- c9884cff-1c92-48b5-816b-aa0479de54fa
