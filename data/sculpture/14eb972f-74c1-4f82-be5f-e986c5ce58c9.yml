@@ -1,0 +1,17 @@
+id: 14eb972f-74c1-4f82-be5f-e986c5ce58c9
+type: sculpture
+slug: giuseppe-tartini
+title: Giuseppe Tartini
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1924'
+location:
+  latitude: 45.401228
+  longitude: 11.880853
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- ac86ac3d-0564-479e-a5f0-5de5b5e7f7f4
