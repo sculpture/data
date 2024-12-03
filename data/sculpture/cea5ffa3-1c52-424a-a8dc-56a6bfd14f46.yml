@@ -1,0 +1,20 @@
+id: cea5ffa3-1c52-424a-a8dc-56a6bfd14f46
+type: sculpture
+slug: signal-of-peace
+title: A Signal of Peace
+artist-ids:
+- 28bfce46-6e4b-473d-afad-cab3da9916d5
+city-id: 8fa25799-a952-4ff5-9506-2f3b95f48200
+date: '1890'
+link-wikipedia: https://en.wikipedia.org/wiki/A_Signal_of_Peace
+location:
+  latitude: 41.933575
+  longitude: -87.630847
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- c9884cff-1c92-48b5-816b-aa0479de54fa
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
