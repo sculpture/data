@@ -8,8 +8,8 @@ city-id: 8fa25799-a952-4ff5-9506-2f3b95f48200
 date: '1890'
 link-wikipedia: https://en.wikipedia.org/wiki/A_Signal_of_Peace
 location:
-  latitude: 41.933575
-  longitude: -87.630847
+  latitude: 41.933535
+  longitude: -87.631298
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
