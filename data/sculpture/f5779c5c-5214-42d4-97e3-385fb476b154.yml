@@ -1,0 +1,17 @@
+id: f5779c5c-5214-42d4-97e3-385fb476b154
+type: sculpture
+slug: bronze-doors-san-fermo
+title: San Fermo - Bronze Doors
+artist-ids:
+- b16b017c-3d70-4a5b-ba6a-e882ca10e8ec
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: '1997'
+location:
+  latitude: 45.364995
+  longitude: 11.016888
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- e78083c3-6cf7-41f2-95b5-5c4fad650664
