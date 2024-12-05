@@ -1,0 +1,17 @@
+id: 520c1f77-1af2-48f8-871b-3d6eec5e6c5c
+type: sculpture
+slug: monument-1882-flood
+title: Monument of 1882 Flood
+artist-ids:
+- 65b21bcb-c994-4c96-a722-57abecf3c30d
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1885'
+location:
+  latitude: 45.429706
+  longitude: 12.35578
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2d7e8f2e-e187-462b-a638-06a4ef145363
