@@ -1,0 +1,18 @@
+id: 699a4103-afbb-48e9-a9cd-70fcf3964c1e
+type: sculpture
+slug: air-defrance-met
+title: 'Air '
+artist-ids:
+- a8b5f4e8-6734-4aaf-a387-6023e607b8f2
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: 175*
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
