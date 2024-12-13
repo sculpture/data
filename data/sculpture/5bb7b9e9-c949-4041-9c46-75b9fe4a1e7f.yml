@@ -1,0 +1,18 @@
+id: 5bb7b9e9-c949-4041-9c46-75b9fe4a1e7f
+type: sculpture
+slug: marchetti-funeral-monument
+title: Marchetti Funeral Monument
+artist-ids:
+- 447c3a31-f8e5-451a-bd47-15a4b0dbaeca
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1690'
+location:
+  latitude: 45.401394
+  longitude: 11.880773
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
