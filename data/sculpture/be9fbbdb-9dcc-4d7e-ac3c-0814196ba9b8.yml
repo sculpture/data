@@ -1,0 +1,18 @@
+id: be9fbbdb-9dcc-4d7e-ac3c-0814196ba9b8
+type: sculpture
+slug: stefan-wyszynski-wloclawek
+title: Stefan Wyszyński
+artist-ids:
+- b636687f-fe7c-40db-a497-9df33e1f822f
+city-id: 06558204-3fa8-4b06-ab9d-f80c4f4c6f23
+date: '1996'
+location:
+  latitude: 52.661253
+  longitude: 19.067322
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2965e068-6250-4ba0-a708-376890e43ac4
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
