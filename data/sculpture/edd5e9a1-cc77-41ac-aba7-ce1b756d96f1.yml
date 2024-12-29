@@ -1,0 +1,18 @@
+id: edd5e9a1-cc77-41ac-aba7-ce1b756d96f1
+type: sculpture
+slug: soldiers-and-sailors-arch
+title: Soldiers' and Sailors' Arch
+artist-ids:
+- 74602928-ee03-4cb7-8388-fa753560a83e
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1892'
+link-wikipedia: https://en.wikipedia.org/wiki/Soldiers%27_and_Sailors%27_Arch
+location:
+  latitude: 40.673001
+  longitude: -73.969901
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
