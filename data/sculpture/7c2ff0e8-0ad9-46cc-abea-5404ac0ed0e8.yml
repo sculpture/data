@@ -1,0 +1,14 @@
+id: 7c2ff0e8-0ad9-46cc-abea-5404ac0ed0e8
+type: sculpture
+slug: masken-adlhart
+title: Masken
+artist-ids:
+- cd027154-7b7b-454d-93ac-6fbc5abc6c88
+city-id: 7e35b7d3-6c72-44b3-90ea-ae23cc140164
+date: '1926'
+location:
+  latitude: 47.801415
+  longitude: 13.044844
+  precision: 10
+material-ids:
+- c1c07f0b-8700-44fb-9a0f-241032b370e8
