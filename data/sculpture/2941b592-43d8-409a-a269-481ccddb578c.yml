@@ -1,0 +1,18 @@
+id: 2941b592-43d8-409a-a269-481ccddb578c
+type: sculpture
+slug: emilio-salgari
+title: Emilio Salgari
+artist-ids:
+- b560334e-4021-4b8b-995e-2d8fe9fa6450
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: '2012'
+location:
+  latitude: 45.438366
+  longitude: 10.991714
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 66ec2c31-c300-4e0f-bc36-93fa72a95fef
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
