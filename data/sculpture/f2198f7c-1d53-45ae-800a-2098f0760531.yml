@@ -1,0 +1,16 @@
+id: f2198f7c-1d53-45ae-800a-2098f0760531
+type: sculpture
+slug: nera-tolomei
+title: Nera Tolomei
+artist-ids:
+- 51ca886b-283b-4858-8dcd-20362e3bcec1
+city-id: d2b07441-23d2-4ec3-8897-7266c2354a15
+date: '1802'
+location:
+  latitude: 43.320112
+  longitude: 11.331581
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
