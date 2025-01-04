@@ -1,0 +1,18 @@
+id: 939a1ca7-d98a-481b-81ed-6c5c3283e129
+type: sculpture
+slug: prosdocimo-and-giustina
+title: San Prosdocimo and Santa Giustina
+artist-ids:
+- 4b903993-b427-4f22-804d-66bc472a1423
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1997'
+location:
+  latitude: 45.406471
+  longitude: 11.870932
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 78695307-4f57-45a4-9566-dd0893e2ae80
+- de83a4c2-214e-45fb-a307-c835449e52bf
