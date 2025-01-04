@@ -1,0 +1,21 @@
+id: e8ff5b62-a044-474c-afda-aa0bd7dfc5a8
+type: sculpture
+slug: tomb-leonardo-loredan
+title: Tomb of Leonardo Loredan
+artist-ids:
+- 05d03296-c478-48a2-80e4-2aaf2f690a6d
+- ab79b61b-d3c6-4393-856e-cc04d5c0fbaf
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1572'
+location:
+  latitude: 45.43933
+  longitude: 12.342325
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18694c37-89e8-4e01-9c31-16245323218a
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
