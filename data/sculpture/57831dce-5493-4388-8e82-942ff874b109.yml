@@ -1,0 +1,17 @@
+id: 57831dce-5493-4388-8e82-942ff874b109
+type: sculpture
+slug: zbigniew-cybulski-kielce
+title: Zbigniew Cybulski
+artist-ids:
+- 33e4b671-2476-44e7-8634-d24e33935e73
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '2010'
+location:
+  latitude: 50.86679
+  longitude: 20.621885
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 3e179310-873d-4553-96ba-43bd2708f27b
