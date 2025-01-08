@@ -1,0 +1,18 @@
+id: 6b9563cb-261b-49d8-bb4a-9808debfcf6f
+type: sculpture
+slug: tobiolo
+title: Tobiolo
+artist-ids:
+- 1c73f2df-cbc8-433c-b1e4-cbfbb9c14113
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1957'
+location:
+  latitude: 45.407448
+  longitude: 11.877361
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- d973207a-6b23-4505-a84d-d2339bc3a55c
