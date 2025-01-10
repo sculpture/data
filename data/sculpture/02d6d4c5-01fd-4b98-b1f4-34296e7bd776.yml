@@ -1,0 +1,19 @@
+id: 02d6d4c5-01fd-4b98-b1f4-34296e7bd776
+type: sculpture
+slug: iron-horse-spachman
+title: The Iron Horse
+artist-ids:
+- fac71078-7b86-4eb2-bbb8-1cb31ce2197e
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1994'
+location:
+  latitude: 43.695694
+  longitude: -79.396039
+  precision: 10
+material-ids:
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+- 9da26974-d142-42ce-86aa-f28559a6d575
+tag-ids:
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
