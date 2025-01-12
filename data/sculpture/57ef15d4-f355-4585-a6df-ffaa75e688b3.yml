@@ -1,0 +1,18 @@
+id: 57ef15d4-f355-4585-a6df-ffaa75e688b3
+type: sculpture
+slug: antonio-ordonez
+title: Antonio Ordóñez
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 6510c585-9cc8-4937-a208-5826ab648a04
+date: '1996'
+location:
+  latitude: 36.742786
+  longitude: -5.166825
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 74fdf053-e096-4324-86e0-baae0f54bde0
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
