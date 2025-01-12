@@ -1,0 +1,17 @@
+id: 9db12f6e-f4f2-46dc-8a3d-9dfdbf6410df
+type: sculpture
+slug: funferbandegestuhl
+title: Fünferbandegestühl
+artist-ids:
+- 23ae62e5-651b-4c3b-a8c1-4355deb87824
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2000'
+location:
+  latitude: 45.431422
+  longitude: 12.352808
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
