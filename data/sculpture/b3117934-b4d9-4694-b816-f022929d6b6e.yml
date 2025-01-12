@@ -1,0 +1,19 @@
+id: b3117934-b4d9-4694-b816-f022929d6b6e
+type: sculpture
+slug: liberty-bartholdy-met
+title: Liberty
+artist-ids:
+- 3b5f3e11-9749-46df-8373-e92812f769da
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1875'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
+- b078f909-a131-4d37-8b36-59061078b159
