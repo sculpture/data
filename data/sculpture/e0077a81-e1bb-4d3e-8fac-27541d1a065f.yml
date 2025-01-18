@@ -1,0 +1,18 @@
+id: e0077a81-e1bb-4d3e-8fac-27541d1a065f
+type: sculpture
+slug: building-dirt-roof
+title: Low Building with Dirt Roof (For Mary)
+artist-ids:
+- 51a039d0-e260-41b6-a2e9-c3e93d72f7d9
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '1973'
+location:
+  latitude: 41.423596
+  longitude: -74.063209
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- a267fb56-e090-4da4-b72c-152f966877d9
+- a5573937-8c56-4732-b039-bcd2ba7cdc19
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
