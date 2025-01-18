@@ -1,0 +1,19 @@
+id: f9a2961f-d518-49ec-a704-5c371ce85bf0
+type: sculpture
+slug: advertisement-muller-stoneware
+title: Advertisement for Muller Stoneware
+artist-ids:
+- 1134fb74-a3d0-43f0-80ba-489da1c172d3
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1897'
+location:
+  latitude: 40.779437
+  longitude: -73.963244
+  precision: 10
+material-ids:
+- ecc428b2-eb8c-4510-a62f-84bf4adecb90
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- d973207a-6b23-4505-a84d-d2339bc3a55c
