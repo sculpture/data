@@ -1,0 +1,13 @@
+id: 1c7685c9-3e92-48ed-9273-dd1009f7720a
+type: sculpture
+slug: turning-tucker
+title: Turning
+artist-ids:
+- 1619f496-1e89-4553-98ed-5507e0049b1d
+date: '1981'
+location:
+  latitude: 42.370113
+  longitude: -78.691542
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
