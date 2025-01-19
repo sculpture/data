@@ -1,0 +1,17 @@
+id: 6fdcd623-5fe3-46cb-b51c-965f27c3740b
+type: sculpture
+slug: kijimba-kind
+title: Kijimba Kind – Home Place
+artist-ids:
+- 8221d084-6345-4eb5-9bc4-d1b3d278be36
+city-id: 29c04be3-e495-4c7c-bd72-b3d935fef86d
+date: '2001'
+location:
+  latitude: 43.815372
+  longitude: -79.073104
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 8edbb59e-b498-4210-9981-8781235cafcd
