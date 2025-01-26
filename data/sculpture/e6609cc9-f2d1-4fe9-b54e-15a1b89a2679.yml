@@ -1,0 +1,19 @@
+id: e6609cc9-f2d1-4fe9-b54e-15a1b89a2679
+type: sculpture
+slug: arthur-wellesley-porto
+title: Arthur Wellesley
+artist-ids:
+- 0a1aac79-aca0-42d2-ac45-61281bbfee15
+city-id: 3b930473-fa76-42c7-8b75-8d460d649251
+date: '2011'
+location:
+  latitude: 41.149646
+  longitude: -8.620872
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 6cac5bfb-8079-494d-bdff-dffb9c54e908
+- fb97341d-10db-41e3-821a-33d920fb5638
