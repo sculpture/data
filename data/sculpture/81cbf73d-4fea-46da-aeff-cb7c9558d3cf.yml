@@ -1,0 +1,17 @@
+id: 81cbf73d-4fea-46da-aeff-cb7c9558d3cf
+type: sculpture
+slug: angel-resurrection-zalewski
+title: Angel of the Resurrection
+artist-ids:
+- 7b3ee2b2-4178-4108-bf86-111f6e0cfb9e
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: 186*
+location:
+  latitude: 52.251369
+  longitude: 20.969569
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
