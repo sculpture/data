@@ -1,0 +1,15 @@
+id: 144ca8a8-d6cf-4fc0-a9b5-75c604952c3e
+type: sculpture
+slug: senza-titolo-padua
+title: Senza titolo
+artist-ids:
+- 0b6634f1-aaa1-4ffc-8ffc-c3d7bd73b6d9
+- 79eb0175-42e0-4528-a288-c4694cdfa0b3
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1952'
+location:
+  latitude: 45.410306
+  longitude: 11.875975
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
