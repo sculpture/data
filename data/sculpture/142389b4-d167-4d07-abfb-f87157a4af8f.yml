@@ -1,0 +1,19 @@
+id: 142389b4-d167-4d07-abfb-f87157a4af8f
+type: sculpture
+slug: escudo-de-armas
+title: Escudo de armas
+artist-ids:
+- f829930d-ea83-4852-ae19-9d67b0768ee0
+city-id: 16e2f36d-eb09-4c02-9fd2-334682ca2e1c
+date: 192*
+location:
+  latitude: 41.411872
+  longitude: 2.17434
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- c4d43f20-6227-4d28-a802-ac07639375bf
