@@ -1,0 +1,17 @@
+id: 8c397576-4ba4-4c1d-b46b-f974dbeec38c
+type: sculpture
+slug: vincent-van-gogh-arles
+title: Vincent van Gogh
+artist-ids:
+- 453b53c2-7495-4f9b-9a69-76fecdc2ee16
+city-id: 83e8235c-7b13-40f9-a343-345bad175adb
+date: '2017'
+location:
+  latitude: 43.675787
+  longitude: 4.625605
+  precision: 10
+material-ids:
+- 590bc2f1-fd09-4c83-96da-39fa51cef820
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- b078f909-a131-4d37-8b36-59061078b159
