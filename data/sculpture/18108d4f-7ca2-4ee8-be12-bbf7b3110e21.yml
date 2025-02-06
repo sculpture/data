@@ -1,0 +1,17 @@
+id: 18108d4f-7ca2-4ee8-be12-bbf7b3110e21
+type: sculpture
+slug: screaming-sky
+title: Screaming Sky
+artist-ids:
+- 2bd8e75f-90eb-472c-8976-63cbde1951e5
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2024'
+location:
+  latitude: 45.431568
+  longitude: 12.352514
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
