@@ -1,9 +1,9 @@
 id: 2bd8e75f-90eb-472c-8976-63cbde1951e5
 type: artist
-slug: nikola-vudrag
-name: Nikola Vudrag
-birth-date: '1989'
-gender: male
-link-website: https://vudrag.com/
+slug: olga-lomaka
+name: Olga Lomaka
+birth-date: '1982'
+gender: female
+link-wikipedia: https://en.wikipedia.org/wiki/Olga_Lomaka
 nationality-ids:
-- 3f46bc3a-40eb-414d-97a5-cf6f05d2d845
+- a9f1263f-b9e5-4002-b489-28dc1e99f663
