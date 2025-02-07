@@ -1,0 +1,14 @@
+id: 4dac7fd5-8a5d-43e9-9fdd-a7cd9f0e0e13
+type: sculpture
+slug: ryszard-kuklinski-monument
+title: Ryszard Kukliński monument
+artist-ids:
+- f81ce1a4-875f-427d-aea7-52a70f90b725
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '2018'
+location:
+  latitude: 50.06551
+  longitude: 19.946428
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
