@@ -1,0 +1,19 @@
+id: f1c7c097-5001-41d3-80c2-8e14f69b6057
+type: sculpture
+slug: larco-sgaravatti
+title: L’Arco
+artist-ids:
+- 85094767-cd95-4d1b-9840-2c34b3cb3775
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1991'
+location:
+  latitude: 45.410739
+  longitude: 11.879069
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
