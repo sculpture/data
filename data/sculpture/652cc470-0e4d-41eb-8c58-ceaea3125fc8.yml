@@ -1,0 +1,18 @@
+id: 652cc470-0e4d-41eb-8c58-ceaea3125fc8
+type: sculpture
+slug: francisco-gomes-avelar
+title: Francisco Gomes do Avelar
+artist-ids:
+- a40de3ff-94a7-4b3b-b6e4-c823f9d20270
+city-id: 143f8300-0f7c-48c6-8b33-0f234260f803
+date: '1940'
+location:
+  latitude: 37.013535
+  longitude: -7.935163
+  precision: 10
+material-ids:
+- 82d64d3e-293a-4153-b6af-0f83be37e623
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2f65ce93-2124-4391-a225-855055c78203
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
