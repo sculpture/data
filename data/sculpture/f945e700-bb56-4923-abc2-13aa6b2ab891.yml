@@ -5,10 +5,10 @@ title: Great Auk
 artist-ids:
 - 0168dd90-b12c-448b-8c83-d66a24375851
 city-id: 61e161d1-a37e-46bd-a626-4c409992e524
-date: 200*
+date: '2010'
 location:
-  latitude: 63.809189
-  longitude: -22.709802
+  latitude: 63.812333
+  longitude: -22.715381
   precision: 50
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
