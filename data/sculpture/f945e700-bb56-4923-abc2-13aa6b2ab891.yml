@@ -1,0 +1,17 @@
+id: f945e700-bb56-4923-abc2-13aa6b2ab891
+type: sculpture
+slug: great-auk
+title: Great Auk
+artist-ids:
+- 0168dd90-b12c-448b-8c83-d66a24375851
+city-id: 61e161d1-a37e-46bd-a626-4c409992e524
+date: 200*
+location:
+  latitude: 63.804321
+  longitude: -22.703451
+  precision: 50
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- b982214e-52f9-48b0-b977-4a4359b49fdb
