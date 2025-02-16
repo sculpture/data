@@ -1,0 +1,18 @@
+id: e40bd705-f659-40f6-bef8-c9120af13d79
+type: sculpture
+slug: aygosi-altar
+title: Aygosi altar
+artist-ids:
+- a1c8198f-cf35-4d56-945c-fe92e1047e9e
+city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
+date: '1470'
+location:
+  latitude: 43.531882
+  longitude: 5.447352
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 6f13c768-5619-419e-97af-60440cab7f89
+- de83a4c2-214e-45fb-a307-c835449e52bf
