@@ -1,0 +1,11 @@
+id: db522456-72e0-40ec-9667-a82188e53a7e
+type: artist
+slug: marisol
+name: Marisol
+birth-date: '1930'
+death-date: '2016'
+gender: female
+link-wikipedia: https://en.wikipedia.org/wiki/Marisol_Escobar
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553
+- f980d838-1f82-48df-84b3-a564f12ac21e
