@@ -1,0 +1,19 @@
+id: 872ecdcc-73b9-4649-b9f8-c856d4ceaf11
+type: sculpture
+slug: immaculate-conception-marinali
+title: Immaculate Conception
+artist-ids:
+- 907d9eec-3277-4b24-afc4-fcf521d5e4e8
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: 149*
+location:
+  latitude: 45.445392
+  longitude: 10.999839
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 78695307-4f57-45a4-9566-dd0893e2ae80
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- de83a4c2-214e-45fb-a307-c835449e52bf
