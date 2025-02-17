@@ -1,7 +1,7 @@
 id: 32afb5e8-bf0c-4b10-ae23-555d1097d6de
 type: sculpture
 slug: portrait-sidney-janis
-title: Portrait of Sidney Janis Selling Portrait of Sidney Janis
+title: Portrait of Sidney Janis ...
 artist-ids:
 - db522456-72e0-40ec-9667-a82188e53a7e
 city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
@@ -13,6 +13,7 @@ location:
 material-ids:
 - 1df5830e-aa31-460c-a366-f07356994824
 - 35913622-405e-4e52-b409-6acc87a4dd77
+note: "full title: \nPortrait of Sidney Janis Selling Portrait of Sidney Janis"
 tag-ids:
 - 6f13c768-5619-419e-97af-60440cab7f89
 - 9010cc4c-c852-4176-a7fe-04f0885fcffc
