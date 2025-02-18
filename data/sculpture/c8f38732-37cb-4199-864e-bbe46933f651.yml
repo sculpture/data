@@ -1,0 +1,16 @@
+id: c8f38732-37cb-4199-864e-bbe46933f651
+type: sculpture
+slug: monsters-for-beauty-2
+title: Monsters for beauty (2)
+artist-ids:
+- 89aeb2a7-fee9-42fa-ade0-3d01a73a1930
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2017'
+location:
+  latitude: 43.676897
+  longitude: -79.363116
+  precision: 10
+material-ids:
+- c1c07f0b-8700-44fb-9a0f-241032b370e8
+tag-ids:
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
