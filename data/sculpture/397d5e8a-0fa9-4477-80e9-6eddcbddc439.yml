@@ -1,0 +1,20 @@
+id: 397d5e8a-0fa9-4477-80e9-6eddcbddc439
+type: sculpture
+slug: four0soap-dishes
+title: Four Soap Dishes
+artist-ids:
+- eb7fbec1-62a5-4389-b7e9-babbcde37195
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1962'
+location:
+  latitude: 45.441
+  longitude: 12.331513
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- 378ccb04-3b2e-4e9f-8b24-1d74513996ce
+- 983d1c37-99da-4b1d-baba-681a83e66d30
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
