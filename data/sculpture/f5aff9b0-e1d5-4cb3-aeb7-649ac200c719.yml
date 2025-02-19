@@ -1,0 +1,16 @@
+id: f5aff9b0-e1d5-4cb3-aeb7-649ac200c719
+type: sculpture
+slug: mermaid-kozlowski
+title: Mermaid
+artist-ids:
+- b7cc23d2-4f4a-4f3a-a27e-2a89f7645866
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1972'
+location:
+  latitude: 52.23839
+  longitude: 21.00245
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
