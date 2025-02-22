@@ -1,0 +1,16 @@
+id: 11c0a6ad-8b41-458c-bb62-41cfbc7de439
+type: sculpture
+slug: grande-femme-debout-i
+title: Grande Femme debout I
+artist-ids:
+- cfc0ccc8-abfa-480e-844c-f9c931a65b2a
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: '1960'
+location:
+  latitude: 43.700791
+  longitude: 7.114804
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
