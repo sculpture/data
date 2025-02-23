@@ -1,0 +1,18 @@
+id: 17a0253e-2d57-4172-b958-6c1a5e3271d4
+type: sculpture
+slug: melpomene-palac-kultury
+title: Melpomene
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1954'
+location:
+  latitude: 52.232314
+  longitude: 21.005324
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
