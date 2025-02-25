@@ -1,0 +1,18 @@
+id: e28600d4-319b-4145-bacc-d9cea9dd2726
+type: sculpture
+slug: cross-station-iv-vuco
+title: cross station IV
+artist-ids:
+- 3cf3830d-c802-451b-afe7-b225c1818c20
+city-id: de771358-7c1c-42c5-8347-30aa30c3aff4
+date: '2012'
+location:
+  latitude: 42.65
+  longitude: 18.11
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- de83a4c2-214e-45fb-a307-c835449e52bf
