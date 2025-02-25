@@ -1,0 +1,18 @@
+id: 9ab57228-c19b-48ea-ac67-62b234232a9d
+type: sculpture
+slug: stefan-batory-ferrari
+title: Stefan Batory
+artist-ids:
+- 8d1b0c64-a48c-4127-b0be-e3e83d155630
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1789'
+location:
+  latitude: 45.39821
+  longitude: 11.877167
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
