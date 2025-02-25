@@ -1,0 +1,16 @@
+id: a3b657c7-ce01-4fe6-9b9d-41a43690c15d
+type: sculpture
+slug: winged-spirit-dillens
+title: Winged Spirit
+artist-ids:
+- b75d4202-99c5-4b38-a474-8e4fa7cd54c9
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1909'
+location:
+  latitude: 50.839758
+  longitude: 4.369967
+  precision: 10
+material-ids:
+- 46fe9fce-6a4f-4a44-89d7-dedc6f731b39
+tag-ids:
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
