@@ -1,0 +1,18 @@
+id: dd494a80-d7b6-4ce0-b610-8b085585c134
+type: sculpture
+slug: pope-lement-xiii-ferrari
+title: Pope Clement XIII
+artist-ids:
+- 8d1b0c64-a48c-4127-b0be-e3e83d155630
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1787'
+location:
+  latitude: 45.398293
+  longitude: 11.875649
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6c068959-5222-4073-b890-313bf91ca2b4
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
