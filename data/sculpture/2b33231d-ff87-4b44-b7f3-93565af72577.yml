@@ -1,0 +1,19 @@
+id: 2b33231d-ff87-4b44-b7f3-93565af72577
+type: sculpture
+slug: francesco-guicciardini
+title: Francesco Guicciardini
+artist-ids:
+- 8d1b0c64-a48c-4127-b0be-e3e83d155630
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1783'
+location:
+  latitude: 45.398063
+  longitude: 11.877001
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- a480972c-30b4-4a66-ae34-3c3e61a801ca
