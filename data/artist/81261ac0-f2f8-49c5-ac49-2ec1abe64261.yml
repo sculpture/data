@@ -1,0 +1,12 @@
+id: 81261ac0-f2f8-49c5-ac49-2ec1abe64261
+type: artist
+slug: roger-seassal
+name: Roger Séassal
+birth-date: '1885'
+death-date: '1967'
+gender: male
+link-wikipedia: https://fr.wikipedia.org/wiki/Roger_S%C3%A9assal
+nationality-ids:
+- a651bd10-8516-4046-a33d-8ec16799a830
+tag-ids:
+- 77fe386f-e922-473c-86bb-dfb8066c4104
