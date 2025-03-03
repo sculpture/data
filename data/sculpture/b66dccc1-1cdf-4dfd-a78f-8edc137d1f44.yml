@@ -1,0 +1,18 @@
+id: b66dccc1-1cdf-4dfd-a78f-8edc137d1f44
+type: sculpture
+slug: saint-aexius-rossi
+title: Saint Alexius altar
+artist-ids:
+- 99784a3a-d5c8-4371-8572-ef6a3de4d596
+city-id: 569920f5-7103-4e7b-8bef-a08ea0c3bd14
+date: '1663'
+location:
+  latitude: 41.898844
+  longitude: 12.472552
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 78695307-4f57-45a4-9566-dd0893e2ae80
+- 8edbb59e-b498-4210-9981-8781235cafcd
