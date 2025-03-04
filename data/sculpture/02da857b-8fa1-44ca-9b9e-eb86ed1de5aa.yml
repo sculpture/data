@@ -1,0 +1,18 @@
+id: 02da857b-8fa1-44ca-9b9e-eb86ed1de5aa
+type: sculpture
+slug: mars-wilanow
+title: Mars
+artist-ids:
+- aeacdb72-7ff9-4f2f-956a-5b837f6294d9
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: 168*
+location:
+  latitude: 52.165035
+  longitude: 21.086641
+  precision: 20
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
