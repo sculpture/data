@@ -9,7 +9,7 @@ date: 168*
 location:
   latitude: 52.165035
   longitude: 21.086641
-  precision: 20
+  precision: 10
 material-ids:
 - a267fb56-e090-4da4-b72c-152f966877d9
 tag-ids:
