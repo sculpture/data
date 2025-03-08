@@ -1,7 +1,7 @@
 id: bd02d30f-d6ef-42da-bc06-7a5718b7edc0
 type: sculpture
-slug: stanislawa-malchowski-tomb
-title: Stanisław Małachowski Tomb
+slug: stanislawa-malchowski
+title: Stanisław Małachowski
 artist-ids:
 - 17854086-bf03-4d2a-930a-47fc92e96e34
 city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
@@ -13,6 +13,9 @@ location:
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2d488599-d808-40db-80a2-88b41c7bdb67
 - 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
 - 6f13c768-5619-419e-97af-60440cab7f89
 - 9f63b713-73f7-46b1-9a00-5f35064e4c04
+- fb97341d-10db-41e3-821a-33d920fb5638
