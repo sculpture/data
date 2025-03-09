@@ -1,0 +1,17 @@
+id: 87c98c17-f9b0-4f24-ba68-c82946299369
+type: sculpture
+slug: george-washington-warsaw
+title: George Washington (Warsaw)
+artist-ids:
+- 98ef4012-1a15-40d0-b9a3-7529f59573a5
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1989'
+location:
+  latitude: 52.238141
+  longitude: 21.051792
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- b3e92e64-c83c-4c32-981a-18cb40402f4d
