@@ -1,0 +1,21 @@
+id: 7ed8ba0a-eccb-4f81-a3cf-9832cc186e06
+type: sculpture
+slug: rood-screen-frari-elijah
+title: Rood screen - Elijah
+artist-ids:
+- 0c1c98a5-1efe-44eb-974b-073594921cc1
+- 57bf179d-c6aa-4593-9c28-fe9fd8d28f40
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1475'
+location:
+  latitude: 45.436753
+  longitude: 12.326224
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- f1e29df1-4d1f-4024-b372-16fc54ef585a
