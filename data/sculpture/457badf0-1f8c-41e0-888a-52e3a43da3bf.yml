@@ -1,0 +1,19 @@
+id: 457badf0-1f8c-41e0-888a-52e3a43da3bf
+type: sculpture
+slug: claudio-monteverdi
+title: Claudio Monteverdi
+artist-ids:
+- 684bdf3c-746c-4e5c-a1c3-24669e8d69d8
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: 194*
+location:
+  latitude: 45.4367
+  longitude: 12.326321
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- ac86ac3d-0564-479e-a5f0-5de5b5e7f7f4
