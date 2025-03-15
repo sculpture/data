@@ -4,11 +4,11 @@ slug: concordia-salus-qc
 title: Concordia Salus
 artist-ids:
 - 20c7ecd9-fdef-421e-a6e5-439dc1ff3ef9
-city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
 date: '1867'
 location:
-  latitude: 46.813082
-  longitude: -71.20746
+  latitude: 45.504954
+  longitude: -73.557796
   precision: 10
 material-ids:
 - a267fb56-e090-4da4-b72c-152f966877d9
