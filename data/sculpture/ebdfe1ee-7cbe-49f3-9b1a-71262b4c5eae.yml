@@ -1,0 +1,18 @@
+id: ebdfe1ee-7cbe-49f3-9b1a-71262b4c5eae
+type: sculpture
+slug: pietro-paleocapa-venice
+title: Pietro Paleocapa
+artist-ids:
+- b2e3788d-71ef-4a9a-972a-a60029a68cfa
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1873'
+location:
+  latitude: 45.438347
+  longitude: 12.320494
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 05f12a7a-8656-445c-ad89-8617853c6f35
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 981f0f0b-7f88-43af-b1d6-1ed2653e71ae
