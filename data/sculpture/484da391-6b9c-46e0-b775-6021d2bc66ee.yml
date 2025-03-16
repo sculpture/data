@@ -1,0 +1,21 @@
+id: 484da391-6b9c-46e0-b775-6021d2bc66ee
+type: sculpture
+slug: virtue-solari
+title: Virtue
+artist-ids:
+- 12e940f5-af72-45b4-b788-b9cb23f2f968
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: 149*
+location:
+  latitude: 45.440771
+  longitude: 12.334071
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
