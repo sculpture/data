@@ -1,7 +1,7 @@
 id: 992faa46-6110-4539-87d5-5b12c1b75309
 type: sculpture
 slug: concordia-salus-qc
-title: Concordia Salus
+title: Concordia Salus (copy)
 artist-ids:
 - 20c7ecd9-fdef-421e-a6e5-439dc1ff3ef9
 city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
@@ -13,6 +13,7 @@ location:
 material-ids:
 - a267fb56-e090-4da4-b72c-152f966877d9
 tag-ids:
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
 - 2d488599-d808-40db-80a2-88b41c7bdb67
 - 9f63b713-73f7-46b1-9a00-5f35064e4c04
 - c4d43f20-6227-4d28-a802-ac07639375bf
