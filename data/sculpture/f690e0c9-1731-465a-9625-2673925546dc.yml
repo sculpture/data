@@ -1,0 +1,19 @@
+id: f690e0c9-1731-465a-9625-2673925546dc
+type: sculpture
+slug: laocoon-rusconi
+title: Laocoön
+artist-ids:
+- dcb5aa82-436e-4c68-a703-9736ce5c99e1
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: 170*
+location:
+  latitude: 45.440846
+  longitude: 12.333819
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
