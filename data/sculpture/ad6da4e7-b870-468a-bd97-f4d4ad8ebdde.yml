@@ -1,0 +1,17 @@
+id: ad6da4e7-b870-468a-bd97-f4d4ad8ebdde
+type: sculpture
+slug: gladiator-i-pinck
+title: Gladiator I
+artist-ids:
+- 43b4f677-6326-473a-8d5f-def490190b7d
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1779'
+location:
+  latitude: 52.215199
+  longitude: 21.036016
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
