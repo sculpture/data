@@ -1,0 +1,17 @@
+id: 0ee042d1-35ef-49c0-8f99-325f4cb491aa
+type: sculpture
+slug: pawel-pierscinski
+title: Paweł Pierściński
+artist-ids:
+- aee49002-af99-4ef5-b907-eb68a3b1e6a6
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '2018'
+location:
+  latitude: 50.866743
+  longitude: 20.62196
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 566d5388-7241-4299-95ae-379de08368c4
