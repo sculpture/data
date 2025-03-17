@@ -1,0 +1,20 @@
+id: 072e11cc-d27e-45df-9b5d-7d04f72f1421
+type: sculpture
+slug: enoch-frari
+title: Enoch
+artist-ids:
+- 57bf179d-c6aa-4593-9c28-fe9fd8d28f40
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1475'
+location:
+  latitude: 45.436741
+  longitude: 12.326187
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
