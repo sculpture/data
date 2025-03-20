@@ -1,0 +1,16 @@
+id: 98c2ccc6-b90e-468e-8a38-a18119d821ce
+type: sculpture
+slug: three-inukshuks
+title: Three Inukshuks
+artist-ids:
+- ed5ae752-18b9-48b8-8c30-5dca839dc02d
+city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
+date: '1963'
+location:
+  latitude: 43.681658
+  longitude: -79.612767
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- fe22cc92-81e5-4f1e-87c9-1e2eeac9870c
