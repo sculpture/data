@@ -1,0 +1,20 @@
+id: 43897dd0-1601-4f8a-bb02-8325d7bac8eb
+type: sculpture
+slug: sebastiano-venier-vittoria
+title: Sebastiano Venier
+artist-ids:
+- 9359dbf5-1294-442a-b1fa-a9c92eb242cb
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1579'
+location:
+  latitude: 45.434024
+  longitude: 12.340212
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18694c37-89e8-4e01-9c31-16245323218a
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 521f00f2-f976-4b69-89cf-6e8db0c94f29
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
