@@ -1,0 +1,20 @@
+id: 9f82bc0e-a4e0-4656-83e6-e9a6afd48c1f
+type: sculpture
+slug: muse-arnau
+title: Muse
+artist-ids:
+- ad56e10f-ece8-4e83-acf2-6b5b6b8eb721
+city-id: 16e2f36d-eb09-4c02-9fd2-334682ca2e1c
+date: '1905'
+location:
+  latitude: 41.387519
+  longitude: 2.175141
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
