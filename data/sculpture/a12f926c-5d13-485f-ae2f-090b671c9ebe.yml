@@ -1,0 +1,14 @@
+id: a12f926c-5d13-485f-ae2f-090b671c9ebe
+type: sculpture
+slug: benitier-des-boules
+title: Le bénitier des boules
+artist-ids:
+- ec43fbaf-a243-40c1-bb32-8b4512f5daa3
+city-id: 644eaaf4-7544-460f-9f05-29624df8d4be
+date: 200*
+location:
+  latitude: 43.697888
+  longitude: 7.12172
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
