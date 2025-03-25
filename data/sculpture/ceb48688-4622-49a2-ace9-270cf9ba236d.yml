@@ -1,0 +1,14 @@
+id: ceb48688-4622-49a2-ace9-270cf9ba236d
+type: sculpture
+slug: self-improvement
+title: Self Improvement
+artist-ids:
+- 386e86d0-d15d-483e-bea0-31162d7950db
+city-id: f589033f-1e21-4a3f-93d8-d183674099c0
+date: '2017'
+location:
+  latitude: 25.017341
+  longitude: 121.539752
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
