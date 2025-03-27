@@ -1,0 +1,18 @@
+id: ad6ddf18-a506-4409-9e8d-c388f8625e50
+type: sculpture
+slug: aleardo-aleardi
+title: Aleardo Aleardi
+artist-ids:
+- 1923c211-96e5-41ff-a367-3c408e4da12e
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: '1883'
+location:
+  latitude: 45.44086
+  longitude: 10.992204
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
