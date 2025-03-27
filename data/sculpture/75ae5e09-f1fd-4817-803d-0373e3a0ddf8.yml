@@ -1,0 +1,17 @@
+id: 75ae5e09-f1fd-4817-803d-0373e3a0ddf8
+type: sculpture
+slug: trajectory
+title: Trajectory
+artist-ids:
+- 99c7860a-954d-4684-a22a-e3ab9270b1cb
+city-id: f589033f-1e21-4a3f-93d8-d183674099c0
+date: '2012'
+location:
+  latitude: 25.020318
+  longitude: 121.528507
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- e7c0d105-ed1d-4e46-8cd8-a5153a2a784d
