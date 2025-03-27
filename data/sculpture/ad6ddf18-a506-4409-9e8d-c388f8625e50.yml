@@ -7,8 +7,8 @@ artist-ids:
 city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
 date: '1883'
 location:
-  latitude: 45.44086
-  longitude: 10.992204
+  latitude: 45.441093
+  longitude: 10.992129
   precision: 10
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
