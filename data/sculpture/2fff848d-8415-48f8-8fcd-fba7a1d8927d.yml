@@ -1,0 +1,16 @@
+id: 2fff848d-8415-48f8-8fcd-fba7a1d8927d
+type: sculpture
+slug: vortex-godlewska
+title: Vortex
+artist-ids:
+- 7e27cc35-3b0d-407c-9612-38ce0c136101
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+commissioned-by: gift of artist
+date: '2011'
+location:
+  latitude: 50.059979
+  longitude: 19.930052
+  precision: 10
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
