@@ -1,0 +1,18 @@
+id: 38aebfb1-d403-4e32-85e1-de977e16521c
+type: sculpture
+slug: bear-reid
+title: Bear
+artist-ids:
+- 9ea692e0-a951-49cf-b0ba-9a8ce3c6973a
+city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
+date: '1963'
+location:
+  latitude: 49.269502
+  longitude: -123.259441
+  precision: 10
+material-ids:
+- 813407d6-0182-4b87-a4ea-66df2291a0f8
+- d10b6251-79c5-4fc3-b359-a45e7e3ce9b5
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
