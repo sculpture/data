@@ -1,0 +1,18 @@
+id: 2f15ef95-84b3-410a-924d-74b0e6a52cfc
+type: sculpture
+slug: marie-louise-pizzi
+title: Marie Louise, Duchess of Parma
+artist-ids:
+- 690c14df-6f97-4513-a128-ec94fca73720
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1810'
+location:
+  latitude: 45.433563
+  longitude: 12.337255
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6cac5bfb-8079-494d-bdff-dffb9c54e908
+- 8bc7c77d-4709-4473-9260-4a27ed967be9
+- 9c3360b2-448e-4f0e-a2c0-b4339e34d6a4
