@@ -1,0 +1,17 @@
+id: 456b16a5-cd34-4ab4-a2cf-23befd749b78
+type: sculpture
+slug: flowing-clouds
+title: Flowing clouds
+artist-ids:
+- 5c679858-71ab-4d61-add3-bd2560969434
+city-id: f589033f-1e21-4a3f-93d8-d183674099c0
+date: '1999'
+location:
+  latitude: 24.955889
+  longitude: 121.354069
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- cf38381e-1b86-4728-8349-6febca8429d0
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab
