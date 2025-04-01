@@ -7,9 +7,9 @@ artist-ids:
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 date: '2020'
 location:
-  latitude: 43.648745
-  longitude: -79.355042
-  precision: 10
+  latitude: 43.661906
+  longitude: -79.313809
+  precision: 65
 material-ids:
 - 18829464-3bed-4f42-b206-8d99f402dc1b
 - 3766e674-65cd-465e-a424-0b60e4609ab0
