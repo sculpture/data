@@ -1,0 +1,19 @@
+id: 3311da45-19e0-4e4b-a9db-e30d93746da8
+type: sculpture
+slug: francis-xavier-klodzko
+title: St. Francis Xavier
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: e46fc945-ddc6-4e89-b1c9-ebfc695ec43c
+date: '1714'
+location:
+  latitude: 50.436047
+  longitude: 16.656159
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- de83a4c2-214e-45fb-a307-c835449e52bf
