@@ -1,0 +1,18 @@
+id: 986b5bc1-c242-4bcd-8081-cfa87e5db7e2
+type: sculpture
+slug: angel-gargallo
+title: Angel (Gargallo)
+artist-ids:
+- f829930d-ea83-4852-ae19-9d67b0768ee0
+city-id: 16e2f36d-eb09-4c02-9fd2-334682ca2e1c
+date: 190*
+location:
+  latitude: 41.412125
+  longitude: 2.174608
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
