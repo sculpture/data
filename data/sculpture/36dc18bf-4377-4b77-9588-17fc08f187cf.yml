@@ -1,0 +1,17 @@
+id: 36dc18bf-4377-4b77-9588-17fc08f187cf
+type: sculpture
+slug: satyrs-with-lantern
+title: Satyr with lantern
+artist-ids:
+- 3941da2e-e2ca-4ebc-83b6-8dd9986d1788
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: 177*
+location:
+  latitude: 52.214962
+  longitude: 21.036445
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
