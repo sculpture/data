@@ -1,0 +1,19 @@
+id: 5b8793d6-ea62-43f1-a87c-4bc487d06e1a
+type: sculpture
+slug: charles-de-gaulle-qc
+title: Charles de Gaulle
+artist-ids:
+- 7059b486-c25f-48f8-8e3b-b44ba73d8cfb
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1997'
+location:
+  latitude: 46.805331
+  longitude: -71.217885
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 521f00f2-f976-4b69-89cf-6e8db0c94f29
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- b3e92e64-c83c-4c32-981a-18cb40402f4d
