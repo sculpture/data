@@ -1,0 +1,20 @@
+id: d6d3006d-0a64-46c4-b02c-13cbcfd2d0bf
+type: sculpture
+slug: ramon-berenguer-iii
+title: Ramon Berenguer III
+artist-ids:
+- 7f291596-21dc-4dec-a0a8-0ef5b44dca6e
+city-id: 16e2f36d-eb09-4c02-9fd2-334682ca2e1c
+date: '1888'
+location:
+  latitude: 41.406007
+  longitude: 2.211939
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast 1950
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- c18859b5-46fe-40c0-9b36-834204f18a97
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
