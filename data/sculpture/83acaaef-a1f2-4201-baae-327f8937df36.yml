@@ -1,11 +1,11 @@
 id: 83acaaef-a1f2-4201-baae-327f8937df36
 type: sculpture
-slug: miracle-drowned-girl
-title: Miracle of Drowned Girl
+slug: miracle-drowned-woman
+title: Miracle of Drowned Woman
 artist-ids:
 - 732d7785-6332-4878-870e-f6e5f6e6e002
 city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
-date: '1563'
+date: '1534'
 location:
   latitude: 45.401601
   longitude: 11.880821
@@ -13,8 +13,8 @@ location:
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
-- de83a4c2-214e-45fb-a307-c835449e52bf
 - 16cfefb7-0c34-415d-b7df-45c3abc95a90
 - 4c322e34-9a51-4a23-ae62-8e335c882325
 - 6f13c768-5619-419e-97af-60440cab7f89
 - 8edbb59e-b498-4210-9981-8781235cafcd
+- de83a4c2-214e-45fb-a307-c835449e52bf
