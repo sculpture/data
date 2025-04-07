@@ -1,0 +1,19 @@
+id: 4a592edb-a61d-49b8-a089-4d50e355f7b2
+type: sculpture
+slug: st-anthony-reviving-dead-man
+title: Saint Anthony reviving a Dead Man
+artist-ids:
+- 05d03296-c478-48a2-80e4-2aaf2f690a6d
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1577'
+location:
+  latitude: 45.401609
+  longitude: 11.880794
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- de83a4c2-214e-45fb-a307-c835449e52bf
