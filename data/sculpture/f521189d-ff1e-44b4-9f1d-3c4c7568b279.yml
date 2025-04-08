@@ -1,0 +1,16 @@
+id: f521189d-ff1e-44b4-9f1d-3c4c7568b279
+type: sculpture
+slug: ladybugs-tokyo
+title: Ladybugs
+artist-ids:
+- e18713e4-65aa-4ee2-a3e7-cbe3402429d8
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1991'
+location:
+  latitude: 35.690257
+  longitude: 139.69178
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
