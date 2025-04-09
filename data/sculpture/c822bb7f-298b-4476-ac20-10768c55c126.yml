@@ -1,0 +1,16 @@
+id: c822bb7f-298b-4476-ac20-10768c55c126
+type: sculpture
+slug: red-shell-form
+title: Red Shell Form
+artist-ids:
+- c6648b89-cbe9-41bc-962c-d6caf16176fa
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1991'
+location:
+  latitude: 35.689917
+  longitude: 139.691214
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
