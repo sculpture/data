@@ -1,10 +1,12 @@
 id: e387fa4c-0a4d-4a47-bbbb-f4f77cf90bb7
 type: photo
-captured-at: 2011-03-08T19:30:44Z
+captured-at: 2011-03-08T13:30:44Z
 colors:
 - '#505053'
 - '#A9A9AE'
 - '#DADADD'
+featured?: true
 height: 2750
-user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
+sculpture-id: 1354f1bd-3ef8-4a2f-877a-1647c28a6c11
+user-id: 736a3323-27e2-44e0-a6ee-b13087e46af2
 width: 2004
