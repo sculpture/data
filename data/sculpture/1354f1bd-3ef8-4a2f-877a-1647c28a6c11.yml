@@ -1,0 +1,22 @@
+id: 1354f1bd-3ef8-4a2f-877a-1647c28a6c11
+type: sculpture
+slug: farnese-hercules
+title: Farnese Hercules
+artist-ids:
+- 93c44e0e-3305-49df-9408-b482ad4228c2
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1790'
+location:
+  latitude: 52.215091
+  longitude: 21.035793
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
