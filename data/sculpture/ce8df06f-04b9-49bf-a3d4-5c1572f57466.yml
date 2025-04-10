@@ -1,0 +1,15 @@
+id: ce8df06f-04b9-49bf-a3d4-5c1572f57466
+type: sculpture
+slug: empty-pedestal
+title: Empty Pedestal
+artist-ids:
+- da16045c-e69c-4a47-bded-6f6fa8e9ee45
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1991'
+location:
+  latitude: 35.688749
+  longitude: 139.691579
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
