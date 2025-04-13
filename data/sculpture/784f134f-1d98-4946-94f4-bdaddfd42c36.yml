@@ -7,8 +7,8 @@ artist-ids:
 city-id: 2728c83e-bce6-4118-a504-439944bc5124
 date: '1992'
 location:
-  latitude: 32.676179
-  longitude: -16.902876
+  latitude: 32.676314
+  longitude: -16.90257
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
