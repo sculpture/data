@@ -1,0 +1,18 @@
+id: 6c9f7c34-3ed0-4583-a82e-658fbe1b6ede
+type: sculpture
+slug: comercio-industria
+title: Comércio e Indústria
+artist-ids:
+- 011b8a50-5aab-46b9-a687-5c3c3a1c638e
+city-id: 2728c83e-bce6-4118-a504-439944bc5124
+date: '1960'
+location:
+  latitude: 32.646971
+  longitude: -16.904362
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6883fc7a-540d-4fe9-9753-80f6e581f0ab
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
