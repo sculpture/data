@@ -1,0 +1,19 @@
+id: 3640bad0-0dd2-42f1-a54e-98ef8e1d7ddb
+type: sculpture
+slug: monumental-composition-abakan
+title: Monumental Composition
+artist-ids:
+- 7dfcc415-fab6-492d-90d9-6c0ca0cc5583
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1975'
+display-date: 1973-1975
+location:
+  latitude: 52.233047
+  longitude: 21.008506
+  precision: 10
+material-ids:
+- 80328ae5-5a1a-48de-8590-e74b98b84b86
+- ba04929e-797b-47f7-9902-f276a7bf4e0a
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
