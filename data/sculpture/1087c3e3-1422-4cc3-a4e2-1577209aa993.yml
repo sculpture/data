@@ -1,0 +1,17 @@
+id: 1087c3e3-1422-4cc3-a4e2-1577209aa993
+type: sculpture
+slug: slizg-gomulicki
+title: Ślizg
+artist-ids:
+- 553e447e-a7eb-47f1-afad-6660af25c95b
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2015'
+location:
+  latitude: 52.260976
+  longitude: 21.006998
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+tag-ids:
+- 399902cf-177a-4693-980d-eb86255cc25f
+- 5e46697e-16c7-4478-a438-202749e4888d
