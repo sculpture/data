@@ -7,14 +7,14 @@ artist-ids:
 city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
 date: '1975'
 location:
-  latitude: 52.233047
-  longitude: 21.008506
+  latitude: 52.233284
+  longitude: 21.00893
   precision: 10
 material-ids:
 - 0f7fce21-2aa2-49dc-9998-991f94f14d2b
-- d0d27738-6da9-4703-9a46-9c1b7b3e4fa6
 - 80328ae5-5a1a-48de-8590-e74b98b84b86
 - ba04929e-797b-47f7-9902-f276a7bf4e0a
+- d0d27738-6da9-4703-9a46-9c1b7b3e4fa6
 tag-ids:
 - 6f13c768-5619-419e-97af-60440cab7f89
 - 9010cc4c-c852-4176-a7fe-04f0885fcffc
