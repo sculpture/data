@@ -1,0 +1,17 @@
+id: 912a849a-22ec-4aed-8c46-43c72f4c133d
+type: sculpture
+slug: ski-jumper
+title: Ski Jumper
+artist-ids:
+- bc1b0081-2bd4-45fa-85e9-15eaaef529fb
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2024'
+location:
+  latitude: 52.273673
+  longitude: 20.997098
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- e0decfe4-4a78-4f23-af47-3f549797b85a
