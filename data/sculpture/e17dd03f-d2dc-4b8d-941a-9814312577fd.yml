@@ -1,0 +1,18 @@
+id: e17dd03f-d2dc-4b8d-941a-9814312577fd
+type: sculpture
+slug: trajan-pinck
+title: Trajan
+artist-ids:
+- 43b4f677-6326-473a-8d5f-def490190b7d
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1793'
+display-date: 1790-1793
+location:
+  latitude: 52.216055
+  longitude: 21.029794
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- e1747e74-d399-45e0-98c6-60514c400683
