@@ -1,0 +1,19 @@
+id: 3a7f3fef-6e58-464a-bcba-23514a0b5820
+type: sculpture
+slug: annunciazione-mitoraj
+title: Annunciazione
+artist-ids:
+- e31569f5-c19d-41b1-98e8-4a14e439b562
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2013'
+location:
+  latitude: 43.957402
+  longitude: 10.233408
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- c4d43f20-6227-4d28-a802-ac07639375bf
+- de83a4c2-214e-45fb-a307-c835449e52bf
