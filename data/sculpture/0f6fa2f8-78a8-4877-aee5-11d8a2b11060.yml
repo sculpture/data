@@ -1,0 +1,22 @@
+id: 0f6fa2f8-78a8-4877-aee5-11d8a2b11060
+type: sculpture
+slug: laurora-tribolo
+title: L'aurora
+artist-ids:
+- eae5644a-76ab-4f9b-a6b4-7677e6d65113
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1537'
+display-date: 1534-1537
+location:
+  latitude: 43.770383
+  longitude: 11.258239
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+note: after Michelangelo
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
