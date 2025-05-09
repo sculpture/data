@@ -1,0 +1,20 @@
+id: b766c1a4-e5d9-4f7c-9d2a-8f2c02fae4ae
+type: sculpture
+slug: david-apollo-michelangelo
+title: 'David-Apollo '
+artist-ids:
+- 0194af41-7eee-49e8-a567-7259da5bc48f
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1530'
+display-date: c.1530
+link-wikipedia: https://en.wikipedia.org/wiki/Apollo_(Michelangelo)
+location:
+  latitude: 43.770379
+  longitude: 11.258239
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
