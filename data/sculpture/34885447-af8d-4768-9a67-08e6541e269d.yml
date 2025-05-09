@@ -1,0 +1,21 @@
+id: 34885447-af8d-4768-9a67-08e6541e269d
+type: sculpture
+slug: brutus-michelangelo
+title: Brutus
+artist-ids:
+- 0194af41-7eee-49e8-a567-7259da5bc48f
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1540'
+display-date: 1539-1540
+link-wikipedia: https://en.wikipedia.org/wiki/Brutus_(Michelangelo)
+location:
+  latitude: 43.770355
+  longitude: 11.258249
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
