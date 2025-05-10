@@ -5,13 +5,15 @@ title: Bibi on the Ball II
 artist-ids:
 - 8f86c539-8d28-4f9d-a9d5-ac51a3ba6ed4
 city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
-date: '2018'
+date: '2022'
 location:
-  latitude: 45.440379
-  longitude: 12.315955
+  latitude: 45.440843
+  longitude: 12.328679
   precision: 10
 material-ids:
 - c4c584c5-5086-4482-85e5-884bbb1503b6
 tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
 - 4a6d74ec-5562-41b3-bf73-41f316dbeaa3
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
 - cdc24fb3-62bd-4409-803c-e139bf2e9a5d
