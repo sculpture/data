@@ -1,0 +1,19 @@
+id: c563f411-b7e8-40ae-a71a-3040226d03c5
+type: sculpture
+slug: silver-rain
+title: Silver Rain
+artist-ids:
+- bd135547-8529-4aa7-afba-5fc1ef3c5be9
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2021'
+location:
+  latitude: 52.233205
+  longitude: 21.00857
+  precision: 10
+material-ids:
+- 56560105-70a1-4867-aaea-6d76d31576c0
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
