@@ -1,0 +1,19 @@
+id: 4dd9f0f7-62a0-4030-9916-19a4c676ed36
+type: sculpture
+slug: bust-saint-luca
+title: Bust of a young Saint
+artist-ids:
+- 792734b8-08d1-461c-adc9-8d1958319006
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1470'
+display-date: 1465-70
+location:
+  latitude: 43.770305
+  longitude: 11.258223
+  precision: 10
+material-ids:
+- a4828452-7739-4398-9236-e0c62eda53c2
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
