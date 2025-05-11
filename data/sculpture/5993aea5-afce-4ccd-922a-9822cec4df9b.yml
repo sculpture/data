@@ -1,18 +1,16 @@
 id: 5993aea5-afce-4ccd-922a-9822cec4df9b
 type: sculpture
-slug: wit-ttwosz-altarpiece-annunciation
-title: Wit Stwosz altarpiece - Annunciation
+slug: pyramid-amiot
+title: Pyramid
 artist-ids:
-- a9f4cb4c-3d13-4ce5-9064-e680881120fa
-city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
-date: 148*
+- 13adaea1-a178-40f8-9ae1-dc6bfd92cbd2
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2018'
 location:
-  latitude: 50.061644
-  longitude: 19.939969
+  latitude: 43.671309
+  longitude: -79.393537
   precision: 10
-material-ids:
-- 449582e6-6741-4441-a519-81e7c5591f96
 tag-ids:
-- 3896ed41-4440-40fa-9a21-6903c94fada2
-- 6f13c768-5619-419e-97af-60440cab7f89
-- 78695307-4f57-45a4-9566-dd0893e2ae80
+- 4dae8901-072d-4758-9b44-c5089bf1a804
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485

@@ -4,6 +4,7 @@ slug: beside-myself-bieler
 title: Beside Myself
 artist-ids:
 - 91e7275a-b3ad-4f6b-be41-97e3bfe0b17c
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 date: '2010'
 location:
   latitude: 43.649855
@@ -14,4 +15,5 @@ material-ids:
 - 3e4bf7e0-ae14-49c8-88f4-315ef2160400
 tag-ids:
 - 18d2fd29-8838-4290-a343-39182ae9b445
+- bbcb416f-d400-4a07-8a83-79a445209a57
 - da1c0095-de6b-46ef-a325-aee17c6e9cdd

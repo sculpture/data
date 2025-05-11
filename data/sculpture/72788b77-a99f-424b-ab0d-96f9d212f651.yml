@@ -1,14 +1,17 @@
 id: 72788b77-a99f-424b-ab0d-96f9d212f651
 type: sculpture
-slug: four-seasons-2
-title: Four Seasons (2)
+slug: transformation-orlowski
+title: Transformation
 artist-ids:
-- 6ad8785c-b0a4-42c1-ba63-ee0161533bab
-city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: '2014'
+- 19fcc03a-7365-4bac-be74-a91141f6c20b
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2016'
 location:
-  latitude: 43.7737
-  longitude: -79.346083
-  precision: 24
+  latitude: 52.231296
+  longitude: 20.988225
+  precision: 10
 material-ids:
-- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- c9884cff-1c92-48b5-816b-aa0479de54fa

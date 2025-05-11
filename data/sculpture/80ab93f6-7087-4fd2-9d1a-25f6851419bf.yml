@@ -1,7 +1,7 @@
 id: 80ab93f6-7087-4fd2-9d1a-25f6851419bf
 type: sculpture
 slug: tomb-humpal-zemanova
-title: The Soul Is Slipping Away
+title: Humpal-Zemanová's tombstone
 artist-ids:
 - 444a418c-9148-4894-a821-89e868ac464d
 city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
@@ -12,7 +12,7 @@ location:
   precision: 10
 material-ids:
 - 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
-note: The Humpal-Zemanová tombstone
+note: The Humpal-Zemanová tombstone - Duše uniká
 tag-ids:
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
 - 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f

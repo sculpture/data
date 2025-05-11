@@ -4,10 +4,11 @@ slug: cherry-candies
 title: Cherry Candies
 artist-ids:
 - f9577c1c-e4d8-42bd-8b64-176f0c32bade
+city-id: 7a6de9d1-a0b8-4f2a-81a9-0ef796fcdfdb
 date: '2016'
 location:
-  latitude: 43.686732
-  longitude: 7.10342
+  latitude: 43.683642
+  longitude: 7.115215
   precision: 10
 material-ids:
 - 02f666a5-a96a-466a-9a4a-3ff26ba1bad5

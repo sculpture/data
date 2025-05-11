@@ -2,7 +2,9 @@ id: c8c50b52-b99e-465f-8006-28563b3974b9
 type: artist
 slug: rowan-gillespie
 name: Rowan Gillespie
+birth-date: '1953'
 gender: male
+link-website: https://rowangillespie.net/
 link-wikipedia: http://en.wikipedia.org/wiki/Rowan_Gillespie
 nationality-ids:
 - 15a38b3b-b684-4a2f-9ecd-d4f41ed67bcc

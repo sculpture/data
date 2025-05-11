@@ -1,11 +1,12 @@
 id: e1f932b7-e044-468a-b5fe-15615acb6370
 type: sculpture
 slug: bartolomeo-colleoni-venice
-title: Bartolomeo Colleoni (venice)
+title: Bartolomeo Colleoni
 artist-ids:
 - c698ccf8-8ef4-4ece-9309-091a3a35fb44
 city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
 date: 148*
+link-wikipedia: https://en.wikipedia.org/wiki/Equestrian_statue_of_Bartolomeo_Colleoni
 location:
   latitude: 45.439189
   longitude: 12.341377

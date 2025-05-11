@@ -5,6 +5,7 @@ colors:
 - '#43403F'
 - '#79848F'
 - '#CCCFD2'
+featured?: true
 height: 2644
 sculpture-id: a68b9612-9ac6-40d6-8e22-64060163ee4a
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6

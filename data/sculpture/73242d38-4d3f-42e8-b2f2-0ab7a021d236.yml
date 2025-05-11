@@ -1,7 +1,7 @@
 id: 73242d38-4d3f-42e8-b2f2-0ab7a021d236
 type: sculpture
 slug: auguste-renoir-4
-title: Auguste Renoir (4)
+title: Auguste Renoir
 artist-ids:
 - 17e195c7-fe4b-4dab-af78-4f4589e72476
 city-id: 16a032c9-ec38-4226-8d03-d6e551035f89
@@ -13,7 +13,7 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- b078f909-a131-4d37-8b36-59061078b159
 - 18d2fd29-8838-4290-a343-39182ae9b445
 - 6f13c768-5619-419e-97af-60440cab7f89
 - 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b078f909-a131-4d37-8b36-59061078b159

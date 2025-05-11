@@ -1,8 +1,10 @@
 id: 7cef7dae-912d-4c7e-93a7-f6ac83700461
 type: artist
 slug: francisco-gazitua
-name: Francisco Gazitua
+name: Francisco Gazitúa
+birth-date: '1944'
 gender: male
 link-website: http://www.franciscogazitua.com/
+link-wikipedia: https://es.wikipedia.org/wiki/Francisco_Gazit%C3%BAa
 nationality-ids:
 - b73e6afc-2bf8-408e-a61a-5795e6b80739

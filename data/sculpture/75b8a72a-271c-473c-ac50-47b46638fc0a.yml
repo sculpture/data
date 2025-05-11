@@ -1,11 +1,12 @@
 id: 75b8a72a-271c-473c-ac50-47b46638fc0a
 type: sculpture
 slug: three-discs-montreal
-title: Three Disks
+title: Trois disques
 artist-ids:
 - 7ad71af4-c9b7-49d0-9765-ba2a674856a0
 city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
 date: '1967'
+link-wikipedia: https://fr.wikipedia.org/wiki/Trois_Disques_(Calder)
 location:
   latitude: 45.510635
   longitude: -73.536732

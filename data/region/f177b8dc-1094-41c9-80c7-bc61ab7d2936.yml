@@ -1,7 +1,7 @@
 id: f177b8dc-1094-41c9-80c7-bc61ab7d2936
 type: region
-slug: medical-science-building
-name: Medical Science Building
-geojson: '{"type":"Polygon","coordinates":[[[-79.3945806,43.6614594],[-79.3921552,43.6614594],[-79.3921552,43.6603627],[-79.3945806,43.6603627],[-79.3945806,43.6614594]]]}'
+slug: schwaz-austria
+name: Schwaz
+geojson: '{"type":"Polygon","coordinates":[[[11.683616638,47.355571315],[11.731338501,47.354989855],[11.729621887,47.331842535],[11.683444977,47.33242425],[11.683616638,47.355571315]]]}'
 tag-ids:
-- c6980378-c006-49d9-a681-effc4d36aea9
+- db3dd1ee-a322-4b58-b7d6-582f5d555978

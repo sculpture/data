@@ -1,16 +1,22 @@
 id: e817d874-0c93-484b-8db8-ed7a9e725930
 type: sculpture
-slug: stardust-and-time-2
-title: Stardust and Time (2)
+slug: san-juan-de-la-cruz-teno
+title: 'San Juan de la Cruz '
 artist-ids:
-- 1242cb12-a0c1-41d6-a5d9-b2a97fa35f4d
-city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: '2009'
+- c4aa3f23-84d4-4bdf-b1a9-85a316600487
+city-id: 4caaf18b-6eea-482a-b6cd-5c5a06453ae6
+date: '1975'
 location:
-  latitude: 43.640237
-  longitude: -79.395745
+  latitude: 37.878673
+  longitude: -4.7787
   precision: 10
 material-ids:
-- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+- 36a5c7ef-1419-449a-8231-b2f360415380
+- ebe1c069-813d-44f6-9738-e31078028499
+- f2acb2e5-3424-4801-9de9-00a58f198cd6
 tag-ids:
-- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf

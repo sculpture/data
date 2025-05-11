@@ -6,6 +6,7 @@ artist-ids:
 - a9f4cb4c-3d13-4ce5-9064-e680881120fa
 city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
 date: 148*
+link-wikipedia: https://en.wikipedia.org/wiki/Veit_Stoss_altarpiece_in_Krak%C3%B3w
 location:
   latitude: 50.061648
   longitude: 19.939959
@@ -13,6 +14,8 @@ location:
 material-ids:
 - 449582e6-6741-4441-a519-81e7c5591f96
 tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
 - 3896ed41-4440-40fa-9a21-6903c94fada2
 - 6f13c768-5619-419e-97af-60440cab7f89
 - 78695307-4f57-45a4-9566-dd0893e2ae80
+- de83a4c2-214e-45fb-a307-c835449e52bf

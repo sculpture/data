@@ -1,18 +1,19 @@
 id: 4253fd80-21e7-4f19-9d63-8c39e6608094
 type: sculpture
-slug: assumption-of-mary-mitoraj-angel2
-title: Assumption of Mary (Angel)
+slug: wincenty-witos-warszawa
+title: Wincenty Witos
 artist-ids:
-- e31569f5-c19d-41b1-98e8-4a14e439b562
+- b63ca8e1-7230-4151-a7a9-7b5b72231d10
 city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
-date: '2009'
+date: '1985'
 location:
-  latitude: 52.248825
-  longitude: 21.012969
+  latitude: 52.227754
+  longitude: 21.022701
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- 3896ed41-4440-40fa-9a21-6903c94fada2
-- 8edbb59e-b498-4210-9981-8781235cafcd
-- cd7f362d-e253-4dd7-9230-d77536d7dd4e
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fb97341d-10db-41e3-821a-33d920fb5638

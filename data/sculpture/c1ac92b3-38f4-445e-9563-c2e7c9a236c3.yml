@@ -1,7 +1,7 @@
 id: c1ac92b3-38f4-445e-9563-c2e7c9a236c3
 type: sculpture
 slug: tancerka-jackowski
-title: Tancerka (Jackowski)
+title: Tancerka
 artist-ids:
 - dc406fe3-a9dd-4334-ab3d-4b5cb44bc60c
 city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
@@ -17,3 +17,4 @@ tag-ids:
 - 5c663cd6-6348-4c33-ba88-0d9152262a9b
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
 - 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- d5dd2c56-3c63-4f57-9b40-a946bae40077

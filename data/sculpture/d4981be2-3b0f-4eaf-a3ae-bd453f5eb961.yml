@@ -1,11 +1,11 @@
 id: d4981be2-3b0f-4eaf-a3ae-bd453f5eb961
 type: sculpture
-slug: clotho-pickering
-title: Clotho
+slug: moirai-pickering
+title: Moirai
 artist-ids:
 - 8221d084-6345-4eb5-9bc4-d1b3d278be36
 city-id: 29c04be3-e495-4c7c-bd72-b3d935fef86d
-date: 200*
+date: '2000'
 location:
   latitude: 43.816048
   longitude: -79.074439

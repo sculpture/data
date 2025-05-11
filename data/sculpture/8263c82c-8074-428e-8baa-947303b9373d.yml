@@ -9,8 +9,10 @@ date: '1920'
 location:
   latitude: 45.419864
   longitude: -75.70595
-  precision: 50
+  precision: 10
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
 - 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 2d7e8f2e-e187-462b-a638-06a4ef145363
+- 8edbb59e-b498-4210-9981-8781235cafcd

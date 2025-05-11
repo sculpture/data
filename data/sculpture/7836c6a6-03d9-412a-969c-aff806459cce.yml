@@ -1,22 +1,20 @@
 id: 7836c6a6-03d9-412a-969c-aff806459cce
 type: sculpture
-slug: south-african-war-memorial-2
-title: South African War Memorial (2)
+slug: raising-the-tent
+title: Raising the Tent
 artist-ids:
-- 5f5e73b4-75e3-41bb-b698-1b7ab285d8b1
-city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: '1910'
+- 9b34a8b7-35f0-4c56-95c0-344829c668db
+city-id: 275b42cc-8227-4857-824d-40918fb1a44b
+commissioned-by: The Stratford Festival
+date: '1997'
 link-wikipedia: https://en.wikipedia.org/wiki/South_African_War_Memorial_(Toronto)
 location:
-  latitude: 43.65131
-  longitude: -79.386811
+  latitude: 43.37412
+  longitude: -80.969545
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 16cfefb7-0c34-415d-b7df-45c3abc95a90
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
-- 2d488599-d808-40db-80a2-88b41c7bdb67
-- 2d7e8f2e-e187-462b-a638-06a4ef145363
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
-- 9f63b713-73f7-46b1-9a00-5f35064e4c04

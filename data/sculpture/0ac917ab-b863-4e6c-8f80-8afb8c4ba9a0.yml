@@ -1,11 +1,12 @@
 id: 0ac917ab-b863-4e6c-8f80-8afb8c4ba9a0
 type: sculpture
 slug: le-pouce-lisbon
-title: Le Pouce
+title: Le pouce (2)
 artist-ids:
 - 679b234f-2f30-4884-ae65-b51164607ff5
 city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
 date: '1965'
+link-wikipedia: https://fr.wikipedia.org/wiki/Le_Pouce_(C%C3%A9sar)
 location:
   latitude: 38.695874
   longitude: -9.209091

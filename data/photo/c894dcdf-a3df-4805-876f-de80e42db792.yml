@@ -1,10 +1,11 @@
 id: c894dcdf-a3df-4805-876f-de80e42db792
 type: photo
-captured-at: 2021-05-15T12:25:53Z
+captured-at: 2021-05-15T11:25:53Z
 colors:
 - '#434635'
 - '#789ECB'
 - '#8FB5E0'
+featured?: true
 height: 2000
 sculpture-id: d4c94677-da2a-43b8-aebc-7013e4ae228e
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6

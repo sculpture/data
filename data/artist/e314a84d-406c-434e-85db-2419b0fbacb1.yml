@@ -5,3 +5,5 @@ name: Arthur Price
 birth-date: '1918'
 death-date: '2008'
 gender: male
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

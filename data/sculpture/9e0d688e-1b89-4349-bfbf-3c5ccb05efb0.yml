@@ -1,18 +1,18 @@
 id: 9e0d688e-1b89-4349-bfbf-3c5ccb05efb0
 type: sculpture
-slug: galt-war-memorial-loring-north
-title: Galt War Memorial (north)
+slug: charity-baratta
+title: Charity
 artist-ids:
-- 339eed06-1891-429d-bbd7-16d68b860892
-city-id: fa87ecab-5627-4e55-af08-250c1e8e6640
-date: '1930'
+- c4b8fd1e-25e8-40a8-8040-458162de63bf
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: 170*
 location:
-  latitude: 34.063344
-  longitude: -117.650888
+  latitude: 45.439176
+  longitude: 12.342491
   precision: 10
 material-ids:
-- 638725f5-0ac9-4b92-916d-b98af20b3df5
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
-- 2adec124-e6a5-411d-98d4-cac9a93817a2
-- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
-- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04

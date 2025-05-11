@@ -2,6 +2,6 @@ id: 53f086c5-b5ed-4628-aaec-f09ece5f5532
 type: region
 slug: royal-botanical-gardens-burington
 name: Royal Botanical Gardens
-geojson: '{"type":"Polygon","coordinates":[[[-79.8858,43.29379],[-79.87571,43.28901],[-79.8654127120972,43.2977606150828],[-79.87021,43.30176],[-79.8858,43.29379]]]}'
+geojson: '{"type":"Polygon","coordinates":[[[-79.8858,43.29379],[-79.87571,43.28901],[-79.865412712,43.297760615],[-79.87021,43.30176],[-79.8858,43.29379]]]}'
 tag-ids:
 - c41e20af-feb8-4c1a-b2df-c57887ca144d

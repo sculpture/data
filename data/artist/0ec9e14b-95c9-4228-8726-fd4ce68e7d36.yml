@@ -1,7 +1,8 @@
 id: 0ec9e14b-95c9-4228-8726-fd4ce68e7d36
 type: artist
 slug: paul-cvetch
-name: Paul Cvetch
+name: Paul Cvetich
+birth-date: '1947'
 gender: male
 nationality-ids:
 - 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

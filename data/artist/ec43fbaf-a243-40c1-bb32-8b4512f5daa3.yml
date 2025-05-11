@@ -3,6 +3,8 @@ type: artist
 slug: giuliano-mancini
 name: Giuliano Mancini
 birth-date: '1933'
+death-date: '2015'
 gender: male
 nationality-ids:
 - a651bd10-8516-4046-a33d-8ec16799a830
+- b6ab1d97-6e0c-4d16-8310-d013488cf08a

@@ -3,3 +3,7 @@ type: artist
 slug: ludzer-vandermolen
 name: Ludzer Vandermolen
 gender: male
+link-website: https://ludzervandermolen.com/
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+- 883d79f9-3bf6-4f99-8fac-abba7b6323e8

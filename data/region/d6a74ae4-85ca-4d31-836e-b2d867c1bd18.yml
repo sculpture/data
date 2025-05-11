@@ -1,7 +1,7 @@
 id: d6a74ae4-85ca-4d31-836e-b2d867c1bd18
 type: region
-slug: malvern-collegiate-institute
-name: Malvern Collegiate Institute
-geojson: '{"type":"Polygon","coordinates":[[[-79.29385,43.68336],[-79.29273,43.68359],[-79.29202,43.68186],[-79.29314,43.68162],[-79.29385,43.68336]]]}'
+slug: canet-en-roussillon
+name: Canet-en-Roussillon
+geojson: '{"type":"Polygon","coordinates":[[[3.010940552,42.713470907],[3.042869568,42.706659564],[3.037548065,42.666659379],[3.001155853,42.698585892],[3.010940552,42.713470907]]]}'
 tag-ids:
-- c6980378-c006-49d9-a681-effc4d36aea9
+- db3dd1ee-a322-4b58-b7d6-582f5d555978

@@ -10,6 +10,8 @@ link-wikipedia: https://en.wikipedia.org/wiki/Spirit_Catcher
 location:
   latitude: 44.386472
   longitude: -79.689344
-  precision: 50
+  precision: 10
 material-ids:
-- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- 85105298-6047-4f80-88ec-76aa0b77d815

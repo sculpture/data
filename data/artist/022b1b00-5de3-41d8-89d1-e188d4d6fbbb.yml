@@ -4,6 +4,10 @@ slug: jean-paul-riopelle
 name: Jean-Paul Riopelle
 birth-date: '1923-10-07'
 death-date: '2002-03-13'
+gender: male
+link-website: https://fondationriopelle.com/en/artwork/
 link-wikipedia: https://en.wikipedia.org/wiki/Jean-Paul_Riopelle
 nationality-ids:
 - 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+tag-ids:
+- 92f5b43c-299b-49c6-a5f6-f1aa2b4eaa61

@@ -1,8 +1,9 @@
 id: 1b0915a9-9c11-4c89-94d4-b580389724da
 type: artist
-slug: ricardo-veloza
-name: Ricardo Veloza
+slug: ricardo-velosa
+name: Ricardo Velosa
 birth-date: '1947'
 gender: male
+link-wikipedia: https://en.wikipedia.org/wiki/Ricardo_Velosa
 nationality-ids:
 - e841204c-c205-468b-a31c-303321401982

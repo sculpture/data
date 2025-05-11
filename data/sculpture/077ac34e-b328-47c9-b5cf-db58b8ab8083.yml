@@ -1,18 +1,18 @@
 id: 077ac34e-b328-47c9-b5cf-db58b8ab8083
 type: sculpture
-slug: caniche-francais-carlin-anglais-2
-title: Le caniche français et le carlin anglais (2)
+slug: perseo-dali-marbella
+title: Perseo
 artist-ids:
-- 7e9394b7-ec24-4932-af5c-a2e22199fb7b
-city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
-date: '2013'
+- 63db084d-333a-4c71-8894-3c9357c592e2
+city-id: f7e1f736-a953-4820-8f8f-016c7c76d1bc
+date: '1973'
 location:
-  latitude: 45.504487
-  longitude: -73.557171
+  latitude: 36.508321
+  longitude: -4.886158
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
-- c9884cff-1c92-48b5-816b-aa0479de54fa

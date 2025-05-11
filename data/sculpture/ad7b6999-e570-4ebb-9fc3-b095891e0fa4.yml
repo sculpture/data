@@ -3,6 +3,7 @@ type: sculpture
 slug: free-stamp
 title: Free Stamp
 artist-ids:
+- 0d8ec7e1-a63e-4863-928e-ad581ca65564
 - 88ecb931-e524-412b-80a4-8cc409acd192
 city-id: 8145c45b-d6b7-4708-a9bd-6aa426bd8a03
 date: '1985'
@@ -14,4 +15,5 @@ material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 - 76c8ed4b-b169-44ca-bf45-466a20c85838
 tag-ids:
+- 91dc9534-fac3-4f77-aaa1-5a701b6ab79b
 - f512d675-0554-4a67-987c-1da560f2c95a

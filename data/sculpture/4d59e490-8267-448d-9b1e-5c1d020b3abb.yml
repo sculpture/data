@@ -1,14 +1,19 @@
 id: 4d59e490-8267-448d-9b1e-5c1d020b3abb
 type: sculpture
-slug: kingarthurs-knights-1
-title: King Arthur’s Knights (1)
+slug: journey-to-great-woman
+title: Journey to the Great Woman
 artist-ids:
-- 7dfcc415-fab6-492d-90d9-6c0ca0cc5583
-city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
-date: '2007'
+- 7abba0af-7ecb-41d2-a30e-d926bad917af
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1995'
 location:
-  latitude: 52.256971
-  longitude: 21.007825
+  latitude: 43.653607
+  longitude: -79.392512
   precision: 10
 material-ids:
-- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- 0e188a8a-d083-4b9e-822e-c9bf27f6d61a
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd

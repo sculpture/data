@@ -1,14 +1,21 @@
 id: 3d5474fd-5f43-47a3-b047-bda85851e145
 type: sculpture
-slug: assumptionm-mary-door-handle
-title: Assumption of Mary (door handle)
+slug: jan-twardowski
+title: Jan Twardowski
 artist-ids:
-- e31569f5-c19d-41b1-98e8-4a14e439b562
+- d330b973-d8ab-4d22-b822-cfc1ef94aa67
 city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
-date: '2009'
+date: '2013'
+link-wikipedia: https://pl.wikipedia.org/wiki/Pomnik_ks._Jana_Twardowskiego
 location:
-  latitude: 52.248851
-  longitude: 21.012957
+  latitude: 52.241623
+  longitude: 21.016857
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 21b5d04c-9fea-4c3d-a0d6-2b9dff10c299
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 62501ae5-7d99-4fb1-ac89-3984d67a6d24
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

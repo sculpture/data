@@ -2,7 +2,8 @@ id: 5cf74e2b-a5c9-495d-bb2d-9eb514d9ae3b
 type: artist
 slug: samuel-lazar-kagan
 name: Samuel Lazar Kagan
+birth-date: '1906'
+death-date: '1981'
 gender: male
 nationality-ids:
 - 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
-- a9f1263f-b9e5-4002-b489-28dc1e99f663

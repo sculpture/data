@@ -6,6 +6,7 @@ artist-ids:
 - 65b29e60-e2c4-47e0-97e7-dd087727cc3f
 city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
 date: '1905'
+link-wikipedia: https://fr.wikipedia.org/wiki/La_M%C3%A9diterran%C3%A9e
 location:
   latitude: 40.761441
   longitude: -73.976914

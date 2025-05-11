@@ -1,16 +1,17 @@
 id: bd2e7515-f4c9-40ac-ae18-77c646565125
 type: sculpture
-slug: monument-du-centenaire-nice-2
-title: Monument du Centenaire (2)
+slug: al-hakam-ii
+title: Al-Hakam II
 artist-ids:
-- 1c7d0a77-3ab5-4163-9b3e-fa9de51127d3
-city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
-date: '1896'
+- 14b0333a-d00e-40d7-9a9a-59b9f838e776
+city-id: 4caaf18b-6eea-482a-b6cd-5c5a06453ae6
+date: '1976'
 location:
-  latitude: 43.695656
-  longitude: 7.268591
-  precision: 10
+  latitude: 37.877303
+  longitude: -4.782141
+  precision: 20
 material-ids:
-- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+- a267fb56-e090-4da4-b72c-152f966877d9
 tag-ids:
-- 9f63b713-73f7-46b1-9a00-5f35064e4c04
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 79184249-b41d-4ab9-b98a-3ac70e7bf155

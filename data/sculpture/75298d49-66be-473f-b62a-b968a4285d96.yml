@@ -1,21 +1,21 @@
 id: 75298d49-66be-473f-b62a-b968a4285d96
 type: sculpture
-slug: bell-memorial-2
-title: Bell Memorial - Humanity (2)
+slug: averroes-cordoba
+title: Averroes
 artist-ids:
-- 5f5e73b4-75e3-41bb-b698-1b7ab285d8b1
-city-id: ceac255d-267b-4eb0-84ab-e518a441c459
-date: '1917'
+- 14b0333a-d00e-40d7-9a9a-59b9f838e776
+city-id: 4caaf18b-6eea-482a-b6cd-5c5a06453ae6
+date: '1967'
 link-wikipedia: https://en.wikipedia.org/wiki/Bell_Memorial
 location:
-  latitude: 43.14139
-  longitude: -80.267936
-  precision: 50
+  latitude: 37.878657
+  longitude: -4.783164
+  precision: 10
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- a267fb56-e090-4da4-b72c-152f966877d9
 tag-ids:
-- 2adec124-e6a5-411d-98d4-cac9a93817a2
-- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 2d488599-d808-40db-80a2-88b41c7bdb67
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
-- 7bd0ecbd-b646-466a-95cb-42eebacc6072
-- 9f63b713-73f7-46b1-9a00-5f35064e4c04
+- 9905d2f9-00e0-443b-8640-dfb98d4795a1
+- b901ccf2-d0d0-4690-916a-459da0cd0111
+- cc034efc-b82b-42ee-a2d2-16753502bef1

@@ -1,15 +1,17 @@
 id: a11befe1-2fc9-49c7-a88f-39be9b96114e
 type: sculpture
-slug: maisonneuve-iroquois-montreal
-title: Maisonneuve Monument - Iroquois
+slug: snake-gaudi
+title: Snake (Gaudi)
 artist-ids:
-- f6ba5000-2ac9-4069-bee4-09ca21d36852
-city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
-date: '1895'
+- 60e5b32d-d706-4969-9443-d5e97fd8ae41
+city-id: 16e2f36d-eb09-4c02-9fd2-334682ca2e1c
+date: '1913'
 link-wikipedia: https://en.wikipedia.org/wiki/Maisonneuve_Monument
 location:
-  latitude: 45.504827
-  longitude: -73.557242
-  precision: 50
+  latitude: 41.414081
+  longitude: 2.152438
+  precision: 10
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 4a979cf3-40f3-4be9-aa71-b79765408367
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d

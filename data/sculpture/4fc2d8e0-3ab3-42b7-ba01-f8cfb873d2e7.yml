@@ -6,6 +6,7 @@ artist-ids:
 - 2fb2873a-8083-45af-b967-a8ffd1e0b75d
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 date: '1952'
+link-wikipedia: https://en.wikipedia.org/wiki/Draped_Reclining_Figure,_1952%E2%80%9353
 location:
   latitude: 43.653607
   longitude: -79.392512
@@ -15,4 +16,5 @@ material-ids:
 tag-ids:
 - 5ca52c8a-d33f-4988-bdde-7ff515cc9774
 - 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
 - 9010cc4c-c852-4176-a7fe-04f0885fcffc

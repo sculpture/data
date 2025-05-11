@@ -1,7 +1,7 @@
 id: 6c2a9735-e530-4748-84f6-401b2ce41835
 type: sculpture
 slug: conversation-nice-plensa
-title: Conversation (1)
+title: Conversation
 artist-ids:
 - 24827920-a2c6-4427-ada2-0c28680fad21
 city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
@@ -12,8 +12,8 @@ location:
   longitude: 7.270322
   precision: 20
 material-ids:
-- be9311b2-a6cf-45fe-b4a7-6e1288107d20
 - 79961d06-4491-4cd9-9e9d-e47cabd5f570
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
+- be9311b2-a6cf-45fe-b4a7-6e1288107d20
 tag-ids:
 - 279845c2-7073-4c03-bf6a-f10ce199fb06

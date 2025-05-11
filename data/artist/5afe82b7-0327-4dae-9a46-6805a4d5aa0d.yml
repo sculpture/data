@@ -3,7 +3,8 @@ type: artist
 slug: lilly-otasevic
 name: Lilly Otasevic
 gender: female
-link-website: http://www.lillyotasevic.net/
+link-website: http://www.lillyotasevic.ca/
+link-wikipedia: https://en.wikipedia.org/wiki/Lilly_Otasevic
 nationality-ids:
 - 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
 - c000a076-aba3-4e69-a7d4-3e27ea8cac66

@@ -1,19 +1,17 @@
 id: f662aa33-46fd-461b-8358-a6998f56c763
 type: sculpture
-slug: veit-stoss-adoration-magi
-title: Wit Stwosz altarpiece - Adoration of the Magi
+slug: le-menton-fendu
+title: Le Menton fendu
 artist-ids:
-- a9f4cb4c-3d13-4ce5-9064-e680881120fa
-city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
-date: 148*
-link-wikipedia: https://en.wikipedia.org/wiki/Veit_Stoss_altarpiece_in_Krak%C3%B3w
+- a7230cc1-62f3-42ae-bb7c-23d59d79e17b
+city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
+date: '1959'
 location:
-  latitude: 50.061645
-  longitude: 19.939991
+  latitude: 43.525444
+  longitude: 5.452671
   precision: 10
 material-ids:
-- 449582e6-6741-4441-a519-81e7c5591f96
+- 8796610f-08c6-4411-8591-dab35589315e
 tag-ids:
-- 3896ed41-4440-40fa-9a21-6903c94fada2
 - 6f13c768-5619-419e-97af-60440cab7f89
-- 78695307-4f57-45a4-9566-dd0893e2ae80
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc

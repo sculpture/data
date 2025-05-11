@@ -4,7 +4,9 @@ slug: la-mante-grande
 title: La Mante, grande
 artist-ids:
 - 4efdad48-f6f3-4b0d-9fca-5c0c3dae2ec0
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
 date: '1951'
+link-wikipedia: https://fr.wikipedia.org/wiki/La_Mante,_grande
 location:
   latitude: 38.695874
   longitude: -9.209091

@@ -2,6 +2,8 @@ id: d0652567-677d-4e01-8fda-c5e19ef65ec7
 type: artist
 slug: tadeusz-porebski
 name: Tadeusz Porębski
+birth-date: '1952'
+death-date: '2022'
 gender: male
 nationality-ids:
 - 25711868-6ccc-4b3c-9238-bee64ad1a684

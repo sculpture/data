@@ -1,19 +1,20 @@
 id: 887fce40-1ced-4b53-910a-5778a1512b27
 type: sculpture
 slug: winston-churchill-2
-title: Winston Churchill (2)
+title: Winston Churchill
 artist-ids:
 - dda6df5e-45b8-4ac4-9e2e-cdae58e89c9d
 city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
 date: '1952'
 location:
-  latitude: 46.809939
-  longitude: -71.210507
-  precision: 20
+  latitude: 46.809587
+  longitude: -71.211097
+  precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 18d2fd29-8838-4290-a343-39182ae9b445
 - 20ba399b-d962-4b4b-8695-6723679a005b
 - 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 74db4d61-1290-4efd-8270-a34d061a8e66
 - fb97341d-10db-41e3-821a-33d920fb5638

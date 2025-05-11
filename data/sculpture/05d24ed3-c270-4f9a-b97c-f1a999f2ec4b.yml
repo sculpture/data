@@ -3,10 +3,10 @@ type: sculpture
 slug: tomb-of-antonio-canova
 title: Tomb of Antonio Canova
 artist-ids:
-- 850b0a54-7d96-4454-bcb3-c4d9ca2718b7
 - 399360a4-2fa3-4ef5-b2a7-08b1607608fd
 - 41cc5a08-8adb-484d-8dbc-c41f67119c6e
 - 5684668b-c72e-4f5a-855a-aaffbf95152a
+- 850b0a54-7d96-4454-bcb3-c4d9ca2718b7
 - b095b890-a193-4bbc-8a80-c59075770093
 city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
 date: '1827'

@@ -1,7 +1,7 @@
 id: 207d1ea3-155d-480c-a35d-a8e4f11cde9b
 type: region
-slug: robarts-library
-name: Robarts Library
-geojson: '{"type":"Polygon","coordinates":[[[-79.40004,43.66482],[-79.39917,43.66473],[-79.39891,43.66456],[-79.39969,43.66396],[-79.40004,43.66482]]]}'
+slug: batalha-portugal
+name: Batalha
+geojson: '{"type":"Polygon","coordinates":[[[-8.845024109,39.68446818],[-8.790092468,39.663592292],[-8.80657196,39.622086042],[-8.865280151,39.64403194],[-8.845024109,39.68446818]]]}'
 tag-ids:
-- c6980378-c006-49d9-a681-effc4d36aea9
+- db3dd1ee-a322-4b58-b7d6-582f5d555978

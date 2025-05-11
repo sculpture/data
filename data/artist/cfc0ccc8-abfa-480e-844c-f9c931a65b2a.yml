@@ -5,6 +5,7 @@ name: Alberto Giacometti
 birth-date: '1901'
 death-date: '1966'
 gender: male
+link-website: https://www.fondation-giacometti.fr/fr/database
 link-wikipedia: https://en.wikipedia.org/wiki/Alberto_Giacometti
 nationality-ids:
 - e156a0a4-595d-41a4-812b-4702d8b8cb98

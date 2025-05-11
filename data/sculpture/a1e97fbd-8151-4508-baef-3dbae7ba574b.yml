@@ -1,17 +1,15 @@
 id: a1e97fbd-8151-4508-baef-3dbae7ba574b
 type: sculpture
-slug: maisonneuve-closse-montreal
-title: Maisonneuve Monument - Lambert Closse
+slug: family-brampton
+title: The Family
 artist-ids:
-- f6ba5000-2ac9-4069-bee4-09ca21d36852
-city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
-date: '1895'
+- 600a9886-fd05-4653-b30c-eac934378bc8
+city-id: 80f5f02b-13d3-457b-a873-44e2b7a53cfc
+date: '2013'
 link-wikipedia: https://en.wikipedia.org/wiki/Maisonneuve_Monument
 location:
-  latitude: 45.504827
-  longitude: -73.557242
-  precision: 50
-material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+  latitude: 43.666115
+  longitude: -79.785765
+  precision: 10
 tag-ids:
-- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- ea310784-30d7-4a31-9c7b-22e86c3cf049

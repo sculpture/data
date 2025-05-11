@@ -1,20 +1,18 @@
 id: 8de852bb-785f-4e1a-adbe-28286b5652ae
 type: sculpture
-slug: conversation-plensa-2
-title: Conversation (2)
+slug: stroppendrager-ghent
+title: Stroppendrager
 artist-ids:
-- 24827920-a2c6-4427-ada2-0c28680fad21
-city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
-date: '2007'
+- 9ef2a44b-3d50-415d-8efa-577807145312
+city-id: ca0e48aa-9f11-4867-9698-3009bb1fa395
+date: '1989'
 location:
-  latitude: 43.697421
-  longitude: 7.269903
-  precision: 10
+  latitude: 51.059546
+  longitude: 3.714873
+  precision: 20
 material-ids:
-- 79961d06-4491-4cd9-9e9d-e47cabd5f570
-- 958cce1f-9219-40b7-b6cf-e6adf5016125
-- be9311b2-a6cf-45fe-b4a7-6e1288107d20
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- 279845c2-7073-4c03-bf6a-f10ce199fb06
-- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
 - c9884cff-1c92-48b5-816b-aa0479de54fa

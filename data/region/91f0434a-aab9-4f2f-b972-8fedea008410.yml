@@ -2,6 +2,6 @@ id: 91f0434a-aab9-4f2f-b972-8fedea008410
 type: region
 slug: sunnybrook-health-sciences-centre
 name: Sunnybrook Health Sciences Centre
-geojson: '{"type":"Polygon","coordinates":[[[-79.37947,43.72425],[-79.3742465972901,43.7245293707744],[-79.36791,43.72205],[-79.37855,43.71978],[-79.37947,43.72425]]]}'
+geojson: '{"type":"Polygon","coordinates":[[[-79.37947,43.72425],[-79.374246597,43.724529371],[-79.36791,43.72205],[-79.37855,43.71978],[-79.37947,43.72425]]]}'
 tag-ids:
 - 06d088ca-1894-44c9-9e2a-e0491945abe0

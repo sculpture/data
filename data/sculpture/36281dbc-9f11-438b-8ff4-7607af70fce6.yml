@@ -1,17 +1,18 @@
 id: 36281dbc-9f11-438b-8ff4-7607af70fce6
 type: sculpture
-slug: bear
-title: Bear
+slug: paris-abducting-helen
+title: Paris Abducting Helen
 artist-ids:
-- 9b34a8b7-35f0-4c56-95c0-344829c668db
-city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: '2003'
+- 563381d4-85a2-4d91-8787-3e20d071cd14
+city-id: 7e35b7d3-6c72-44b3-90ea-ae23cc140164
+date: 169*
 location:
-  latitude: 43.616286
-  longitude: -79.376473
-  precision: 50
+  latitude: 47.804178
+  longitude: 13.04253
+  precision: 10
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- a267fb56-e090-4da4-b72c-152f966877d9
 tag-ids:
-- 3d01002e-928d-47f0-9a30-5f38d5a8eb27
-- 5e46697e-16c7-4478-a438-202749e4888d
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

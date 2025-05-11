@@ -4,6 +4,7 @@ slug: tancerka-belashova
 title: Tancerka
 artist-ids:
 - dacc340d-d47e-497d-97c0-eaf424f96d1b
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
 date: '1965'
 location:
   latitude: 52.189048
@@ -14,3 +15,4 @@ material-ids:
 tag-ids:
 - 2d488599-d808-40db-80a2-88b41c7bdb67
 - 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- d5dd2c56-3c63-4f57-9b40-a946bae40077

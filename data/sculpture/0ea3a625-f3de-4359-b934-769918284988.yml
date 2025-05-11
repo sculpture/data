@@ -1,20 +1,16 @@
 id: 0ea3a625-f3de-4359-b934-769918284988
 type: sculpture
-slug: dormition-of-mary-stwosz
-title: Wit Stwosz altarpiece - Dormition of Mary Mother of Jesus
+slug: butterfly-chair-swing
+title: Butterfly Chair
 artist-ids:
-- a9f4cb4c-3d13-4ce5-9064-e680881120fa
-city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
-date: 148*
-link-wikipedia: https://en.wikipedia.org/wiki/Veit_Stoss_altarpiece_in_Krak%C3%B3w
+- e77232f0-8337-4349-99e0-02f296e6aa31
+city-id: f3a7ffb4-3385-4ce7-aa47-9bee5b545ce2
+date: '2002'
 location:
-  latitude: 50.061641
-  longitude: 19.939926
+  latitude: 41.424661
+  longitude: -74.05925
   precision: 10
 material-ids:
-- 449582e6-6741-4441-a519-81e7c5591f96
+- 060d98f7-768f-4681-824b-620f9f00da9a
 tag-ids:
-- 16cfefb7-0c34-415d-b7df-45c3abc95a90
-- 3896ed41-4440-40fa-9a21-6903c94fada2
-- 6f13c768-5619-419e-97af-60440cab7f89
-- 78695307-4f57-45a4-9566-dd0893e2ae80
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc

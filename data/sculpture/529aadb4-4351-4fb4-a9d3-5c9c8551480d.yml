@@ -1,14 +1,14 @@
 id: 529aadb4-4351-4fb4-a9d3-5c9c8551480d
 type: sculpture
 slug: king-and-queen-swanson
-title: King and Queen (Denver)
+title: King and Queen
 artist-ids:
 - 00d2cf42-52dd-4c16-aa65-889339732296
 city-id: 654193ea-2c93-4dca-8815-a5ce2ad930b8
 date: '2001'
 location:
-  latitude: 39.750724
-  longitude: -104.99702
+  latitude: 39.749858
+  longitude: -104.998383
   precision: 10
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984

@@ -1,17 +1,19 @@
 id: 52f681e1-0002-464e-8370-5bf9f26cb8c1
 type: sculpture
-slug: haida-mortuary-pole-ubc
-title: Haida Mortuary Pole (2)
+slug: william-shakespeare-holte
+title: William Shakespeare
 artist-ids:
-- 077816db-ddc0-42d3-9368-3db7fd6ae23c
-- 9ea692e0-a951-49cf-b0ba-9a8ce3c6973a
-city-id: e306041b-710d-4c12-a164-ad8f5f09c61c
-date: 196*
+- 307bb1da-64e3-49ce-88b5-646cb6de42aa
+city-id: 275b42cc-8227-4857-824d-40918fb1a44b
+date: 200*
 location:
-  latitude: 49.269841
-  longitude: -123.259859
+  latitude: 43.370001
+  longitude: -80.982229
   precision: 10
 material-ids:
-- d10b6251-79c5-4fc3-b359-a45e7e3ce9b5
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
 tag-ids:
-- cade9829-ef07-4263-827c-a161323c585f
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6c2bfe1f-8ad4-42af-8a27-b996f6ebbdfa
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

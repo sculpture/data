@@ -1,18 +1,14 @@
 id: 40162015-fed3-4881-a9c4-dc7b443c9b64
 type: sculpture
-slug: oliver-mowat-clio
-title: Oliver Mowat - Clio
+slug: lou-che
+title: Lou Che
 artist-ids:
-- 5f5e73b4-75e3-41bb-b698-1b7ab285d8b1
-city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: '1905'
+- 5b2d90c1-e410-4d3c-bd06-fc38b021a676
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '2019'
 location:
-  latitude: 43.661946
-  longitude: -79.391831
+  latitude: 43.692652
+  longitude: 7.290261
   precision: 10
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
-tag-ids:
-- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
-- 7bd0ecbd-b646-466a-95cb-42eebacc6072
-- 8edbb59e-b498-4210-9981-8781235cafcd
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab

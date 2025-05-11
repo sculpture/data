@@ -12,6 +12,8 @@ location:
   latitude: 43.666503
   longitude: -79.35572
   precision: 22
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
 tag-ids:
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
 - 6883fc7a-540d-4fe9-9753-80f6e581f0ab

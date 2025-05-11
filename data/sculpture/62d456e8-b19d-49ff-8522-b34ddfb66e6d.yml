@@ -1,17 +1,23 @@
 id: 62d456e8-b19d-49ff-8522-b34ddfb66e6d
 type: sculpture
-slug: assumption-of-mary-mitoraj-angel1
-title: Assumption of Mary (Angel)
+slug: dancing-faun-ago
+title: Dancing Faun
 artist-ids:
-- e31569f5-c19d-41b1-98e8-4a14e439b562
-city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
-date: '2009'
+- 59ba1fa8-f129-4cfb-b26a-c29991fcbbf9
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+commissioned-by: Gift of Margaret and Ian Ross
+date: '1695'
 location:
-  latitude: 52.248848
-  longitude: 21.012968
+  latitude: 43.653607
+  longitude: -79.392512
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast c. 1711
 tag-ids:
-- 3896ed41-4440-40fa-9a21-6903c94fada2
-- cd7f362d-e253-4dd7-9230-d77536d7dd4e
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc

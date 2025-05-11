@@ -1,14 +1,14 @@
 id: 19a8a419-b52d-4e87-b917-b90003b07914
 type: sculpture
 slug: jerzy-popieluszko-wawa
-title: Jerzy Popiełuszko (Warszawa)
+title: Jerzy Popiełuszko (Warsaw)
 artist-ids:
 - 4b011c26-471f-496e-a209-1e6b1f5919b7
 city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
 date: '1996'
 location:
-  latitude: 52.267236
-  longitude: 20.983753
+  latitude: 52.267456
+  longitude: 20.983811
   precision: 10
 material-ids:
 - a267fb56-e090-4da4-b72c-152f966877d9

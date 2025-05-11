@@ -2,4 +2,9 @@ id: d0823fe5-9dfe-45c8-a733-0f56a5659160
 type: artist
 slug: john-macgregor
 name: John MacGregor
+birth-date: '1942'
+death-date: '2019'
 gender: male
+link-wikipedia: https://en.wikipedia.org/wiki/John_MacGregor_(artist)
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

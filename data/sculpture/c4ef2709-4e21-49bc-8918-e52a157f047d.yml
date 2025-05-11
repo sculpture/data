@@ -1,7 +1,7 @@
 id: c4ef2709-4e21-49bc-8918-e52a157f047d
 type: sculpture
 slug: dr-sun-yat-sen
-title: Dr. Sun Yat-Sen
+title: Dr. Sun Yat-sen
 artist-ids:
 - 5d0bca76-d87b-4b7e-a72c-c3d99660bf20
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
@@ -17,3 +17,4 @@ tag-ids:
 - 20ba399b-d962-4b4b-8695-6723679a005b
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- ce9dd639-edaa-4ed7-99b6-b2423117457a

@@ -1,7 +1,7 @@
 id: 8e3c96b5-e452-432e-8af8-05db8c3e3ecd
 type: sculpture
 slug: sticky-wicket
-title: Sticky Wicket
+title: Sticky Wickett
 artist-ids:
 - bd9de07c-dcbb-4c62-9d26-d63b6736a547
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
@@ -12,4 +12,8 @@ location:
   longitude: -79.504389
   precision: 37
 material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+- b2394a4f-8f94-4b9e-9156-fdbdec170b61
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a

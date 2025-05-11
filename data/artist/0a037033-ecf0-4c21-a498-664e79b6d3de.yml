@@ -5,6 +5,7 @@ name: Willem de Kooning
 birth-date: '1904'
 death-date: '1997'
 gender: male
+link-website: https://www.dekooning.org/
 link-wikipedia: https://en.wikipedia.org/wiki/Willem_de_Kooning
 nationality-ids:
 - f41cbf6e-d705-45da-acdc-7d0dc4896553

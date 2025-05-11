@@ -4,6 +4,7 @@ captured-at: 2006-10-15T22:30:00Z
 colors:
 - '#5F5C4F'
 - '#B3C0C8'
+featured?: true
 height: 895
 sculpture-id: ebf3589f-8ddf-4cb9-8dd1-96c286a22472
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6

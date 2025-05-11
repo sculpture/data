@@ -2,8 +2,9 @@ id: d4eebc56-6561-47b5-912a-f35571b3e93e
 type: artist
 slug: tom-otterness
 name: Tom Otterness
+birth-date: '1952'
 gender: male
-link-website: http://www.tomostudio.com/
+link-website: http://www.tomotterness.net/
 link-wikipedia: http://en.wikipedia.org/wiki/Tom_Otterness
 nationality-ids:
 - f41cbf6e-d705-45da-acdc-7d0dc4896553

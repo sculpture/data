@@ -1,18 +1,15 @@
 id: fd6e5126-343c-4563-92a3-cfe42234b4f1
 type: sculpture
-slug: william-lyon-mackenzie-2
-title: William Lyon Mackenzie (2)
+slug: oval-reflections-basanta
+title: Oval Reflections
 artist-ids:
-- 5f5e73b4-75e3-41bb-b698-1b7ab285d8b1
-city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: '1940'
+- fbf9e756-e506-4790-9e78-c29124c25c8e
+city-id: 91ff22e1-f94a-415a-86f5-b4bd02203ca7
+date: '2000'
 location:
-  latitude: 43.662322
-  longitude: -79.392606
+  latitude: 49.279081
+  longitude: -122.916536
   precision: 10
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
-tag-ids:
-- 66ec2c31-c300-4e0f-bc36-93fa72a95fef
-- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
-- 9f63b713-73f7-46b1-9a00-5f35064e4c04
+- a267fb56-e090-4da4-b72c-152f966877d9
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd

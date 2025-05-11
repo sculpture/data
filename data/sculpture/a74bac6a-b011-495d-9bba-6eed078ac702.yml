@@ -11,8 +11,8 @@ location:
   longitude: 12.331548
   precision: 10
 material-ids:
-- eae072e0-cafa-4394-96fb-2da06912fa60
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- eae072e0-cafa-4394-96fb-2da06912fa60
 note: cast 1956
 tag-ids:
 - 6f13c768-5619-419e-97af-60440cab7f89

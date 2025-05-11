@@ -2,7 +2,9 @@ id: d1c91d4b-7b5d-4f5e-95f2-a9bbc369eded
 type: artist
 slug: mary-anne-barkhouse
 name: Mary Anne Barkhouse
+birth-date: '1961'
 gender: female
+link-website: https://maryannebarkhouse.ca/
 link-wikipedia: https://en.wikipedia.org/wiki/Mary_Anne_Barkhouse
 nationality-ids:
 - 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b

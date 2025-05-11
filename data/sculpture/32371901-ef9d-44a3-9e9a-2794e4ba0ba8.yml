@@ -11,9 +11,9 @@ location:
   longitude: -9.209091
   precision: 10
 material-ids:
-- 3c834709-2094-4ad1-9cd3-8bee14dc0bb4
 - 26d0ceb7-0eb8-44e7-b796-95c4c20c2332
 - 35913622-405e-4e52-b409-6acc87a4dd77
+- 3c834709-2094-4ad1-9cd3-8bee14dc0bb4
 tag-ids:
 - 6f13c768-5619-419e-97af-60440cab7f89
 - 9010cc4c-c852-4176-a7fe-04f0885fcffc

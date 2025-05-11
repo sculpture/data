@@ -1,7 +1,7 @@
 id: 2431c070-9a12-47ea-b121-0544c9922dd2
 type: region
-slug: mimico-centennial-library
-name: Mimico Centennial Library
-geojson: '{"type":"Polygon","coordinates":[[[-79.49395,43.61471],[-79.49377,43.61495],[-79.49359,43.61494],[-79.49363,43.61464],[-79.49395,43.61471]]]}'
+slug: grand-bend
+name: Grand Bend
+geojson: '{"type":"Polygon","coordinates":[[[-81.773471832,43.308628995],[-81.755962372,43.322929821],[-81.708583832,43.305318717],[-81.725749969,43.281829307],[-81.773471832,43.308628995]]]}'
 tag-ids:
-- ef6d25e7-396f-479d-adb5-4bca77066e4a
+- db3dd1ee-a322-4b58-b7d6-582f5d555978

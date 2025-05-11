@@ -1,16 +1,19 @@
 id: 0421e08e-b067-482e-abf7-617eb9e6643c
 type: sculpture
-slug: figure-myjak-lazienki
-title: Figure (2)
+slug: nu-de-mulher
+title: Nu de Mulher
 artist-ids:
-- 7caafc96-ff5b-425d-985e-7ddff665f588
-city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
-date: '2016'
+- c1d8c499-dec5-41d0-a795-afbc5701debb
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1933'
 location:
-  latitude: 52.216843
-  longitude: 21.029891
+  latitude: 38.736439
+  longitude: -9.153069
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- bbcb416f-d400-4a07-8a83-79a445209a57
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- ce5eba46-3dff-4d8c-89c8-4fab2da9a37d

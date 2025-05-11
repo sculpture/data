@@ -1,17 +1,19 @@
 id: 4841d7f8-7292-40c6-b17f-8b3848fc7c0a
 type: sculpture
-slug: padrao-dos-descobrimentos-1
-title: Padrão dos Descobrimentos (1)
+slug: coluna-dom-pedro-iv
+title: Coluna de Dom Pedro IV
 artist-ids:
-- c97bf8c1-e8b2-4c56-81a5-089abf660c71
+- e51ce2fd-e94a-4a3a-8da8-e9621b6a37e2
 city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
-date: '1960'
+date: '1870'
 location:
-  latitude: 38.691744
-  longitude: -9.213832
+  latitude: 38.713386
+  longitude: -9.139201
   precision: 10
 material-ids:
-- 638725f5-0ac9-4b92-916d-b98af20b3df5
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- 16cfefb7-0c34-415d-b7df-45c3abc95a90
-- 69050b3c-166a-422e-86ce-a9c6f896805a
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

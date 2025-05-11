@@ -1,21 +1,18 @@
 id: 7faf63c0-5734-44e4-9c1a-32b9b2a4789c
 type: sculpture
-slug: tadeusz-kosciuszko-warszawa
-title: Tadeusz Kościuszko (Warsaw)
+slug: heavy-handed-red-piece
+title: ' Heavy Handed (Red Piece)'
 artist-ids:
-- cf8ca76e-2236-4d3b-94d9-831e6b62c567
-city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
-date: '1910'
-link-wikipedia: https://en.wikipedia.org/wiki/Tadeusz_Ko%C5%9Bciuszko_Monument,_Warsaw
+- 26be158f-691f-4035-9530-7abd1f1e52c3
+city-id: 1aff16e3-5963-4a1d-b9f6-1ebec654ea71
+date: '2019'
 location:
-  latitude: 52.23961
-  longitude: 21.002448
+  latitude: 42.429734
+  longitude: -71.311772
   precision: 10
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
 note: replica 2010
 tag-ids:
-- 521f00f2-f976-4b69-89cf-6e8db0c94f29
-- 2adec124-e6a5-411d-98d4-cac9a93817a2
-- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
-- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- f512d675-0554-4a67-987c-1da560f2c95a

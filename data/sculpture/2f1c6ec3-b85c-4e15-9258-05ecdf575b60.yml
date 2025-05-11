@@ -1,18 +1,19 @@
 id: 2f1c6ec3-b85c-4e15-9258-05ecdf575b60
 type: sculpture
-slug: assumption-mary-wawa-mary
-title: Assumption of Mary
+slug: serata-dolce
+title: Serata dolce
 artist-ids:
-- e31569f5-c19d-41b1-98e8-4a14e439b562
-city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
-date: '2009'
+- a0ac91ff-88ef-4288-a3e8-83c919b58de1
+city-id: 26d1abe7-0b41-4c95-b30d-76469c66ccb8
+date: '2012'
 location:
-  latitude: 52.248825
-  longitude: 21.012969
+  latitude: 43.09269
+  longitude: 11.781015
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
-- 3896ed41-4440-40fa-9a21-6903c94fada2
-- 8edbb59e-b498-4210-9981-8781235cafcd
-- de83a4c2-214e-45fb-a307-c835449e52bf
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6883fc7a-540d-4fe9-9753-80f6e581f0ab
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd

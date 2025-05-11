@@ -1,16 +1,19 @@
 id: de8dd1a8-b1bb-4b02-9dc4-6c6c2dff2989
 type: sculpture
-slug: people-woman
-title: People - Woman
+slug: marcin-kasprzak
+title: Marcin Kasprzak
 artist-ids:
-- a7929085-aa59-43c6-bb5e-7b70e8d2df9b
-city-id: 95ad2830-e9eb-4d68-8189-aa5db0e02379
-date: '1967'
+- 18b9ab8f-fb2c-4d71-850d-ac9343a397d1
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1975'
+link-wikipedia: https://pl.wikipedia.org/wiki/Pomnik_Marcina_Kasprzaka_w_Warszawie
 location:
-  latitude: 45.430143
-  longitude: -75.70918
+  latitude: 52.229269
+  longitude: 20.972808
   precision: 10
 material-ids:
-- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
 tag-ids:
-- df4890c4-2701-4782-a670-d019b3b95547
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6e9f5dde-187e-4a79-8816-375f4e66539a

@@ -5,7 +5,7 @@ title: Stanisław Moniuszko
 artist-ids:
 - 21b9c7c2-75ec-4e7c-8796-bab74d32930e
 city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
-date: '1965'
+date: '1936'
 location:
   latitude: 52.244259
   longitude: 21.010545
@@ -13,6 +13,7 @@ location:
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
+note: reconstracted after WWII in 1965
 tag-ids:
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c

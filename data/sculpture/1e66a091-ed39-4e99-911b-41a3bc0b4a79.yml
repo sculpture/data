@@ -1,20 +1,19 @@
 id: 1e66a091-ed39-4e99-911b-41a3bc0b4a79
 type: sculpture
-slug: south-african-war-memorial-1
-title: South African War Memorial (1)
+slug: pieta-veken
+title: Pietà
 artist-ids:
-- 5f5e73b4-75e3-41bb-b698-1b7ab285d8b1
+- b0690f43-59ae-4844-9124-5678ccc29037
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: '1910'
-link-wikipedia: https://en.wikipedia.org/wiki/South_African_War_Memorial_(Toronto)
+date: 168*
 location:
-  latitude: 43.651329
-  longitude: -79.386795
+  latitude: 43.653607
+  longitude: -79.392512
   precision: 10
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 35913622-405e-4e52-b409-6acc87a4dd77
 tag-ids:
-- 2adec124-e6a5-411d-98d4-cac9a93817a2
-- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
-- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
-- cd7f362d-e253-4dd7-9230-d77536d7dd4e
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf

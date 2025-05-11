@@ -1,7 +1,7 @@
 id: 1aab0c88-581f-4c83-93a1-ddbb1903275e
 type: region
-slug: canoe-landing-park
-name: Canoe Landing Park
-geojson: '{"type":"Polygon","coordinates":[[[-79.39784,43.63929],[-79.39573,43.63981],[-79.39518,43.63862],[-79.39735,43.63814],[-79.39784,43.63929]]]}'
+slug: duncan-victoria-island
+name: Duncan
+geojson: '{"type":"Polygon","coordinates":[[[-123.744506836,48.784925788],[-123.690948486,48.79691354],[-123.677387238,48.76761766],[-123.731803894,48.75573608],[-123.744506836,48.784925788]]]}'
 tag-ids:
-- c41e20af-feb8-4c1a-b2df-c57887ca144d
+- 3b74b15e-1532-429f-96ca-5fcac13489bc

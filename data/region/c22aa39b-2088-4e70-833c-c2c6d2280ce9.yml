@@ -1,7 +1,7 @@
 id: c22aa39b-2088-4e70-833c-c2c6d2280ce9
 type: region
-slug: fields-institute
-name: Fields Institute
-geojson: '{"type":"Polygon","coordinates":[[[-79.397773,43.658978],[-79.397357,43.658978],[-79.397357,43.6586275],[-79.397773,43.6586275],[-79.397773,43.658978]]]}'
+slug: cordoba-spain
+name: Córdoba
+geojson: '{"type":"Polygon","coordinates":[[[-4.799308777,37.839072305],[-4.822654724,37.927680032],[-4.759483337,37.949070799],[-4.697341919,37.887047522],[-4.799308777,37.839072305]]]}'
 tag-ids:
-- c6980378-c006-49d9-a681-effc4d36aea9
+- 3b74b15e-1532-429f-96ca-5fcac13489bc

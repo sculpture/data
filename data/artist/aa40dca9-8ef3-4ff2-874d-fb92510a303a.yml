@@ -2,6 +2,8 @@ id: aa40dca9-8ef3-4ff2-874d-fb92510a303a
 type: artist
 slug: tom-dean
 name: Tom Dean
+birth-date: '1947'
 gender: male
+link-wikipedia: https://en.wikipedia.org/wiki/Tom_Dean_(artist)
 nationality-ids:
 - 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
