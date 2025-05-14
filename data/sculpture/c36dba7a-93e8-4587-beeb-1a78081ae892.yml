@@ -1,0 +1,21 @@
+id: c36dba7a-93e8-4587-beeb-1a78081ae892
+type: sculpture
+slug: ganymede-cellini
+title: Ganymede
+artist-ids:
+- c5fa5987-602b-452c-b991-58d6d92a854e
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1547'
+display-date: 1545-47
+location:
+  latitude: 43.770383
+  longitude: 11.258223
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
