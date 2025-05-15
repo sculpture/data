@@ -1,0 +1,16 @@
+id: c55db63b-fe7d-4430-8a47-4ebc187cebb3
+type: sculpture
+slug: spirito-libero
+title: Spirito Libero
+artist-ids:
+- dcf103c1-4f6c-4d1d-81fb-195a919ae768
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2019'
+location:
+  latitude: 43.926399
+  longitude: 10.19966
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2094ee30-7294-478e-b118-b3fd48a7c570
