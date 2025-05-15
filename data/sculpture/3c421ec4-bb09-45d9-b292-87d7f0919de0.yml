@@ -1,0 +1,18 @@
+id: 3c421ec4-bb09-45d9-b292-87d7f0919de0
+type: sculpture
+slug: ferdinando-i-de-medici
+title: Ferdinando I de' Medici
+artist-ids:
+- 701c5320-17c8-4be9-bcfe-196857aa5595
+city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
+date: '1594'
+location:
+  latitude: 43.71699
+  longitude: 10.397326
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6cac5bfb-8079-494d-bdff-dffb9c54e908
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
