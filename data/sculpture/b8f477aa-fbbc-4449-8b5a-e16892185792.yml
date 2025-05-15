@@ -1,0 +1,21 @@
+id: b8f477aa-fbbc-4449-8b5a-e16892185792
+type: sculpture
+slug: david-donatello-marble
+title: 'David '
+artist-ids:
+- 4a395507-53d7-431a-8f9b-4677bd31977a
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1409'
+display-date: 1408-09
+link-wikipedia: https://en.wikipedia.org/wiki/David_(Donatello,_marble)
+location:
+  latitude: 43.770398
+  longitude: 11.258008
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
