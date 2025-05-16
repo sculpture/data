@@ -1,0 +1,21 @@
+id: d5f1edf7-5ad5-4104-907d-1d2a9e2dc1b0
+type: sculpture
+slug: david-verrocchio
+title: David
+artist-ids:
+- c698ccf8-8ef4-4ece-9309-091a3a35fb44
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1469'
+display-date: c. 1466-69
+location:
+  latitude: 43.770367
+  longitude: 11.258244
+  precision: 10
+material-ids:
+- 46fe9fce-6a4f-4a44-89d7-dedc6f731b39
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e231b618-b7c1-4206-988c-813c2964e1a5
