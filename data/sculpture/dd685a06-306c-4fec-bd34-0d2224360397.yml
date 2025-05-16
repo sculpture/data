@@ -1,0 +1,17 @@
+id: dd685a06-306c-4fec-bd34-0d2224360397
+type: sculpture
+slug: teseo-head
+title: Teseo Head
+artist-ids:
+- 09edc663-55c1-44dc-b0bd-1fb35fa07d01
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2025'
+location:
+  latitude: 43.957133
+  longitude: 10.232065
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
