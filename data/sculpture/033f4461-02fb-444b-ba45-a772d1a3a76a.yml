@@ -1,0 +1,21 @@
+id: 033f4461-02fb-444b-ba45-a772d1a3a76a
+type: sculpture
+slug: david-michelangelo
+title: David
+artist-ids:
+- 0194af41-7eee-49e8-a567-7259da5bc48f
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1504'
+display-date: c. 1501-04
+link-wikipedia: https://en.wikipedia.org/wiki/David_(Michelangelo)
+location:
+  latitude: 43.769239
+  longitude: 11.255888
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- e231b618-b7c1-4206-988c-813c2964e1a5
