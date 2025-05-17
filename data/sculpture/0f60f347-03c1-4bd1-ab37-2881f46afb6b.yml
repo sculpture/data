@@ -1,0 +1,16 @@
+id: 0f60f347-03c1-4bd1-ab37-2881f46afb6b
+type: sculpture
+slug: lacqua-di-afrodite
+title: L'acqua di Afrodite
+artist-ids:
+- f65fed44-fd27-4e9e-aa69-e043df0d72d8
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2021'
+location:
+  latitude: 43.959699
+  longitude: 10.228524
+  precision: 10
+material-ids:
+- 7bc93270-67d5-44dc-88fa-2bbaf7d47f49
+tag-ids:
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
