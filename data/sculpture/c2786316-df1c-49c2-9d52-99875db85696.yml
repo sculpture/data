@@ -1,0 +1,19 @@
+id: c2786316-df1c-49c2-9d52-99875db85696
+type: sculpture
+slug: amanti-alati
+title: Amanti alati
+artist-ids:
+- f7fd5d12-aeb9-4d0a-94a5-e8ae97532b20
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2012'
+display-date: 2011-12
+location:
+  latitude: 43.957821
+  longitude: 10.229141
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6883fc7a-540d-4fe9-9753-80f6e581f0ab
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
