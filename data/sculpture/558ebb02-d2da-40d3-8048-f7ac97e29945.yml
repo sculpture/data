@@ -1,0 +1,18 @@
+id: 558ebb02-d2da-40d3-8048-f7ac97e29945
+type: sculpture
+slug: annunciation-runggaldier
+title: Annunciation
+artist-ids:
+- dc59ace9-2c69-4efb-9e3b-61a127611bf6
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: '2009'
+location:
+  latitude: 45.439204
+  longitude: 10.999925
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- de83a4c2-214e-45fb-a307-c835449e52bf
