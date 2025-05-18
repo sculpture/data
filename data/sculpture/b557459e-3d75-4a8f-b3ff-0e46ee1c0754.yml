@@ -1,0 +1,16 @@
+id: b557459e-3d75-4a8f-b3ff-0e46ee1c0754
+type: sculpture
+slug: figura-petenello
+title: Figura
+artist-ids:
+- 5ed11833-4925-4a82-849a-c1099ea6e990
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1969'
+location:
+  latitude: 45.410876
+  longitude: 11.879231
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
