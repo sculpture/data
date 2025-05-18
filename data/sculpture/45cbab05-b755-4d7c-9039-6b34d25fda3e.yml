@@ -1,0 +1,16 @@
+id: 45cbab05-b755-4d7c-9039-6b34d25fda3e
+type: sculpture
+slug: luna-niki
+title: La Luna
+artist-ids:
+- b15e5537-c19f-4425-9f68-96e31aa0a0a3
+city-id: 87e31feb-218f-4ab6-b6f8-cecc048ebe35
+date: '1997'
+location:
+  latitude: 42.425254
+  longitude: 11.466744
+  precision: 10
+material-ids:
+- d0c52472-81c0-4c1d-abd7-3a32fd760700
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
