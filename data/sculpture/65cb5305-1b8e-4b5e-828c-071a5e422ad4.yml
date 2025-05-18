@@ -1,0 +1,17 @@
+id: 65cb5305-1b8e-4b5e-828c-071a5e422ad4
+type: sculpture
+slug: woman-in-bronze
+title: Woman in Bronze
+artist-ids:
+- 98e107cc-9e7f-4648-8287-0683a383b7a1
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2023'
+location:
+  latitude: 45.43146
+  longitude: 12.352597
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
