@@ -1,0 +1,17 @@
+id: 67ed8c9e-eaca-45ca-b41a-4a0b25059ded
+type: sculpture
+slug: rape-sabines-giambologna
+title: Rape of the Sabines
+artist-ids:
+- 0d2048a2-0550-45da-945c-1f8e1705a581
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1583'
+display-date: 1579-93
+location:
+  latitude: 43.769132
+  longitude: 11.255592
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- bde62dd4-de03-48b1-bc5b-812694b8a9de
