@@ -1,0 +1,14 @@
+id: 2bb6bb03-614d-496d-b6b9-92b360f4f904
+type: sculpture
+slug: myomu-yasuda
+title: Myomu (Chiave del sogno)
+artist-ids:
+- a78a3a68-204b-4fde-afac-2c1185f526bd
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2004'
+location:
+  latitude: 43.95628
+  longitude: 10.230248
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
