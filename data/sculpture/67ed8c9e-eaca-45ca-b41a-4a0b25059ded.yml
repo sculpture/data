@@ -1,12 +1,13 @@
 id: 67ed8c9e-eaca-45ca-b41a-4a0b25059ded
 type: sculpture
-slug: rape-sabines-giambologna
-title: Rape of the Sabines
+slug: rape-sabine-giambologna
+title: Rape of the Sabine
 artist-ids:
 - 0d2048a2-0550-45da-945c-1f8e1705a581
 city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
 date: '1583'
 display-date: 1579-93
+link-wikipedia: https://en.wikipedia.org/wiki/Abduction_of_a_Sabine_Woman
 location:
   latitude: 43.769132
   longitude: 11.255592
