@@ -1,0 +1,14 @@
+id: 1edebf70-771e-4db7-8149-fcc8d087b573
+type: sculpture
+slug: oceano-xhixha
+title: Oceano
+artist-ids:
+- 1f3f0795-b762-4cca-aae1-be36e31b4d84
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2014'
+location:
+  latitude: 43.927135
+  longitude: 10.199483
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
