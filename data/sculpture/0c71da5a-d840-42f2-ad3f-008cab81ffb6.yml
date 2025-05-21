@@ -1,0 +1,14 @@
+id: 0c71da5a-d840-42f2-ad3f-008cab81ffb6
+type: sculpture
+slug: tree-life-roggi
+title: Tree of Life
+artist-ids:
+- 21b5b525-5699-4372-a6c3-dace7c4400e5
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2017'
+location:
+  latitude: 43.958292
+  longitude: 10.231218
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
