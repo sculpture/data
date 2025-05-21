@@ -1,0 +1,21 @@
+id: 4686a3dc-a2f7-4c46-86aa-c5d90ea38e6e
+type: sculpture
+slug: gates-paradise-joshua
+title: Gates of Paradise - Stories of Joshua
+artist-ids:
+- e4d422b5-19bd-4745-84fb-38e30040e3f1
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1452'
+display-date: 1425-52
+location:
+  latitude: 43.773119
+  longitude: 11.254851
+  precision: 10
+material-ids:
+- 46fe9fce-6a4f-4a44-89d7-dedc6f731b39
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- e231b618-b7c1-4206-988c-813c2964e1a5
+- e78083c3-6cf7-41f2-95b5-5c4fad650664
