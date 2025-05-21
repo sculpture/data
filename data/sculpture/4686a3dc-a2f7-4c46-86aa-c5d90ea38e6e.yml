@@ -8,8 +8,8 @@ city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
 date: '1452'
 display-date: 1425-52
 location:
-  latitude: 43.773057
-  longitude: 11.255173
+  latitude: 43.773142
+  longitude: 11.255286
   precision: 10
 material-ids:
 - 46fe9fce-6a4f-4a44-89d7-dedc6f731b39
