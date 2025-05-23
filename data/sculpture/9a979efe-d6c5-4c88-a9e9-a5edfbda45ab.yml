@@ -1,0 +1,16 @@
+id: 9a979efe-d6c5-4c88-a9e9-a5edfbda45ab
+type: sculpture
+slug: la-stella-niki
+title: La Stella
+artist-ids:
+- b15e5537-c19f-4425-9f68-96e31aa0a0a3
+city-id: 87e31feb-218f-4ab6-b6f8-cecc048ebe35
+date: '1997'
+location:
+  latitude: 42.426161
+  longitude: 11.466647
+  precision: 10
+tag-ids:
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
