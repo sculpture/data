@@ -1,10 +1,9 @@
 id: 63a9f587-4bf3-4292-982d-52ddbf04e34b
 type: artist
-slug: josef-max
-name: Josef Max
-birth-date: '1804'
-death-date: '1855'
+slug: jan-wgner
+name: Jan Wagner
+birth-date: '1941'
+death-date: '2005'
 gender: male
-link-wikipedia: https://en.wikipedia.org/wiki/Josef_Max
 nationality-ids:
 - f6623947-b826-4852-95e6-7a7bf31551be
