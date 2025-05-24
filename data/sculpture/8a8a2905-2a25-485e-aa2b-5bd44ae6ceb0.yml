@@ -1,0 +1,23 @@
+id: 8a8a2905-2a25-485e-aa2b-5bd44ae6ceb0
+type: sculpture
+slug: notte-michelangelo
+title: La Notte
+artist-ids:
+- 0194af41-7eee-49e8-a567-7259da5bc48f
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1531'
+display-date: 1526-31
+link-wikipedia: https://it.wikipedia.org/wiki/Notte_(Michelangelo)
+location:
+  latitude: 43.774716
+  longitude: 11.253583
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
