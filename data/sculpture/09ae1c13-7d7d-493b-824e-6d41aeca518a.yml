@@ -1,0 +1,16 @@
+id: 09ae1c13-7d7d-493b-824e-6d41aeca518a
+type: sculpture
+slug: round-structure-1996
+title: Round Structure
+artist-ids:
+- e47d7115-f565-44bc-a339-654f89aa2869
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1996'
+location:
+  latitude: 35.676423
+  longitude: 139.650027
+  precision: 10
+material-ids:
+- cf38381e-1b86-4728-8349-6febca8429d0
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
