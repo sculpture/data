@@ -1,0 +1,20 @@
+id: d83d55f0-91d0-4d86-a2c2-aa60c789609c
+type: sculpture
+slug: trinity-altarpiece-robbia
+title: Trinity Altarpiece
+artist-ids:
+- bc6b0029-c295-45cc-80de-f2dd7f10689c
+city-id: 58dfe45b-7767-42fe-8a25-0a00c0686d09
+date: '1486'
+display-date: 1485-86
+location:
+  latitude: 43.467253
+  longitude: 11.883359
+  precision: 10
+material-ids:
+- a4828452-7739-4398-9236-e0c62eda53c2
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- de83a4c2-214e-45fb-a307-c835449e52bf
