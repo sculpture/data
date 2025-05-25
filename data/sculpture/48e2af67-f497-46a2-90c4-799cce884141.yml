@@ -1,7 +1,7 @@
 id: 48e2af67-f497-46a2-90c4-799cce884141
 type: sculpture
 slug: freedom-of-poetry
-title: Freedom of Poetry
+title: Freedom of Poetry - Niccolini Tomb
 artist-ids:
 - deb6f625-8734-4187-a297-0ffb7669a450
 city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
@@ -15,6 +15,7 @@ location:
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
 - 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
 - 6f13c768-5619-419e-97af-60440cab7f89
