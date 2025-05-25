@@ -1,0 +1,16 @@
+id: 6f0c5c8c-a928-4b49-a379-ac1bf03860e4
+type: sculpture
+slug: serenata-bigi
+title: Serenata
+artist-ids:
+- b719d26d-66d3-4b2d-8513-9eb9d65e3e86
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2005'
+location:
+  latitude: 43.958284
+  longitude: 10.22934
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- e67f346e-191a-4f0f-a6c2-861e72e7f78f
