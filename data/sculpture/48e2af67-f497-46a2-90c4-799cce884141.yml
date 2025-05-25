@@ -1,0 +1,23 @@
+id: 48e2af67-f497-46a2-90c4-799cce884141
+type: sculpture
+slug: freedom-of-poetry
+title: Freedom of Poetry
+artist-ids:
+- deb6f625-8734-4187-a297-0ffb7669a450
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1876'
+display-date: 1870-76
+link-wikipedia: https://it.wikipedia.org/wiki/Libert%C3%A0_della_Poesia
+location:
+  latitude: 43.768425
+  longitude: 11.262327
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
