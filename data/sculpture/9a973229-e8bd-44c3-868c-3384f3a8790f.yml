@@ -1,0 +1,21 @@
+id: 9a973229-e8bd-44c3-868c-3384f3a8790f
+type: sculpture
+slug: judith-holofernes-donatello
+title: Judith and Holofernes
+artist-ids:
+- 4a395507-53d7-431a-8f9b-4677bd31977a
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1464'
+display-date: 1457-64
+link-wikipedia: https://en.wikipedia.org/wiki/Judith_and_Holofernes_(Donatello)
+location:
+  latitude: 43.769409
+  longitude: 11.255947
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
