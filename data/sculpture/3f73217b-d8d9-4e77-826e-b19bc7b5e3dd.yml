@@ -1,0 +1,14 @@
+id: 3f73217b-d8d9-4e77-826e-b19bc7b5e3dd
+type: sculpture
+slug: sole-galileo-galilei
+title: Sole per Galileo Galilei
+artist-ids:
+- 5b6de0c4-cb12-4b97-bac8-62915da2f969
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1997'
+location:
+  latitude: 43.764704
+  longitude: 11.265622
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
