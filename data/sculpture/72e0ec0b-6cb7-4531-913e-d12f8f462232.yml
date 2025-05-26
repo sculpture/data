@@ -1,0 +1,16 @@
+id: 72e0ec0b-6cb7-4531-913e-d12f8f462232
+type: sculpture
+slug: omaggio-mitoraj
+title: Omaggio a Mitoraj
+artist-ids:
+- 09edc663-55c1-44dc-b0bd-1fb35fa07d01
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2024'
+location:
+  latitude: 43.957108
+  longitude: 10.231571
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
