@@ -1,0 +1,19 @@
+id: cd60261a-131c-4a89-a61b-4317dbae9d06
+type: sculpture
+slug: altar-pisa-vangi
+title: Altar
+artist-ids:
+- 4b903993-b427-4f22-804d-66bc472a1423
+city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
+date: '2001'
+location:
+  latitude: 43.723197
+  longitude: 10.396083
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 78695307-4f57-45a4-9566-dd0893e2ae80
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
