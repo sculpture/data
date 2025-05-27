@@ -1,0 +1,21 @@
+id: 92e5b2df-0d20-44b4-8d8f-efb48d2e1817
+type: sculpture
+slug: dying-adonis-rossi
+title: Dying Adonis
+artist-ids:
+- f702bc89-e6fc-43f0-9ff6-f8f68da33dd4
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1565'
+display-date: c. 1565
+location:
+  latitude: 43.770398
+  longitude: 11.258008
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
