@@ -1,0 +1,18 @@
+id: 1e190ec4-29ca-4cbb-9d27-d092c23df467
+type: sculpture
+slug: cyclist-leger-biot
+title: Cyclist
+artist-ids:
+- a1a78fbb-0603-4a6b-b39e-715170e6ce06
+city-id: 1b670fa5-d666-474f-a050-526bc35f2503
+date: '1960'
+location:
+  latitude: 43.622309
+  longitude: 7.112243
+  precision: 10
+note: 'Medallion on the right of the south façade of the Léger Fernand Museum, after
+  restoration (March 2015). Polychrome mosaic (9 x 43.8 m) made by Lino Mélano, based
+  on the model of Léger''s project initially planned for the velodrome stadium in
+  Hanover (Germany). '
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
