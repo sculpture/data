@@ -1,0 +1,20 @@
+id: 60fd4b9f-9297-44ab-aafb-c4c8043d1284
+type: sculpture
+slug: fibonacci-camposanto
+title: Fibonacci
+artist-ids:
+- ad45f9f3-6098-4eb8-a108-37bdafee7be4
+city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
+date: '1861'
+location:
+  latitude: 43.723984
+  longitude: 10.39492
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 981f0f0b-7f88-43af-b1d6-1ed2653e71ae
