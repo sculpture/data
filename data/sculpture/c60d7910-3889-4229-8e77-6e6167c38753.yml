@@ -1,0 +1,17 @@
+id: c60d7910-3889-4229-8e77-6e6167c38753
+type: sculpture
+slug: il-gatto-niki
+title: Il Gatto
+artist-ids:
+- b15e5537-c19f-4425-9f68-96e31aa0a0a3
+city-id: 87e31feb-218f-4ab6-b6f8-cecc048ebe35
+date: '1997'
+display-date: 1991-97
+location:
+  latitude: 42.425804
+  longitude: 11.466631
+  precision: 10
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
