@@ -1,0 +1,21 @@
+id: 8b6c75aa-beb6-47a1-87fe-f0fd6cdedf2f
+type: sculpture
+slug: madonna-in-trono-robbia
+title: La Madonna in trono
+artist-ids:
+- bc6b0029-c295-45cc-80de-f2dd7f10689c
+city-id: 58dfe45b-7767-42fe-8a25-0a00c0686d09
+date: '1495'
+display-date: 1493-95
+location:
+  latitude: 43.467268
+  longitude: 11.88337
+  precision: 10
+material-ids:
+- a4828452-7739-4398-9236-e0c62eda53c2
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- de83a4c2-214e-45fb-a307-c835449e52bf
