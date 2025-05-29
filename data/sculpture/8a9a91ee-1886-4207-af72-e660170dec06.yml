@@ -1,0 +1,22 @@
+id: 8a9a91ee-1886-4207-af72-e660170dec06
+type: sculpture
+slug: st-cosmas-monrosoli
+title: St Cosmas
+artist-ids:
+- ff2f34cd-bb15-491c-9a06-1ca85ab222e2
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1534'
+display-date: 1521-34
+location:
+  latitude: 43.775091
+  longitude: 11.25339
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
