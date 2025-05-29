@@ -1,0 +1,20 @@
+id: 3a848998-3ac8-4f8a-ae2c-e7523c8c749f
+type: sculpture
+slug: charlotte-bonaparte
+title: '  Charlotte Bonaparte'
+artist-ids:
+- 04fc2010-8068-4eec-88a5-6f6a3ce630c2
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1889'
+location:
+  latitude: 43.768332
+  longitude: 11.262515
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e2626649-0316-44ca-bcfe-2cb5dbaf4e91
