@@ -1,0 +1,17 @@
+id: bb6ee3c6-3c4a-4e9e-8cf0-f8f03d1d9218
+type: sculpture
+slug: young-clock-tower
+title: 'Young Clock Tower '
+artist-ids:
+- 5ca673cf-832f-49ff-bbf1-71ba89af5b2c
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1966'
+location:
+  latitude: 35.672641
+  longitude: 139.762337
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- d48b3225-e54e-4314-9b96-5bd6ba1a2772
+tag-ids:
+- ecbe1ff4-cdf3-4c7c-af38-1a6e919e7e8b
