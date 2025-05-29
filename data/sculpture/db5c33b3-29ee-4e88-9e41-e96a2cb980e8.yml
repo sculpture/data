@@ -1,0 +1,13 @@
+id: db5c33b3-29ee-4e88-9e41-e96a2cb980e8
+type: sculpture
+slug: parsifal
+title: Parsifal
+artist-ids:
+- 84c95657-f2f7-430e-bb16-2ef7bc1b06a5
+date: '2003'
+location:
+  latitude: 43.913122
+  longitude: 10.211108
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
