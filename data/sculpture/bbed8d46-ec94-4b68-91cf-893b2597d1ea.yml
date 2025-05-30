@@ -1,0 +1,21 @@
+id: bbed8d46-ec94-4b68-91cf-893b2597d1ea
+type: sculpture
+slug: ganymede-ammannati
+title: Ganymede
+artist-ids:
+- 4a2ebef2-9277-4e6e-a35b-648dfc40bff7
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1560'
+display-date: c. 1560
+location:
+  latitude: 43.770386
+  longitude: 11.258169
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- b982214e-52f9-48b0-b977-4a4359b49fdb
