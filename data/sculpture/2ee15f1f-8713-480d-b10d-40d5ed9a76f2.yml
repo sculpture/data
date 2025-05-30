@@ -1,0 +1,19 @@
+id: 2ee15f1f-8713-480d-b10d-40d5ed9a76f2
+type: sculpture
+slug: il-centauro-mitoraj
+title: Il centauro
+artist-ids:
+- e31569f5-c19d-41b1-98e8-4a14e439b562
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '1994'
+location:
+  latitude: 43.957152
+  longitude: 10.232651
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
