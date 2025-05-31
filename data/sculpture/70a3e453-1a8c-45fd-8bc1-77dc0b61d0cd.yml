@@ -1,0 +1,19 @@
+id: 70a3e453-1a8c-45fd-8bc1-77dc0b61d0cd
+type: sculpture
+slug: fille-mer-soleil-vanczak
+title: La Fille de la mer et du soleil
+artist-ids:
+- b5411fc6-2bf2-481b-85f1-28dc97b24961
+city-id: 4d9c995b-3c30-4299-848f-c05593c56f15
+date: '1970'
+display-date: c. 1970
+location:
+  latitude: 42.700441
+  longitude: 3.033361
+  precision: 50
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
