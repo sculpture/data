@@ -1,18 +1,20 @@
 id: 1bd5392e-f759-4edb-8fd9-55edbe269882
 type: sculpture
-slug: centauro-mitoraj
-title: Centauro
+slug: cosimo-i-bargello
+title: Cosimo I
 artist-ids:
-- e31569f5-c19d-41b1-98e8-4a14e439b562
-city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
-date: '1994'
+- 4454d310-b6ff-4ae3-9783-a7e4bfd38986
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1544'
+display-date: c.1544
 location:
-  latitude: 52.248003
-  longitude: 21.014003
+  latitude: 43.770398
+  longitude: 11.25819
   precision: 10
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
-- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
-- bbcb416f-d400-4a07-8a83-79a445209a57
-- da1c0095-de6b-46ef-a325-aee17c6e9cdd
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6cac5bfb-8079-494d-bdff-dffb9c54e908
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
