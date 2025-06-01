@@ -1,0 +1,14 @@
+id: d22ef5e3-d1ca-4b9b-810e-cc135406314b
+type: sculpture
+slug: gate-of-dynamism
+title: Gate of Dynamism
+artist-ids:
+- 5ca673cf-832f-49ff-bbf1-71ba89af5b2c
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1993'
+location:
+  latitude: 35.676423
+  longitude: 139.650027
+  precision: 10
+tag-ids:
+- db51c2ea-c8f2-4b20-ba2d-1eb26ea058d1
