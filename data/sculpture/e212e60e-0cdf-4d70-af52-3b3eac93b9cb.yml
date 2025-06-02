@@ -1,0 +1,23 @@
+id: e212e60e-0cdf-4d70-af52-3b3eac93b9cb
+type: sculpture
+slug: san-ludovico-tolosa
+title: San Ludovico di Tolosa
+artist-ids:
+- 4a395507-53d7-431a-8f9b-4677bd31977a
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1425'
+display-date: 1423-25
+link-wikipedia: https://en.wikipedia.org/wiki/Saint_Louis_of_Toulouse_(Donatello)
+location:
+  latitude: 43.768452
+  longitude: 11.263003
+  precision: 10
+material-ids:
+- 46fe9fce-6a4f-4a44-89d7-dedc6f731b39
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
