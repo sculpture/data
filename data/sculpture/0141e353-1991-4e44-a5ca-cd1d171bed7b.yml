@@ -1,0 +1,18 @@
+id: 0141e353-1991-4e44-a5ca-cd1d171bed7b
+type: sculpture
+slug: san-martino-miozzi
+title: San Martino
+artist-ids:
+- ac33db87-f9f2-4fc0-9a4e-f8c44da9620c
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '1977'
+location:
+  latitude: 43.959397
+  longitude: 10.2277
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- de83a4c2-214e-45fb-a307-c835449e52bf
