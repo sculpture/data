@@ -1,0 +1,18 @@
+id: c840ba0d-4f3c-42ec-8a8b-e5d9bc26603e
+type: sculpture
+slug: andrea-da-grosseto
+title: Andrea da Grosseto
+artist-ids:
+- afe07701-34bc-455a-9a66-96f8306085bb
+city-id: 33049fa3-1854-449a-a939-2233427bb2e4
+date: '1974'
+location:
+  latitude: 42.761618
+  longitude: 11.113622
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
