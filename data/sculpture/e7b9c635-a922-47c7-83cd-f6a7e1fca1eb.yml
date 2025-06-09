@@ -1,0 +1,21 @@
+id: e7b9c635-a922-47c7-83cd-f6a7e1fca1eb
+type: sculpture
+slug: chronos-monaldi
+title: Chronos
+artist-ids:
+- 5c84827e-a070-46e7-9966-b86420931c3f
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1786'
+display-date: 1781-86
+location:
+  latitude: 52.247705
+  longitude: 21.014654
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- ecbe1ff4-cdf3-4c7c-af38-1a6e919e7e8b
