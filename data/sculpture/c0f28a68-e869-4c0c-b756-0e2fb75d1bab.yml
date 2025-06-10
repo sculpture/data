@@ -1,0 +1,16 @@
+id: c0f28a68-e869-4c0c-b756-0e2fb75d1bab
+type: sculpture
+slug: mukayu
+title: Mukayu
+artist-ids:
+- a78a3a68-204b-4fde-afac-2c1185f526bd
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '1984'
+location:
+  latitude: 43.957048
+  longitude: 10.231947
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
