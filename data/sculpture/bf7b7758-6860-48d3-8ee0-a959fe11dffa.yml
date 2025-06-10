@@ -1,11 +1,12 @@
 id: bf7b7758-6860-48d3-8ee0-a959fe11dffa
 type: sculpture
 slug: pulpit-pisa-pisano
-title: Pulpit in the Pisa Baptistery
+title: Pisa Baptistery Pulpit
 artist-ids:
 - a745c426-8c4a-42d7-b099-2429286de7bd
 city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
 date: '1260'
+link-wikipedia: https://en.wikipedia.org/wiki/Pulpit_in_the_Pisa_Baptistery
 location:
   latitude: 43.723316
   longitude: 10.394135
