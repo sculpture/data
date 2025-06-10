@@ -8,8 +8,8 @@ city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
 date: '1970'
 link-wikipedia: https://en.wikipedia.org/wiki/Love_(sculpture)
 location:
-  latitude: 45.503595
-  longitude: -73.558586
+  latitude: 45.503181
+  longitude: -73.558849
   precision: 10
 material-ids:
 - 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
