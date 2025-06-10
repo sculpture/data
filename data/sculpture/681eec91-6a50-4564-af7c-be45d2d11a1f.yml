@@ -1,0 +1,17 @@
+id: 681eec91-6a50-4564-af7c-be45d2d11a1f
+type: sculpture
+slug: mysteriously-conceived
+title: Mysteriously Conceived and Deeply Felt
+artist-ids:
+- 0e4a0f69-f92a-47c0-b8af-35fac515d73c
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2018'
+location:
+  latitude: 52.233091
+  longitude: 21.008871
+  precision: 10
+material-ids:
+- 1df5830e-aa31-460c-a366-f07356994824
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
