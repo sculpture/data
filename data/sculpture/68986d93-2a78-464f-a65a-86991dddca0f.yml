@@ -1,0 +1,18 @@
+id: 68986d93-2a78-464f-a65a-86991dddca0f
+type: sculpture
+slug: love-indiana-tokyo
+title: Love
+artist-ids:
+- b19815de-ff4e-46bf-a21a-7ff6212b3495
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1968'
+link-wikipedia: https://en.wikipedia.org/wiki/Love_(image)
+location:
+  latitude: 35.653268
+  longitude: 139.710285
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 91dc9534-fac3-4f77-aaa1-5a701b6ab79b
+- f512d675-0554-4a67-987c-1da560f2c95a
