@@ -1,0 +1,22 @@
+id: be2ac521-291f-4bc7-9f94-5f204e77c206
+type: sculpture
+slug: mercurio-volante
+title: Mercurio volante
+artist-ids:
+- 0d2048a2-0550-45da-945c-1f8e1705a581
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1580'
+display-date: 1578-80
+link-wikipedia: https://it.wikipedia.org/wiki/Mercurio_volante
+location:
+  latitude: 43.770379
+  longitude: 11.25819
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
