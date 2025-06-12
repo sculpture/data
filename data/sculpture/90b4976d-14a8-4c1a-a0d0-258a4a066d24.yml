@@ -1,0 +1,20 @@
+id: 90b4976d-14a8-4c1a-a0d0-258a4a066d24
+type: sculpture
+slug: la-giustizia-niki
+title: La Giustizia
+artist-ids:
+- b15e5537-c19f-4425-9f68-96e31aa0a0a3
+city-id: 87e31feb-218f-4ab6-b6f8-cecc048ebe35
+date: '1997'
+display-date: 1985-97
+location:
+  latitude: 42.426208
+  longitude: 11.466862
+  precision: 10
+material-ids:
+- 1aaa34d0-a277-480a-b85e-4f7dc8a8f257
+- 82d9ed4b-e837-4b5e-8c17-40469885764c
+- d48b3225-e54e-4314-9b96-5bd6ba1a2772
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
