@@ -1,0 +1,21 @@
+id: 872923b5-1ce3-448b-a69e-5268eb8d1408
+type: sculpture
+slug: kusunoki-masashige
+title: Kusunoki Masashige
+artist-ids:
+- 1073b985-60f3-4021-85bc-ec360d33c4be
+- 12bb223e-9fac-4938-a705-a759a92deec9
+- 5ccabe8e-32d5-4e59-b571-5f241320ddb4
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1896'
+location:
+  latitude: 35.677914
+  longitude: 139.758484
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- c68abb5f-2194-441e-9e75-71098c797e89
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
