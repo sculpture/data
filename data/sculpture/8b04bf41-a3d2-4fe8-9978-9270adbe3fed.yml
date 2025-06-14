@@ -1,0 +1,21 @@
+id: 8b04bf41-a3d2-4fe8-9978-9270adbe3fed
+type: sculpture
+slug: madonna-bambino-firenze-2
+title: Madonna col Bambino
+artist-ids:
+- 2aea95cd-5dd5-4eb1-a3c0-e506705c6ccb
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1430'
+display-date: 1427-30
+location:
+  latitude: 43.770394
+  longitude: 11.258196
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6c892a0c-c6ab-4580-9095-a545228f75e7
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
