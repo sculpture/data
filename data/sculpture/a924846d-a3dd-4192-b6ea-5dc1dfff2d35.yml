@@ -1,0 +1,16 @@
+id: a924846d-a3dd-4192-b6ea-5dc1dfff2d35
+type: sculpture
+slug: nudo-verticale
+title: Nudo verticale (La tuffatrice)
+artist-ids:
+- ac33db87-f9f2-4fc0-9a4e-f8c44da9620c
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '1995'
+location:
+  latitude: 43.927214
+  longitude: 10.199748
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
