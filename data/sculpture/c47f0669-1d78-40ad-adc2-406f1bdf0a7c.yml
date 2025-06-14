@@ -1,0 +1,19 @@
+id: c47f0669-1d78-40ad-adc2-406f1bdf0a7c
+type: sculpture
+slug: ni-tele-big-clock
+title: Ni-Tele Really Big Clock
+artist-ids:
+- aa85c80c-203e-41f5-8fbe-c1995f2bd4cf
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '2006'
+link-wikipedia: https://en.wikipedia.org/wiki/Ni-Tele_Really_Big_Clock
+location:
+  latitude: 35.676423
+  longitude: 139.650027
+  precision: 10
+material-ids:
+- 074ac694-e3fe-4f1a-80d5-862a26cc5451
+- 90961d65-c887-44b3-9153-7364b69806bc
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- ecbe1ff4-cdf3-4c7c-af38-1a6e919e7e8b
