@@ -1,0 +1,11 @@
+id: aa85c80c-203e-41f5-8fbe-c1995f2bd4cf
+type: artist
+slug: hayao-miyazaki
+name: Hayao Miyazaki
+birth-date: '1941'
+gender: male
+link-wikipedia: https://en.wikipedia.org/wiki/Hayao_Miyazaki
+nationality-ids:
+- d295312f-a7e0-4d6d-8614-78c3e8013386
+tag-ids:
+- 21e0f476-b019-4199-8f43-3e7bcf34a6dc
