@@ -1,0 +1,23 @@
+id: 34db80cc-9c61-4d82-9de8-0aa6cc3e7bbd
+type: sculpture
+slug: david-donatello-bronze
+title: David
+artist-ids:
+- 4a395507-53d7-431a-8f9b-4677bd31977a
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1440'
+display-date: c.1440
+link-wikipedia: https://en.wikipedia.org/wiki/David_(Donatello,_bronze)
+location:
+  latitude: 43.770383
+  longitude: 11.258265
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e231b618-b7c1-4206-988c-813c2964e1a5
