@@ -1,0 +1,18 @@
+id: 78a62348-48dc-4697-8973-af00501496eb
+type: sculpture
+slug: bagnante-volia
+title: Bagnante che si Volia
+artist-ids:
+- a51f6ea4-ca1c-49d3-bfaf-61089fa4874b
+city-id: e3ea3104-1017-49f5-8af3-d3f03b79d2e0
+date: '2000'
+location:
+  latitude: 42.440525
+  longitude: 11.214423
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
