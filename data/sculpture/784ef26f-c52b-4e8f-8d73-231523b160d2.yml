@@ -1,0 +1,15 @@
+id: 784ef26f-c52b-4e8f-8d73-231523b160d2
+type: sculpture
+slug: sofia-superlinox
+title: Sofia
+artist-ids:
+- 415f049c-0cc2-44d3-8454-f925f14586d7
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '2022'
+location:
+  latitude: 38.71213
+  longitude: -9.13943
+  precision: 10
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
