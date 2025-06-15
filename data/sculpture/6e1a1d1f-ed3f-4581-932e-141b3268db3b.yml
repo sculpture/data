@@ -1,0 +1,21 @@
+id: 6e1a1d1f-ed3f-4581-932e-141b3268db3b
+type: sculpture
+slug: madonna-child-warsaw-castle
+title: Madonna and Child
+artist-ids:
+- e4d422b5-19bd-4745-84fb-38e30040e3f1
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1440'
+display-date: 1423-40
+location:
+  latitude: 52.24776
+  longitude: 21.014298
+  precision: 10
+material-ids:
+- 2d8ad17d-5e23-4ec3-9057-eeafe0e3c188
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6c892a0c-c6ab-4580-9095-a545228f75e7
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
