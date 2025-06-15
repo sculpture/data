@@ -1,0 +1,17 @@
+id: 6e1a5192-ff7b-465b-8f0f-6bddb4947629
+type: sculpture
+slug: tiberius
+title: Tiberius
+artist-ids:
+- 43b4f677-6326-473a-8d5f-def490190b7d
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1793'
+location:
+  latitude: 52.216097
+  longitude: 21.029751
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- e1747e74-d399-45e0-98c6-60514c400683
