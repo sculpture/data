@@ -1,0 +1,18 @@
+id: beb0e419-7565-486b-8947-db1655e000bc
+type: sculpture
+slug: expulsion-lapa
+title: The Expulsion
+artist-ids:
+- d692411e-9027-466b-aa64-987655d6c8b3
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1979'
+location:
+  latitude: 38.732537
+  longitude: -9.157909
+  precision: 10
+material-ids:
+- 4a979cf3-40f3-4be9-aa71-b79765408367
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- e231b618-b7c1-4206-988c-813c2964e1a5
