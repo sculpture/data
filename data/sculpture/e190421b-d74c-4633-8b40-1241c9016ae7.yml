@@ -1,0 +1,19 @@
+id: e190421b-d74c-4633-8b40-1241c9016ae7
+type: sculpture
+slug: summer-caccini
+title: Summer
+artist-ids:
+- 73f6fe95-4165-475f-aa7c-0938f00090f1
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1593'
+display-date: 1592-93
+location:
+  latitude: 43.768684
+  longitude: 11.250059
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
