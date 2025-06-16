@@ -1,0 +1,19 @@
+id: cb049e2f-876f-4ce7-af10-e3465a19b817
+type: sculpture
+slug: undaunted
+title: Undaunted - Jason Churchill
+artist-ids:
+- 03d8fb66-31dd-444a-9c04-81b9f48f7adb
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2016'
+location:
+  latitude: 43.69773
+  longitude: -79.385023
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 02f10031-647d-4416-b5bb-76fa5531ea7b
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
