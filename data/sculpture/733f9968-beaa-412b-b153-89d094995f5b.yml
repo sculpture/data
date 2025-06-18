@@ -1,0 +1,21 @@
+id: 733f9968-beaa-412b-b153-89d094995f5b
+type: sculpture
+slug: san-damiano-montelupo
+title: San Damiano
+artist-ids:
+- 726edadb-e0b5-414d-a25b-e24e73ecb58a
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1534'
+display-date: c. 1534
+location:
+  latitude: 43.775091
+  longitude: 11.25339
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
