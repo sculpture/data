@@ -1,0 +1,20 @@
+id: 8308835e-05cd-4da4-a24d-1cce0c89d398
+type: sculpture
+slug: st-andrew-robbia
+title: Saint Andrew
+artist-ids:
+- 792734b8-08d1-461c-adc9-8d1958319006
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1460'
+display-date: 1460s
+location:
+  latitude: 43.767996
+  longitude: 11.262812
+  precision: 10
+material-ids:
+- a4828452-7739-4398-9236-e0c62eda53c2
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
