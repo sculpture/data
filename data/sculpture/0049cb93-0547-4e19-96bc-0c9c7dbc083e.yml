@@ -1,0 +1,20 @@
+id: 0049cb93-0547-4e19-96bc-0c9c7dbc083e
+type: sculpture
+slug: fountain-neptune-florence
+title: Fountain of Neptune
+artist-ids:
+- 4a2ebef2-9277-4e6e-a35b-648dfc40bff7
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1574'
+display-date: 1560-74
+location:
+  latitude: 43.769587
+  longitude: 11.25599
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
