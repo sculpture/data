@@ -1,0 +1,19 @@
+id: 5b8b2fcb-a5c0-46ff-9a43-f26930c7d714
+type: sculpture
+slug: mother-child-botero-tokyo
+title: Mother and Child (Botero)
+artist-ids:
+- 62e84dc2-a16e-45c0-88e6-a4b03bbbe63c
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1988'
+location:
+  latitude: 35.681184
+  longitude: 139.774154
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- ea310784-30d7-4a31-9c7b-22e86c3cf049
