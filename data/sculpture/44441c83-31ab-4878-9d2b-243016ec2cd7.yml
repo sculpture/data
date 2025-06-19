@@ -1,0 +1,19 @@
+id: 44441c83-31ab-4878-9d2b-243016ec2cd7
+type: sculpture
+slug: spedale-innocenti-tondi
+title: Tondi - Ospedale degli Innocenti
+artist-ids:
+- bc6b0029-c295-45cc-80de-f2dd7f10689c
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1490'
+display-date: c. 1490
+location:
+  latitude: 43.776072
+  longitude: 11.261438
+  precision: 10
+material-ids:
+- a4828452-7739-4398-9236-e0c62eda53c2
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- f3c0c272-150c-42cd-9a87-bd121fdc1309
