@@ -1,0 +1,21 @@
+id: 7a423364-57f8-4d36-8965-fe62f17718fe
+type: sculpture
+slug: rapto-de-ganimedes
+title: Rapto de Ganimedes
+artist-ids:
+- eef9a0db-184e-402f-a120-01b228f479ae
+city-id: 3b930473-fa76-42c7-8b75-8d460d649251
+date: '1898'
+location:
+  latitude: 41.145802
+  longitude: -8.616712
+  precision: 50
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- b982214e-52f9-48b0-b977-4a4359b49fdb
+- d973207a-6b23-4505-a84d-d2339bc3a55c
