@@ -1,0 +1,16 @@
+id: 3abcb7af-1323-467a-90b2-944d17b1c570
+type: sculpture
+slug: o-beijo-kitagawa
+title: O Beijo
+artist-ids:
+- 1c407e2a-b7cd-4b01-8f65-74128b238878
+city-id: 38334de0-affa-4c72-a6fe-b2c07f1ad911
+date: '1981'
+location:
+  latitude: 38.573304
+  longitude: -7.907983
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
