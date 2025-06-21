@@ -1,0 +1,19 @@
+id: 8586c7d3-448c-4ee9-b799-419f5a9abfaf
+type: sculpture
+slug: monumento-caduti-lucca
+title: Monumento ai Caduti
+artist-ids:
+- 967ad9ed-3145-41d8-9462-fb8750357f02
+city-id: 797fae0b-2e5d-4915-bb70-b13c17378322
+date: '1930'
+location:
+  latitude: 43.843039
+  longitude: 10.515653
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
