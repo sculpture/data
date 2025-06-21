@@ -1,0 +1,14 @@
+id: 0c841b16-f69f-4789-8b5b-ba25add45e84
+type: sculpture
+slug: mnument-goran-kovacic
+title: Monument to Ivan Goran Kovačić
+artist-ids:
+- bbedb9c5-5938-4651-b4d9-e50a968f03e6
+city-id: a4bce8ca-fbdf-4833-8f5a-b3c9d49d0049
+date: '1963'
+location:
+  latitude: 45.817677
+  longitude: 15.979496
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
