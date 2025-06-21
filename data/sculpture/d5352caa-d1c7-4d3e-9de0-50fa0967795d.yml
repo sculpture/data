@@ -1,0 +1,19 @@
+id: d5352caa-d1c7-4d3e-9de0-50fa0967795d
+type: sculpture
+slug: grunwald-monument-krakow
+title: Grunwald Monument
+artist-ids:
+- 11bd5ec8-db66-4c48-b8e1-b54959cf6571
+- c5e5d2fe-11d2-4a66-bac1-f026c8dab4cd
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '1910'
+location:
+  latitude: 50.066425
+  longitude: 19.942154
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0543f161-85e7-4c0e-9b65-3f2e2d5f6cb3
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
