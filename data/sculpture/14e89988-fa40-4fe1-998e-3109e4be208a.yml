@@ -1,0 +1,14 @@
+id: 14e89988-fa40-4fe1-998e-3109e4be208a
+type: sculpture
+slug: fly-me-to-moon
+title: Fly Me to the Moon
+artist-ids:
+- 1d4ed8b8-9ef9-4254-9ddb-f4b28f57b1f3
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2011'
+location:
+  latitude: 45.504233
+  longitude: 12.340472
+  precision: 100
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
