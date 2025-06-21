@@ -1,0 +1,16 @@
+id: 6a4efcc1-377f-4ca4-bbea-0edac6d9821a
+type: sculpture
+slug: antonio-canova-ferrari
+title: Antonio Canova
+artist-ids:
+- 8d1b0c64-a48c-4127-b0be-e3e83d155630
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1796'
+location:
+  latitude: 45.397725
+  longitude: 11.87689
+  precision: 50
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 88a0e756-4193-4ff2-9d96-f1844c05f5e5
