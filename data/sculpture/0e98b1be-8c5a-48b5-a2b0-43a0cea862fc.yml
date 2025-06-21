@@ -1,0 +1,20 @@
+id: 0e98b1be-8c5a-48b5-a2b0-43a0cea862fc
+type: sculpture
+slug: august-senoa-zagreb
+title: August Šenoa
+artist-ids:
+- 076854a4-e344-432e-96ef-96c86a98fbf4
+city-id: a4bce8ca-fbdf-4833-8f5a-b3c9d49d0049
+date: '1987'
+location:
+  latitude: 45.813911
+  longitude: 15.981656
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6c2bfe1f-8ad4-42af-8a27-b996f6ebbdfa
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
