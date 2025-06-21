@@ -5,6 +5,7 @@ colors:
 - '#55514A'
 - '#818D99'
 - '#ABBFC7'
+featured?: false
 height: 4000
 user-id: 1b5391b8-c7e7-493d-809c-cc8d8491d4f6
 width: 2897
