@@ -1,0 +1,20 @@
+id: f46d729a-55e0-4a6d-9edf-aef5f3f57fc3
+type: sculpture
+slug: pisa-cathedral-pulpit
+title: Pisa Cathedral Pulpit
+artist-ids:
+- d11e4be8-f5d6-4caa-a158-71a2b6448bc0
+city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
+date: '1310'
+display-date: 1302-10
+location:
+  latitude: 43.723368
+  longitude: 10.395868
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 3c43f78f-6db0-45ce-b9e0-104e402f9f2a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
