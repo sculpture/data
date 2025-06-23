@@ -1,0 +1,15 @@
+id: 00924097-c3b3-4eb9-a230-f199d4ce0968
+type: sculpture
+slug: tokyo-brushstroke-ii-tokyo
+title: 'Tokyo Brushstroke II '
+artist-ids:
+- 6c982673-ff3d-44cb-96e7-d6f173d1a332
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1994'
+link-wikipedia: https://en.wikipedia.org/wiki/Tokyo_Brushstroke_I_and_II
+location:
+  latitude: 35.707753
+  longitude: 139.69696
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
