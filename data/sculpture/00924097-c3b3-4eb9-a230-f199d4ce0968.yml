@@ -8,8 +8,8 @@ city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
 date: '1994'
 link-wikipedia: https://en.wikipedia.org/wiki/Tokyo_Brushstroke_I_and_II
 location:
-  latitude: 35.707753
-  longitude: 139.69696
+  latitude: 35.676423
+  longitude: 139.650027
   precision: 10
 material-ids:
 - 76c8ed4b-b169-44ca-bf45-466a20c85838
