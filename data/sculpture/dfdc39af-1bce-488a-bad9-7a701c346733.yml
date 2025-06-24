@@ -1,0 +1,20 @@
+id: dfdc39af-1bce-488a-bad9-7a701c346733
+type: sculpture
+slug: tomb-ilaria-carretto
+title: Tomb of Ilaria del Carretto
+artist-ids:
+- 313c0f35-99db-443f-8303-ec17cdabeca4
+city-id: 797fae0b-2e5d-4915-bb70-b13c17378322
+date: '1406'
+display-date: c. 1406
+link-wikipedia: https://it.wikipedia.org/wiki/Monumento_funebre_a_Ilaria_del_Carretto
+location:
+  latitude: 43.840361
+  longitude: 10.50603
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
