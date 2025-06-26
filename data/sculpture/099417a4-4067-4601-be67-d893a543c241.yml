@@ -1,0 +1,18 @@
+id: 099417a4-4067-4601-be67-d893a543c241
+type: sculpture
+slug: ercole-centauro-nesso
+title: Ercole e il centauro Nesso
+artist-ids:
+- 0d2048a2-0550-45da-945c-1f8e1705a581
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1598'
+link-wikipedia: https://it.wikipedia.org/wiki/Ercole_e_il_centauro_Nesso
+location:
+  latitude: 43.769229
+  longitude: 11.255453
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
