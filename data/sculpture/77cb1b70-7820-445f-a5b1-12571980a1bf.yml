@@ -1,0 +1,15 @@
+id: 77cb1b70-7820-445f-a5b1-12571980a1bf
+type: sculpture
+slug: il-papa-niki
+title: Il Papa
+artist-ids:
+- b15e5537-c19f-4425-9f68-96e31aa0a0a3
+city-id: 87e31feb-218f-4ab6-b6f8-cecc048ebe35
+date: '1997'
+display-date: 1985-97
+location:
+  latitude: 42.425341
+  longitude: 11.467591
+  precision: 10
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
