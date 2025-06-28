@@ -1,0 +1,18 @@
+id: 34c1535d-5a3a-4b5f-8932-e3ce7f4c4470
+type: sculpture
+slug: francesco-burlamacchi
+title: Francesco Burlamacchi
+artist-ids:
+- 53eddce6-cb39-40ca-9207-451c34f40cfe
+city-id: 797fae0b-2e5d-4915-bb70-b13c17378322
+date: '1863'
+location:
+  latitude: 43.842832
+  longitude: 10.502716
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
