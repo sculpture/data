@@ -1,0 +1,16 @@
+id: 6c3b325f-7b6e-49fb-aaeb-b73a367c894d
+type: sculpture
+slug: adam-eva-ikeda
+title: Adam and Eva
+artist-ids:
+- adbd37cf-2c8f-418e-b39d-ac3cd41bdc7d
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1991'
+location:
+  latitude: 35.689651
+  longitude: 139.692823
+  precision: 10
+material-ids:
+- b056b6a2-cc0e-43ec-84ae-887480ee3706
+tag-ids:
+- e231b618-b7c1-4206-988c-813c2964e1a5
