@@ -1,0 +1,18 @@
+id: 7e59048e-dc1c-4868-a3c5-4dc6a141f1c4
+type: sculpture
+slug: virgin-mary-zagreb
+title: Virgin Mary with Angels
+artist-ids:
+- 24d15c09-d17f-4e24-82fa-7579f7dd37b3
+city-id: a4bce8ca-fbdf-4833-8f5a-b3c9d49d0049
+date: '1973'
+location:
+  latitude: 45.814674
+  longitude: 15.978671
+  precision: 10
+material-ids:
+- 46fe9fce-6a4f-4a44-89d7-dedc6f731b39
+tag-ids:
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- de83a4c2-214e-45fb-a307-c835449e52bf
