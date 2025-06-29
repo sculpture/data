@@ -1,0 +1,22 @@
+id: 04e22e25-c3aa-4318-bfac-98e7ffe204a3
+type: sculpture
+slug: abbondanza-boboli
+title: Abbondanza
+artist-ids:
+- 0d2048a2-0550-45da-945c-1f8e1705a581
+- 5d423a25-97d0-48b7-8756-7837b533ab98
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1636'
+display-date: 1608-36
+location:
+  latitude: 43.762497
+  longitude: 11.2484
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9c3360b2-448e-4f0e-a2c0-b4339e34d6a4
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
