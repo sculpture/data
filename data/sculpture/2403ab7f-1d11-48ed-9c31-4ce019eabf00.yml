@@ -1,0 +1,14 @@
+id: 2403ab7f-1d11-48ed-9c31-4ce019eabf00
+type: sculpture
+slug: guardian-ii-mayhew
+title: Guardian II
+artist-ids:
+- b1e8d9f5-e981-44fa-ac48-31cc43045de6
+city-id: 91ff22e1-f94a-415a-86f5-b4bd02203ca7
+date: '1963'
+location:
+  latitude: 49.279089
+  longitude: -122.920179
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
