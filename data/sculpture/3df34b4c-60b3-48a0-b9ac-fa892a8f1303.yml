@@ -1,0 +1,18 @@
+id: 3df34b4c-60b3-48a0-b9ac-fa892a8f1303
+type: sculpture
+slug: faun-elsasser
+title: Faun
+artist-ids:
+- a8661544-0a15-49b2-a8af-28ad2006ac99
+city-id: c55fa4d1-d614-45ec-b130-747888a8163b
+date: '1990'
+location:
+  latitude: 48.155678
+  longitude: 11.581549
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
