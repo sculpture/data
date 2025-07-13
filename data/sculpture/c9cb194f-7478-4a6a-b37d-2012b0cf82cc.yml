@@ -1,0 +1,18 @@
+id: c9cb194f-7478-4a6a-b37d-2012b0cf82cc
+type: sculpture
+slug: violin-player-mozarteum
+title: Violin Player
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 7e35b7d3-6c72-44b3-90ea-ae23cc140164
+date: '1914'
+display-date: 1910-14
+location:
+  latitude: 47.803605
+  longitude: 13.041327
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- e67f346e-191a-4f0f-a6c2-861e72e7f78f
