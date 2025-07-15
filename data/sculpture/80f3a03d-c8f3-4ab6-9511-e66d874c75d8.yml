@@ -1,0 +1,21 @@
+id: 80f3a03d-c8f3-4ab6-9511-e66d874c75d8
+type: sculpture
+slug: san-bernardino-siena
+title: San Bernardino da Siena
+artist-ids:
+- 450fa51f-d9a2-4b3f-b158-d1a287b7a9f9
+city-id: d2b07441-23d2-4ec3-8897-7266c2354a15
+date: '1662'
+display-date: 1660s
+location:
+  latitude: 43.317823
+  longitude: 11.32888
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
