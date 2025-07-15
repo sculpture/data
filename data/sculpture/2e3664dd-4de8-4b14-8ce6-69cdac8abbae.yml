@@ -1,0 +1,17 @@
+id: 2e3664dd-4de8-4b14-8ce6-69cdac8abbae
+type: sculpture
+slug: dance-jarema
+title: Dance
+artist-ids:
+- 68d024f8-8cef-4572-bf26-87d014c43d2c
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1955'
+location:
+  latitude: 52.233225
+  longitude: 21.008527
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
