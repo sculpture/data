@@ -1,0 +1,20 @@
+id: f7ff9284-4770-4c20-8199-a623177c6766
+type: sculpture
+slug: stefan-czarniecki
+title: Stefan Czarniecki
+artist-ids:
+- 5c84827e-a070-46e7-9966-b86420931c3f
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1786'
+display-date: 1781-86
+location:
+  latitude: 52.247731
+  longitude: 21.014622
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 521f00f2-f976-4b69-89cf-6e8db0c94f29
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
