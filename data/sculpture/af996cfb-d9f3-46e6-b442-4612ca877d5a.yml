@@ -1,0 +1,20 @@
+id: af996cfb-d9f3-46e6-b442-4612ca877d5a
+type: sculpture
+slug: jan-szembek
+title: Jan Szembek
+artist-ids:
+- 7596537f-567d-4c9d-92f6-d8fbffe0018d
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1786'
+display-date: 1782-86
+location:
+  latitude: 52.247764
+  longitude: 21.014729
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- c18859b5-46fe-40c0-9b36-834204f18a97
