@@ -1,0 +1,14 @@
+id: 1c0bc170-0994-46b9-8791-f1e4e23a211a
+type: sculpture
+slug: sole-e-acqua
+title: Sole e acqua
+artist-ids:
+- add1b61d-6961-4ebd-a250-51e29dce9850
+city-id: ac9caa09-b00a-4829-a34c-1418d47d7046
+date: '1988'
+location:
+  latitude: 43.464001
+  longitude: 11.041955
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
