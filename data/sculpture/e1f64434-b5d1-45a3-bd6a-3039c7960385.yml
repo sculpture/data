@@ -1,21 +1,20 @@
 id: e1f64434-b5d1-45a3-bd6a-3039c7960385
 type: sculpture
-slug: gates-paradise-joseph
-title: Gates of Paradise - Story of Joseph
+slug: niccolo-uzzano
+title: Niccolò da Uzzano
 artist-ids:
-- e4d422b5-19bd-4745-84fb-38e30040e3f1
+- 4a395507-53d7-431a-8f9b-4677bd31977a
 city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
-date: '1452'
-display-date: 1425-52
+date: '1430'
+display-date: c. 1430
 location:
-  latitude: 43.773057
-  longitude: 11.255221
+  latitude: 43.770371
+  longitude: 11.258196
   precision: 10
 material-ids:
-- 46fe9fce-6a4f-4a44-89d7-dedc6f731b39
+- 7735363d-fda4-4473-8973-e1e9193e2bbe
 tag-ids:
-- 16cfefb7-0c34-415d-b7df-45c3abc95a90
-- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
-- 8edbb59e-b498-4210-9981-8781235cafcd
-- e231b618-b7c1-4206-988c-813c2964e1a5
-- e78083c3-6cf7-41f2-95b5-5c4fad650664
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
