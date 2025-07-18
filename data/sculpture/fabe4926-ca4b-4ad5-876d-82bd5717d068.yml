@@ -1,0 +1,22 @@
+id: fabe4926-ca4b-4ad5-876d-82bd5717d068
+type: sculpture
+slug: san-luca-giambologna
+title: San Luca
+artist-ids:
+- 0d2048a2-0550-45da-945c-1f8e1705a581
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1602'
+display-date: 1597-1602
+link-wikipedia: https://it.wikipedia.org/wiki/San_Luca_(Giambologna)
+location:
+  latitude: 43.770594
+  longitude: 11.255059
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- de83a4c2-214e-45fb-a307-c835449e52bf
