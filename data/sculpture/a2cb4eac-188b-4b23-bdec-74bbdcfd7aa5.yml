@@ -1,0 +1,14 @@
+id: a2cb4eac-188b-4b23-bdec-74bbdcfd7aa5
+type: sculpture
+slug: hand-justice-tincolini
+title: Hand of Justice
+artist-ids:
+- 09edc663-55c1-44dc-b0bd-1fb35fa07d01
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2025'
+location:
+  latitude: 43.957067
+  longitude: 10.231561
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
