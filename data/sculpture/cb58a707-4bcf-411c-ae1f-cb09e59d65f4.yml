@@ -1,0 +1,20 @@
+id: cb58a707-4bcf-411c-ae1f-cb09e59d65f4
+type: sculpture
+slug: hercules-cacus
+title: Hercules and Cacus
+artist-ids:
+- 4454d310-b6ff-4ae3-9783-a7e4bfd38986
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1534'
+display-date: 1525-34
+link-wikipedia: https://en.wikipedia.org/wiki/Hercules_and_Cacus
+location:
+  latitude: 43.769685
+  longitude: 11.255933
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
