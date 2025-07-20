@@ -1,0 +1,17 @@
+id: 0eef769e-450e-49f3-b535-9e7d2368fb8d
+type: sculpture
+slug: aquasantiera-bernini
+title: Aqua­santiera
+artist-ids:
+- f4693d05-5d93-4c05-868b-6fa45ade4f36
+city-id: 6f764414-6c09-413d-94b9-2ebe5fafdf7e
+date: '1678'
+display-date: 1675-78
+location:
+  latitude: 41.902315
+  longitude: 12.454672
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
