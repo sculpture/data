@@ -1,0 +1,19 @@
+id: e27063b0-42e4-4b92-8897-eef15e104a25
+type: sculpture
+slug: in-the-sky
+title: In the sky
+artist-ids:
+- e200833f-b2fb-4e14-9234-6afbdd2179c8
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1990'
+location:
+  latitude: 35.689481
+  longitude: 139.691686
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
