@@ -1,0 +1,19 @@
+id: e3b35434-d76c-4c8e-9995-6e2d139a13b0
+type: sculpture
+slug: dante-alighieri-pazzi
+title: Dante Alighieri
+artist-ids:
+- 146bb6a1-959f-44bb-9a7e-4164c21ec8a4
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1865'
+link-wikipedia: https://en.wikipedia.org/wiki/Monument_to_Dante
+location:
+  latitude: 43.768928
+  longitude: 11.261715
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
