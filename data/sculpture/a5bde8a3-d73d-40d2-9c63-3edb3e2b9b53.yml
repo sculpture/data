@@ -1,0 +1,20 @@
+id: a5bde8a3-d73d-40d2-9c63-3edb3e2b9b53
+type: sculpture
+slug: ottaviano-fabrizio-mossotti
+title: Monument to Ottaviano Fabrizio Mossotti
+artist-ids:
+- 53eddce6-cb39-40ca-9207-451c34f40cfe
+city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
+date: '1843'
+location:
+  latitude: 43.724112
+  longitude: 10.394341
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
