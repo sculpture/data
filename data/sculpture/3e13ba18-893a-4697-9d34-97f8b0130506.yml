@@ -1,0 +1,16 @@
+id: 3e13ba18-893a-4697-9d34-97f8b0130506
+type: sculpture
+slug: next-level
+title: Next Level
+artist-ids:
+- 0b79e67e-644b-4b01-bc97-c05df0a8730a
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2014'
+location:
+  latitude: 45.43146
+  longitude: 12.352597
+  precision: 10
+material-ids:
+- 590bc2f1-fd09-4c83-96da-39fa51cef820
+tag-ids:
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
