@@ -1,0 +1,19 @@
+id: f158505c-c8b5-4060-a122-ee8368491368
+type: sculpture
+slug: monumento-caduti-civili-verona
+title: Monumento ai Caduti civili
+artist-ids:
+- 4be87fa2-d3a9-477b-9086-ea45716765d2
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: '1969'
+location:
+  latitude: 45.436095
+  longitude: 10.990046
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- ea310784-30d7-4a31-9c7b-22e86c3cf049
