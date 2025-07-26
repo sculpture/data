@@ -1,0 +1,21 @@
+id: 29fe54c6-20ba-4795-b7aa-d88ae89da0e2
+type: sculpture
+slug: madonna-col-bambino-lucca
+title: Madonna col Bambino (lucca)
+artist-ids:
+- 792734b8-08d1-461c-adc9-8d1958319006
+city-id: 797fae0b-2e5d-4915-bb70-b13c17378322
+date: '1460'
+display-date: 1440-60
+location:
+  latitude: 43.843121
+  longitude: 10.502875
+  precision: 10
+material-ids:
+- a4828452-7739-4398-9236-e0c62eda53c2
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6c892a0c-c6ab-4580-9095-a545228f75e7
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
