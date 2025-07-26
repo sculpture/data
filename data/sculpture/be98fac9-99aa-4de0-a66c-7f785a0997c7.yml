@@ -1,0 +1,18 @@
+id: be98fac9-99aa-4de0-a66c-7f785a0997c7
+type: sculpture
+slug: giacomo-puccini-lucca
+title: Giacomo Puccini
+artist-ids:
+- 04670e02-3fe1-4729-a34c-d26b241721a6
+city-id: 797fae0b-2e5d-4915-bb70-b13c17378322
+date: '1994'
+location:
+  latitude: 43.843113
+  longitude: 10.501322
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- ac86ac3d-0564-479e-a5f0-5de5b5e7f7f4
