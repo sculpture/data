@@ -1,7 +1,7 @@
 id: c6948240-f97e-4657-a6b5-01dfeaecd314
 type: sculpture
 slug: rossebandiger-mandl
-title: Rossebändiger
+title: Der Rossebändiger
 artist-ids:
 - 5e88c464-d6a7-4083-be42-fbf3053f88b6
 city-id: 7e35b7d3-6c72-44b3-90ea-ae23cc140164
@@ -19,3 +19,4 @@ tag-ids:
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
 - 89f78d37-2315-4104-bfe7-610b444b2485
 - f19ed7a2-8aae-408f-ba4c-1338d8ba85be
+title-en: The horse tamer
