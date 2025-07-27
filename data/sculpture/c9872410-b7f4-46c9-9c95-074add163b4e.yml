@@ -1,0 +1,17 @@
+id: c9872410-b7f4-46c9-9c95-074add163b4e
+type: sculpture
+slug: levitas-roggi
+title: Lĕvĭtās
+artist-ids:
+- 21b5b525-5699-4372-a6c3-dace7c4400e5
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '2024'
+location:
+  latitude: 43.769371
+  longitude: 11.2557
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6883fc7a-540d-4fe9-9753-80f6e581f0ab
+- e231b618-b7c1-4206-988c-813c2964e1a5
