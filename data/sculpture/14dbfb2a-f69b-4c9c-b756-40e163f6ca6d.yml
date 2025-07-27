@@ -1,0 +1,20 @@
+id: 14dbfb2a-f69b-4c9c-b756-40e163f6ca6d
+type: sculpture
+slug: moses-francavilla
+title: Moses
+artist-ids:
+- 701c5320-17c8-4be9-bcfe-196857aa5595
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1580'
+display-date: c. 1580
+location:
+  latitude: 43.770398
+  longitude: 11.258008
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e231b618-b7c1-4206-988c-813c2964e1a5
+- f1e29df1-4d1f-4024-b372-16fc54ef585a
