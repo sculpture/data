@@ -1,0 +1,17 @@
+id: 7a1bbbd8-84e5-46a8-ae7e-f4abbf304e50
+type: sculpture
+slug: benvenuto-cellini-bust
+title: Benvenuto Cellini
+artist-ids:
+- 270451d3-62ae-4912-9e38-b04590078bab
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1901'
+location:
+  latitude: 43.768204
+  longitude: 11.253131
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 88a0e756-4193-4ff2-9d96-f1844c05f5e5
