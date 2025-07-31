@@ -7,13 +7,16 @@ artist-ids:
 city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
 date: '1534'
 display-date: 1526-34
-link-wikipedia: https://en.wikipedia.org/wiki/Portrait_of_Giuliano_de%27_Medici,_Duke_of_Nemours#:~:text=The%20Portrait%20of%20Giuliano%20de%27%20Medici%2C%20Duke,and%20is%20an%20idealised%20portrait%20of%20him.
+link-wikipedia: https://it.wikipedia.org/wiki/Tomba_di_Giuliano_de%27_Medici_duca_di_Nemours
 location:
   latitude: 43.775091
   longitude: 11.25339
   precision: 10
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
+note: |-
+  https://en.wikipedia.org/wiki/Portrait_of_Giuliano_de%27_Medici,_Duke_of_Nemours
+  https://it.wikipedia.org/wiki/Notte_(Michelangelo)
 tag-ids:
 - 2d488599-d808-40db-80a2-88b41c7bdb67
 - 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
