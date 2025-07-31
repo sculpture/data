@@ -14,10 +14,7 @@ location:
   precision: 10
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
-note: |-
-  https://en.wikipedia.org/wiki/Portrait_of_Giuliano_de%27_Medici,_Duke_of_Nemours
-  ;
-  https://it.wikipedia.org/wiki/Notte_(Michelangelo)
+note: https://it.wikipedia.org/wiki/Notte_(Michelangelo)
 tag-ids:
 - 2d488599-d808-40db-80a2-88b41c7bdb67
 - 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
