@@ -5,7 +5,7 @@ colors:
 - '#5C514B'
 - '#8A7C73'
 - '#BBB5B3'
-featured?: true
+featured?: false
 height: 2689
 sculpture-id: d113b16c-ccc5-47db-acef-48af83bb5674
 segment-id: 54f25610-88b9-4a23-9b73-fbd559cf53c5
