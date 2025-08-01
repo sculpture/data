@@ -1,0 +1,20 @@
+id: 27d01586-2701-40df-b0d2-b110970a2f62
+type: sculpture
+slug: cosimo-i-de-medici-caccini
+title: Cosimo I de' Medici
+artist-ids:
+- 73f6fe95-4165-475f-aa7c-0938f00090f1
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1580'
+display-date: c. 1580
+location:
+  latitude: 52.247701
+  longitude: 21.014572
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6cac5bfb-8079-494d-bdff-dffb9c54e908
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
