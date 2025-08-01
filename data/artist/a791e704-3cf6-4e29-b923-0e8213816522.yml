@@ -7,6 +7,5 @@ death-date: '2014'
 gender: male
 link-website: https://www.soreletrog.com/
 link-wikipedia: http://en.wikipedia.org/wiki/Sorel_Etrog
-nationality-ids:
-- 5a3ecab6-f2cc-4db2-948d-1b719144cc06
-- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
+tag-ids:
+- ba228b77-c711-47fc-85d1-9c8d48961343
