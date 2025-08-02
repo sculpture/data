@@ -1,0 +1,20 @@
+id: 42e6aa81-af82-45a0-b918-df10df4d9ed0
+type: sculpture
+slug: bacchus-stara-pomaranczrnia
+title: Bacchus (Lazienki)
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1780'
+display-date: 2nd half 18c
+location:
+  latitude: 52.216061
+  longitude: 21.030261
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
