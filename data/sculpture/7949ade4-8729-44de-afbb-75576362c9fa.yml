@@ -1,0 +1,19 @@
+id: 7949ade4-8729-44de-afbb-75576362c9fa
+type: sculpture
+slug: alexander-great-houdon
+title: Alexander the Great
+artist-ids:
+- 210ee7d7-575c-4530-8d11-7ba7a04c407b
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1785'
+location:
+  latitude: 52.247718
+  longitude: 21.014418
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
