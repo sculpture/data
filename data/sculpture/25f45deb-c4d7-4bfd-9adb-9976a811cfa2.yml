@@ -1,0 +1,14 @@
+id: 25f45deb-c4d7-4bfd-9adb-9976a811cfa2
+type: sculpture
+slug: spirale-per-galilei
+title: Spirale per Galileo Galilei
+artist-ids:
+- 5b6de0c4-cb12-4b97-bac8-62915da2f969
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1992'
+location:
+  latitude: 45.406739
+  longitude: 11.877151
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
