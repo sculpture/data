@@ -1,7 +1,7 @@
 id: 529eacdb-979a-426c-b16d-4faa2cd39281
 type: sculpture
 slug: le-marteleur-warsaw
-title: Le Marteleur
+title: Kowal
 artist-ids:
 - 1e6510b5-cb14-456d-b30c-f5eadebe4195
 city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
@@ -19,3 +19,4 @@ tag-ids:
 - 6f13c768-5619-419e-97af-60440cab7f89
 - 9010cc4c-c852-4176-a7fe-04f0885fcffc
 - c9884cff-1c92-48b5-816b-aa0479de54fa
+title-en: Le Marteleur
