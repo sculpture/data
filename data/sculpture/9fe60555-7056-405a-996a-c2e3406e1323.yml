@@ -1,0 +1,18 @@
+id: 9fe60555-7056-405a-996a-c2e3406e1323
+type: sculpture
+slug: pietra-sonora
+title: Pietra Sonora
+artist-ids:
+- 7bdc263d-2389-4462-bd1a-5ef3f0f08056
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '2010'
+display-date: 2002-10
+location:
+  latitude: 45.41207
+  longitude: 11.879096
+  precision: 10
+material-ids:
+- b1a3eb0a-7181-48fc-97e1-9ffa8a0461f7
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+title-en: Sound Stone
