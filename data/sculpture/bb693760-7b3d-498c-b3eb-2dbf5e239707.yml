@@ -1,0 +1,15 @@
+id: bb693760-7b3d-498c-b3eb-2dbf5e239707
+type: sculpture
+slug: cerchio-del-vento-muto
+title: 'Il cerchio del vento '
+artist-ids:
+- bce3812c-49b0-409e-9b74-0bfe01797893
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2003'
+location:
+  latitude: 43.959699
+  longitude: 10.228524
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+title-en: Circle Wind
