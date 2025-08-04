@@ -1,0 +1,16 @@
+id: 74005f00-7bfa-4bfe-821a-6fea4e335ae5
+type: sculpture
+slug: deessa-dunyach
+title: Deessa
+artist-ids:
+- 06710202-29d7-46d2-afc3-1cedb619c272
+city-id: 38dc228d-7b71-4ed6-a578-49b80d38d6a8
+date: '1928'
+location:
+  latitude: 41.3896
+  longitude: 2.185355
+  precision: 10
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
