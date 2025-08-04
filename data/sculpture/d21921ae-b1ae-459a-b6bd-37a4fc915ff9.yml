@@ -1,0 +1,15 @@
+id: d21921ae-b1ae-459a-b6bd-37a4fc915ff9
+type: sculpture
+slug: dragon-gargallo
+title: Dragon
+artist-ids:
+- f829930d-ea83-4852-ae19-9d67b0768ee0
+city-id: 38dc228d-7b71-4ed6-a578-49b80d38d6a8
+date: '1911'
+display-date: 1906-11
+location:
+  latitude: 41.412528
+  longitude: 2.174286
+  precision: 10
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
