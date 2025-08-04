@@ -1,0 +1,18 @@
+id: 201e6aad-9bb4-4e49-bf41-2761ccdacf6c
+type: sculpture
+slug: exposition-universelle-1888
+title: Hommage à l’Exposition Universelle de 1888
+artist-ids:
+- c5a4e72a-c3a5-447e-b687-316620ec19eb
+city-id: 38dc228d-7b71-4ed6-a578-49b80d38d6a8
+date: '1988'
+location:
+  latitude: 41.388501
+  longitude: 2.185082
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 32495469-6b62-477a-b272-a0e4e2c0e5c9
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 85105298-6047-4f80-88ec-76aa0b77d815
