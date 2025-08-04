@@ -1,0 +1,17 @@
+id: bda5ee24-991b-47d8-9bc0-7f35e36c2dc5
+type: sculpture
+slug: memoria-di-pietrasanta
+title: Memoria di Pietrasanta
+artist-ids:
+- e35ccbb9-7a7e-4b0d-a3f0-723c94f74bcc
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2001'
+location:
+  latitude: 43.959397
+  longitude: 10.2277
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
