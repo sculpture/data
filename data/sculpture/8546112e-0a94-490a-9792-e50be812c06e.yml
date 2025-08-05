@@ -1,0 +1,18 @@
+id: 8546112e-0a94-490a-9792-e50be812c06e
+type: sculpture
+slug: adam-eve-expelled-eden
+title: Adam and Eve expelled from Eden
+artist-ids:
+- 791b82e5-fe93-40ae-a9f4-3e3fa2a72204
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1696'
+location:
+  latitude: 50.847888
+  longitude: 4.360064
+  precision: 10
+material-ids:
+- c5978ad6-d052-4891-919c-654d6fcb3847
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 3c43f78f-6db0-45ce-b9e0-104e402f9f2a
+- e231b618-b7c1-4206-988c-813c2964e1a5
