@@ -1,0 +1,17 @@
+id: cb6c72c3-b59a-49bd-a870-61c30be1f341
+type: sculpture
+slug: angel-gudula-delen
+title: Angel (St.Gudula)
+artist-ids:
+- 9a4527ef-eaa6-4dea-9081-42580d978e95
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1662'
+location:
+  latitude: 50.847922
+  longitude: 4.359941
+  precision: 10
+material-ids:
+- c5978ad6-d052-4891-919c-654d6fcb3847
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
