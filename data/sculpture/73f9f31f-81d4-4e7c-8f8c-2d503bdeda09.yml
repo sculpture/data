@@ -1,0 +1,19 @@
+id: 73f9f31f-81d4-4e7c-8f8c-2d503bdeda09
+type: sculpture
+slug: matteo-civitali
+title: Matteo Civitali
+artist-ids:
+- 97f18697-7c18-4ae1-8c13-9236de3d6ab2
+city-id: 797fae0b-2e5d-4915-bb70-b13c17378322
+date: '1893'
+location:
+  latitude: 43.843039
+  longitude: 10.515653
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 88a0e756-4193-4ff2-9d96-f1844c05f5e5
+- aa96c2c8-29f8-458e-bd0c-eab80c54286a
