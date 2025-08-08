@@ -1,0 +1,19 @@
+id: 943dbd44-ad9b-40c3-95d6-139d3ac6d6df
+type: sculpture
+slug: cenotaph-leon-battista-alberti
+title: Cenotaph of Leon Battista Alberti
+artist-ids:
+- 04fc2010-8068-4eec-88a5-6f6a3ce630c2
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1851'
+location:
+  latitude: 43.768421
+  longitude: 11.26252
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
