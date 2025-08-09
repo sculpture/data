@@ -1,0 +1,20 @@
+id: 7f6e4a31-053b-45f6-846f-834566c8b9d3
+type: sculpture
+slug: tomb-skotnicki-santa-croce
+title: Tomb of Michal Bogoria Skotnicki
+artist-ids:
+- af725864-4c8b-4c67-8e83-a7896d8f3036
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1815'
+display-date: 1810-15
+location:
+  latitude: 43.768037
+  longitude: 11.262998
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
