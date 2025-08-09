@@ -1,0 +1,21 @@
+id: 32b47ff9-a30c-4a59-8d86-3336089a84c7
+type: sculpture
+slug: vincenzo-salvagnoli-camposanto
+title: 'Vincenzo Salvagnoli monument '
+artist-ids:
+- 2673d17a-a929-42cf-810a-d2599f60934f
+city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
+date: '1873'
+display-date: 1861-73
+location:
+  latitude: 43.723992
+  longitude: 10.395483
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
