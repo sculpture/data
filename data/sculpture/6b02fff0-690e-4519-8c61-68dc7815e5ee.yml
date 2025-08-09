@@ -1,0 +1,20 @@
+id: 6b02fff0-690e-4519-8c61-68dc7815e5ee
+type: sculpture
+slug: charles-felix-sardaigne
+title: Charles-Félix de Sardaigne
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '1828'
+display-date: 1828-29
+link-wikipedia: https://fr.wikipedia.org/wiki/Statue_de_Charles-F%C3%A9lix
+location:
+  latitude: 43.710173
+  longitude: 7.261953
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6d9746f8-441e-4c40-89cf-b998b45b9bbb
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
