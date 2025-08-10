@@ -1,0 +1,14 @@
+id: b8cf2ad2-b8c1-436d-8856-f54d0c548aa7
+type: sculpture
+slug: monument-bruno-ruffo
+title: 'Monument to Bruno Ruffo, '
+artist-ids:
+- 1ca23d0c-97a6-4e3e-aef4-9c22340ba656
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: '2009'
+location:
+  latitude: 45.438476
+  longitude: 10.992958
+  precision: 10
+material-ids:
+- 32495469-6b62-477a-b272-a0e4e2c0e5c9
