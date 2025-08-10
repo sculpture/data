@@ -1,0 +1,15 @@
+id: 2984b0f4-ceaf-4e3d-a188-55663fb8b3e0
+type: sculpture
+slug: eremita-niki
+title: L’Eremita
+artist-ids:
+- b15e5537-c19f-4425-9f68-96e31aa0a0a3
+city-id: 87e31feb-218f-4ab6-b6f8-cecc048ebe35
+date: '1998'
+display-date: 1979-98
+location:
+  latitude: 42.426146
+  longitude: 11.467151
+  precision: 10
+material-ids:
+- 02f666a5-a96a-466a-9a4a-3ff26ba1bad5
