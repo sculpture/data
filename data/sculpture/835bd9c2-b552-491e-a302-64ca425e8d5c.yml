@@ -1,0 +1,17 @@
+id: 835bd9c2-b552-491e-a302-64ca425e8d5c
+type: sculpture
+slug: oreste-ravanello
+title: Oreste Ravanello
+artist-ids:
+- b03a88f7-4a04-4e05-a829-2d9869ddd95c
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1940'
+location:
+  latitude: 45.401089
+  longitude: 11.881041
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- ac86ac3d-0564-479e-a5f0-5de5b5e7f7f4
