@@ -1,11 +1,12 @@
 id: 68f8458a-0fd4-49d7-b31c-6bed7abc234f
 type: sculpture
 slug: sanok-pomordowanym
-title: Pomnik Synom Ziemi Sanockiej Poległym i Pomordowanym za Polskę
+title: Poległym i Pomordowanym za Polskę
 artist-ids:
 - bc1b0081-2bd4-45fa-85e9-15eaaef529fb
 city-id: 5f7a0d0a-7d71-4629-94cf-7f2966a42e84
 date: '2005'
+link-wikipedia: https://pl.wikipedia.org/wiki/Pomnik_Synom_Ziemi_Sanockiej_Poleg%C5%82ym_i_Pomordowanym_za_Polsk%C4%99_w_Sanoku
 location:
   latitude: 49.561207
   longitude: 22.207973
