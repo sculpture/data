@@ -1,0 +1,18 @@
+id: 516a6ab6-b195-4b8e-a750-ef240f7f5c51
+type: sculpture
+slug: francesco-petrarca-arezzo
+title: Francesco Petrarca monument
+artist-ids:
+- 728d7af7-ff5f-4993-9178-cdb672aeb171
+city-id: 58dfe45b-7767-42fe-8a25-0a00c0686d09
+date: '1928'
+location:
+  latitude: 43.466901
+  longitude: 11.884541
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
