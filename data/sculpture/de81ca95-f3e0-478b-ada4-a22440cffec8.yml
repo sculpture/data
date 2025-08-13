@@ -1,0 +1,18 @@
+id: de81ca95-f3e0-478b-ada4-a22440cffec8
+type: sculpture
+slug: famiglia-cavallo-lazari
+title: Famiglia a cavallo
+artist-ids:
+- 1fc301e8-abf4-4d3d-bfb8-dc0ab25e0320
+city-id: 33049fa3-1854-449a-a939-2233427bb2e4
+date: 201*
+location:
+  latitude: 42.752831
+  longitude: 11.113039
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- ea310784-30d7-4a31-9c7b-22e86c3cf049
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
+title-en: Family on horseback
