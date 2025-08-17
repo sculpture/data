@@ -1,0 +1,18 @@
+id: f300c397-e754-4439-89bd-192c86e03392
+type: sculpture
+slug: leopold-ii-duke-tuscany-santini
+title: Leopold II, Grand Duke of Tuscany
+artist-ids:
+- d3a4f3d7-6efc-4cbe-a495-764d167523e1
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '1848'
+location:
+  latitude: 43.957226
+  longitude: 10.231963
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6cac5bfb-8079-494d-bdff-dffb9c54e908
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
