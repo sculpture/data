@@ -1,0 +1,19 @@
+id: 5fc6a715-68d4-41ff-89d9-f170300df3e1
+type: sculpture
+slug: tomb-francesco-algarotti
+title: Tomb of Francesco Algarotti
+artist-ids:
+- a407d5d3-f571-489e-aa63-d8d4893ba22b
+city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
+date: '1769'
+location:
+  latitude: 43.724055
+  longitude: 10.394606
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
