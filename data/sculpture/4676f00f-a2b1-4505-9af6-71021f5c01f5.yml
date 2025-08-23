@@ -8,8 +8,8 @@ city-id: 44a96d93-a0d2-4b12-a814-9eb59a08c045
 date: '1873'
 link-wikipedia: https://en.wikipedia.org/wiki/Greyfriars_Bobby_Fountain
 location:
-  latitude: 55.9467
-  longitude: -3.191592
+  latitude: 55.946937
+  longitude: -3.191297
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
