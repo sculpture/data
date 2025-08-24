@@ -1,0 +1,19 @@
+id: 3420c1ae-46ed-4254-9e26-1aa2089d36f1
+type: sculpture
+slug: tombstone-markantonio-sabellico
+title: Tombstone of Markantonio Sabellico
+artist-ids:
+- 57bf179d-c6aa-4593-9c28-fe9fd8d28f40
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1506'
+location:
+  latitude: 45.433608
+  longitude: 12.337212
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
