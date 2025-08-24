@@ -1,0 +1,17 @@
+id: 4bb5ee9e-0f43-47ef-bbf0-60a419234f63
+type: sculpture
+slug: who-else-but-woman
+title: 'Who else but woman '
+artist-ids:
+- ef939ea8-a6d5-4109-ae4d-7578e4384ef8
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2023'
+location:
+  latitude: 45.43146
+  longitude: 12.352597
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
