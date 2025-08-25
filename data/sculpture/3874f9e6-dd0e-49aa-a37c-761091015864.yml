@@ -1,0 +1,15 @@
+id: 3874f9e6-dd0e-49aa-a37c-761091015864
+type: sculpture
+slug: sans-titre-cubac
+title: Sans titre
+artist-ids:
+- 43cbe641-c78a-4da5-81e2-458a8066e5de
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '2004'
+location:
+  latitude: 43.702003
+  longitude: 7.278555
+  precision: 10
+material-ids:
+- 3cd25954-9a6b-478f-a4a4-8470c3972f2c
+title-en: Untitled
