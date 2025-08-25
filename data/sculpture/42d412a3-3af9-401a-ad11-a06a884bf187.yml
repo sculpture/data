@@ -1,7 +1,7 @@
 id: 42d412a3-3af9-401a-ad11-a06a884bf187
 type: sculpture
 slug: grand-guerrier-bourdelle-himeji
-title: Le Grand Guerrier
+title: Grand Guerrier de Montauban
 artist-ids:
 - b51b9561-0a08-4fea-8ed3-a617ab2f8b24
 city-id: c0d2dfe7-056d-467e-8030-d5ed5c4a9512
@@ -17,4 +17,4 @@ tag-ids:
 - 2adec124-e6a5-411d-98d4-cac9a93817a2
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
 - c68abb5f-2194-441e-9e75-71098c797e89
-title-en: The Great Warrior of Montauban
+title-en: Great Warrior of Montauban
