@@ -1,7 +1,7 @@
 id: 9647d3a3-9a22-41c4-8dc7-13ebcbcfa573
 type: sculpture
 slug: madonna-child-saints-robbia
-title: Madonna and Child with Saints
+title: Madonna col bambino tra angeli e santi
 artist-ids:
 - bc6b0029-c295-45cc-80de-f2dd7f10689c
 - c34ef8e5-18ca-4fdc-baac-353c07bef7b0
@@ -22,3 +22,4 @@ tag-ids:
 - 8edbb59e-b498-4210-9981-8781235cafcd
 - 9010cc4c-c852-4176-a7fe-04f0885fcffc
 - de83a4c2-214e-45fb-a307-c835449e52bf
+title-en: Madonna and Child with Saints
