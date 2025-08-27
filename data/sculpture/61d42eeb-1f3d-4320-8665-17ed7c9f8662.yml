@@ -1,15 +1,14 @@
 id: 61d42eeb-1f3d-4320-8665-17ed7c9f8662
 type: sculpture
-slug: san-bartolomeo-robbia
-title: San Bartolomeo
+slug: cardinal-portugal-chapel-celling
+title: Cardinal of Portugal Chapel - celling
 artist-ids:
 - 792734b8-08d1-461c-adc9-8d1958319006
 city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
-date: '1450'
-display-date: 1443-50
+date: '1466'
 location:
-  latitude: 43.767996
-  longitude: 11.262812
+  latitude: 43.759418
+  longitude: 11.26498
   precision: 10
 material-ids:
 - a4828452-7739-4398-9236-e0c62eda53c2
@@ -17,5 +16,4 @@ tag-ids:
 - 3896ed41-4440-40fa-9a21-6903c94fada2
 - 6f13c768-5619-419e-97af-60440cab7f89
 - 8edbb59e-b498-4210-9981-8781235cafcd
-- 9010cc4c-c852-4176-a7fe-04f0885fcffc
-- de83a4c2-214e-45fb-a307-c835449e52bf
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
