@@ -1,0 +1,19 @@
+id: b86ff836-8ea6-4352-9c4f-8180d3c91216
+type: sculpture
+slug: tomb-carlo-marsuppini
+title: 'Tomb of Carlo Marsuppini '
+artist-ids:
+- 7586c7a2-65cd-455e-9ad2-50a997c93851
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1459'
+display-date: 1453-59
+location:
+  latitude: 43.76849
+  longitude: 11.26296
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
