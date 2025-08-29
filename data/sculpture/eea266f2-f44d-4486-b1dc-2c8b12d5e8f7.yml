@@ -1,0 +1,14 @@
+id: eea266f2-f44d-4486-b1dc-2c8b12d5e8f7
+type: sculpture
+slug: phenomenon-kasagi
+title: Phenomenon
+artist-ids:
+- 81bd0e2d-e61b-4fbc-b1d9-19bd2875e807
+city-id: c0d2dfe7-056d-467e-8030-d5ed5c4a9512
+date: '1966'
+location:
+  latitude: 34.69925
+  longitude: 135.218252
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
