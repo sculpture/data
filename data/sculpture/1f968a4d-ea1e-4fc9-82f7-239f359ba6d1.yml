@@ -1,0 +1,21 @@
+id: 1f968a4d-ea1e-4fc9-82f7-239f359ba6d1
+type: sculpture
+slug: childrens-peace-hiroshima
+title: Children's Peace Monument
+artist-ids:
+- cf781e7e-20a5-4986-ab65-2b67e61990e8
+- e43e07e6-f94f-4783-889b-5a660e757ec8
+city-id: 4c7cdf32-7fd5-42fb-a1e0-a0b1ca98e5c8
+date: '1958'
+link-wikipedia: https://en.wikipedia.org/wiki/Children%27s_Peace_Monument
+location:
+  latitude: 34.394137
+  longitude: 132.452768
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- f3c0c272-150c-42cd-9a87-bd121fdc1309
+title-en: 原爆の子の像
