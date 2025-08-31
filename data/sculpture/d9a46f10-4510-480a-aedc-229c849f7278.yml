@@ -1,0 +1,18 @@
+id: d9a46f10-4510-480a-aedc-229c849f7278
+type: sculpture
+slug: madame-x-rooso
+title: Madame X
+artist-ids:
+- e4a68bdc-fb00-461d-bc65-9658d132b1a6
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1896'
+location:
+  latitude: 45.440884
+  longitude: 12.331443
+  precision: 10
+material-ids:
+- 6e00cbb8-1e8c-4d23-8e6e-0f50d374c37b
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
