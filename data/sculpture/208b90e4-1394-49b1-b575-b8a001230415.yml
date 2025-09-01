@@ -1,0 +1,19 @@
+id: 208b90e4-1394-49b1-b575-b8a001230415
+type: sculpture
+slug: lion-of-venice-st-marco
+title: Lion of Venice
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '700'
+display-date: ca. 618-907
+link-wikipedia: https://en.wikipedia.org/wiki/Lion_of_Venice
+location:
+  latitude: 45.433362
+  longitude: 12.339908
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
