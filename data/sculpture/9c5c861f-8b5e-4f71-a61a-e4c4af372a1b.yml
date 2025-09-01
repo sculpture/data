@@ -1,0 +1,21 @@
+id: 9c5c861f-8b5e-4f71-a61a-e4c4af372a1b
+type: sculpture
+slug: ferdinando-i-de-medici-giambologna
+title: Ferdinando I de' Medici
+artist-ids:
+- 0d2048a2-0550-45da-945c-1f8e1705a581
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1608'
+display-date: 1602-08
+link-wikipedia: https://en.wikipedia.org/wiki/Equestrian_Monument_of_Ferdinando_I
+location:
+  latitude: 43.776579
+  longitude: 11.260795
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6cac5bfb-8079-494d-bdff-dffb9c54e908
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
