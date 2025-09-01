@@ -1,0 +1,19 @@
+id: a234464a-cf43-411d-9c3d-ea6d7fc732c7
+type: sculpture
+slug: rape-of-polyxena
+title: The Rape of Polyxena
+artist-ids:
+- deb6f625-8734-4187-a297-0ffb7669a450
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1866'
+location:
+  latitude: 43.76919
+  longitude: 11.255533
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
