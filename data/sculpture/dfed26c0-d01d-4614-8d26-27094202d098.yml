@@ -1,0 +1,17 @@
+id: dfed26c0-d01d-4614-8d26-27094202d098
+type: sculpture
+slug: antonio-mairena-delgado
+title: Antonio Mairena
+artist-ids:
+- bd698fd1-c1db-428a-a177-d3268937f2a9
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '1990'
+location:
+  latitude: 37.386336
+  longitude: -6.004293
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 7f71b64e-1528-4c0f-8a7a-0421d1d63797
