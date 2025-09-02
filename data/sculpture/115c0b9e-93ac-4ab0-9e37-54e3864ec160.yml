@@ -1,0 +1,19 @@
+id: 115c0b9e-93ac-4ab0-9e37-54e3864ec160
+type: sculpture
+slug: bunis-vasconcelos
+title: 'Bunis '
+artist-ids:
+- 6aac25d3-4609-480d-bfc6-b5c11d81fe94
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '2020'
+display-date: 1994-2020
+location:
+  latitude: 38.737703
+  longitude: -9.154018
+  precision: 10
+material-ids:
+- 0d63dfd2-b637-471f-8c6b-1262b0085fb8
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e7c0d105-ed1d-4e46-8cd8-a5153a2a784d
