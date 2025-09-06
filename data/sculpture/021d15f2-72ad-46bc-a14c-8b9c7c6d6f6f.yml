@@ -1,0 +1,19 @@
+id: 021d15f2-72ad-46bc-a14c-8b9c7c6d6f6f
+type: sculpture
+slug: tumba-alessandro-gherardesca
+title: Tomb of Alessandro Gherardesca
+artist-ids:
+- 9d28ecbb-8b5e-4ec3-847f-9a39f1477b16
+city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
+date: 185*
+location:
+  latitude: 43.724031
+  longitude: 10.394255
+  precision: 20
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
