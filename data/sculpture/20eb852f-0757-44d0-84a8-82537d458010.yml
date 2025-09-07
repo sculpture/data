@@ -7,10 +7,11 @@ artist-ids:
 city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
 date: '1994'
 location:
-  latitude: 35.692661
-  longitude: 139.693115
+  latitude: 35.692909
+  longitude: 139.694193
   precision: 10
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
 - 39731bd3-c127-44e7-97ba-ba4ba24cbf76
+title-en: Steps
