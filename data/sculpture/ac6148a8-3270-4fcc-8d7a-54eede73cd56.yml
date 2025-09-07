@@ -1,0 +1,16 @@
+id: ac6148a8-3270-4fcc-8d7a-54eede73cd56
+type: sculpture
+slug: to-sky-sumikawa
+title: 'To the Sky '
+artist-ids:
+- e78af6f9-95bc-4f6a-9b52-479dd526241c
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1990'
+location:
+  latitude: 35.688644
+  longitude: 139.694687
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab
