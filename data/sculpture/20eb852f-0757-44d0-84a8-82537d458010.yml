@@ -1,0 +1,16 @@
+id: 20eb852f-0757-44d0-84a8-82537d458010
+type: sculpture
+slug: passi-fabro
+title: Passi
+artist-ids:
+- 05c35350-ca8b-4d7a-825b-754370940eee
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1994'
+location:
+  latitude: 35.693132
+  longitude: 139.693142
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
