@@ -1,0 +1,17 @@
+id: 383cab22-d3d0-432f-b01b-965052bb520e
+type: sculpture
+slug: cenotaph-a-bomb-victims
+title: Cenotaph for the A-bomb Victims
+artist-ids:
+- 2e6741c0-7078-4c3e-9aa7-5c54c8d90881
+city-id: 4c7cdf32-7fd5-42fb-a1e0-a0b1ca98e5c8
+date: '1952'
+location:
+  latitude: 34.392687
+  longitude: 132.452201
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
