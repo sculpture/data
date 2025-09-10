@@ -1,0 +1,21 @@
+id: 346da403-5e94-4bf9-93fc-6320995fda82
+type: sculpture
+slug: abundance-segala
+title: Abundance
+artist-ids:
+- e298ad41-31d8-4d6e-bb80-176d205c9ad3
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1590'
+display-date: c. 1590
+location:
+  latitude: 45.434231
+  longitude: 12.339998
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
