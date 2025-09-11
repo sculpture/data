@@ -1,0 +1,16 @@
+id: 5bf46e41-17ea-4c42-905d-167861bc2ea4
+type: sculpture
+slug: in-equilibrium-boney
+title: In Equilibrium
+artist-ids:
+- 099864c9-0b27-4871-aa43-e02aef90d41c
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2024'
+location:
+  latitude: 43.651489
+  longitude: -79.357248
+  precision: 10
+material-ids:
+- 374738f3-78e8-4926-b7f8-a0c6a597bcc8
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+- 82d9ed4b-e837-4b5e-8c17-40469885764c
