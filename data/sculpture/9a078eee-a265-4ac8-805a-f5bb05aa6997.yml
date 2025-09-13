@@ -8,8 +8,8 @@ city-id: d2b07441-23d2-4ec3-8897-7266c2354a15
 date: '1706'
 display-date: 1703-06
 location:
-  latitude: 43.317702
-  longitude: 11.329068
+  latitude: 43.317936
+  longitude: 11.328848
   precision: 10
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
