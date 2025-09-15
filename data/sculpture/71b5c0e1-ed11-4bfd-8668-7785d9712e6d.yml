@@ -1,0 +1,18 @@
+id: 71b5c0e1-ed11-4bfd-8668-7785d9712e6d
+type: sculpture
+slug: martelarenmonument-leuven
+title: Martelarenmonument
+artist-ids:
+- de9fa798-b978-4635-a180-c9d1eb7513cb
+- fd134afa-fe2c-406c-89b2-15b3e2c2691c
+city-id: bc7ca2c7-aac6-4ab7-85ca-d4786262d8a8
+date: '1925'
+location:
+  latitude: 50.884155
+  longitude: 4.714259
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+title-en: Martyrs' Monument
