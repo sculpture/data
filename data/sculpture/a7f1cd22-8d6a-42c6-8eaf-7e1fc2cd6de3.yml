@@ -1,0 +1,17 @@
+id: a7f1cd22-8d6a-42c6-8eaf-7e1fc2cd6de3
+type: sculpture
+slug: bridge-imperial-delights
+title: Bridge of Imperial Delights
+artist-ids:
+- c35dac4d-e831-4426-9427-4ed695abaeb8
+city-id: ca0e48aa-9f11-4867-9698-3009bb1fa395
+date: '1998'
+location:
+  latitude: 51.049992
+  longitude: 3.730385
+  precision: 10
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
+- bde62dd4-de03-48b1-bc5b-812694b8a9de
+title-en: Bridge of Imperial Delights
