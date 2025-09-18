@@ -1,16 +1,21 @@
 id: e5fe800e-53ad-41bc-9a3a-379feaec8d8f
 type: sculpture
-slug: places-in-book-sundial
-title: Places in a Book (Sundial)
+slug: monumento-andrea-vacca
+title: Monumento di Andrea Vaccà
 artist-ids:
-- 2301ceb4-2383-4bbd-8cdb-c0ea6d235205
-city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: '1997'
+- c4c8ec33-facc-423a-a3a9-eb6c1e5df7d4
+city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
+date: '1826'
+display-date: c. 1826
 location:
-  latitude: 43.661127
-  longitude: -79.401351
-  precision: 30
+  latitude: 43.723984
+  longitude: 10.39492
+  precision: 10
 material-ids:
-- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
-- 279845c2-7073-4c03-bf6a-f10ce199fb06
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
