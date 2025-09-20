@@ -1,0 +1,19 @@
+id: 15e7a280-d1c3-4c7f-bab6-6d58f590cb15
+type: sculpture
+slug: francesco-morosini-bronze
+title: Francesco Morosini
+artist-ids:
+- 9a20f909-e18b-44c9-98dc-97e477880aef
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1687'
+location:
+  latitude: 45.433704
+  longitude: 12.340389
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- eb894191-c7e1-40fd-97ee-d7700490d2dd
