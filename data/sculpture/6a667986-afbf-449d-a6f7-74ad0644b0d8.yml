@@ -1,0 +1,20 @@
+id: 6a667986-afbf-449d-a6f7-74ad0644b0d8
+type: sculpture
+slug: unknown-plensa
+title: Unknown (plensa)
+artist-ids:
+- 24827920-a2c6-4427-ada2-0c28680fad21
+city-id: 3117260f-214d-48f3-8833-3dbcd6aa654c
+date: '2015'
+display-date: 2010s
+location:
+  latitude: 43.580761
+  longitude: 7.128252
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+- be9311b2-a6cf-45fe-b4a7-6e1288107d20
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
