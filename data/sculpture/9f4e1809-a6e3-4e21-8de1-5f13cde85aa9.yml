@@ -1,0 +1,17 @@
+id: 9f4e1809-a6e3-4e21-8de1-5f13cde85aa9
+type: sculpture
+slug: bleu-sur-bleu-brousse
+title: Bleu sur bleu
+artist-ids:
+- c467fe0b-15bc-4435-8d50-26e02d244564
+city-id: 3117260f-214d-48f3-8833-3dbcd6aa654c
+date: '2015'
+display-date: 2010s
+location:
+  latitude: 43.580418
+  longitude: 7.125102
+  precision: 10
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
