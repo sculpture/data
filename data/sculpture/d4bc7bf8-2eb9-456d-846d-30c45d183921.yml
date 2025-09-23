@@ -7,9 +7,9 @@ artist-ids:
 city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
 date: '1913'
 location:
-  latitude: 38.714765
-  longitude: -9.159257
-  precision: 10
+  latitude: 38.714719
+  longitude: -9.159793
+  precision: 50
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
