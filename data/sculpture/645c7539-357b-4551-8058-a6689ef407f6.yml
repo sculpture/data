@@ -1,0 +1,15 @@
+id: 645c7539-357b-4551-8058-a6689ef407f6
+type: sculpture
+slug: s-t-
+title: S/T
+artist-ids:
+- c2f67748-e310-40bc-9554-9ebcf349be06
+city-id: 4caaf18b-6eea-482a-b6cd-5c5a06453ae6
+date: '1961'
+location:
+  latitude: 37.889303
+  longitude: -4.779275
+  precision: 10
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
