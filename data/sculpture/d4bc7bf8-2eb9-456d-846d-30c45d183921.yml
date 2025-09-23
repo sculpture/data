@@ -1,0 +1,19 @@
+id: d4bc7bf8-2eb9-456d-846d-30c45d183921
+type: sculpture
+slug: o-cavador-motta
+title: O Cavador
+artist-ids:
+- 72146fb5-efbc-40c6-9f87-156ce9457086
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1913'
+location:
+  latitude: 38.714765
+  longitude: -9.159257
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- c9884cff-1c92-48b5-816b-aa0479de54fa
+title-en: The Digger
