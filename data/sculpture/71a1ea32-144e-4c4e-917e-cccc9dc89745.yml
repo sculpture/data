@@ -1,0 +1,14 @@
+id: 71a1ea32-144e-4c4e-917e-cccc9dc89745
+type: sculpture
+slug: soleils-portes
+title: Soleils portés
+artist-ids:
+- efdf5308-e9d8-46da-963a-0a6b2283030a
+city-id: c9dd1772-2709-4dda-9611-a2981d75e294
+date: '1995'
+location:
+  latitude: 42.526483
+  longitude: 3.084717
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
