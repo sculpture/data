@@ -1,0 +1,20 @@
+id: 7f66c9c2-5777-4bcb-8b66-ac3ce8790026
+type: sculpture
+slug: femmes-perroquet-leger
+title: Les Femmes au perroquet
+artist-ids:
+- a1a78fbb-0603-4a6b-b39e-715170e6ce06
+city-id: 1b670fa5-d666-474f-a050-526bc35f2503
+date: '1951'
+location:
+  latitude: 43.622414
+  longitude: 7.112635
+  precision: 10
+material-ids:
+- 4a979cf3-40f3-4be9-aa71-b79765408367
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+title-en: Women with Parrots
