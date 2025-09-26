@@ -1,7 +1,7 @@
 id: 078a2532-732e-40bb-b049-05d9f7e594f9
 type: sculpture
 slug: le-tournesol-biot
-title: Le Tournesol (Biot)
+title: Le Tournesol
 artist-ids:
 - a1a78fbb-0603-4a6b-b39e-715170e6ce06
 city-id: 1b670fa5-d666-474f-a050-526bc35f2503
@@ -16,3 +16,4 @@ note: executed in 1967 by R. & C. Brice and H.Melano
 tag-ids:
 - 9010cc4c-c852-4176-a7fe-04f0885fcffc
 - acf1f82b-5ae9-4cf6-8008-06be6a15512b
+title-en: The Sunflower
