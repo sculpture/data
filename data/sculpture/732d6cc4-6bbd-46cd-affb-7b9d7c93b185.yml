@@ -1,0 +1,18 @@
+id: 732d6cc4-6bbd-46cd-affb-7b9d7c93b185
+type: sculpture
+slug: antonio-machado
+title: Antonio Machado memorial
+artist-ids:
+- 553961ca-6c9c-444c-a879-0072557e02da
+city-id: c9dd1772-2709-4dda-9611-a2981d75e294
+date: '1977'
+location:
+  latitude: 42.52621
+  longitude: 3.08513
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
