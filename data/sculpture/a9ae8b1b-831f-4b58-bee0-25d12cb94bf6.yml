@@ -1,17 +1,17 @@
 id: a9ae8b1b-831f-4b58-bee0-25d12cb94bf6
 type: sculpture
-slug: flow-blue-2
-title: Flow Blue (2)
+slug: singing-bowl-mercury
+title: 'Singing Bowl Mercury '
 artist-ids:
 - 67bd08d2-7003-4396-9e5e-675adb4548fc
-city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-commissioned-by: Edilcan Development
-date: '2008'
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2022'
 location:
-  latitude: 43.660684
-  longitude: -79.381883
-  precision: 35
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
 material-ids:
 - 958cce1f-9219-40b7-b6cf-e6adf5016125
+- d5e04d12-19d1-4983-86c9-8ef02568d71c
 tag-ids:
-- f0a91cb4-6efd-4fb9-81d2-b870dc7527fd
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
