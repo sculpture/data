@@ -1,0 +1,19 @@
+id: cbe393b8-a942-48ac-a24e-54e17aafdfe8
+type: sculpture
+slug: tomb-gino-capponi
+title: 'Tomb of Gino Capponi '
+artist-ids:
+- d8236fd6-3cc2-4b6f-9213-7c7bb6dc2429
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1884'
+location:
+  latitude: 43.768394
+  longitude: 11.262488
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
