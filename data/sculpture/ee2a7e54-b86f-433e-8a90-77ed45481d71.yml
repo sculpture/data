@@ -1,7 +1,7 @@
 id: ee2a7e54-b86f-433e-8a90-77ed45481d71
 type: sculpture
 slug: praskie-aniolki-sulek
-title: Praskie Aniolki
+title: Miasto aniołów
 artist-ids:
 - 1cf7ada0-0d16-4286-8ff0-6bb67f0317d9
 city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
@@ -15,3 +15,4 @@ material-ids:
 tag-ids:
 - 0da82d60-8316-4720-b0f2-edcc3c2adcab
 - cd7f362d-e253-4dd7-9230-d77536d7dd4e
+title-en: City of Angels
