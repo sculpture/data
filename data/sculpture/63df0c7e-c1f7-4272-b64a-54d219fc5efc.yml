@@ -1,0 +1,21 @@
+id: 63df0c7e-c1f7-4272-b64a-54d219fc5efc
+type: sculpture
+slug: maria-karolina-sobieska-tomb
+title: Nagrobek Marii Karoliny Sobieskiej
+artist-ids:
+- bf69a8c8-baf6-443a-af5c-8df3721f3dbe
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1746'
+location:
+  latitude: 52.25318
+  longitude: 21.008959
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+note: Reconstructed in 1961 by Antoni Szymanowski
+tag-ids:
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+title-en: Tomb of Maria Karolina Sobieska
