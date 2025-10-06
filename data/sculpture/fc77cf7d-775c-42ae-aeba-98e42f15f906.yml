@@ -1,0 +1,18 @@
+id: fc77cf7d-775c-42ae-aeba-98e42f15f906
+type: sculpture
+slug: la-sirenetta
+title: La Sirenetta
+artist-ids:
+- be21b961-1a6b-403e-861c-514231f1123a
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2017'
+location:
+  latitude: 45.433062
+  longitude: 12.331036
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- bde62dd4-de03-48b1-bc5b-812694b8a9de
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
+title-en: Little Mermaid
