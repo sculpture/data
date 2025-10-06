@@ -1,0 +1,17 @@
+id: fa8437fa-ddc7-4188-b850-dd2ce313b6cf
+type: sculpture
+slug: portrait-four-tetrarchs
+title: Monumento ai Tetrarchi
+artist-ids:
+- 0f5a730d-138d-4566-95cd-581c00cd0fb2
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '0300'
+display-date: c. 300
+link-wikipedia: https://en.wikipedia.org/wiki/Portrait_of_the_Four_Tetrarchs
+location:
+  latitude: 45.43426
+  longitude: 12.339627
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+title-en: Four Tetrarchs
