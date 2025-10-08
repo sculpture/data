@@ -1,0 +1,16 @@
+id: 3f282ea4-6975-416d-aad2-b78f393bd447
+type: sculpture
+slug: spaceman-light-blue
+title: Spaceman Light Blue
+artist-ids:
+- 09edc663-55c1-44dc-b0bd-1fb35fa07d01
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2023'
+location:
+  latitude: 43.959699
+  longitude: 10.228524
+  precision: 10
+material-ids:
+- 56560105-70a1-4867-aaea-6d76d31576c0
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab
