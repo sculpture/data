@@ -1,0 +1,16 @@
+id: 0a8a489c-bbbb-42dc-a58c-423b5629f2e6
+type: sculpture
+slug: prometeo-tagliolini
+title: Prometeo
+artist-ids:
+- 71db5b0b-e66b-48f7-8e80-a6c83e704d8c
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '1991'
+location:
+  latitude: 43.916357
+  longitude: 10.20772
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
