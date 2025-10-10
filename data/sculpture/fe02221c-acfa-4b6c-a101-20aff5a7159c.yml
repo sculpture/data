@@ -1,0 +1,22 @@
+id: fe02221c-acfa-4b6c-a101-20aff5a7159c
+type: sculpture
+slug: monument-paul-deroulede
+title: Monument à Paul Déroulède
+artist-ids:
+- 23b5cae3-906d-4e3d-8aec-db484ec41922
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '1920'
+location:
+  latitude: 48.31818
+  longitude: 7.441624
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
