@@ -1,0 +1,16 @@
+id: 5c49dd59-5639-4bb8-92cd-055fe916a034
+type: sculpture
+slug: cumulus-vi-revisited
+title: Cumulus VI Revisited
+artist-ids:
+- 80dc19fd-a016-44f5-8421-4dc072fea9bc
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2022'
+location:
+  latitude: 44.016312
+  longitude: -77.290669
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
