@@ -1,0 +1,17 @@
+id: 7a5fd968-e5fe-4e01-86d8-53b8515d8eb6
+type: sculpture
+slug: in-memoriam-ii-frink
+title: 'In Memoriam II '
+artist-ids:
+- b373ce8a-c698-4668-8ec8-851c378ee92a
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1981'
+location:
+  latitude: 45.498266
+  longitude: -73.579829
+  precision: 19
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- c9884cff-1c92-48b5-816b-aa0479de54fa
