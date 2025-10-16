@@ -1,0 +1,17 @@
+id: 46ba02ec-4756-4b28-85fc-0a783a71a447
+type: sculpture
+slug: ten-ten-ten-90-d
+title: Ten Ten Ten 90-D
+artist-ids:
+- b5a91ffb-ff0d-4329-808b-d93a2f9b0da5
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1991'
+location:
+  latitude: 35.68877
+  longitude: 139.692201
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
+title-en: Ten Ten Ten 90-D
