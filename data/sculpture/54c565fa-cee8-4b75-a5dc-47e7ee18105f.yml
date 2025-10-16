@@ -1,0 +1,16 @@
+id: 54c565fa-cee8-4b75-a5dc-47e7ee18105f
+type: sculpture
+slug: mother-children-cecciarelli
+title: Mother and Children
+artist-ids:
+- 45c87fa9-9a0f-40ca-80da-2db4e6eb2589
+date: '1895'
+location:
+  latitude: 34.69716
+  longitude: 135.48665
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- ea310784-30d7-4a31-9c7b-22e86c3cf049
+title-en: 母子三人像
