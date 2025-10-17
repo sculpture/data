@@ -1,0 +1,19 @@
+id: 616cd3d7-733f-4c83-90c4-fb386a5ef21f
+type: sculpture
+slug: font-dels-nens
+title: Font dels Nens
+artist-ids:
+- 7268606c-af90-4003-a848-6277c2eb0d27
+city-id: 38dc228d-7b71-4ed6-a578-49b80d38d6a8
+date: '1893'
+location:
+  latitude: 41.388123
+  longitude: 2.186015
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- f3c0c272-150c-42cd-9a87-bd121fdc1309
+title-en: Children's Fountain
