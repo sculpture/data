@@ -7,9 +7,9 @@ artist-ids:
 city-id: 9c461ddd-1d3d-436f-bc00-c5603e426280
 date: '1895'
 location:
-  latitude: 34.69608
-  longitude: 135.488092
-  precision: 10
+  latitude: 34.695974
+  longitude: 135.487942
+  precision: 36
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
