@@ -1,0 +1,15 @@
+id: 1e13625b-5fbe-4266-92eb-5a079679c9d3
+type: sculpture
+slug: pleiades-nagasawa
+title: Pleiades
+artist-ids:
+- b9995291-5129-43c9-88ee-7a28483b5347
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1994'
+location:
+  latitude: 35.693132
+  longitude: 139.693142
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+title-en: プレアデス
