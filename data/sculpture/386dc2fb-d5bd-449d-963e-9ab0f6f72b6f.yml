@@ -1,0 +1,16 @@
+id: 386dc2fb-d5bd-449d-963e-9ab0f6f72b6f
+type: sculpture
+slug: bouquet-hongo
+title: Bouquet
+artist-ids:
+- 8256958b-9386-4896-9461-474e02922b7e
+city-id: c0d2dfe7-056d-467e-8030-d5ed5c4a9512
+date: '1971'
+location:
+  latitude: 34.839387
+  longitude: 134.69651
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2094ee30-7294-478e-b118-b3fd48a7c570
