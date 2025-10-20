@@ -1,0 +1,14 @@
+id: 98eb9323-04d0-483f-b3a7-b1adbf89ce8b
+type: sculpture
+slug: astral-traveler-shingu
+title: Astral Traveler
+artist-ids:
+- 8d12e4e1-204d-4edc-af8d-ac264cb24f6c
+city-id: 9c461ddd-1d3d-436f-bc00-c5603e426280
+date: '1998'
+location:
+  latitude: 34.69716
+  longitude: 135.48665
+  precision: 10
+tag-ids:
+- 85105298-6047-4f80-88ec-76aa0b77d815
