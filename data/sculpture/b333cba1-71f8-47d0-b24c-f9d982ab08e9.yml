@@ -1,0 +1,19 @@
+id: b333cba1-71f8-47d0-b24c-f9d982ab08e9
+type: sculpture
+slug: facade-sosnowska
+title: Fasada
+artist-ids:
+- cd193557-f04e-4f79-b966-9411614be318
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2013'
+location:
+  latitude: 52.233283
+  longitude: 21.008763
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e7c0d105-ed1d-4e46-8cd8-a5153a2a784d
