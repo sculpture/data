@@ -1,0 +1,17 @@
+id: 7c8bfee4-2227-4e3f-ba38-080c2ee618c5
+type: sculpture
+slug: igor-mitoraj-tomb
+title: Igor Mitoraj tomb
+artist-ids:
+- 0831a07c-54a0-47ae-9bd3-0e1dc3e873ef
+- 14b1de19-2e6a-4a81-8f17-3a769a0a6104
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2015'
+location:
+  latitude: 43.959699
+  longitude: 10.228524
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
