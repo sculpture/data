@@ -1,0 +1,18 @@
+id: cabe0bd7-61d1-4b0a-931d-b8304fe21b37
+type: sculpture
+slug: tomb-emperor-henry-vii
+title: Tomb of Emperor Henry VII
+artist-ids:
+- 32692383-96db-47eb-8501-f5320c9b441e
+city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
+date: '1315'
+location:
+  latitude: 43.723205
+  longitude: 10.3956
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
