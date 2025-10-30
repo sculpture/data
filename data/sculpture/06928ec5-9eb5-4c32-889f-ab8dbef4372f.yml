@@ -1,0 +1,15 @@
+id: 06928ec5-9eb5-4c32-889f-ab8dbef4372f
+type: sculpture
+slug: message-from-universe
+title: Message from the Universe
+artist-ids:
+- ed1879b9-8a50-4aef-af2b-1e356249e2f0
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1997'
+location:
+  latitude: 35.676423
+  longitude: 139.650027
+  precision: 10
+material-ids:
+- a1d83c21-c2ec-4d6f-852d-a880fdd65176
+title-en: 宇宙からのメッセージ
