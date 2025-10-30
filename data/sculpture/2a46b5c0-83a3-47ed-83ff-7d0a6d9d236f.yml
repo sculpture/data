@@ -1,0 +1,20 @@
+id: 2a46b5c0-83a3-47ed-83ff-7d0a6d9d236f
+type: sculpture
+slug: put-hat-try-walking
+title: If you put on a hat, try walking
+artist-ids:
+- 894f35e2-4973-4a94-9ada-8441bda8d4b2
+city-id: c0d2dfe7-056d-467e-8030-d5ed5c4a9512
+date: '2000'
+location:
+  latitude: 34.815418
+  longitude: 134.685551
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 66ec2c31-c300-4e0f-bc36-93fa72a95fef
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- e67f346e-191a-4f0f-a6c2-861e72e7f78f
+title-en: 帽子を被ったら歩いてみよう
