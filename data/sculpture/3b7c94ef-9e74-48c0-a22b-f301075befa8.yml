@@ -1,0 +1,16 @@
+id: 3b7c94ef-9e74-48c0-a22b-f301075befa8
+type: sculpture
+slug: giraffe-ando
+title: Giraffe
+artist-ids:
+- bbd02077-5f27-4898-a9bc-c4ac4dbf1e2f
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1989'
+location:
+  latitude: 35.6813
+  longitude: 139.767066
+  precision: 10
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+title-en: 「キリン
