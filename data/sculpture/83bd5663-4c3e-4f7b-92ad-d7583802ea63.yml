@@ -1,0 +1,18 @@
+id: 83bd5663-4c3e-4f7b-92ad-d7583802ea63
+type: sculpture
+slug: otorhinological-head-venus
+title: Otorhinological Head of Venus
+artist-ids:
+- 63db084d-333a-4c71-8894-3c9357c592e2
+city-id: a75c8dbc-3678-4d58-8c87-20ded6915cd2
+date: '1964'
+location:
+  latitude: 42.267988
+  longitude: 2.959663
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
