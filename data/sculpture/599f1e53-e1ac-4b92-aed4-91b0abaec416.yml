@@ -1,0 +1,17 @@
+id: 599f1e53-e1ac-4b92-aed4-91b0abaec416
+type: sculpture
+slug: ernest-meissonier
+title: Ernest Meissonier
+artist-ids:
+- 8422c636-2069-4d5d-a1fe-b3c784604985
+city-id: a75c8dbc-3678-4d58-8c87-20ded6915cd2
+date: '1895'
+location:
+  latitude: 42.267992
+  longitude: 2.959545
+  precision: 10
+tag-ids:
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- b078f909-a131-4d37-8b36-59061078b159
