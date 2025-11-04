@@ -1,0 +1,20 @@
+id: cf8be240-6571-4d91-b308-e26abfb66b71
+type: sculpture
+slug: entombment-of-christ
+title: Entombment of Christ
+artist-ids:
+- d8f16222-e510-4e90-8412-a83662da67d2
+city-id: 6c9ba8a0-15ec-4a7d-8931-a71ffe8660f2
+date: '1525'
+display-date: 1520-25
+location:
+  latitude: 37.176078
+  longitude: -3.588141
+  precision: 10
+material-ids:
+- d0e544f1-8f9a-4225-acc0-39833a263af0
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- de83a4c2-214e-45fb-a307-c835449e52bf
