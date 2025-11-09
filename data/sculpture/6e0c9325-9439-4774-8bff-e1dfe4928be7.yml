@@ -1,0 +1,19 @@
+id: 6e0c9325-9439-4774-8bff-e1dfe4928be7
+type: sculpture
+slug: llonomastico-della-nonna
+title: ' L''onomastico della nonna'
+artist-ids:
+- 45c87fa9-9a0f-40ca-80da-2db4e6eb2589
+city-id: 9c461ddd-1d3d-436f-bc00-c5603e426280
+date: '1895'
+display-date: c.1895
+location:
+  latitude: 34.693725
+  longitude: 135.502254
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- ea310784-30d7-4a31-9c7b-22e86c3cf049
+title-en: Grandma's name day
