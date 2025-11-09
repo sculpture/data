@@ -1,0 +1,19 @@
+id: 9a75d003-00bd-4afd-94d2-6ffbcd847dca
+type: sculpture
+slug: womain-swimsuit-ito
+title: Woman in swimsuit
+artist-ids:
+- 37eecee4-8ed5-4d3f-a39c-dd2dce372926
+city-id: c0d2dfe7-056d-467e-8030-d5ed5c4a9512
+date: '1981'
+location:
+  latitude: 34.839387
+  longitude: 134.69651
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+title-en: 水着の女
