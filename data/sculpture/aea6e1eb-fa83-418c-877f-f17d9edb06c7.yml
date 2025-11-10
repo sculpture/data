@@ -1,0 +1,14 @@
+id: aea6e1eb-fa83-418c-877f-f17d9edb06c7
+type: sculpture
+slug: mother-continent-gorel
+title: Mother Continent
+artist-ids:
+- 5d76238f-b90e-4e52-bec5-1a9ba9c1ef2f
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2025'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- cf38381e-1b86-4728-8349-6febca8429d0
