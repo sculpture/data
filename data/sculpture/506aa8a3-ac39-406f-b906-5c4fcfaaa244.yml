@@ -1,0 +1,21 @@
+id: 506aa8a3-ac39-406f-b906-5c4fcfaaa244
+type: sculpture
+slug: cosimo-giambologna
+title: Cosimo I de' Medici
+artist-ids:
+- 0d2048a2-0550-45da-945c-1f8e1705a581
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1594'
+display-date: 1587-94
+link-wikipedia: https://en.wikipedia.org/wiki/Equestrian_Monument_of_Cosimo_I
+location:
+  latitude: 43.76962
+  longitude: 11.255674
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6cac5bfb-8079-494d-bdff-dffb9c54e908
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
