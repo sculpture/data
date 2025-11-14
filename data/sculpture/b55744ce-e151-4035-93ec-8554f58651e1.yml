@@ -1,0 +1,21 @@
+id: b55744ce-e151-4035-93ec-8554f58651e1
+type: sculpture
+slug: giovanni-battista-griselli
+title: San Giovanni Battista
+artist-ids:
+- 6a411a36-7ee8-4637-9889-f1c609cb58a3
+city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
+date: '1925'
+location:
+  latitude: 43.723258
+  longitude: 10.394178
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
