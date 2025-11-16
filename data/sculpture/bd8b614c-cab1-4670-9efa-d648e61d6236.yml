@@ -1,0 +1,20 @@
+id: bd8b614c-cab1-4670-9efa-d648e61d6236
+type: sculpture
+slug: bremer-stadtmusikanten-riga
+title: Die Bremer Stadtmusikanten
+artist-ids:
+- b596a85b-7bbd-419b-b9e4-8968e353440c
+city-id: 925ba015-a26e-43f6-8fda-68df4f056e17
+date: '1990'
+link-wikipedia: https://de.wikipedia.org/wiki/Die_Bremer_Stadtmusikanten_(Riga)
+location:
+  latitude: 56.967694
+  longitude: 24.105622
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 3d01002e-928d-47f0-9a30-5f38d5a8eb27
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+title-en: Bremen Town Musicians
