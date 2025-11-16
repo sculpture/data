@@ -1,0 +1,19 @@
+id: fd1ddd63-854a-491a-9641-856fef169b64
+type: sculpture
+slug: bamberka-wackerle
+title: Bamberka
+artist-ids:
+- 4ba27741-dbb3-4b75-aa84-f195a67c7a4b
+city-id: ee74e895-68e1-4423-a29c-7113dafddb5f
+date: '1915'
+link-wikipedia: https://pl.wikipedia.org/wiki/Studzienka_Bamberki_w_Poznaniu
+location:
+  latitude: 52.408509
+  longitude: 16.9336
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
