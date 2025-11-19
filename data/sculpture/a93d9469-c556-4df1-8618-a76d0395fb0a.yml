@@ -1,0 +1,22 @@
+id: a93d9469-c556-4df1-8618-a76d0395fb0a
+type: sculpture
+slug: crucifixion-donatello-bargello
+title: Crucifixion
+artist-ids:
+- 4a395507-53d7-431a-8f9b-4677bd31977a
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1454'
+display-date: 1453-54
+location:
+  latitude: 43.770398
+  longitude: 11.258008
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
