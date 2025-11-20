@@ -1,0 +1,18 @@
+id: f7d3003a-9686-4fb9-b039-61bee46b71c9
+type: sculpture
+slug: samson-slaying-philistine-vinci
+title: 'Samson Slaying a Philistine '
+artist-ids:
+- f868588f-975b-45d8-86a2-42f9614faea0
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1552'
+display-date: 1551-52
+location:
+  latitude: 43.769301
+  longitude: 11.256151
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- e231b618-b7c1-4206-988c-813c2964e1a5
