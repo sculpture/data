@@ -1,0 +1,18 @@
+id: 33490a85-1323-4c40-bd92-79074bc7f3fb
+type: sculpture
+slug: brocks-monument-thomas
+title: Brock's Monument
+artist-ids:
+- 25a9d758-0a4e-41ed-84e2-12adeac1f476
+city-id: c11baca1-5331-4363-9000-20173369b350
+date: '1856'
+display-date: 1853-56
+location:
+  latitude: 43.160134
+  longitude: -79.053041
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
