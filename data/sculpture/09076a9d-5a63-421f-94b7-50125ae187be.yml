@@ -1,0 +1,16 @@
+id: 09076a9d-5a63-421f-94b7-50125ae187be
+type: sculpture
+slug: red-gold-mitic
+title: Red Gold
+artist-ids:
+- 725ce89a-9137-45a2-b5eb-0e1250c1222d
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2022'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
