@@ -1,0 +1,19 @@
+id: 1b962c12-9a36-45e3-b464-fb1d2f6f25eb
+type: sculpture
+slug: honore-mercier
+title: Honoré Mercier
+artist-ids:
+- 1a203de3-1fe7-4fcf-8108-0ac7ce4d7050
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1909'
+location:
+  latitude: 46.809114
+  longitude: -71.213321
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5e3a958c-c298-4da2-8d31-39fde44e7bbe
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
