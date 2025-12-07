@@ -5,10 +5,11 @@ title: Jacques Marquette
 artist-ids:
 - d031e953-5fd9-479b-b2f4-929c59f8064f
 city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
-date: '1900'
+date: '1910'
+display-date: 1910s
 location:
-  latitude: 46.808865
-  longitude: -71.213892
+  latitude: 46.809005
+  longitude: -71.21371
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
