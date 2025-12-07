@@ -1,0 +1,17 @@
+id: 129fc4b5-6366-493c-afe3-356750156a0c
+type: sculpture
+slug: les-paravents-du-reve
+title: Les Paravents du Rêve
+artist-ids:
+- 9ec889f5-b037-4999-9492-5ca7dabcc73a
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '1990'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
+title-en: Dream Screens
