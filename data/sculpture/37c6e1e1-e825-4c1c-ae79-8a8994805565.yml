@@ -1,0 +1,20 @@
+id: 37c6e1e1-e825-4c1c-ae79-8a8994805565
+type: sculpture
+slug: kasimir-niki
+title: Kasimir
+artist-ids:
+- b15e5537-c19f-4425-9f68-96e31aa0a0a3
+city-id: 87e31feb-218f-4ab6-b6f8-cecc048ebe35
+date: '1991'
+location:
+  latitude: 42.425905
+  longitude: 11.466712
+  precision: 10
+material-ids:
+- 02f666a5-a96a-466a-9a4a-3ff26ba1bad5
+- 32495469-6b62-477a-b272-a0e4e2c0e5c9
+- 3cd25954-9a6b-478f-a4a4-8470c3972f2c
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
