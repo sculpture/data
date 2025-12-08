@@ -1,0 +1,19 @@
+id: 6627f779-191d-4a26-a2f2-14ffad6395eb
+type: sculpture
+slug: goddess-of-democracy-york
+title: Goddess of Democracy
+artist-ids:
+- 9b34a8b7-35f0-4c56-95c0-344829c668db
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2012'
+location:
+  latitude: 43.773454
+  longitude: -79.501868
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
