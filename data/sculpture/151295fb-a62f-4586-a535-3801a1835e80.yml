@@ -1,0 +1,18 @@
+id: 151295fb-a62f-4586-a535-3801a1835e80
+type: sculpture
+slug: vesna-lozica
+title: Vesna
+artist-ids:
+- 4e3cf3b0-417c-468b-8aad-582fb803cd79
+city-id: a4bce8ca-fbdf-4833-8f5a-b3c9d49d0049
+date: '2007'
+location:
+  latitude: 45.80383
+  longitude: 15.993117
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
