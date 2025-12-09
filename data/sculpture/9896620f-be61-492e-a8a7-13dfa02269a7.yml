@@ -1,0 +1,19 @@
+id: 9896620f-be61-492e-a8a7-13dfa02269a7
+type: sculpture
+slug: nino-picasso-malaga
+title: Niño (Picasso)
+artist-ids:
+- 5bd6bc78-6918-417a-9479-cc48e73081bc
+city-id: a829fff3-f394-470e-b4d4-bd76afe8d3d1
+date: '1960'
+location:
+  latitude: 36.721616
+  longitude: -4.418338
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- f3c0c272-150c-42cd-9a87-bd121fdc1309
+title-en: Child
