@@ -1,0 +1,20 @@
+id: 85899982-b1c7-4644-8723-fa1c8008554e
+type: sculpture
+slug: cabeza-toro-malaga
+title: Cabeza de toro
+artist-ids:
+- 5bd6bc78-6918-417a-9479-cc48e73081bc
+city-id: a829fff3-f394-470e-b4d4-bd76afe8d3d1
+date: '1942'
+link-wikipedia: https://en.wikipedia.org/wiki/Bull%27s_Head
+location:
+  latitude: 36.721581
+  longitude: -4.418322
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+title-en: Bull's Head
