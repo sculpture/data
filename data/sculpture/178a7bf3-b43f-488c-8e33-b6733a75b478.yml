@@ -1,0 +1,16 @@
+id: 178a7bf3-b43f-488c-8e33-b6733a75b478
+type: sculpture
+slug: going-around-days-nights
+title: Going around Days and Nights
+artist-ids:
+- 6582c289-c963-4882-8613-59496a48e68b
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1991'
+location:
+  latitude: 38.702461
+  longitude: -9.217751
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
