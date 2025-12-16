@@ -7,12 +7,13 @@ artist-ids:
 city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
 date: '1957'
 location:
-  latitude: 50.09069
-  longitude: 14.3957
+  latitude: 50.090139
+  longitude: 14.396435
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
 - 5e46697e-16c7-4478-a438-202749e4888d
 - 9010cc4c-c852-4176-a7fe-04f0885fcffc
 - b982214e-52f9-48b0-b977-4a4359b49fdb
