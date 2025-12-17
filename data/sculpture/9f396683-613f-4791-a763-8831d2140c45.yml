@@ -1,7 +1,7 @@
 id: 9f396683-613f-4791-a763-8831d2140c45
 type: sculpture
 slug: wolf-holding-deer
-title: Wolf holding a deer
+title: Loup tenant un cerf à la gorge
 artist-ids:
 - 6bff887d-8c52-4b32-ad31-a4a1e021e8cb
 city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
@@ -17,3 +17,4 @@ tag-ids:
 - 6f13c768-5619-419e-97af-60440cab7f89
 - 89f78d37-2315-4104-bfe7-610b444b2485
 - 9010cc4c-c852-4176-a7fe-04f0885fcffc
+title-en: Wolf holding a deer by the throat
