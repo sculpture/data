@@ -10,6 +10,8 @@ location:
   latitude: 50.089237
   longitude: 14.396782
   precision: 10
+material-ids:
+- d0e544f1-8f9a-4225-acc0-39833a263af0
 tag-ids:
 - 3896ed41-4440-40fa-9a21-6903c94fada2
 - 6f13c768-5619-419e-97af-60440cab7f89
