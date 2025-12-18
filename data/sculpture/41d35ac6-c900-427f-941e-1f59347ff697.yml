@@ -1,0 +1,17 @@
+id: 41d35ac6-c900-427f-941e-1f59347ff697
+type: sculpture
+slug: angel-heilderberg
+title: Angel (Prague)
+artist-ids:
+- 15d8ff71-f99f-4787-b92f-4353c4b9f506
+city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
+date: '1630'
+location:
+  latitude: 50.089237
+  longitude: 14.396782
+  precision: 10
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
