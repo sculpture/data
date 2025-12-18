@@ -1,0 +1,17 @@
+id: 97a4f199-0caa-4f76-8858-98402879c408
+type: sculpture
+slug: jacopo-menochio
+title: Jacopo Menochio
+artist-ids:
+- 8d1b0c64-a48c-4127-b0be-e3e83d155630
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1785'
+location:
+  latitude: 45.398417
+  longitude: 11.876529
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
