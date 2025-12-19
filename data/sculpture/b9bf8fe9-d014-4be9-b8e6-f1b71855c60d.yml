@@ -1,0 +1,18 @@
+id: b9bf8fe9-d014-4be9-b8e6-f1b71855c60d
+type: sculpture
+slug: mavi-santiago
+title: Mavi
+artist-ids:
+- 3e3f36c8-954a-4341-b91f-5e097dccaaf5
+city-id: ceb7781a-0577-461e-af65-152464360546
+date: '1994'
+location:
+  latitude: 36.425635
+  longitude: -5.151026
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
