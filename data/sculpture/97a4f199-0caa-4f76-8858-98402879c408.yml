@@ -7,8 +7,8 @@ artist-ids:
 city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
 date: '1785'
 location:
-  latitude: 45.398417
-  longitude: 11.876529
+  latitude: 45.398048
+  longitude: 11.877055
   precision: 10
 material-ids:
 - a267fb56-e090-4da4-b72c-152f966877d9
