@@ -1,0 +1,19 @@
+id: 7fea54c8-5c8d-45a1-b025-6a1ed2d32616
+type: sculpture
+slug: minerva-bellotto
+title: Minerva
+artist-ids:
+- 66e1e4f7-76af-414d-8a10-f4251f9ef9bc
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1916'
+location:
+  latitude: 45.410566
+  longitude: 11.878348
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
