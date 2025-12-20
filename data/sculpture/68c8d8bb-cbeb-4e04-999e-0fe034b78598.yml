@@ -1,0 +1,20 @@
+id: 68c8d8bb-cbeb-4e04-999e-0fe034b78598
+type: sculpture
+slug: francesco-barbaro
+title: Francesco Barbaro
+artist-ids:
+- bc68860a-fc79-46cc-87cd-2e15ff4f7e0e
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1683'
+display-date: 1680-83
+location:
+  latitude: 45.432629
+  longitude: 12.332987
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
