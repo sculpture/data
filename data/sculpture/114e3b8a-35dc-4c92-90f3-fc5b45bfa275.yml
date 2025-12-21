@@ -1,0 +1,19 @@
+id: 114e3b8a-35dc-4c92-90f3-fc5b45bfa275
+type: sculpture
+slug: prayer-for-peace
+title: Prayer for Peace
+artist-ids:
+- 0acfc18a-076e-4ed6-b932-ebc8a3bde25a
+city-id: 4c7cdf32-7fd5-42fb-a1e0-a0b1ca98e5c8
+date: '1977'
+location:
+  latitude: 34.392687
+  longitude: 132.452201
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- ea310784-30d7-4a31-9c7b-22e86c3cf049
+title-en: (平和祈念像)
