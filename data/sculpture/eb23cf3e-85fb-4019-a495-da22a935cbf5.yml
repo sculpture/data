@@ -1,0 +1,18 @@
+id: eb23cf3e-85fb-4019-a495-da22a935cbf5
+type: sculpture
+slug: pedro-romero-ronda
+title: Pedro Romero
+artist-ids:
+- ed15ce5b-a327-4579-9c33-deb17a75acba
+city-id: 6510c585-9cc8-4937-a208-5826ab648a04
+date: '1957'
+location:
+  latitude: 36.743511
+  longitude: -5.167541
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 74fdf053-e096-4324-86e0-baae0f54bde0
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
