@@ -1,0 +1,15 @@
+id: 77842cd5-b782-4155-addf-84dda522340d
+type: sculpture
+slug: golden-heart-othoniel
+title: Golden Heart
+artist-ids:
+- 8dbb73d5-04b9-4596-9f7a-610b8316d711
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '2013'
+location:
+  latitude: 35.660323
+  longitude: 139.730493
+  precision: 10
+material-ids:
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
+title-en: 金の心
