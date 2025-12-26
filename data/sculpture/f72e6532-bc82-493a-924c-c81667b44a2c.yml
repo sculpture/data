@@ -1,0 +1,18 @@
+id: f72e6532-bc82-493a-924c-c81667b44a2c
+type: sculpture
+slug: den-haag-arnhem-den-haag
+title: Den Haag - Arnhem - Den Haag
+artist-ids:
+- a8f9f4cd-f044-4d15-8fb9-e0cceedde19f
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1961'
+location:
+  latitude: 38.695874
+  longitude: -9.209091
+  precision: 10
+material-ids:
+- 1df5830e-aa31-460c-a366-f07356994824
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
