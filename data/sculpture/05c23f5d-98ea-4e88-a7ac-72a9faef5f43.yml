@@ -1,0 +1,19 @@
+id: 05c23f5d-98ea-4e88-a7ac-72a9faef5f43
+type: sculpture
+slug: marques-sa-bandeira
+title: Marquês de Sá da Bandeira
+artist-ids:
+- 3ee0562b-888c-4c19-b21e-744b76597491
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1884'
+location:
+  latitude: 38.706954
+  longitude: -9.146737
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fb97341d-10db-41e3-821a-33d920fb5638
