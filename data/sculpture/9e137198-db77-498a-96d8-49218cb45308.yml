@@ -1,0 +1,13 @@
+id: 9e137198-db77-498a-96d8-49218cb45308
+type: sculpture
+slug: antorchas-libertad
+title: Antorchas de la Libertad
+artist-ids:
+- ec7136bc-b614-4c45-9c41-29d0cc5c7887
+city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
+date: '2012'
+location:
+  latitude: 36.521014
+  longitude: -6.280456
+  precision: 10
+title-en: 'Torches of Liberty '
