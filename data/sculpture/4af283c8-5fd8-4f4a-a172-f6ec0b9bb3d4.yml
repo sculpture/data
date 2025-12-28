@@ -1,0 +1,18 @@
+id: 4af283c8-5fd8-4f4a-a172-f6ec0b9bb3d4
+type: sculpture
+slug: hymns-new-temples
+title: I Am Hymns of The New Temples
+artist-ids:
+- 5fc72735-1c8b-4cb8-989e-f5d1198f4267
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2023'
+location:
+  latitude: 45.437008
+  longitude: 12.342221
+  precision: 10
+material-ids:
+- 63d1c802-2313-47a9-a87d-73b7ab53cbef
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
