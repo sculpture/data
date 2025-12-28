@@ -1,0 +1,18 @@
+id: 9e0f0db6-c5db-4d55-93ca-bd30d4ad1332
+type: sculpture
+slug: echoes-olthuis
+title: Echoes
+artist-ids:
+- 5f60e094-9d29-4fb2-9972-3f1d94b9a990
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2025'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
