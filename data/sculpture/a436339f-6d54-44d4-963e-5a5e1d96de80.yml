@@ -8,8 +8,8 @@ city-id: 87e31feb-218f-4ab6-b6f8-cecc048ebe35
 date: '1989'
 display-date: 1988-89
 location:
-  latitude: 42.426432
-  longitude: 11.465017
+  latitude: 42.426111
+  longitude: 11.466439
   precision: 10
 tag-ids:
 - 16cfefb7-0c34-415d-b7df-45c3abc95a90
