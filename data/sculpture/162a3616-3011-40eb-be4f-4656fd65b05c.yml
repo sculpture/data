@@ -1,0 +1,16 @@
+id: 162a3616-3011-40eb-be4f-4656fd65b05c
+type: sculpture
+slug: vittime-dei-bombardamenti
+title: Monumento alle vittime dei bombardamenti
+artist-ids:
+- 1fc301e8-abf4-4d3d-bfb8-dc0ab25e0320
+city-id: 33049fa3-1854-449a-a939-2233427bb2e4
+date: '2003'
+location:
+  latitude: 42.764579
+  longitude: 11.156245
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
