@@ -1,0 +1,22 @@
+id: 3f0ea68d-1e16-456a-9f2b-92ab648596d3
+type: sculpture
+slug: fontana-nettuno-rome
+title: Fontana del Nettuno
+artist-ids:
+- 4035b18e-409c-47e3-9b77-d438777d0585
+- a9b9717c-66f4-4119-b85d-2c03ad1a1983
+city-id: 569920f5-7103-4e7b-8bef-a08ea0c3bd14
+date: '1878'
+link-wikipedia: https://en.wikipedia.org/wiki/Fountain_of_Neptune,_Rome
+location:
+  latitude: 41.898111
+  longitude: 12.473158
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+title-en: Neptune Fountain
