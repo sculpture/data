@@ -1,0 +1,22 @@
+id: 0577ac04-408b-42da-9aed-b0bd05566757
+type: sculpture
+slug: ecce-homo-roldan
+title: Ecce Homo
+artist-ids:
+- 740c5c53-ac53-4da4-a690-5cad33c3e2b0
+city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
+date: '1687'
+location:
+  latitude: 36.529
+  longitude: -6.295289
+  precision: 10
+material-ids:
+- 20fc0fb1-d76c-4e0e-8b21-27290f62a185
+- d0e544f1-8f9a-4225-acc0-39833a263af0
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
