@@ -1,0 +1,16 @@
+id: ac50c921-df5f-4db0-9690-5b70b7fd3dc8
+type: sculpture
+slug: morisque-dancers
+title: Morisque Dancers
+artist-ids:
+- c35dac4d-e831-4426-9427-4ed695abaeb8
+city-id: ca0e48aa-9f11-4867-9698-3009bb1fa395
+date: '1992'
+location:
+  latitude: 51.053532
+  longitude: 3.723075
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 7847b3d8-40b7-4a02-8328-5d85a3254b00
