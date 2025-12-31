@@ -1,0 +1,18 @@
+id: eb5ed36e-2d1a-4855-a5e2-eddc3f1fda12
+type: sculpture
+slug: la-perla-cadiz
+title: La Perla de Cádiz
+artist-ids:
+- a12053f9-0a50-419e-a40b-71af5c7ab620
+city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
+date: '2007'
+location:
+  latitude: 36.528754
+  longitude: -6.298744
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 7f71b64e-1528-4c0f-8a7a-0421d1d63797
+title-en: Antonia Gilabert Vargas
