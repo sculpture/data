@@ -1,0 +1,19 @@
+id: 7af0cdeb-9010-4353-a444-9ac06ead8341
+type: sculpture
+slug: angel-sedente-1-roldan
+title: Ángel sedente
+artist-ids:
+- 740c5c53-ac53-4da4-a690-5cad33c3e2b0
+city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
+date: '1687'
+location:
+  latitude: 36.529
+  longitude: -6.295289
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
