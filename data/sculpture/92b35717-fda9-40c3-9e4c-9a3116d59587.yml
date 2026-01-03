@@ -1,0 +1,20 @@
+id: 92b35717-fda9-40c3-9e4c-9a3116d59587
+type: sculpture
+slug: ramon-despuig
+title: Ramón Despuig
+artist-ids:
+- 57af2008-0454-46ff-8c2e-d2336e1fb4fe
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1650'
+display-date: 17c
+location:
+  latitude: 52.247744
+  longitude: 21.014128
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 0543f161-85e7-4c0e-9b65-3f2e2d5f6cb3
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
