@@ -1,0 +1,18 @@
+id: 1618e9eb-4cea-4c5e-82cb-54e3dedd206e
+type: sculpture
+slug: las-cigarreras
+title: 'Las Cigarreras '
+artist-ids:
+- 15974671-455d-4b7b-92dc-2479293f34be
+city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
+date: '2000'
+location:
+  latitude: 36.521109
+  longitude: -6.280858
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
