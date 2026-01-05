@@ -1,0 +1,17 @@
+id: bb00dc87-c769-49a1-a818-829de2ffdf5f
+type: sculpture
+slug: mecanique-celeste-7-10
+title: Mecanique Celeste 7/10
+artist-ids:
+- f04d684c-48f6-4be5-9f9f-49bd683e9221
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2023'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
+- f512d675-0554-4a67-987c-1da560f2c95a
