@@ -1,0 +1,19 @@
+id: 3d7f4c2a-64a4-4a2e-bb78-802706913e04
+type: sculpture
+slug: ota-dokan
+title: Ōta Dōkan
+artist-ids:
+- 228494c7-6b41-4f56-827b-9b92a2aad5c4
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1989'
+location:
+  latitude: 35.728158
+  longitude: 139.770641
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- c68abb5f-2194-441e-9e75-71098c797e89
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
