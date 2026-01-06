@@ -1,0 +1,18 @@
+id: aedb5a35-0358-42ae-bd78-a84e8fdf7ae0
+type: sculpture
+slug: mujer-follaje-picasso
+title: 'Mujer con follaje '
+artist-ids:
+- 5bd6bc78-6918-417a-9479-cc48e73081bc
+city-id: a829fff3-f394-470e-b4d4-bd76afe8d3d1
+date: '1934'
+location:
+  latitude: 36.72168
+  longitude: -4.418343
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+title-en: Woman with leaves
