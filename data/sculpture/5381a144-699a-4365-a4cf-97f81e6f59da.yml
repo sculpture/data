@@ -1,0 +1,18 @@
+id: 5381a144-699a-4365-a4cf-97f81e6f59da
+type: sculpture
+slug: kizuna
+title: Kizuna (絆)
+artist-ids:
+- 718efd77-94aa-4320-8df9-c6b8507fd332
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1990'
+location:
+  latitude: 35.689301
+  longitude: 139.689898
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+title-en: Bond
