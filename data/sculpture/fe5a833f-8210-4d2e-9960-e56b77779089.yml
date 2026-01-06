@@ -1,0 +1,17 @@
+id: fe5a833f-8210-4d2e-9960-e56b77779089
+type: sculpture
+slug: bonaparte-cavallo-rampante
+title: Napoleone Bonaparte su cavallo rampante
+artist-ids:
+- 8b96fa83-7e77-4e70-bcda-97f34c78605d
+city-id: 11f8baa9-4bb9-4a55-ac54-6d78652d188a
+date: '2021'
+location:
+  latitude: 43.680628
+  longitude: 10.851295
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
+title-en: Napoleon Bonaparte on a Prancing Horse
