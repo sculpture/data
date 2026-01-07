@@ -1,0 +1,23 @@
+id: 549dd7df-c686-4fcf-acd6-803a589a04b7
+type: sculpture
+slug: columela-cadiz
+title: Columella
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
+date: '1880'
+display-date: late XVIII c.
+location:
+  latitude: 36.521014
+  longitude: -6.280456
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+note: |-
+  replica by José Fernández Guerrero.
+  Original in City Hall
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
