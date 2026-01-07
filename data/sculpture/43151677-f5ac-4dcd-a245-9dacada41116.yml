@@ -1,0 +1,20 @@
+id: 43151677-f5ac-4dcd-a245-9dacada41116
+type: sculpture
+slug: putto-pescatore-1
+title: 'Putto Pescatore '
+artist-ids:
+- 0d2048a2-0550-45da-945c-1f8e1705a581
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1565'
+display-date: 1560s
+location:
+  latitude: 43.770398
+  longitude: 11.258008
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- d973207a-6b23-4505-a84d-d2339bc3a55c
+title-en: Fishing Boy
