@@ -1,0 +1,20 @@
+id: 1042dc6a-45f8-45bc-82b8-06215e835289
+type: sculpture
+slug: muse-asia-minor-correr
+title: Muse
+artist-ids:
+- cddfe94e-bf21-4c21-8c14-1b10a0c554f8
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '00'
+display-date: II century BC
+location:
+  latitude: 45.433792
+  longitude: 12.337206
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
