@@ -1,21 +1,23 @@
 id: c2b4d6ab-032c-42eb-b2cc-644b807a4566
 type: sculpture
 slug: caracalla-bust-venice
-title: Portrait of Caracalla (copy)
+title: Bust of Caracalla (copy)
 artist-ids:
 - abbc0dcb-ac03-4dd8-af23-974cd5ae7c6f
 city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
 date: '0212'
 display-date: '212'
+link-wikipedia: https://en.wikipedia.org/wiki/Portrait_of_Caracalla
 location:
-  latitude: 45.433792
-  longitude: 12.337206
+  latitude: 45.437008
+  longitude: 12.342221
   precision: 10
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 note: XVI c.  copy
 tag-ids:
 - 18d2fd29-8838-4290-a343-39182ae9b445
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
 - 6f13c768-5619-419e-97af-60440cab7f89
 - 9010cc4c-c852-4176-a7fe-04f0885fcffc
 - e1747e74-d399-45e0-98c6-60514c400683
