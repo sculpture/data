@@ -8,8 +8,8 @@ city-id: 61e161d1-a37e-46bd-a626-4c409992e524
 date: '2013'
 display-date: 2010s*
 location:
-  latitude: 64.309632
-  longitude: -20.300939
+  latitude: 64.309802
+  longitude: -20.300435
   precision: 10
 material-ids:
 - a267fb56-e090-4da4-b72c-152f966877d9
