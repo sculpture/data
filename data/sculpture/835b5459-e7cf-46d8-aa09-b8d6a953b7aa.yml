@@ -1,0 +1,19 @@
+id: 835b5459-e7cf-46d8-aa09-b8d6a953b7aa
+type: sculpture
+slug: san-giovanni-evangelista-luca
+title: San Giovanni Evangelista
+artist-ids:
+- 792734b8-08d1-461c-adc9-8d1958319006
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+location:
+  latitude: 43.768012
+  longitude: 11.262887
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
