@@ -1,0 +1,19 @@
+id: b250b8b0-7a3e-439c-a2f9-3019b8b4dd50
+type: sculpture
+slug: minerva-coimbra-cruz
+title: Minerva
+artist-ids:
+- af12a233-4768-4b41-a946-8f0e7be699fd
+city-id: 58b70c2d-3c46-4012-9497-8e3fbaeed2bb
+date: '1692'
+location:
+  latitude: 40.207679
+  longitude: -8.424871
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7847b3d8-40b7-4a02-8328-5d85a3254b00
