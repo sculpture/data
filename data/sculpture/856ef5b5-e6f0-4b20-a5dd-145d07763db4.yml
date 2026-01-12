@@ -1,0 +1,17 @@
+id: 856ef5b5-e6f0-4b20-a5dd-145d07763db4
+type: sculpture
+slug: rosalia-de-castro
+title: Rosalía de Castro
+artist-ids:
+- 1a76d9fe-3c2b-4671-9a6c-53e4ec1e1905
+city-id: 3b930473-fa76-42c7-8b75-8d460d649251
+date: '1954'
+location:
+  latitude: 41.15228
+  longitude: -8.626657
+  precision: 10
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
