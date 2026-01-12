@@ -1,0 +1,18 @@
+id: 1af6a3b6-61a7-4a78-b2a3-224119fdf4b1
+type: sculpture
+slug: jaulajaro-cadiz
+title: Jaulájaro
+artist-ids:
+- e8ce28aa-d138-4f2a-8b61-123ff11b1ef8
+city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
+date: '2008'
+location:
+  latitude: 36.521014
+  longitude: -6.280456
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- b982214e-52f9-48b0-b977-4a4359b49fdb
