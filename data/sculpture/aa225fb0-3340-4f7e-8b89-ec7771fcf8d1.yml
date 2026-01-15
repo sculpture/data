@@ -1,0 +1,19 @@
+id: aa225fb0-3340-4f7e-8b89-ec7771fcf8d1
+type: sculpture
+slug: francesco-della-rovere-badini
+title: ' Francesco Maria I della Rovere'
+artist-ids:
+- c5502498-911a-4768-a0a5-fcd71303520e
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1587'
+location:
+  latitude: 45.434227
+  longitude: 12.340099
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6cac5bfb-8079-494d-bdff-dffb9c54e908
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
