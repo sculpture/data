@@ -8,8 +8,8 @@ city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
 date: '2010'
 display-date: 2009-10
 location:
-  latitude: 43.926829
-  longitude: 10.199317
+  latitude: 43.926806
+  longitude: 10.1987
   precision: 10
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
