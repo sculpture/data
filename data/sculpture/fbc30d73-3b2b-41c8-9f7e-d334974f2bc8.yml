@@ -1,0 +1,18 @@
+id: fbc30d73-3b2b-41c8-9f7e-d334974f2bc8
+type: sculpture
+slug: kielek-kielce
+title: Kiełek
+artist-ids:
+- 2b255d61-8138-4cf3-b3f6-11e4f0718c20
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '2006'
+location:
+  latitude: 50.865999
+  longitude: 20.628627
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+title-en: Tusk
