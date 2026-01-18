@@ -1,0 +1,17 @@
+id: 29c28c28-ee12-4a1b-ac94-0d976a4555c3
+type: sculpture
+slug: san-servando-andreoli
+title: San Servando
+artist-ids:
+- 11a9f3f7-68aa-40f0-9e0c-8e969378fafb
+city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
+date: '1705'
+location:
+  latitude: 36.525516
+  longitude: -6.288204
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
+- de83a4c2-214e-45fb-a307-c835449e52bf
