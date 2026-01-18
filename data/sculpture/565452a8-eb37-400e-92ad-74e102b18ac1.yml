@@ -1,0 +1,15 @@
+id: 565452a8-eb37-400e-92ad-74e102b18ac1
+type: sculpture
+slug: cavalletto-cosci
+title: Il cavalletto (Omaggio agli artigiani)
+artist-ids:
+- 3853b55b-b4f5-4431-8bcd-0a3a8f17153b
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2006'
+location:
+  latitude: 43.956816
+  longitude: 10.231398
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+title-en: The Easel (Homage to the Craftsmen)
