@@ -1,7 +1,7 @@
 id: 0125381b-335d-4e47-9331-3d6f719590e0
 type: sculpture
 slug: don-chisciotte-ranieri
-title: Don Chisciotte
+title: La Meraviglia (Don Chisciotte)
 artist-ids:
 - ed96d61e-e32d-458c-b548-c2ee6bc0dc0e
 city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
@@ -16,3 +16,4 @@ material-ids:
 tag-ids:
 - 18d2fd29-8838-4290-a343-39182ae9b445
 - 3d01002e-928d-47f0-9a30-5f38d5a8eb27
+title-en: The Wonder (Don Quixote)
