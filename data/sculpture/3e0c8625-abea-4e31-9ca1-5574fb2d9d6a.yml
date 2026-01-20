@@ -1,0 +1,17 @@
+id: 3e0c8625-abea-4e31-9ca1-5574fb2d9d6a
+type: sculpture
+slug: perro-i-macarroni
+title: Perro I
+artist-ids:
+- 06394d97-b0a7-4e49-bdf0-1b77d42cff55
+city-id: ceb7781a-0577-461e-af65-152464360546
+date: '2021'
+location:
+  latitude: 36.421413
+  longitude: -5.149572
+  precision: 144
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
