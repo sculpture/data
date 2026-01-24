@@ -1,0 +1,23 @@
+id: f2a767ac-022e-4ffc-b443-7b41d9db5bf1
+type: sculpture
+slug: tomb-cardinal-salazar
+title: Tomb of Cardinal Salazar
+artist-ids:
+- 548b6d83-2532-482e-80f3-c52425aee2a0
+- ac63d953-182f-4ba7-a6d5-9a024ab2d9c4
+- e12e1421-3bcd-4bdf-add7-cf6077e1eb7d
+city-id: 4caaf18b-6eea-482a-b6cd-5c5a06453ae6
+date: '1712'
+display-date: 1703-12
+location:
+  latitude: 37.878618
+  longitude: -4.778802
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2965e068-6250-4ba0-a708-376890e43ac4
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
