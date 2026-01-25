@@ -1,0 +1,19 @@
+id: 07943a78-25e2-4cc9-856c-972e23b91d0c
+type: sculpture
+slug: o-parto
+title: O Parto
+artist-ids:
+- 3aa6d6cc-aba0-4137-b46a-01530cdcc2f1
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1963'
+location:
+  latitude: 38.737984
+  longitude: -9.153514
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
