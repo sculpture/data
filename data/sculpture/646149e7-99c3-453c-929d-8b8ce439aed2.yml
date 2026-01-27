@@ -1,0 +1,17 @@
+id: 646149e7-99c3-453c-929d-8b8ce439aed2
+type: sculpture
+slug: boy-and-sea-bird
+title: Boy and Sea Bird
+artist-ids:
+- 86403136-301a-40c7-9d74-bc429e79d893
+city-id: c0d2dfe7-056d-467e-8030-d5ed5c4a9512
+date: '1981'
+location:
+  latitude: 34.839387
+  longitude: 134.69651
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- d973207a-6b23-4505-a84d-d2339bc3a55c
+title-en: 海と鳥と少年
