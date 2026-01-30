@@ -1,0 +1,17 @@
+id: 2fdaa0bb-6414-4d9d-a665-dedec9a91a06
+type: sculpture
+slug: pedro-de-mena
+title: Pedro de Mena
+artist-ids:
+- 98b679d1-e231-4785-a467-1b2bc5f058ff
+city-id: a829fff3-f394-470e-b4d4-bd76afe8d3d1
+date: '2010'
+location:
+  latitude: 36.720566
+  longitude: -4.418207
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 88a0e756-4193-4ff2-9d96-f1844c05f5e5
