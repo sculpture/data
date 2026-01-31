@@ -1,0 +1,20 @@
+id: 300b74da-9bca-41f7-8c84-4d44a9d3f79f
+type: sculpture
+slug: triunfo-del-rosario
+title: Triunfo del Rosario
+artist-ids:
+- d6068d37-8555-4247-8411-41930ea0e354
+city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
+date: '1755'
+location:
+  latitude: 36.533453
+  longitude: -6.293329
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6c892a0c-c6ab-4580-9095-a545228f75e7
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+title-en: Triumph of the Rosary
