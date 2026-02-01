@@ -1,0 +1,20 @@
+id: bf2f1b46-e223-4b4f-a19f-f3bcccd04780
+type: sculpture
+slug: san-fermo-schiavi
+title: 'San Fermo '
+artist-ids:
+- 7366edae-e2df-45ba-a6b7-224a7d8f4616
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: '1750'
+display-date: 1740-50
+location:
+  latitude: 45.438366
+  longitude: 10.991714
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- de83a4c2-214e-45fb-a307-c835449e52bf
