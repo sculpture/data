@@ -1,0 +1,20 @@
+id: 568d6319-f271-4d11-a6f6-bb2ad9721675
+type: sculpture
+slug: busto-maschile-grimani-16
+title: ' Busto maschile'
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1550'
+display-date: XVI c.
+location:
+  latitude: 45.437008
+  longitude: 12.342221
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+title-en: Bust of man
