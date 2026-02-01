@@ -1,0 +1,20 @@
+id: 6ee6fe0e-5aaa-476f-b35d-d917ac3827dc
+type: sculpture
+slug: stallone-sylvestre
+title: Stallone Sylvestre
+artist-ids:
+- 868767ac-da3c-469b-af1f-6544c0693428
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1986'
+location:
+  latitude: 45.441063
+  longitude: 12.331632
+  precision: 10
+material-ids:
+- c4fa4ee9-b158-4972-9a54-d80dacc91203
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
