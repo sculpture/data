@@ -1,0 +1,21 @@
+id: 12d03f1b-c419-4875-88f7-f7967bae16f1
+type: sculpture
+slug: flora-wiosna-redler
+title: Flora (Wiosna)
+artist-ids:
+- 042e4027-be20-4fd5-858d-8c0883bfd2e2
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1745'
+display-date: c. 1745
+location:
+  latitude: 52.165178
+  longitude: 21.090744
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
+title-en: Flora (Spring)
