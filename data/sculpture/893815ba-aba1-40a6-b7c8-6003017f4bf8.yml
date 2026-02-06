@@ -1,0 +1,14 @@
+id: 893815ba-aba1-40a6-b7c8-6003017f4bf8
+type: sculpture
+slug: connection-okamoto
+title: Connection
+artist-ids:
+- 738b725b-1dd7-4f2f-ba51-2f666bb00f02
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1991'
+location:
+  latitude: 35.689481
+  longitude: 139.691686
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
