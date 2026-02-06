@@ -1,0 +1,17 @@
+id: 0a5581e7-eaf4-430d-9cd7-62bd87334cfb
+type: sculpture
+slug: cubics-conference
+title: Cubics' conference
+artist-ids:
+- fad819a7-1630-4e21-b63c-1e64130cc210
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1991'
+location:
+  latitude: 35.688154
+  longitude: 139.691923
+  precision: 10
+material-ids:
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
+title-en: ' 16 キュービックカンファレンス'
