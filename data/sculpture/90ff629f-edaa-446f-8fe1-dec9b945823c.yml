@@ -1,0 +1,16 @@
+id: 90ff629f-edaa-446f-8fe1-dec9b945823c
+type: sculpture
+slug: like-wind-like-light
+title: Like a wind, like a light
+artist-ids:
+- b28a9f95-bef1-41bd-a764-93edac90fe5c
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1990'
+location:
+  latitude: 35.679736
+  longitude: 139.712405
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 85105298-6047-4f80-88ec-76aa0b77d815
