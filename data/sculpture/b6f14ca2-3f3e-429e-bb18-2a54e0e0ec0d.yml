@@ -1,0 +1,20 @@
+id: b6f14ca2-3f3e-429e-bb18-2a54e0e0ec0d
+type: sculpture
+slug: hair-yamawaki
+title: Hair
+artist-ids:
+- cdbe6010-a0c5-46b7-9376-593f5896878f
+city-id: c0d2dfe7-056d-467e-8030-d5ed5c4a9512
+date: '1980'
+location:
+  latitude: 34.839387
+  longitude: 134.69651
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+title-en: 髪
