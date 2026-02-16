@@ -1,0 +1,20 @@
+id: f950db9b-2000-41f4-94bb-aff728561d63
+type: sculpture
+slug: saint-john-baptist-ghiberti
+title: 'St John the Baptist '
+artist-ids:
+- e4d422b5-19bd-4745-84fb-38e30040e3f1
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1416'
+display-date: 1412-16
+location:
+  latitude: 43.770683
+  longitude: 11.255005
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- de83a4c2-214e-45fb-a307-c835449e52bf
