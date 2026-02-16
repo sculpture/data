@@ -1,0 +1,21 @@
+id: d467d369-b159-4814-b275-c1ccb66fe5a3
+type: sculpture
+slug: pope-pius-ii-mazzuoli
+title: Pope Pius II
+artist-ids:
+- b90dd5b9-1bb3-48a0-aa1f-435097c495d5
+city-id: d2b07441-23d2-4ec3-8897-7266c2354a15
+date: '1695'
+display-date: 1692-95
+location:
+  latitude: 43.317702
+  longitude: 11.328907
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6c068959-5222-4073-b890-313bf91ca2b4
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
