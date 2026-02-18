@@ -1,0 +1,17 @@
+id: e8786ccb-fdb8-45d4-9f9a-550e9dffd7fa
+type: sculpture
+slug: guerrero-dueras
+title: Guerrero
+artist-ids:
+- 5a065651-15fc-4899-b510-4df42e816afd
+city-id: ceb7781a-0577-461e-af65-152464360546
+date: '2025'
+location:
+  latitude: 36.424806
+  longitude: -5.144792
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- c9884cff-1c92-48b5-816b-aa0479de54fa
+title-en: Warrior
