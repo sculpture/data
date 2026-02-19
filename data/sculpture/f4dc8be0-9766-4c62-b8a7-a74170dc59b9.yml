@@ -1,0 +1,21 @@
+id: f4dc8be0-9766-4c62-b8a7-a74170dc59b9
+type: sculpture
+slug: st-theodore-venice
+title: San Teodoro
+artist-ids:
+- 82fab4cd-9310-4141-b08d-f1678995a596
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1329'
+display-date: 1st half XIVc. ?
+location:
+  latitude: 45.433279
+  longitude: 12.339667
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- de83a4c2-214e-45fb-a307-c835449e52bf
