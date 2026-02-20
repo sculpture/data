@@ -1,0 +1,18 @@
+id: 8692fd64-c91f-4686-8009-dbea52f86c93
+type: sculpture
+slug: sirena-puerto-banus
+title: La Sirena de Puerto Banús
+artist-ids:
+- b92f1ae3-280e-4133-8bfc-871d2c858446
+city-id: f7e1f736-a953-4820-8f8f-016c7c76d1bc
+date: '1975'
+display-date: 1970s
+location:
+  latitude: 36.488354
+  longitude: -4.956548
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
