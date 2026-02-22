@@ -1,0 +1,19 @@
+id: 2376ab14-d9ee-4762-9a83-4694d083e77d
+type: sculpture
+slug: sparkle-morita
+title: Sparlke
+artist-ids:
+- 94dc921f-a3de-4433-a8e5-83b856ca952e
+city-id: c0d2dfe7-056d-467e-8030-d5ed5c4a9512
+date: '1992'
+location:
+  latitude: 34.815418
+  longitude: 134.685551
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2094ee30-7294-478e-b118-b3fd48a7c570
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
