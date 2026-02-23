@@ -1,0 +1,18 @@
+id: 7682c998-d704-4a16-b908-6eb9ee231b4d
+type: sculpture
+slug: giuseppe-garibaldi-lucca
+title: Giuseppe Garibaldi lucca
+artist-ids:
+- 93f179a3-4162-41f6-a0b0-416a047cf6a6
+city-id: 797fae0b-2e5d-4915-bb70-b13c17378322
+date: '1889'
+location:
+  latitude: 43.841392
+  longitude: 10.502725
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 521f00f2-f976-4b69-89cf-6e8db0c94f29
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
