@@ -1,0 +1,19 @@
+id: c82325a5-3cad-4d4d-8c33-9a4516cb5a33
+type: sculpture
+slug: francesco-fontani-tomb
+title: 'Francesco Fontani tomb '
+artist-ids:
+- 5b0e52f2-6327-4eae-8b84-c6b2489f61b5
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1821'
+location:
+  latitude: 43.774635
+  longitude: 11.249386
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
