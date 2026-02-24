@@ -1,0 +1,18 @@
+id: 96d1bdca-704a-4802-9e3e-fcf26547c862
+type: sculpture
+slug: rose-ganzken
+title: Rose
+artist-ids:
+- 2e5ae629-5619-4936-8f48-85f1dbf61daa
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1993'
+location:
+  latitude: 35.66074
+  longitude: 139.729232
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 85105298-6047-4f80-88ec-76aa0b77d815
+- acf1f82b-5ae9-4cf6-8008-06be6a15512b
