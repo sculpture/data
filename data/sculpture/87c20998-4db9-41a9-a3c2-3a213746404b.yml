@@ -7,8 +7,8 @@ artist-ids:
 city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
 date: '1925'
 location:
-  latitude: 36.535951
-  longitude: -6.304111
+  latitude: 36.535904
+  longitude: -6.304068
   precision: 10
 material-ids:
 - a267fb56-e090-4da4-b72c-152f966877d9
