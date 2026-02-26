@@ -1,0 +1,18 @@
+id: 87c20998-4db9-41a9-a3c2-3a213746404b
+type: sculpture
+slug: duquesa-de-victoria
+title: Duquesa de la Victoria
+artist-ids:
+- 80a5cf6d-7a42-4bb8-9197-a517acb24f7a
+city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
+date: '1925'
+location:
+  latitude: 36.535835
+  longitude: -6.304175
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 6cac5bfb-8079-494d-bdff-dffb9c54e908
+- 8edbb59e-b498-4210-9981-8781235cafcd
