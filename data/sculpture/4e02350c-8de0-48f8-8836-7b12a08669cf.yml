@@ -1,0 +1,20 @@
+id: 4e02350c-8de0-48f8-8836-7b12a08669cf
+type: sculpture
+slug: immaculata-martinez
+title: Immaculata
+artist-ids:
+- acf005a6-b749-44df-b5ac-945ff2194a67
+city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
+date: '1650'
+display-date: XVII c.
+location:
+  latitude: 36.529022
+  longitude: -6.294651
+  precision: 10
+material-ids:
+- d0e544f1-8f9a-4225-acc0-39833a263af0
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
