@@ -8,8 +8,8 @@ city-id: 87e31feb-218f-4ab6-b6f8-cecc048ebe35
 date: '1997'
 display-date: 1985-97
 location:
-  latitude: 42.426646
-  longitude: 11.463799
+  latitude: 42.426195
+  longitude: 11.46669
   precision: 10
 material-ids:
 - 82d9ed4b-e837-4b5e-8c17-40469885764c
