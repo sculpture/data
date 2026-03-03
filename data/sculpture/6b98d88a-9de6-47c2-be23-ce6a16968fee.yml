@@ -1,0 +1,17 @@
+id: 6b98d88a-9de6-47c2-be23-ce6a16968fee
+type: sculpture
+slug: looking-hout
+title: Looking
+artist-ids:
+- 4211b621-d8a5-48d9-b8f2-0341751dfcd4
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2022'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- 82d9ed4b-e837-4b5e-8c17-40469885764c
+- d5e04d12-19d1-4983-86c9-8ef02568d71c
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
