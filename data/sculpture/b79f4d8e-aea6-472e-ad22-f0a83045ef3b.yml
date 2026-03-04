@@ -1,0 +1,16 @@
+id: b79f4d8e-aea6-472e-ad22-f0a83045ef3b
+type: sculpture
+slug: 120-mirrors
+title: 120 Mirrors
+artist-ids:
+- 54322f99-7a44-40d1-bd0d-9054b7fd0248
+- ff12a1b0-d3d0-4742-ab80-49fba60a2753
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2017'
+location:
+  latitude: 43.768736
+  longitude: -79.409958
+  precision: 10
+material-ids:
+- 449582e6-6741-4441-a519-81e7c5591f96
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
