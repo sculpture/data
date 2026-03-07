@@ -1,0 +1,22 @@
+id: f672d901-8798-47c6-8d2e-077012784a3a
+type: sculpture
+slug: eve-riccio-bronze
+title: Eve
+artist-ids:
+- c99e20c8-8876-4ec4-b59c-bd2896ccadc5
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1472'
+display-date: c.1472
+location:
+  latitude: 45.433704
+  longitude: 12.340389
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e231b618-b7c1-4206-988c-813c2964e1a5
