@@ -7,6 +7,7 @@ artist-ids:
 city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
 date: '1375'
 display-date: 1375-76
+link-wikipedia: https://it.wikipedia.org/wiki/Arche_scaligere
 location:
   latitude: 45.443666
   longitude: 10.999216
@@ -17,5 +18,4 @@ tag-ids:
 - 16cfefb7-0c34-415d-b7df-45c3abc95a90
 - 3e78d325-8938-49e8-8be1-e5fbb1425c9c
 - 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
-- 9010cc4c-c852-4176-a7fe-04f0885fcffc
 - f19ed7a2-8aae-408f-ba4c-1338d8ba85be
