@@ -1,0 +1,20 @@
+id: 6a47e600-dc99-4129-91c3-019ddbd6a6d9
+type: sculpture
+slug: banista-jugando
+title: Bañista jugando
+artist-ids:
+- 5bd6bc78-6918-417a-9479-cc48e73081bc
+city-id: a829fff3-f394-470e-b4d4-bd76afe8d3d1
+date: '1958'
+location:
+  latitude: 36.721736
+  longitude: -4.418429
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- 983d1c37-99da-4b1d-baba-681a83e66d30
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+title-en: Playing Bather
