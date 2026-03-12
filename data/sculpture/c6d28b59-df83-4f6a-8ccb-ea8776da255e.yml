@@ -1,0 +1,19 @@
+id: c6d28b59-df83-4f6a-8ccb-ea8776da255e
+type: sculpture
+slug: el-fiestero-navas
+title: El Fiestero
+artist-ids:
+- bf0a8e75-1ad8-4920-9a8c-3b944b636d3e
+city-id: a829fff3-f394-470e-b4d4-bd76afe8d3d1
+date: '1998'
+location:
+  latitude: 36.719149
+  longitude: -4.416012
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- e67f346e-191a-4f0f-a6c2-861e72e7f78f
+title-en: Partygoer
