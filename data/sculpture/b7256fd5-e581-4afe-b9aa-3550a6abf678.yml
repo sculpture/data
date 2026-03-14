@@ -1,0 +1,19 @@
+id: b7256fd5-e581-4afe-b9aa-3550a6abf678
+type: sculpture
+slug: nettuno-sul-carro
+title: Nettuno sul carro
+artist-ids:
+- b1d64b6e-ba89-44af-a462-ae77ae659311
+date: '1510'
+display-date: c.1510
+location:
+  latitude: 43.770398
+  longitude: 11.258008
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+title-en: Neptune on the Chariot
