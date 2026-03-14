@@ -1,0 +1,20 @@
+id: ed23d3d4-4784-4060-ae38-de796f6e1bd6
+type: sculpture
+slug: mear-monture
+title: Bear
+artist-ids:
+- c123f80d-1509-4437-99d2-a72798475808
+- fdfe0863-073d-4c8c-a003-5e91247a32df
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2023'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+- b0a3d164-8b6a-440a-89a5-1bbb85c10c40
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
