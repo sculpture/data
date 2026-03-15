@@ -1,0 +1,14 @@
+id: 03031032-1b0c-4127-9e1c-fd9ddff64a48
+type: sculpture
+slug: divertad
+title: Divertad
+artist-ids:
+- cce11910-c473-4ad0-b7eb-f70301d4307f
+city-id: f7e1f736-a953-4820-8f8f-016c7c76d1bc
+date: '2016'
+location:
+  latitude: 36.510283
+  longitude: -4.885258
+  precision: 10
+material-ids:
+- 8bcd99b9-0842-43e3-a095-028160910fdb
