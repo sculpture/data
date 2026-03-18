@@ -1,0 +1,18 @@
+id: b7f5cbb2-b90a-4aad-8906-b30233f161ab
+type: sculpture
+slug: gorriones-santiago
+title: Gorriones
+artist-ids:
+- 3e3f36c8-954a-4341-b91f-5e097dccaaf5
+city-id: ceb7781a-0577-461e-af65-152464360546
+date: '1987'
+location:
+  latitude: 36.425635
+  longitude: -5.151026
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
