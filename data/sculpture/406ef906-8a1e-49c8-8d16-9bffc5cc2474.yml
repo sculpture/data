@@ -1,0 +1,16 @@
+id: 406ef906-8a1e-49c8-8d16-9bffc5cc2474
+type: sculpture
+slug: sirius-no-2
+title: Sirius No 2
+artist-ids:
+- 725ce89a-9137-45a2-b5eb-0e1250c1222d
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2025'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
