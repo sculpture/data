@@ -1,0 +1,18 @@
+id: b55840a4-7786-42d2-9475-ff62df3178e9
+type: sculpture
+slug: putto-with-dolphin-verrochio
+title: Putto with a Dolphin
+artist-ids:
+- c698ccf8-8ef4-4ece-9309-091a3a35fb44
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1470'
+display-date: c.1470
+location:
+  latitude: 43.769301
+  longitude: 11.256151
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 399902cf-177a-4693-980d-eb86255cc25f
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
