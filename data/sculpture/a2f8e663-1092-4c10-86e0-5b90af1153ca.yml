@@ -1,0 +1,16 @@
+id: a2f8e663-1092-4c10-86e0-5b90af1153ca
+type: sculpture
+slug: tilted-orange
+title: Tilted Orange
+artist-ids:
+- 065b7dff-8280-40d5-877a-f5d5cc6c9277
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2000'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- d5e04d12-19d1-4983-86c9-8ef02568d71c
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
