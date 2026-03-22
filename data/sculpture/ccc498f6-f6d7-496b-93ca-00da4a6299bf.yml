@@ -1,0 +1,19 @@
+id: ccc498f6-f6d7-496b-93ca-00da4a6299bf
+type: sculpture
+slug: introibo-altare-dei
+title: Introibo ad Altare Dei
+artist-ids:
+- 002417af-f23d-4e54-ad58-b0f3e0085ad8
+city-id: 279fcbd6-656a-40f5-8924-d1a992f654ec
+date: '1987'
+location:
+  latitude: 43.959905
+  longitude: -78.165509
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- c9884cff-1c92-48b5-816b-aa0479de54fa
+title-en: A Man for all Seasons
