@@ -1,0 +1,16 @@
+id: 8460569e-6f93-41a0-bc74-e81172729703
+type: sculpture
+slug: big-banana-osaka
+title: Big Banana
+artist-ids:
+- 3d56373d-2079-4435-b51d-cdf48dd972db
+city-id: 9c461ddd-1d3d-436f-bc00-c5603e426280
+date: '2009'
+location:
+  latitude: 34.693725
+  longitude: 135.502254
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
