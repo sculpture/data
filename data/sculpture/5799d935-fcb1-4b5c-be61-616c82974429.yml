@@ -1,0 +1,15 @@
+id: 5799d935-fcb1-4b5c-be61-616c82974429
+type: sculpture
+slug: jubilee-iv-chadwick
+title: Jubilee IV
+artist-ids:
+- aee9b5c3-7165-4ae9-95a8-aeb8bfc2e348
+city-id: 9c461ddd-1d3d-436f-bc00-c5603e426280
+date: '1985'
+location:
+  latitude: 34.692446
+  longitude: 135.491392
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast 1989
