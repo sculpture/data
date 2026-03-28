@@ -7,8 +7,8 @@ artist-ids:
 city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
 date: '1973'
 location:
-  latitude: 52.251753
-  longitude: 21.011832
+  latitude: 52.251707
+  longitude: 21.011687
   precision: 10
 tag-ids:
 - 2d488599-d808-40db-80a2-88b41c7bdb67
