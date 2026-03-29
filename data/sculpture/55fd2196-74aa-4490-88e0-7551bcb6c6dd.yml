@@ -1,0 +1,19 @@
+id: 55fd2196-74aa-4490-88e0-7551bcb6c6dd
+type: sculpture
+slug: giovanni-pesaro
+title: Giovanni Pesaro
+artist-ids:
+- 65bc5a24-2481-4194-aaf4-5216d14d727c
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1658'
+location:
+  latitude: 52.247757
+  longitude: 21.014482
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18694c37-89e8-4e01-9c31-16245323218a
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
