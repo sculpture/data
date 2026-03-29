@@ -1,0 +1,19 @@
+id: 1f9c4b72-e8af-447c-97fe-39befc92dbee
+type: sculpture
+slug: sursum-corda-warszawa
+title: Sursum Corda
+artist-ids:
+- 2f572708-931e-4424-9c43-30d5e4a70b76
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1858'
+location:
+  latitude: 52.23878
+  longitude: 21.017174
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 66ec2c31-c300-4e0f-bc36-93fa72a95fef
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
