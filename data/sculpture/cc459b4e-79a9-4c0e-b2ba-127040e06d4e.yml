@@ -1,0 +1,20 @@
+id: cc459b4e-79a9-4c0e-b2ba-127040e06d4e
+type: sculpture
+slug: kazimierz-brodzinski
+title: Kazimierz Brodziński
+artist-ids:
+- 0711bc37-c1e3-4e41-b7fe-bc1b9687e20e
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1855'
+location:
+  latitude: 52.241139
+  longitude: 21.017281
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 38bc4142-0c45-4f67-8612-91d8052b7eba
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
