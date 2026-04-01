@@ -1,0 +1,17 @@
+id: 783cbc10-d709-42e1-b657-3ff9e0448bd7
+type: sculpture
+slug: cross-station-vi-sr
+title: Cross Station VI
+artist-ids:
+- ca8cc380-b726-4965-a809-0f48aee15d4c
+city-id: de771358-7c1c-42c5-8347-30aa30c3aff4
+date: '2011'
+location:
+  latitude: 42.650661
+  longitude: 18.094424
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 8edbb59e-b498-4210-9981-8781235cafcd
