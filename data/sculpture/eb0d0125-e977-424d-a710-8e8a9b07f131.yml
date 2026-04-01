@@ -1,0 +1,19 @@
+id: eb0d0125-e977-424d-a710-8e8a9b07f131
+type: sculpture
+slug: origami-swan
+title: Origami Swan
+artist-ids:
+- e8df90a0-fbd2-4c18-a36f-547110ac675d
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2025'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- b982214e-52f9-48b0-b977-4a4359b49fdb
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
+- df4890c4-2701-4782-a670-d019b3b95547
