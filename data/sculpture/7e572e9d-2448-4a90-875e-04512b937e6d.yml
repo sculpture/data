@@ -1,0 +1,20 @@
+id: 7e572e9d-2448-4a90-875e-04512b937e6d
+type: sculpture
+slug: jose-maria-peman
+title: José María Pemán
+artist-ids:
+- 32dd46e8-2fea-4628-bd9c-529004f8c60b
+city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
+date: '1967'
+location:
+  latitude: 36.535775
+  longitude: -6.303966
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f608c279-0df9-40f8-b0c6-c900a4ded7bf
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
