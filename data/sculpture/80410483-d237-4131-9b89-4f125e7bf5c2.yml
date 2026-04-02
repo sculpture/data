@@ -1,0 +1,14 @@
+id: 80410483-d237-4131-9b89-4f125e7bf5c2
+type: sculpture
+slug: manuscript-monte-cassino
+title: Manuscript of Monte Cassino
+artist-ids:
+- aa42926a-950d-4c68-8455-810a79d107c3
+city-id: 44a96d93-a0d2-4b12-a814-9eb59a08c045
+date: '1991'
+location:
+  latitude: 55.956304
+  longitude: -3.187665
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
