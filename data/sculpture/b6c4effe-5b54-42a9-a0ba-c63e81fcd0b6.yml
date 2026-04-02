@@ -1,0 +1,21 @@
+id: b6c4effe-5b54-42a9-a0ba-c63e81fcd0b6
+type: sculpture
+slug: female-head-loring
+title: Female Head
+artist-ids:
+- 339eed06-1891-429d-bbd7-16d68b860892
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1925'
+display-date: c.1925
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 2931c09f-312d-49ff-a29f-76a8f13c7f21
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
