@@ -1,0 +1,17 @@
+id: b385974b-6944-4396-a486-8e4c858a9b23
+type: sculpture
+slug: paco-alba-cadiz
+title: 'Paco Alba '
+artist-ids:
+- d2c90fe5-f7e7-442c-a89c-a6dfdbd586fa
+city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
+date: '2001'
+location:
+  latitude: 36.521014
+  longitude: -6.280456
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 025aebba-7303-441f-b755-ade5bb67ef90
+- 18d2fd29-8838-4290-a343-39182ae9b445
