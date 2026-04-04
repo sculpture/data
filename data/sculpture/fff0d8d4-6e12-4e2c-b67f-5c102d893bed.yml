@@ -1,0 +1,21 @@
+id: fff0d8d4-6e12-4e2c-b67f-5c102d893bed
+type: sculpture
+slug: king-david-langman
+title: King David
+artist-ids:
+- 8b86706c-687b-4c6f-b8e9-c3835b75209d
+city-id: a5cbe9d3-29c1-4740-91f4-8349a7346e03
+date: '1891'
+display-date: 1889-91
+location:
+  latitude: 50.061641
+  longitude: 19.93939
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e231b618-b7c1-4206-988c-813c2964e1a5
