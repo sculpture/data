@@ -1,0 +1,19 @@
+id: 0aee325f-46a4-484f-a401-27a0df8b8333
+type: sculpture
+slug: angel-misericordia-agar
+title: El ángel de la misericordia
+artist-ids:
+- 5586c89f-1067-4dba-8fa1-07f569cb2068
+city-id: a829fff3-f394-470e-b4d4-bd76afe8d3d1
+date: '1934'
+location:
+  latitude: 36.721736
+  longitude: -4.418429
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+title-en: Angel of Mercy
