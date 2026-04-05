@@ -1,0 +1,19 @@
+id: 064c7298-8372-42cc-826a-b1b181df6beb
+type: sculpture
+slug: pareja-santiago
+title: Pareja
+artist-ids:
+- 3e3f36c8-954a-4341-b91f-5e097dccaaf5
+city-id: ceb7781a-0577-461e-af65-152464360546
+date: '1990'
+location:
+  latitude: 36.425635
+  longitude: -5.151026
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6883fc7a-540d-4fe9-9753-80f6e581f0ab
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- ce5eba46-3dff-4d8c-89c8-4fab2da9a37d
+title-en: Couple
