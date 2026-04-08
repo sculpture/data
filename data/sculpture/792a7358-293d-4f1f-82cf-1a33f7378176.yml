@@ -1,0 +1,19 @@
+id: 792a7358-293d-4f1f-82cf-1a33f7378176
+type: sculpture
+slug: blacken-sprouts
+title: Blacken Sprouts
+artist-ids:
+- a06636e4-7a3c-4e44-b5c9-01dc1f9505b0
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1980'
+location:
+  latitude: 35.689481
+  longitude: 139.691686
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
