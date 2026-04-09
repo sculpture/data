@@ -1,0 +1,16 @@
+id: 946a83f2-1177-4573-8499-20c028773c7c
+type: sculpture
+slug: grand-oiseau-feu-arche
+title: Le Grand Oiseau de Feu sur l'Arche
+artist-ids:
+- b15e5537-c19f-4425-9f68-96e31aa0a0a3
+city-id: a5a2d35a-0cfe-448a-95d7-99b3343e74ed
+date: '1991'
+location:
+  latitude: 35.224366
+  longitude: -80.847504
+  precision: 10
+material-ids:
+- 82d9ed4b-e837-4b5e-8c17-40469885764c
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
+title-en: The Firebird
