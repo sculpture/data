@@ -1,0 +1,19 @@
+id: 08117e85-51ae-411b-ad05-6cceda9a1bee
+type: sculpture
+slug: tomb-giovanni-pecci
+title: Tomb of Giovanni Pecci
+artist-ids:
+- 4a395507-53d7-431a-8f9b-4677bd31977a
+city-id: d2b07441-23d2-4ec3-8897-7266c2354a15
+date: '1427'
+location:
+  latitude: 43.317878
+  longitude: 11.328923
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2f65ce93-2124-4391-a225-855055c78203
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
