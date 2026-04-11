@@ -1,0 +1,18 @@
+id: ab2f8063-8600-488a-b01c-1ac3975da78c
+type: sculpture
+slug: monument-vincenzo-pisani
+title: Monument to Vincenzo Pisani
+artist-ids:
+- 95766560-22ff-4a99-82b0-d2be84c56f74
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: '1779'
+display-date: 2nd half XVIIc
+location:
+  latitude: 45.445132
+  longitude: 10.99963
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
