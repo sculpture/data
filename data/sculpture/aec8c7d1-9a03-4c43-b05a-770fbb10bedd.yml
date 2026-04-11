@@ -3,13 +3,13 @@ type: sculpture
 slug: st-peter-altarpiece-frari
 title: St. Peter Altarpiece
 artist-ids:
-- d086ad80-ffdc-417f-b84c-a55f75248716
+- 220b3c12-8c1d-4a6f-9584-af52af57ff6f
 city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
 date: '1434'
 display-date: 1432-34
 location:
-  latitude: 45.436986
-  longitude: 12.3266
+  latitude: 45.436866
+  longitude: 12.326198
   precision: 10
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
