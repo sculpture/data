@@ -1,0 +1,20 @@
+id: 6f6ff6f3-4920-4283-ab25-9fb3dd4aed24
+type: sculpture
+slug: tomb-pope-benedict-xi
+title: Tomb of Pope Benedict XI
+artist-ids:
+- 8e1d13d4-6424-4f5a-8f73-afdf0833dd72
+city-id: 566c4d79-78da-412a-b533-e99b8758f179
+date: '1325'
+display-date: 1320s
+location:
+  latitude: 43.106753
+  longitude: 12.391655
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 6c068959-5222-4073-b890-313bf91ca2b4
+- 6f13c768-5619-419e-97af-60440cab7f89
