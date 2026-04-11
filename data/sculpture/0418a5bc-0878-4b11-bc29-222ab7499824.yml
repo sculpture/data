@@ -1,0 +1,19 @@
+id: 0418a5bc-0878-4b11-bc29-222ab7499824
+type: sculpture
+slug: forbidden-fruit-maitani
+title: Forbidden fruit
+artist-ids:
+- a5cbc20a-263c-4f4f-9c1d-cd64941941b1
+city-id: 6f6f1ffd-8616-431e-9d18-dc9dd8af38c5
+date: '1310'
+display-date: 1310s
+location:
+  latitude: 42.716857
+  longitude: 12.11307
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- e231b618-b7c1-4206-988c-813c2964e1a5
