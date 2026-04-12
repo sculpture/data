@@ -1,0 +1,18 @@
+id: 32516c1e-1c0b-44c1-b447-95c6afbaf154
+type: sculpture
+slug: adolfo-cozza
+title: Adolfo Cozza
+artist-ids:
+- 6cec61f4-0c07-42ca-9c86-2693c0b6ab55
+city-id: 6f6f1ffd-8616-431e-9d18-dc9dd8af38c5
+date: '1911'
+location:
+  latitude: 42.719084
+  longitude: 12.110339
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 05f12a7a-8656-445c-ad89-8617853c6f35
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 88a0e756-4193-4ff2-9d96-f1844c05f5e5
