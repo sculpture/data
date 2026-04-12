@@ -1,0 +1,16 @@
+id: dd837ba1-67e4-46c3-8367-2694d09dc939
+type: sculpture
+slug: open-space-lugossy
+title: Open Space
+artist-ids:
+- 3dea6a6a-425b-4c41-93d7-3435568449d6
+city-id: c9a2d1d7-ed73-46c9-94e1-b62a4e708ce0
+date: '2006'
+location:
+  latitude: 51.311932
+  longitude: 20.981361
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
