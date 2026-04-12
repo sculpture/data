@@ -1,0 +1,16 @@
+id: f5d85ba2-1dc2-4da7-9c3d-e0161cd569e5
+type: sculpture
+slug: orion-mitic
+title: Orion
+artist-ids:
+- 725ce89a-9137-45a2-b5eb-0e1250c1222d
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2024'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
