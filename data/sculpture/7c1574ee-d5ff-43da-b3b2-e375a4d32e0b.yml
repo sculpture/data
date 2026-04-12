@@ -1,0 +1,17 @@
+id: 7c1574ee-d5ff-43da-b3b2-e375a4d32e0b
+type: sculpture
+slug: saint-benedict-mazur
+title: Saint Benedict
+artist-ids:
+- 3fc5a43b-16fe-473e-96b0-f5a0cb2ed5b8
+date: '2008'
+location:
+  latitude: 52.252865
+  longitude: 21.008961
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- de83a4c2-214e-45fb-a307-c835449e52bf
