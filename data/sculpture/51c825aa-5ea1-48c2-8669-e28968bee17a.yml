@@ -1,0 +1,17 @@
+id: 51c825aa-5ea1-48c2-8669-e28968bee17a
+type: sculpture
+slug: urusk-palace-sas-crest
+title: Uruski Palace - Sas crest
+artist-ids:
+- c85ec9de-a767-4059-8ea0-79748615df18
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1847'
+display-date: 1844-47
+location:
+  latitude: 52.240042
+  longitude: 21.017082
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 7847b3d8-40b7-4a02-8328-5d85a3254b00
