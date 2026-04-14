@@ -1,0 +1,19 @@
+id: 496d64f1-174f-416c-b181-e84cf94dd1b1
+type: sculpture
+slug: defenders-vukovar
+title: Defenders of Vukovar
+artist-ids:
+- a647ebb7-2ea2-4704-a81e-5757757fb364
+city-id: b194b50f-d34b-41c8-b068-38d14fddbfad
+date: '2016'
+location:
+  latitude: 43.512473
+  longitude: 16.442645
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2094ee30-7294-478e-b118-b3fd48a7c570
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
