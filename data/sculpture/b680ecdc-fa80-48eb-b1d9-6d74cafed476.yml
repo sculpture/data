@@ -1,0 +1,20 @@
+id: b680ecdc-fa80-48eb-b1d9-6d74cafed476
+type: sculpture
+slug: asunaro-ogawa
+title: Asunaro
+artist-ids:
+- 217fcd01-7c50-426c-832a-75da42d9292b
+date: '1993'
+location:
+  latitude: 34.685437
+  longitude: 135.811642
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2094ee30-7294-478e-b118-b3fd48a7c570
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- d973207a-6b23-4505-a84d-d2339bc3a55c
+title-en: あすなろ
