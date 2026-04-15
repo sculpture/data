@@ -5,7 +5,7 @@ title: Untitled (Dancers)
 artist-ids:
 - 2f8a3f74-a278-4577-8c86-54bf00e6c2a7
 - 563821c5-8737-4166-a96f-f0ae11d145fb
-city-id: 58753f86-60ec-4ad5-8343-698197d7eae3
+city-id: fd82132d-7125-459c-a76c-677aede6390c
 date: '2013'
 location:
   latitude: 43.877864
@@ -15,4 +15,5 @@ material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
 - 6883fc7a-540d-4fe9-9753-80f6e581f0ab
+- c4a9c3b3-5903-4938-a4c1-421c4857cafa
 - d5dd2c56-3c63-4f57-9b40-a946bae40077
