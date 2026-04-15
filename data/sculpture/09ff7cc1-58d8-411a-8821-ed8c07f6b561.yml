@@ -1,0 +1,18 @@
+id: 09ff7cc1-58d8-411a-8821-ed8c07f6b561
+type: sculpture
+slug: earthbound-unbound
+title: Earthbound...Unbound
+artist-ids:
+- 3bc716e5-3405-4f9a-a596-efd595c02952
+city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
+date: '2003'
+location:
+  latitude: 43.682387
+  longitude: -79.61255
+  precision: 10
+material-ids:
+- 39ecc0e3-135f-44a3-952e-8482067fde73
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 85105298-6047-4f80-88ec-76aa0b77d815
