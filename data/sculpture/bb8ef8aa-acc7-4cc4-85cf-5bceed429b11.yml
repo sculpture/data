@@ -1,0 +1,19 @@
+id: bb8ef8aa-acc7-4cc4-85cf-5bceed429b11
+type: sculpture
+slug: mujer-picasso-malaga
+title: Mujer
+artist-ids:
+- 5bd6bc78-6918-417a-9479-cc48e73081bc
+city-id: a829fff3-f394-470e-b4d4-bd76afe8d3d1
+date: '1961'
+location:
+  latitude: 36.721736
+  longitude: -4.418429
+  precision: 10
+material-ids:
+- 3e1a4d8d-c598-4d0c-8999-f430c94206da
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- f50b4a73-c624-4c23-95b4-6ae5909fbed2
+title-en: Woman
