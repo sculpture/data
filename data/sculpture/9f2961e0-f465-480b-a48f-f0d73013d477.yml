@@ -1,0 +1,19 @@
+id: 9f2961e0-f465-480b-a48f-f0d73013d477
+type: sculpture
+slug: nemesis-santiago
+title: Némesis
+artist-ids:
+- 3e3f36c8-954a-4341-b91f-5e097dccaaf5
+city-id: ceb7781a-0577-461e-af65-152464360546
+date: '1988'
+location:
+  latitude: 36.428401
+  longitude: -5.127965
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
