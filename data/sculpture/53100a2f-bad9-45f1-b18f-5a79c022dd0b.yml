@@ -1,15 +1,15 @@
 id: 53100a2f-bad9-45f1-b18f-5a79c022dd0b
 type: sculpture
-slug: rebbeca-edward-gardens
-title: Rebbeca
+slug: rebecca-edward-gardens
+title: Rebecca
 artist-ids:
 - de64e587-96ae-469d-8471-919b8443d99b
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
 date: '1950'
 display-date: 1944-55
 location:
-  latitude: 43.734242
-  longitude: -79.359909
+  latitude: 43.734071
+  longitude: -79.360054
   precision: 10
 material-ids:
 - 638725f5-0ac9-4b92-916d-b98af20b3df5
