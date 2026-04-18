@@ -1,0 +1,17 @@
+id: e66993bb-302b-4da4-9589-e9b22716f9df
+type: sculpture
+slug: snowy-owl-monstrum
+title: Snowy owl
+artist-ids:
+- 9cc38f92-27ee-41c9-829d-d9b6cd8890a1
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2024'
+location:
+  latitude: 43.646289
+  longitude: -79.34968
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- b982214e-52f9-48b0-b977-4a4359b49fdb
