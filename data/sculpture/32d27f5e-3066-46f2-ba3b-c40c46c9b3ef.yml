@@ -1,0 +1,18 @@
+id: 32d27f5e-3066-46f2-ba3b-c40c46c9b3ef
+type: sculpture
+slug: manuel-maria-gonzalez-angel
+title: Manuel María González Ángel
+artist-ids:
+- 1b1fd64a-6876-4f1e-9c7b-fa2e7665cb6d
+city-id: 979387ae-7c17-49e7-9c4c-bff9fe441bc0
+date: '1997'
+location:
+  latitude: 36.681192
+  longitude: -6.14084
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- bf6e2af4-6918-408e-9ebf-f559bf8f16cb
