@@ -1,0 +1,20 @@
+id: 29f6001d-88c6-4f63-90e3-faeaaab7b605
+type: sculpture
+slug: deer-family-horne
+title: Deer family
+artist-ids:
+- bc329d87-d430-45ca-a9bc-e7acd01d129a
+- f1c37639-130e-4ba1-9a92-cb6efd243306
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1953'
+location:
+  latitude: 43.669715
+  longitude: -79.388638
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- 8edbb59e-b498-4210-9981-8781235cafcd
