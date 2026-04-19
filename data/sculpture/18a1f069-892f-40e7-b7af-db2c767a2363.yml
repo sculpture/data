@@ -1,0 +1,18 @@
+id: 18a1f069-892f-40e7-b7af-db2c767a2363
+type: sculpture
+slug: la-pieta-vezzolo
+title: La Pietà
+artist-ids:
+- d6a49c25-b49e-4cc9-a7e4-fd3160012f1a
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '2021'
+location:
+  latitude: 43.769301
+  longitude: 11.256151
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
