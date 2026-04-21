@@ -1,0 +1,18 @@
+id: 71820323-0c34-44b6-a5bb-070c922c51d1
+type: sculpture
+slug: monumento-peseta
+title: Monumento a la Peseta
+artist-ids:
+- ed52d81e-17eb-4df2-8489-73d9531c204b
+city-id: ceb7781a-0577-461e-af65-152464360546
+date: '1999'
+display-date: 1990s
+location:
+  latitude: 36.424371
+  longitude: -5.144987
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- d973207a-6b23-4505-a84d-d2339bc3a55c
