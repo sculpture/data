@@ -1,0 +1,19 @@
+id: 5600524f-e9c5-4de4-a82e-2f1a1dee55be
+type: sculpture
+slug: asteroid-3033-x1
+title: Asteroid 3033 X1
+artist-ids:
+- 372bbd3a-7317-4c45-a8a1-c74b6ee914cc
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2025'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- b0a3d164-8b6a-440a-89a5-1bbb85c10c40
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
