@@ -1,0 +1,18 @@
+id: 310a510a-edd4-401f-a626-2a143290ed35
+type: sculpture
+slug: trofeo-armi-cosini
+title: 'Trofeo d''armi '
+artist-ids:
+- 2926ecc2-ffa3-4637-a3f0-8e1de84e433b
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1527'
+display-date: 1524-27
+location:
+  latitude: 43.774716
+  longitude: 11.253605
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
