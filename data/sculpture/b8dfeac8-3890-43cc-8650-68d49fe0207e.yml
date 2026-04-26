@@ -6,6 +6,7 @@ artist-ids:
 - a3d6d80d-13fe-49df-b080-871f789c2fa1
 city-id: 15a6aa3a-175f-48c5-88be-3b64f6c2656a
 date: '1536'
+display-date: 1st half of the 16th century
 location:
   latitude: 43.212822
   longitude: 2.354422
@@ -14,4 +15,3 @@ note: replica, created 1995
 tag-ids:
 - 18d2fd29-8838-4290-a343-39182ae9b445
 - 3e78d325-8938-49e8-8be1-e5fbb1425c9c
-- 6357f79b-9010-443c-bf4e-1fe3dddd3649
