@@ -1,0 +1,17 @@
+id: fb8b09ee-69b4-45ee-add8-5306d0dc37cd
+type: sculpture
+slug: when-i-was-stranger
+title: When I Was A Stranger
+artist-ids:
+- c48a5321-53f5-4a8e-9301-c394ede176a4
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2016'
+location:
+  latitude: 43.671244
+  longitude: -79.381621
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 21b5d04c-9fea-4c3d-a0d6-2b9dff10c299
+- 3896ed41-4440-40fa-9a21-6903c94fada2
