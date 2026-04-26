@@ -8,9 +8,9 @@ city-id: 15a6aa3a-175f-48c5-88be-3b64f6c2656a
 date: '1536'
 display-date: 1st half of  XVI c.
 location:
-  latitude: 43.206238
-  longitude: 2.362468
-  precision: 10
+  latitude: 43.206751
+  longitude: 2.365622
+  precision: 20
 note: replica, created 1995
 tag-ids:
 - 18d2fd29-8838-4290-a343-39182ae9b445
