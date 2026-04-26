@@ -1,0 +1,21 @@
+id: d3981318-06bf-49b4-9884-e379973d9657
+type: sculpture
+slug: san-tommaso-apostolo
+title: 'San Tommaso apostolo '
+artist-ids:
+- e95f26bc-843b-4c1a-9643-52675f29f89b
+city-id: d2b07441-23d2-4ec3-8897-7266c2354a15
+date: '1382'
+display-date: 1378-82
+location:
+  latitude: 43.318474
+  longitude: 11.330581
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- de83a4c2-214e-45fb-a307-c835449e52bf
