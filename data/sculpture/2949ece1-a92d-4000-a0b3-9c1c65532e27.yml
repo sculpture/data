@@ -1,0 +1,20 @@
+id: 2949ece1-a92d-4000-a0b3-9c1c65532e27
+type: sculpture
+slug: disputa-dottori-ghiberti
+title: Disputa con i dottori
+artist-ids:
+- e4d422b5-19bd-4745-84fb-38e30040e3f1
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1424'
+display-date: c.1424
+location:
+  latitude: 43.773115
+  longitude: 11.255023
+  precision: 10
+material-ids:
+- 46fe9fce-6a4f-4a44-89d7-dedc6f731b39
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- e78083c3-6cf7-41f2-95b5-5c4fad650664
