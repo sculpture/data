@@ -1,0 +1,19 @@
+id: bf8a1264-566d-450f-937f-fb3689c5a0a9
+type: sculpture
+slug: giovanni-delle-bande-nere
+title: Giovanni delle Bande Nere
+artist-ids:
+- 37d6b770-eb8f-47a5-8dbd-6f1ff5db1b20
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1856'
+location:
+  latitude: 43.767852
+  longitude: 11.255252
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
