@@ -3,9 +3,10 @@ type: sculpture
 slug: madonna-child-pisa-baptistery
 title: Madonna col Bambino
 artist-ids:
-- d11e4be8-f5d6-4caa-a158-71a2b6448bc0
+- 1f3274a0-2e88-4516-b55f-6b4f38fed5ca
 city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
-date: '1295'
+date: '1300'
+display-date: 1295-1300
 location:
   latitude: 43.723316
   longitude: 10.394135
