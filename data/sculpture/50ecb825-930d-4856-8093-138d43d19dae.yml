@@ -1,0 +1,17 @@
+id: 50ecb825-930d-4856-8093-138d43d19dae
+type: sculpture
+slug: juan-pablo-ii-frontiera
+title: Juan Pablo II
+artist-ids:
+- fa9cd552-f779-40a3-acf8-4bc06dd251c0
+city-id: 979387ae-7c17-49e7-9c4c-bff9fe441bc0
+date: '2005'
+location:
+  latitude: 36.675419
+  longitude: -6.127164
+  precision: 10
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6c068959-5222-4073-b890-313bf91ca2b4
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+title-en: Pope John Paul II
