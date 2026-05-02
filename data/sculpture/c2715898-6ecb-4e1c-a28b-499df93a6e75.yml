@@ -1,0 +1,19 @@
+id: c2715898-6ecb-4e1c-a28b-499df93a6e75
+type: sculpture
+slug: madonna-child-pisa-baptistery
+title: Madonna and Child
+artist-ids:
+- d11e4be8-f5d6-4caa-a158-71a2b6448bc0
+city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
+date: '1295'
+location:
+  latitude: 43.723316
+  longitude: 10.394135
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 6c892a0c-c6ab-4580-9095-a545228f75e7
+- c4d43f20-6227-4d28-a802-ac07639375bf
