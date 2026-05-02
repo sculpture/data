@@ -1,0 +1,19 @@
+id: de1d82bf-507e-41b4-8f1f-8bc1dc5a9044
+type: sculpture
+slug: bella-del-mar-braojos
+title: La Bella del Mar
+artist-ids:
+- fd23b61f-9124-431b-a901-c62b50c7da33
+city-id: f7e1f736-a953-4820-8f8f-016c7c76d1bc
+date: '1984'
+location:
+  latitude: 36.508846
+  longitude: -4.884754
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- f2acb2e5-3424-4801-9de9-00a58f198cd6
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
