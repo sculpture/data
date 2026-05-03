@@ -1,0 +1,19 @@
+id: a6c3987b-6bbd-4769-98c8-14364defeb36
+type: sculpture
+slug: gallerini-and-parigi
+title: Arturo Gallerini and his dog Parigi
+artist-ids:
+- 39307bfb-951a-4758-8e4c-350b73d3eacd
+city-id: 11f8baa9-4bb9-4a55-ac54-6d78652d188a
+date: '2012'
+location:
+  latitude: 43.682964
+  longitude: 10.85512
+  precision: 10
+material-ids:
+- b33c44d3-f360-4361-a312-4662066b9bdf
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- ce5eba46-3dff-4d8c-89c8-4fab2da9a37d
