@@ -1,0 +1,18 @@
+id: 4ba2b5d5-24cb-4710-850b-07a0644b55ad
+type: sculpture
+slug: virgen-encarnacion-lastrucci
+title: Virgen de la Encarnación
+artist-ids:
+- a2a04a1f-d647-4f33-a330-ed1017bdbab0
+city-id: 979387ae-7c17-49e7-9c4c-bff9fe441bc0
+date: '1929'
+location:
+  latitude: 36.675419
+  longitude: -6.127164
+  precision: 10
+material-ids:
+- d0e544f1-8f9a-4225-acc0-39833a263af0
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- de83a4c2-214e-45fb-a307-c835449e52bf
