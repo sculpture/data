@@ -10,7 +10,7 @@ display-date: 1st half 2nd century
 location:
   latitude: 43.763834
   longitude: 11.249505
-  precision: 10
+  precision: 100
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
