@@ -1,0 +1,18 @@
+id: 16403eb3-6541-48fc-8488-e29ae1883be9
+type: sculpture
+slug: aristogitone-bobolo
+title: Aristogitone
+artist-ids:
+- abbc0dcb-ac03-4dd8-af23-974cd5ae7c6f
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '0125'
+display-date: 1st half 2nd century
+location:
+  latitude: 43.763113
+  longitude: 11.249172
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
