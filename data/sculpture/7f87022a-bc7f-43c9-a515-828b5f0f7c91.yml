@@ -1,0 +1,18 @@
+id: 7f87022a-bc7f-43c9-a515-828b5f0f7c91
+type: sculpture
+slug: ettore-socci
+title: Ettore Socci
+artist-ids:
+- 40391626-568b-4fed-ae74-be97033bf7d3
+city-id: 33049fa3-1854-449a-a939-2233427bb2e4
+date: '1907'
+location:
+  latitude: 43.050989
+  longitude: 10.891866
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
