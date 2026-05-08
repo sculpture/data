@@ -1,7 +1,7 @@
 id: 8fad92b1-41bf-466f-ae18-d924cc87094d
 type: sculpture
 slug: personification-summer-lazienki
-title: Personification of Summer
+title: Personifikacja Lata
 artist-ids:
 - 2a725061-5b65-46df-b83c-7d11d910d271
 city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
@@ -17,3 +17,4 @@ tag-ids:
 - 18d2fd29-8838-4290-a343-39182ae9b445
 - 4c322e34-9a51-4a23-ae62-8e335c882325
 - 9f63b713-73f7-46b1-9a00-5f35064e4c04
+title-en: Personification of Summer
