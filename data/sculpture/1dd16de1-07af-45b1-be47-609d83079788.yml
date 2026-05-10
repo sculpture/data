@@ -1,0 +1,18 @@
+id: 1dd16de1-07af-45b1-be47-609d83079788
+type: sculpture
+slug: inconsolabile-bartolini
+title: L'inconsolabile
+artist-ids:
+- 04fc2010-8068-4eec-88a5-6f6a3ce630c2
+city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
+date: '1841'
+location:
+  latitude: 43.723984
+  longitude: 10.39492
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
