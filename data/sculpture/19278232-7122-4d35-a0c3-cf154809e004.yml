@@ -1,0 +1,21 @@
+id: 19278232-7122-4d35-a0c3-cf154809e004
+type: sculpture
+slug: bust-asclepius-correr
+title: Bust of Asclepius
+artist-ids:
+- abbc0dcb-ac03-4dd8-af23-974cd5ae7c6f
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '0150'
+display-date: 2nd century AD
+location:
+  latitude: 45.433792
+  longitude: 12.337206
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+note: based on a Greek original from the early 4th century BC
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
