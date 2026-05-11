@@ -1,0 +1,19 @@
+id: d8c38492-8518-4392-b9a4-f9fe59036a45
+type: sculpture
+slug: lucilla-maffei
+title: Lucilla Maffei
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1550'
+display-date: XVI c.
+location:
+  latitude: 43.770398
+  longitude: 11.258008
+  precision: 10
+material-ids:
+- 90dd1d19-6fa0-47db-a5ff-60a30d2a90a4
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
