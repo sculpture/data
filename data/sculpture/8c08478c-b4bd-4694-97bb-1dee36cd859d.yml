@@ -1,0 +1,21 @@
+id: 8c08478c-b4bd-4694-97bb-1dee36cd859d
+type: sculpture
+slug: easter-wyle
+title: Easter
+artist-ids:
+- ace1f5d4-d008-45de-9b78-fa7ebf47f733
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1945'
+display-date: c.1945
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 2931c09f-312d-49ff-a29f-76a8f13c7f21
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e67f346e-191a-4f0f-a6c2-861e72e7f78f
