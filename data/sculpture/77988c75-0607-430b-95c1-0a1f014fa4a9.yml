@@ -1,0 +1,22 @@
+id: 77988c75-0607-430b-95c1-0a1f014fa4a9
+type: sculpture
+slug: monumento-constitucion-1812
+title: Monumento a la Constitución de 1812
+artist-ids:
+- 9ebab660-9ba4-45f0-a0c0-929f9e7ae964
+- c6ea88d2-2a79-4e4e-be30-08569950e7b4
+city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
+date: '1929'
+display-date: 1912-29
+link-wikipedia: https://en.wikipedia.org/wiki/Monument_to_the_Constitution_of_1812
+location:
+  latitude: 36.535126
+  longitude: -6.293178
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
+title-en: Monument to the Constitution of 1812
