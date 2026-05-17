@@ -1,0 +1,16 @@
+id: 7bdb4d0e-b01f-47f4-92ac-6f9c281271ca
+type: sculpture
+slug: sisters-hayashi
+title: Sisters
+artist-ids:
+- 15de70f2-d19c-4d3a-b556-e0caabf06503
+city-id: 4c7cdf32-7fd5-42fb-a1e0-a0b1ca98e5c8
+date: '1984'
+location:
+  latitude: 34.385289
+  longitude: 132.455306
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2094ee30-7294-478e-b118-b3fd48a7c570
