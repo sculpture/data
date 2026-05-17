@@ -1,0 +1,17 @@
+id: 42571d01-394e-4f5b-9a9f-b0d911631d58
+type: sculpture
+slug: alegoria-wiedzy-nauki
+title: Alegoria wiedzy i nauki
+artist-ids:
+- 7bdf81e7-02d0-48de-bfe0-8c12bd6ef54e
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1894'
+location:
+  latitude: 52.240359
+  longitude: 21.019159
+  precision: 10
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 7847b3d8-40b7-4a02-8328-5d85a3254b00
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
+title-en: Allegory of knowledge and science
