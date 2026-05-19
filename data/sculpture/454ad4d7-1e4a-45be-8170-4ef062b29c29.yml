@@ -1,11 +1,12 @@
 id: 454ad4d7-1e4a-45be-8170-4ef062b29c29
 type: sculpture
-slug: powrot-edypa-malinski
-title: 'Powrót Edypa '
+slug: anacreon-muses
+title: Anacreon and muses
 artist-ids:
 - 8c457d41-ffe0-4927-8ba4-c3685276bc24
 city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
-date: '1830'
+date: '1833'
+display-date: 1825-33
 location:
   latitude: 52.243965
   longitude: 21.010015
@@ -13,9 +14,8 @@ location:
 material-ids:
 - a267fb56-e090-4da4-b72c-152f966877d9
 tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
 - 16cfefb7-0c34-415d-b7df-45c3abc95a90
 - 3e78d325-8938-49e8-8be1-e5fbb1425c9c
-- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
 - 8edbb59e-b498-4210-9981-8781235cafcd
 - c4d43f20-6227-4d28-a802-ac07639375bf
-title-en: Oedipus' return
