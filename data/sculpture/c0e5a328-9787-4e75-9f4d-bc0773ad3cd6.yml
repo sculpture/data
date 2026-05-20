@@ -1,0 +1,16 @@
+id: c0e5a328-9787-4e75-9f4d-bc0773ad3cd6
+type: sculpture
+slug: windy-day
+title: Windy Day
+artist-ids:
+- 9cc868ed-822f-4b19-905f-3fc6430ae0a3
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+display-date: '2018'
+location:
+  latitude: 43.733804
+  longitude: -79.357924
+  precision: 10
+material-ids:
+- 7b7dba69-86af-433e-9a10-6d619374be71
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
