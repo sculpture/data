@@ -1,0 +1,18 @@
+id: c92a77c3-5ade-43a4-b70c-6693090358ef
+type: sculpture
+slug: ruben-dario
+title: Rubén Darío
+artist-ids:
+- 7dd1cd3e-d1e1-4eac-9855-2f9f85a5956d
+city-id: a829fff3-f394-470e-b4d4-bd76afe8d3d1
+date: '1963'
+link-wikipedia: https://es.wikipedia.org/wiki/Monumento_a_Rub%C3%A9n_Dar%C3%ADo_(M%C3%A1laga)
+location:
+  latitude: 36.719835
+  longitude: -4.414994
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445
