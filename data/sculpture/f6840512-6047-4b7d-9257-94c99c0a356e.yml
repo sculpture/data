@@ -1,0 +1,20 @@
+id: f6840512-6047-4b7d-9257-94c99c0a356e
+type: sculpture
+slug: joaquin-garcia-hidalgo
+title: Joaquín García-Hidalgo
+artist-ids:
+- f7507d06-c437-4f18-afa7-977ae0bd1f43
+city-id: 4caaf18b-6eea-482a-b6cd-5c5a06453ae6
+date: '1926'
+location:
+  latitude: 37.881279
+  longitude: -4.774802
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- f608c279-0df9-40f8-b0c6-c900a4ded7bf
