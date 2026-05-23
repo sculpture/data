@@ -1,0 +1,19 @@
+id: 3b558cf1-a4e3-48b2-b73c-b071317bd3c1
+type: sculpture
+slug: saint-homobonus-dievoet
+title: Saint Homobonus
+artist-ids:
+- 71fc64fe-f535-498e-ad91-8e913b9f9662
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1697'
+location:
+  latitude: 50.846734
+  longitude: 4.353124
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7847b3d8-40b7-4a02-8328-5d85a3254b00
+- de83a4c2-214e-45fb-a307-c835449e52bf
