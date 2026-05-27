@@ -1,0 +1,16 @@
+id: d10cfde4-a9e9-4839-8743-ac430ed64fb0
+type: sculpture
+slug: melancholy-man
+title: Melancholy Man
+artist-ids:
+- 5d76238f-b90e-4e52-bec5-1a9ba9c1ef2f
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2025'
+location:
+  latitude: 44.015672
+  longitude: -77.289923
+  precision: 10
+material-ids:
+- cf38381e-1b86-4728-8349-6febca8429d0
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
