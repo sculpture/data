@@ -7,8 +7,8 @@ artist-ids:
 city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
 date: '1990'
 location:
-  latitude: 45.431078
-  longitude: 12.328139
+  latitude: 45.441063
+  longitude: 12.331632
   precision: 10
 material-ids:
 - 270dfb6d-92b2-464a-b5ff-827f6c828452
@@ -16,4 +16,5 @@ material-ids:
 tag-ids:
 - 6f13c768-5619-419e-97af-60440cab7f89
 - 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
 title-en: Sign
