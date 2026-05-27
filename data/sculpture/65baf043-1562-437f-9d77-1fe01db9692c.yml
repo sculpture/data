@@ -1,0 +1,18 @@
+id: 65baf043-1562-437f-9d77-1fe01db9692c
+type: sculpture
+slug: carlos-edmundo-ory
+title: Carlos Edmundo de Ory
+artist-ids:
+- e8ce28aa-d138-4f2a-8b61-123ff11b1ef8
+city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
+date: '2015'
+location:
+  latitude: 36.536497
+  longitude: -6.29648
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
