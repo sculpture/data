@@ -1,0 +1,20 @@
+id: 5db58053-cea8-4ea1-9547-979e63e657fc
+type: sculpture
+slug: temperanza-tagliapietra
+title: La Temperanza
+artist-ids:
+- 4e02af94-87c3-4b83-bcfb-0b26310aefd9
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1730'
+display-date: c.1730
+location:
+  latitude: 45.429296
+  longitude: 12.327179
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
