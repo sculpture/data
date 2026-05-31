@@ -1,0 +1,17 @@
+id: 1989d831-6744-41b6-bb27-fd2e1e8e1080
+type: sculpture
+slug: restoration-identity
+title: Restoration of Identity
+artist-ids:
+- 4e045091-7908-47ec-9680-052f8ee610dd
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2025'
+location:
+  latitude: 43.652707
+  longitude: -79.384803
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 0bcf2b3d-b964-4595-86b1-0e9895ccc521
+- 5e46697e-16c7-4478-a438-202749e4888d
