@@ -1,0 +1,16 @@
+id: ab0fb245-edbd-47ba-b960-0e1bf327e54c
+type: sculpture
+slug: divergence-ii
+title: Divergence II
+artist-ids:
+- 2b8154b2-b0cb-4a07-b41a-de6fe9e32158
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2024'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
