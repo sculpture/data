@@ -1,11 +1,12 @@
 id: f845344d-76ae-41a8-b978-69ff3a1a6936
 type: sculpture
 slug: el-biznaguero-pimentel
-title: El Biznaguero
+title: Biznaguero
 artist-ids:
 - 12ccefda-4889-4987-b490-751ce8c16585
 city-id: a829fff3-f394-470e-b4d4-bd76afe8d3d1
 date: '1963'
+link-wikipedia: https://es.wikipedia.org/wiki/Biznaguero
 location:
   latitude: 36.720603
   longitude: -4.414259
