@@ -1,0 +1,18 @@
+id: f845344d-76ae-41a8-b978-69ff3a1a6936
+type: sculpture
+slug: el-biznaguero-pimentel
+title: El Biznaguero
+artist-ids:
+- 12ccefda-4889-4987-b490-751ce8c16585
+city-id: a829fff3-f394-470e-b4d4-bd76afe8d3d1
+date: '1963'
+location:
+  latitude: 36.720603
+  longitude: -4.414259
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- c9884cff-1c92-48b5-816b-aa0479de54fa
