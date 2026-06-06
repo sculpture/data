@@ -1,0 +1,19 @@
+id: 26e7da99-ccf1-4fc1-addd-c94032b438e1
+type: sculpture
+slug: simon-bolivar-cadiz
+title: Simón Bolívar
+artist-ids:
+- ac9cf8ba-480c-4210-875b-8eb46688b637
+city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
+date: '1974'
+location:
+  latitude: 36.521014
+  longitude: -6.280456
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 521f00f2-f976-4b69-89cf-6e8db0c94f29
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
