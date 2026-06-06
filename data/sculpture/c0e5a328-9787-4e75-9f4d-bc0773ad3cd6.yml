@@ -5,7 +5,7 @@ title: Windy Day
 artist-ids:
 - 9cc868ed-822f-4b19-905f-3fc6430ae0a3
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-display-date: '2018'
+date: '2018'
 location:
   latitude: 43.733804
   longitude: -79.357924
