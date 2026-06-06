@@ -1,0 +1,17 @@
+id: b692da6c-17e2-4207-aa96-a1106518a826
+type: sculpture
+slug: silver-maple-large
+title: Silver Maple (Large)
+artist-ids:
+- 9ead18af-9653-49b1-9741-962cfd621381
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2023'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
