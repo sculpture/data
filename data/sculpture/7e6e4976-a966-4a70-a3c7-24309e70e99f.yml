@@ -1,0 +1,14 @@
+id: 7e6e4976-a966-4a70-a3c7-24309e70e99f
+type: sculpture
+slug: sticks-gangbar
+title: Sticks
+artist-ids:
+- 96b99db8-4834-400e-9433-729485ea2a12
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2024'
+location:
+  latitude: 43.765116
+  longitude: -79.411524
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
