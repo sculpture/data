@@ -1,0 +1,19 @@
+id: 80b1d8c3-5ddd-4338-baeb-7d5bfa119010
+type: sculpture
+slug: zita-bourbon-parma
+title: Zita of Bourbon-Parma
+artist-ids:
+- 3ffe75df-e89e-4c0e-8d56-70088c8cf801
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2017'
+location:
+  latitude: 43.960294
+  longitude: 10.227805
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 8bc7c77d-4709-4473-9260-4a27ed967be9
+- 9c3360b2-448e-4f0e-a2c0-b4339e34d6a4
