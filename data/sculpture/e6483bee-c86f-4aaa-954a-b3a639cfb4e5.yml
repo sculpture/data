@@ -1,0 +1,18 @@
+id: e6483bee-c86f-4aaa-954a-b3a639cfb4e5
+type: sculpture
+slug: eugene-iv-ferrari
+title: Pope Eugene IV
+artist-ids:
+- 8d1b0c64-a48c-4127-b0be-e3e83d155630
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1782'
+location:
+  latitude: 45.397579
+  longitude: 11.87678
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6c068959-5222-4073-b890-313bf91ca2b4
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
