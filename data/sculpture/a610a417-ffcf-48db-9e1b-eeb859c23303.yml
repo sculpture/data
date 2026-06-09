@@ -1,0 +1,16 @@
+id: a610a417-ffcf-48db-9e1b-eeb859c23303
+type: sculpture
+slug: embracing-columns
+title: Embracing Columns
+artist-ids:
+- ed1879b9-8a50-4aef-af2b-1e356249e2f0
+city-id: 4c7cdf32-7fd5-42fb-a1e0-a0b1ca98e5c8
+date: '1980'
+location:
+  latitude: 34.392687
+  longitude: 132.452201
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
