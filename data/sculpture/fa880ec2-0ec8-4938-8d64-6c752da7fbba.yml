@@ -1,0 +1,19 @@
+id: fa880ec2-0ec8-4938-8d64-6c752da7fbba
+type: sculpture
+slug: juan-de0cervantes-tomb
+title: Tomb of Juan de Cervantes
+artist-ids:
+- 60792d2a-40f6-47bf-928e-5dbed8f63af5
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '1458'
+location:
+  latitude: 37.385825
+  longitude: -5.993107
+  precision: 10
+material-ids:
+- bacc3a78-5f97-488e-823f-ca328a20b3ca
+tag-ids:
+- 2965e068-6250-4ba0-a708-376890e43ac4
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
