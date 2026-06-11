@@ -1,0 +1,18 @@
+id: fe7dddea-804c-4a4a-a0ad-32a7d64c5757
+type: sculpture
+slug: cabeza-mujer-jacqueline
+title: Cabeza de mujer (Jacqueline)
+artist-ids:
+- 5bd6bc78-6918-417a-9479-cc48e73081bc
+city-id: a829fff3-f394-470e-b4d4-bd76afe8d3d1
+date: '1961'
+location:
+  latitude: 36.721736
+  longitude: -4.418429
+  precision: 10
+material-ids:
+- 63d1c802-2313-47a9-a87d-73b7ab53cbef
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
