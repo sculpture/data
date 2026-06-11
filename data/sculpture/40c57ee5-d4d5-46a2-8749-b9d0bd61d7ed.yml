@@ -1,0 +1,20 @@
+id: 40c57ee5-d4d5-46a2-8749-b9d0bd61d7ed
+type: sculpture
+slug: fisher-boy-dancing-tarantella
+title: Fisher-boy Dancing Tarantella
+artist-ids:
+- 42879f22-b5f9-4f05-8f16-74c3a552ceb6
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1833'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- d5dd2c56-3c63-4f57-9b40-a946bae40077
+- d973207a-6b23-4505-a84d-d2339bc3a55c
