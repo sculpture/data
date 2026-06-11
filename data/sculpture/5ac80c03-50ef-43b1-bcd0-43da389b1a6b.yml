@@ -1,0 +1,18 @@
+id: 5ac80c03-50ef-43b1-bcd0-43da389b1a6b
+type: sculpture
+slug: pier-capponi
+title: Pier Capponi
+artist-ids:
+- 44eb846f-b1c9-46fb-84dc-005e108e431b
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1844'
+location:
+  latitude: 43.767732
+  longitude: 11.255547
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
