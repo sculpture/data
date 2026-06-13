@@ -1,0 +1,19 @@
+id: ff605a8f-b0df-44a8-889c-d0c298fccb32
+type: sculpture
+slug: toribio-mogrovejo
+title: Santo Toribio de Mogrovejo
+artist-ids:
+- 150ba9bb-0765-428f-8f42-0160764977d8
+city-id: a829fff3-f394-470e-b4d4-bd76afe8d3d1
+date: '1803'
+location:
+  latitude: 36.720168
+  longitude: -4.419311
+  precision: 10
+material-ids:
+- d0e544f1-8f9a-4225-acc0-39833a263af0
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
