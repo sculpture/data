@@ -1,0 +1,18 @@
+id: aed0940b-052f-44e4-9e83-e4257efa6a93
+type: sculpture
+slug: narciso-diaz-escovar
+title: Narciso Díaz de Escovar
+artist-ids:
+- 43e80a70-8b90-4dcb-861b-dcc44297fff8
+city-id: a829fff3-f394-470e-b4d4-bd76afe8d3d1
+date: '1932'
+link-wikipedia: https://es.wikipedia.org/wiki/Monumento_a_Narciso_D%C3%ADaz_de_Escovar
+location:
+  latitude: 36.71782
+  longitude: -4.425557
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445
