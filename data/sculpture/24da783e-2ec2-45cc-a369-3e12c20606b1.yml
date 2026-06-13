@@ -1,0 +1,18 @@
+id: 24da783e-2ec2-45cc-a369-3e12c20606b1
+type: sculpture
+slug: atlas-wilanow
+title: Atlas
+artist-ids:
+- 042e4027-be20-4fd5-858d-8c0883bfd2e2
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1769'
+location:
+  latitude: 52.165185
+  longitude: 21.090487
+  precision: 10
+material-ids:
+- d75f308d-78bc-44cc-95b0-0199f2d0ed04
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7847b3d8-40b7-4a02-8328-5d85a3254b00
