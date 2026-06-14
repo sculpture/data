@@ -1,0 +1,16 @@
+id: 5ccb43b4-17e8-4461-9695-4839243dc5da
+type: sculpture
+slug: bewitched-langlois
+title: Bewitched
+artist-ids:
+- 88c417ec-3071-4090-8664-00a2812634c0
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2021'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
