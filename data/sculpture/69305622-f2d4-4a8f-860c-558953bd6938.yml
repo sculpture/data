@@ -1,0 +1,21 @@
+id: 69305622-f2d4-4a8f-860c-558953bd6938
+type: sculpture
+slug: tomb-galileo-galilei
+title: 'Tomb of Galileo Galilei '
+artist-ids:
+- 1900473c-923d-4267-a110-091570ea0493
+- 3dcd60f9-9000-4376-87df-f42adfa5ad66
+- 740f9681-e43d-45c5-a54c-eee72a49fba5
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1737'
+location:
+  latitude: 43.768444
+  longitude: 11.262461
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9905d2f9-00e0-443b-8640-dfb98d4795a1
