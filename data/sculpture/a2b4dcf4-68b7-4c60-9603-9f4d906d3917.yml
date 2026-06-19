@@ -1,0 +1,21 @@
+id: a2b4dcf4-68b7-4c60-9603-9f4d906d3917
+type: sculpture
+slug: tomb-francesco-nori
+title: 'Tomb of Francesco Nori '
+artist-ids:
+- a0a48bb3-2317-44b1-b1ed-faa0accd8657
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1478'
+location:
+  latitude: 43.768568
+  longitude: 11.262268
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 6c892a0c-c6ab-4580-9095-a545228f75e7
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
