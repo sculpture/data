@@ -1,0 +1,16 @@
+id: a2e11290-4f5f-423a-b862-806ef05feb44
+type: sculpture
+slug: inukshuk-kudluk
+title: ' Inukshuk'
+artist-ids:
+- 4cc22bd1-43ed-4dc2-96b8-dc26eadee9cc
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2024'
+location:
+  latitude: 43.652695
+  longitude: -79.38453
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- fe22cc92-81e5-4f1e-87c9-1e2eeac9870c
