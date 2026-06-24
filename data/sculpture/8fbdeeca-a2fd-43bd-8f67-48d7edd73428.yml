@@ -1,0 +1,18 @@
+id: 8fbdeeca-a2fd-43bd-8f67-48d7edd73428
+type: sculpture
+slug: otwarcie-mdm
+title: Otwarcie MDM
+artist-ids:
+- 2fc5c451-e730-4f41-bdd2-fa1b5cccacb2
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1952'
+location:
+  latitude: 52.223319
+  longitude: 21.016702
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 8edbb59e-b498-4210-9981-8781235cafcd
