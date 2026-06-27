@@ -1,0 +1,17 @@
+id: de8b6145-7e82-4ce4-9352-84d105e3332b
+type: sculpture
+slug: polska-walczaca
+title: Polska Walcząca
+artist-ids:
+- dc6e60f4-549c-4115-a95d-eef4d9c1dd1c
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1994'
+location:
+  latitude: 52.211176
+  longitude: 21.056007
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
