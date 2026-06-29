@@ -1,0 +1,21 @@
+id: 25d63c9b-4c72-4b7e-9788-7a02b86e3872
+type: sculpture
+slug: saint-augustine-plersch
+title: Saint Augustine
+artist-ids:
+- 3941da2e-e2ca-4ebc-83b6-8dd9986d1788
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1744'
+display-date: c.1744
+location:
+  latitude: 52.248267
+  longitude: 21.012997
+  precision: 10
+material-ids:
+- 2d8ad17d-5e23-4ec3-9057-eeafe0e3c188
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- de83a4c2-214e-45fb-a307-c835449e52bf
