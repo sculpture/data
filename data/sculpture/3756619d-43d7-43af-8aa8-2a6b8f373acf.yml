@@ -1,0 +1,19 @@
+id: 3756619d-43d7-43af-8aa8-2a6b8f373acf
+type: sculpture
+slug: triumph-marcus-valerius-corvinus
+title: 'Triumph of Marcus Valerius Messalla Corvinus '
+artist-ids:
+- dfbd1094-2e2c-408a-809c-ca60a575aa41
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1699'
+display-date: 1688-99
+location:
+  latitude: 52.24924
+  longitude: 21.004187
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- c4d43f20-6227-4d28-a802-ac07639375bf
