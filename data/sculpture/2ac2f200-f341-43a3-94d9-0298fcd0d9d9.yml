@@ -1,0 +1,18 @@
+id: 2ac2f200-f341-43a3-94d9-0298fcd0d9d9
+type: sculpture
+slug: jan-amos-komensky
+title: Jan Amos Komenský
+artist-ids:
+- 2ce3c810-247f-4cef-b9e1-d7a095945d8c
+city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
+date: '1874'
+location:
+  latitude: 50.089237
+  longitude: 14.396782
+  precision: 10
+material-ids:
+- 9ff2389a-641e-41db-9c2c-7a740b4c7d6a
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- cc034efc-b82b-42ee-a2d2-16753502bef1
