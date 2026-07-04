@@ -1,7 +1,7 @@
 id: 1bef65bb-b0a8-4a34-b397-673ce35136b3
 type: sculpture
 slug: challenge-wittig
-title: Challenge
+title: Wyzwanie
 artist-ids:
 - 120248ac-9de5-49a1-b739-70a0bd15d509
 city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
@@ -18,3 +18,4 @@ tag-ids:
 - 6f13c768-5619-419e-97af-60440cab7f89
 - 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
 - 7bd0ecbd-b646-466a-95cb-42eebacc6072
+title-en: Challenge
