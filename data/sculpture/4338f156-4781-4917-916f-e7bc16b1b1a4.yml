@@ -1,0 +1,20 @@
+id: 4338f156-4781-4917-916f-e7bc16b1b1a4
+type: sculpture
+slug: wimmerova-kasna
+title: Wimmerova kašna
+artist-ids:
+- 022100c4-60cf-4f9e-9da7-378f4d7523ab
+city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
+date: '1797'
+link-wikipedia: https://cs.wikipedia.org/wiki/Wimmerova_ka%C5%A1na
+location:
+  latitude: 50.084047
+  longitude: 14.420475
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 176d1080-3cc3-41e0-b103-11b1df7b1288
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
+- f3c0c272-150c-42cd-9a87-bd121fdc1309
+title-en: Wimmer's Fountain
