@@ -1,0 +1,22 @@
+id: e98dcd52-d492-4055-ac63-f752245c5fb1
+type: sculpture
+slug: flora-siegwitz
+title: Flora
+artist-ids:
+- 21f2afd9-15d7-4283-be80-311c785076be
+- 7b0f6427-24a5-46c0-9ee4-3aafe2d92038
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1735'
+display-date: 1730s
+location:
+  latitude: 52.165073
+  longitude: 21.091012
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
