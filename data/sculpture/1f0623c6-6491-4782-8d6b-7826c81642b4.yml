@@ -1,0 +1,14 @@
+id: 1f0623c6-6491-4782-8d6b-7826c81642b4
+type: sculpture
+slug: sooner-later
+title: Sooner or Later
+artist-ids:
+- bd9de07c-dcbb-4c62-9d26-d63b6736a547
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '2022'
+location:
+  latitude: 40.671479
+  longitude: -73.963588
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
