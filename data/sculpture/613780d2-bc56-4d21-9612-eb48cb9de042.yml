@@ -1,0 +1,15 @@
+id: 613780d2-bc56-4d21-9612-eb48cb9de042
+type: sculpture
+slug: group-four-trees
+title: Group of Four Trees
+artist-ids:
+- a7230cc1-62f3-42ae-bb7c-23d59d79e17b
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1972'
+location:
+  latitude: 40.768517
+  longitude: -73.982194
+  precision: 10
+material-ids:
+- 0d63dfd2-b637-471f-8c6b-1262b0085fb8
+- 5b57dc64-a77c-4c26-89ac-4caf78d2bcab
