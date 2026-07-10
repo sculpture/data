@@ -1,0 +1,18 @@
+id: 719c9b95-223a-4600-a90f-5c147ecf73e2
+type: sculpture
+slug: juan-valera-cordoba
+title: Juan Valera
+artist-ids:
+- 471829a9-aff6-4f4c-93a6-4ffac27eb4ca
+city-id: 4caaf18b-6eea-482a-b6cd-5c5a06453ae6
+date: '1897'
+location:
+  latitude: 37.881279
+  longitude: -4.774802
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- fe76e3fb-cffa-46f8-a7bd-ab43ddbabea3
