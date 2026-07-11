@@ -1,0 +1,15 @@
+id: 0f595244-6403-4952-a8c8-2506f6db33be
+type: sculpture
+slug: ferns-valdes
+title: Ferns
+artist-ids:
+- 7305883a-bfab-4e6a-bc45-5f174367bd48
+date: '2012'
+location:
+  latitude: 1.281568
+  longitude: 103.863613
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
