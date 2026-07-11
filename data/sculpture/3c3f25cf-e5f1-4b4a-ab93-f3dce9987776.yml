@@ -1,0 +1,20 @@
+id: 3c3f25cf-e5f1-4b4a-ab93-f3dce9987776
+type: sculpture
+slug: notre-dame-bon-voyage
+title: Notre Dame de Bon Voyage
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 5de4ea43-e782-46c9-8ddf-7251d6e9038a
+date: '1725'
+display-date: XVIII c.
+location:
+  latitude: 43.953678
+  longitude: 4.805057
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6c892a0c-c6ab-4580-9095-a545228f75e7
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
