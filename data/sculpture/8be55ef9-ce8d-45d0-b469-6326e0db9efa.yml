@@ -1,0 +1,17 @@
+id: 8be55ef9-ce8d-45d0-b469-6326e0db9efa
+type: sculpture
+slug: pamela-valdes
+title: La Pamela
+artist-ids:
+- 7305883a-bfab-4e6a-bc45-5f174367bd48
+city-id: 6ce99abb-eacc-40d2-8246-d907c92c8db5
+date: '2015'
+location:
+  latitude: 39.460644
+  longitude: -0.331374
+  precision: 10
+material-ids:
+- 3e4bf7e0-ae14-49c8-88f4-315ef2160400
+note: photo taken at Singapoure
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
