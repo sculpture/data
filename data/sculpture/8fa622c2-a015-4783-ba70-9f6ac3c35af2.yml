@@ -1,0 +1,20 @@
+id: 8fa622c2-a015-4783-ba70-9f6ac3c35af2
+type: sculpture
+slug: lucio-vero
+title: Lucio Vero
+artist-ids:
+- abbc0dcb-ac03-4dd8-af23-974cd5ae7c6f
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '0166'
+display-date: c.166
+location:
+  latitude: 45.43303
+  longitude: 12.33809
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e1747e74-d399-45e0-98c6-60514c400683
