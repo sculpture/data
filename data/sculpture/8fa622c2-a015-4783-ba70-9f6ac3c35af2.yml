@@ -8,8 +8,8 @@ city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
 date: '0166'
 display-date: c.166
 location:
-  latitude: 45.433677
-  longitude: 12.336781
+  latitude: 45.433792
+  longitude: 12.337206
   precision: 10
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
