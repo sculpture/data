@@ -1,0 +1,17 @@
+id: 1af37526-f28f-42b5-bac0-181ec49bf848
+type: sculpture
+slug: gerolamo-liorsi
+title: Gerolamo Liorsi
+artist-ids:
+- db5d9b3d-c04d-44c3-a4c3-a0bec2bc0bd7
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1779'
+location:
+  latitude: 45.398913
+  longitude: 11.87685
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
