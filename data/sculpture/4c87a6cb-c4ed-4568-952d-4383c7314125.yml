@@ -9,9 +9,9 @@ city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
 date: '1860'
 link-wikipedia: https://fr.wikipedia.org/wiki/Fontaine_de_la_Rotonde
 location:
-  latitude: 43.529337
-  longitude: 5.447972
-  precision: 164
+  latitude: 43.526295
+  longitude: 5.445451
+  precision: 10
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
