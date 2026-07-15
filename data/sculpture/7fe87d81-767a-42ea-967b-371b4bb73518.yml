@@ -1,0 +1,21 @@
+id: 7fe87d81-767a-42ea-967b-371b4bb73518
+type: sculpture
+slug: altare-libert-giembologna
+title: L'Altare della Libertà
+artist-ids:
+- 0d2048a2-0550-45da-945c-1f8e1705a581
+city-id: 797fae0b-2e5d-4915-bb70-b13c17378322
+date: '1579'
+display-date: 1577-79
+location:
+  latitude: 43.840783
+  longitude: 10.505633
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 78695307-4f57-45a4-9566-dd0893e2ae80
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
