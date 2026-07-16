@@ -1,0 +1,20 @@
+id: 9225baa5-4e23-4a44-9857-ce8bcdecb2f1
+type: sculpture
+slug: giovanni-alberti
+title: Giovanni Vincenzo degli Alberti
+artist-ids:
+- 9d28ecbb-8b5e-4ec3-847f-9a39f1477b16
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1836'
+location:
+  latitude: 43.768568
+  longitude: 11.262268
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
