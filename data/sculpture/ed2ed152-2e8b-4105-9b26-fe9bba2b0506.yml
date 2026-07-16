@@ -1,0 +1,18 @@
+id: ed2ed152-2e8b-4105-9b26-fe9bba2b0506
+type: sculpture
+slug: francesco-carrara
+title: Francesco Carrara
+artist-ids:
+- d7a40942-03d8-47e8-8463-e09b807bf942
+city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
+date: '1890'
+location:
+  latitude: 43.723984
+  longitude: 10.39492
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6e83ecdb-3490-4313-b92d-bf015a5453f1
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
