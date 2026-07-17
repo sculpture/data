@@ -1,0 +1,16 @@
+id: e6675114-cc61-40d8-a885-780f6463c5cb
+type: sculpture
+slug: signature-no-5
+title: Signature No 5
+artist-ids:
+- 90fb8c53-78fb-4628-a94b-68cbe470c751
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+display-date: '2020'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- a1d83c21-c2ec-4d6f-852d-a880fdd65176
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
