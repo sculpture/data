@@ -1,0 +1,18 @@
+id: aae76799-5fcc-4e88-adc7-f03749f12a1e
+type: sculpture
+slug: monumento-caduti-jacopi
+title: Monumento ai Caduti
+artist-ids:
+- f409e17f-9823-4c01-8015-9e93873b500e
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '1925'
+location:
+  latitude: 43.959403
+  longitude: 10.229803
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
