@@ -1,0 +1,18 @@
+id: 39220bf4-eb45-474e-acc7-3bc00b24f4ad
+type: sculpture
+slug: euro-skulptur
+title: Euro-Skulptur
+artist-ids:
+- 55697ee7-f246-4cfc-921b-e1a6eaba8a76
+city-id: 49b8f8cb-ae2c-4822-bc1a-b24da9e7492d
+date: '2001'
+location:
+  latitude: 50.108991
+  longitude: 8.67309
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- b0a3d164-8b6a-440a-89a5-1bbb85c10c40
+tag-ids:
+- 91dc9534-fac3-4f77-aaa1-5a701b6ab79b
