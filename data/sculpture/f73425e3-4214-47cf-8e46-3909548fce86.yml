@@ -1,0 +1,19 @@
+id: f73425e3-4214-47cf-8e46-3909548fce86
+type: sculpture
+slug: francesco-morosini-padua
+title: Francesco Morosini
+artist-ids:
+- db5d9b3d-c04d-44c3-a4c3-a0bec2bc0bd7
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1781'
+location:
+  latitude: 45.398619
+  longitude: 11.876217
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 18694c37-89e8-4e01-9c31-16245323218a
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 521f00f2-f976-4b69-89cf-6e8db0c94f29
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
