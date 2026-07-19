@@ -1,0 +1,20 @@
+id: cc61b37e-d4ae-4ea2-868e-393f39e46259
+type: sculpture
+slug: maurice-duplessis
+title: Maurice Duplessis
+artist-ids:
+- 33dad29c-af0e-4e38-bb90-26663d2dfcca
+city-id: 2a8b5ff3-81c9-4adf-8220-9d60723176e1
+date: '1961'
+location:
+  latitude: 46.813082
+  longitude: -71.20746
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 20ba399b-d962-4b4b-8695-6723679a005b
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5e3a958c-c298-4da2-8d31-39fde44e7bbe
+- 6e83ecdb-3490-4313-b92d-bf015a5453f1
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
