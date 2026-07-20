@@ -1,0 +1,21 @@
+id: d560b71e-0f63-49f9-85b8-97195b7b4c25
+type: sculpture
+slug: san-jose-de-pena
+title: San José
+artist-ids:
+- 65dc0fa6-e43b-464a-98d7-c5248f7041f8
+city-id: a829fff3-f394-470e-b4d4-bd76afe8d3d1
+date: '1674'
+display-date: after 1674
+location:
+  latitude: 36.720168
+  longitude: -4.419311
+  precision: 10
+material-ids:
+- d0e544f1-8f9a-4225-acc0-39833a263af0
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
