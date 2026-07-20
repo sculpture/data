@@ -1,0 +1,20 @@
+id: 4b28e11c-6987-439e-a080-fc8995bdb857
+type: sculpture
+slug: swiatowid-zebrowska
+title: Światowid
+artist-ids:
+- 7af676c9-dcf2-483b-8ef6-0a1e657c47a2
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1992'
+location:
+  latitude: 52.23317
+  longitude: 21.008989
+  precision: 10
+material-ids:
+- 56560105-70a1-4867-aaea-6d76d31576c0
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+- 82d9ed4b-e837-4b5e-8c17-40469885764c
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
