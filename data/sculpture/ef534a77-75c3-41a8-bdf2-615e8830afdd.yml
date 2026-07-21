@@ -1,0 +1,17 @@
+id: ef534a77-75c3-41a8-bdf2-615e8830afdd
+type: sculpture
+slug: brinks-trpak
+title: Brinks
+artist-ids:
+- 3470f69d-8613-41ce-99e7-9c52d3b7d1b2
+city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
+date: '2007'
+location:
+  latitude: 50.081783
+  longitude: 14.427119
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 21b5d04c-9fea-4c3d-a0d6-2b9dff10c299
+- c9884cff-1c92-48b5-816b-aa0479de54fa
