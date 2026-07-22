@@ -1,0 +1,16 @@
+id: 5a15c3e5-27a8-4cf2-8de4-e5a5a7438c58
+type: sculpture
+slug: aero-jah
+title: Aero
+artist-ids:
+- 3b0dfbb2-566f-4051-9bdd-a4d29c8bfda8
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2024'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
