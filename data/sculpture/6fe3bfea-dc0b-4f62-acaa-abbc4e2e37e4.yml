@@ -1,0 +1,19 @@
+id: 6fe3bfea-dc0b-4f62-acaa-abbc4e2e37e4
+type: sculpture
+slug: franz-liszt-stremeny-toronto
+title: Franz Liszt
+artist-ids:
+- 5ac04b04-661e-4c02-bdc2-1ecec3dd5f14
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2014'
+location:
+  latitude: 43.667672
+  longitude: -79.396172
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- ac86ac3d-0564-479e-a5f0-5de5b5e7f7f4
