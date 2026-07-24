@@ -1,0 +1,21 @@
+id: 729fada8-96ea-4f5f-95bb-8d802845a4bb
+type: sculpture
+slug: san-rustico-schiavi
+title: San Rustico
+artist-ids:
+- 7366edae-e2df-45ba-a6b7-224a7d8f4616
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: '1750'
+display-date: 1740-50
+location:
+  latitude: 45.439178
+  longitude: 10.999962
+  precision: 10
+material-ids:
+- 449582e6-6741-4441-a519-81e7c5591f96
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
