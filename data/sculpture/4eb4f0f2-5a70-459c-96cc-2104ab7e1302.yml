@@ -1,0 +1,18 @@
+id: 4eb4f0f2-5a70-459c-96cc-2104ab7e1302
+type: sculpture
+slug: madonna-cuscino-arezzo
+title: Madonna del Cuscino
+artist-ids:
+- bc6b0029-c295-45cc-80de-f2dd7f10689c
+city-id: 58dfe45b-7767-42fe-8a25-0a00c0686d09
+date: '1475'
+display-date: 1470s
+location:
+  latitude: 43.466987
+  longitude: 11.883484
+  precision: 10
+material-ids:
+- a4828452-7739-4398-9236-e0c62eda53c2
+tag-ids:
+- 6c892a0c-c6ab-4580-9095-a545228f75e7
+- 6f13c768-5619-419e-97af-60440cab7f89
