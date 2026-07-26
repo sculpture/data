@@ -1,0 +1,18 @@
+id: 8fd84778-a201-4721-990a-16eae01070b6
+type: sculpture
+slug: bartolomeo-aragazzi
+title: Monument to Bartolomeo Aragazzi
+artist-ids:
+- 68e8d826-838e-450c-94c2-111bb73e87d1
+city-id: 26d1abe7-0b41-4c95-b30d-76469c66ccb8
+date: '1437'
+display-date: 1427-37
+location:
+  latitude: 43.092507
+  longitude: 11.780841
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 8edbb59e-b498-4210-9981-8781235cafcd
