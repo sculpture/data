@@ -1,0 +1,20 @@
+id: 879ec59b-cb71-4af9-a68b-c6dd7bcd81d4
+type: sculpture
+slug: young-philosopher
+title: Young Philosopher
+artist-ids:
+- 2ccc402b-d4f2-4e64-b8e2-f0579a0d1639
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1470'
+display-date: c. 1470
+location:
+  latitude: 43.770398
+  longitude: 11.258008
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: also attributed to Donatello
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
