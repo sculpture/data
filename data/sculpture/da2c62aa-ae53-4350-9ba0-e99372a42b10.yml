@@ -1,0 +1,18 @@
+id: da2c62aa-ae53-4350-9ba0-e99372a42b10
+type: sculpture
+slug: altare-dei-gigli
+title: Altare dei Gigli
+artist-ids:
+- bc6b0029-c295-45cc-80de-f2dd7f10689c
+city-id: 26d1abe7-0b41-4c95-b30d-76469c66ccb8
+date: '1512'
+location:
+  latitude: 43.092507
+  longitude: 11.780841
+  precision: 10
+material-ids:
+- a4828452-7739-4398-9236-e0c62eda53c2
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
