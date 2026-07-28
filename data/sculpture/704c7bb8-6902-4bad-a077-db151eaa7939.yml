@@ -1,0 +1,14 @@
+id: 704c7bb8-6902-4bad-a077-db151eaa7939
+type: sculpture
+slug: olymp-von-weimar
+title: Olymp von Weimar
+artist-ids:
+- 2f727767-d67b-4017-adfd-93bc74cc11ca
+city-id: 49b8f8cb-ae2c-4822-bc1a-b24da9e7492d
+date: '1990'
+location:
+  latitude: 50.109564
+  longitude: 8.671647
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
