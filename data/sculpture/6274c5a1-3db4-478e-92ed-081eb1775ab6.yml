@@ -1,0 +1,14 @@
+id: 6274c5a1-3db4-478e-92ed-081eb1775ab6
+type: sculpture
+slug: ancient-olives
+title: Ancient Olives
+artist-ids:
+- 62d4185b-b264-41d4-8fd2-79c27e3c6afe
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2008'
+location:
+  latitude: 43.930857
+  longitude: 10.205464
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
