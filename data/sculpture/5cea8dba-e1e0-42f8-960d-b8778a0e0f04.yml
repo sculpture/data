@@ -1,0 +1,19 @@
+id: 5cea8dba-e1e0-42f8-960d-b8778a0e0f04
+type: sculpture
+slug: friedrich-schiller-dielman
+title: Friedrich Schiller
+artist-ids:
+- 5665e6e3-c117-4764-b126-cc18ccd15bda
+city-id: 49b8f8cb-ae2c-4822-bc1a-b24da9e7492d
+date: '1864'
+location:
+  latitude: 50.11278
+  longitude: 8.668896
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 6c2bfe1f-8ad4-42af-8a27-b996f6ebbdfa
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
