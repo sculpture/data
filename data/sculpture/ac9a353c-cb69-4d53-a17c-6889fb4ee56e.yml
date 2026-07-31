@@ -1,0 +1,20 @@
+id: ac9a353c-cb69-4d53-a17c-6889fb4ee56e
+type: sculpture
+slug: john-evangelist-rocca
+title: Saint John the Evangelist
+artist-ids:
+- 4b0f18ba-a574-4392-b767-de127e2465a9
+city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
+date: '1903'
+location:
+  latitude: 36.529
+  longitude: -6.295289
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
