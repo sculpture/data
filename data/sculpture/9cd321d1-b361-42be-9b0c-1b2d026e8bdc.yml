@@ -1,0 +1,19 @@
+id: 9cd321d1-b361-42be-9b0c-1b2d026e8bdc
+type: sculpture
+slug: padua-cathedal-pulpit
+title: 'Padua Cathedal Pulpit '
+artist-ids:
+- 4b903993-b427-4f22-804d-66bc472a1423
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1996'
+location:
+  latitude: 45.406828
+  longitude: 11.87183
+  precision: 10
+material-ids:
+- 46fe9fce-6a4f-4a44-89d7-dedc6f731b39
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 3c43f78f-6db0-45ce-b9e0-104e402f9f2a
+- 6f13c768-5619-419e-97af-60440cab7f89
