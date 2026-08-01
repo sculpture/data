@@ -1,0 +1,15 @@
+id: dfb23d78-3253-490e-bfcb-cb0ff82405ad
+type: sculpture
+slug: los-enamorados-conejo
+title: Monumento a los enamorados
+artist-ids:
+- 14b0333a-d00e-40d7-9a9a-59b9f838e776
+city-id: 4caaf18b-6eea-482a-b6cd-5c5a06453ae6
+date: '1971'
+link-wikipedia: https://es.wikipedia.org/wiki/Monumento_a_los_enamorados_(C%C3%B3rdoba)
+location:
+  latitude: 37.877668
+  longitude: -4.781954
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
