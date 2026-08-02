@@ -1,0 +1,16 @@
+id: f648af29-2b37-4813-a6c6-4e136f5f0276
+type: sculpture
+slug: moose-plunge-large
+title: Moose Plunge (large)
+artist-ids:
+- dbd7a34d-5d39-41b5-8bf6-b69d77cf1ea8
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2014'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
