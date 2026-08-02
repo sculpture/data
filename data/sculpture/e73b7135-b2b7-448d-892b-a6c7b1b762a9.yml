@@ -1,0 +1,18 @@
+id: e73b7135-b2b7-448d-892b-a6c7b1b762a9
+type: sculpture
+slug: crocifisso-vangi
+title: Crocifisso
+artist-ids:
+- 4b903993-b427-4f22-804d-66bc472a1423
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1999'
+display-date: 1997-99
+location:
+  latitude: 45.406828
+  longitude: 11.87183
+  precision: 10
+material-ids:
+- 983d1c37-99da-4b1d-baba-681a83e66d30
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
