@@ -1,0 +1,18 @@
+id: 5994dc8a-e42f-4b2e-8a03-7b63da1a47e8
+type: sculpture
+slug: berto-barbarani-verona
+title: Berto Barbarani
+artist-ids:
+- c48d352c-1285-4340-806c-7c81d67689d7
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: '2004'
+location:
+  latitude: 45.443348
+  longitude: 10.996987
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
