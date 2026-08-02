@@ -1,0 +1,18 @@
+id: cb6ec316-7fbb-4fb3-85fd-a5c1cfbba787
+type: sculpture
+slug: madonna-noli
+title: Madonna dei Noli
+artist-ids:
+- 08844b16-195a-405d-ba46-98761e9b0bcd
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1756'
+location:
+  latitude: 45.409264
+  longitude: 11.877692
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 279845c2-7073-4c03-bf6a-f10ce199fb06
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- de83a4c2-214e-45fb-a307-c835449e52bf
