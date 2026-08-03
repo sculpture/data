@@ -1,0 +1,19 @@
+id: bfd2caa0-9107-41ae-8039-19443940c23e
+type: sculpture
+slug: zma-plersch
+title: Zima
+artist-ids:
+- 3941da2e-e2ca-4ebc-83b6-8dd9986d1788
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1750'
+display-date: 1740-50
+location:
+  latitude: 52.240403
+  longitude: 21.009458
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
