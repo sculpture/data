@@ -1,0 +1,17 @@
+id: 0fc200b8-a762-45bf-b9ab-2810dd64f000
+type: sculpture
+slug: marilyn-monroe-kielce
+title: Marilyn Monroe
+artist-ids:
+- 5176e96d-3776-40ed-9ab8-b458a6e06aa6
+city-id: 79bfa5b7-411c-45c7-9dba-1903b4235a4f
+date: '2009'
+location:
+  latitude: 50.866567
+  longitude: 20.62167
+  precision: 10
+material-ids:
+- 983d1c37-99da-4b1d-baba-681a83e66d30
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- b60664f3-1a68-41a3-bcb7-1dce648ebfc4
