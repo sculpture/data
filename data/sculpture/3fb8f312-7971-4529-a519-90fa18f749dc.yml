@@ -1,0 +1,19 @@
+id: 3fb8f312-7971-4529-a519-90fa18f749dc
+type: sculpture
+slug: portyk-zebrowska
+title: Portyk
+artist-ids:
+- 7af676c9-dcf2-483b-8ef6-0a1e657c47a2
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1992'
+location:
+  latitude: 52.233047
+  longitude: 21.008398
+  precision: 10
+material-ids:
+- 56560105-70a1-4867-aaea-6d76d31576c0
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
