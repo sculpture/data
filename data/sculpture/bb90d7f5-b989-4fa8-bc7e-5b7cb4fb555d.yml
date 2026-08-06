@@ -1,0 +1,18 @@
+id: bb90d7f5-b989-4fa8-bc7e-5b7cb4fb555d
+type: sculpture
+slug: zen-for-hoejabi
+title: Zen for Hoejabi
+artist-ids:
+- 2071d369-cd82-4943-971f-90faf4fac6e2
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2022'
+location:
+  latitude: 52.233256
+  longitude: 21.008839
+  precision: 10
+material-ids:
+- 2dc45cd1-a7d7-4496-b4da-0ab63b1f8545
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
