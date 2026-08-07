@@ -1,0 +1,21 @@
+id: 09ed31d7-1c09-4401-9ae4-4f75fd1580c5
+type: sculpture
+slug: leda-swan-correr
+title: Leda and the Swan
+artist-ids:
+- abbc0dcb-ac03-4dd8-af23-974cd5ae7c6f
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '0150'
+display-date: 2nd century AD
+location:
+  latitude: 45.433792
+  longitude: 12.337206
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+note: Roman copy, based on an Attic/Hellenistic original of the mid-1st century BC
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
