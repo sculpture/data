@@ -1,0 +1,18 @@
+id: 87e36835-a3c1-45ae-88a7-277c576c85a3
+type: sculpture
+slug: spirit-ashevak
+title: Spirit
+artist-ids:
+- a652c484-e353-4332-82ce-a4d8524960c2
+city-id: 5899c2fb-c707-426d-a651-491dec175f49
+date: '1973'
+display-date: c.1973
+location:
+  latitude: 43.843524
+  longitude: -79.616461
+  precision: 10
+material-ids:
+- 8e0fe824-bdd0-4e74-bac1-2869f18224e0
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
