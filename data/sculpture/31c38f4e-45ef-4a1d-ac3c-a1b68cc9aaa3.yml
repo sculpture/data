@@ -8,9 +8,9 @@ artist-ids:
 city-id: 9feeba88-1b66-4091-a267-5a2cbf0bfd66
 date: '2022'
 location:
-  latitude: 43.200912
-  longitude: -79.267641
-  precision: 33
+  latitude: 43.199786
+  longitude: -79.265999
+  precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 - 3766e674-65cd-465e-a424-0b60e4609ab0
