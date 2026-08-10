@@ -1,0 +1,19 @@
+id: 31c38f4e-45ef-4a1d-ac3c-a1b68cc9aaa3
+type: sculpture
+slug: pull-nogales
+title: The Pull
+artist-ids:
+- 9a0a94d9-c4d1-45f5-ac3a-0bfb0563a15d
+- a72315fc-ea46-41f6-a11e-90d825b4acfe
+city-id: 9feeba88-1b66-4091-a267-5a2cbf0bfd66
+display-date: '2022'
+location:
+  latitude: 43.200912
+  longitude: -79.267641
+  precision: 33
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+- 3766e674-65cd-465e-a424-0b60e4609ab0
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 89f78d37-2315-4104-bfe7-610b444b2485
