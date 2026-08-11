@@ -1,7 +1,7 @@
 id: d93ccd55-8f89-442c-8a9a-a6aaec695989
 type: sculpture
 slug: wolf-head-sculpture
-title: 'Wolf Head '
+title: Wolf Head Sculpture
 artist-ids:
 - 9d478e6d-5f3e-4381-bc70-d71b30f44db6
 city-id: 5899c2fb-c707-426d-a651-491dec175f49
@@ -14,6 +14,7 @@ location:
 material-ids:
 - 3a4dcc02-c767-49b3-98e7-44cc13cc7dcd
 - 97c5fd32-4d63-402b-a11d-20e89aa80523
+- d4d4b7bb-225a-4a78-91be-5b7be0f372ff
 tag-ids:
 - 6e7acccc-b938-4472-ab16-90a5bad576a3
 - 6f13c768-5619-419e-97af-60440cab7f89
