@@ -1,0 +1,17 @@
+id: 2880c40f-a630-4952-b64f-68a2c1bde96d
+type: sculpture
+slug: minstrels-sisler
+title: The Minstrels
+artist-ids:
+- 16dafaba-1130-470b-82a5-8f6d324ba0cb
+city-id: b1bfcadf-e142-4773-a974-cad980bc87bd
+date: '1967'
+location:
+  latitude: 42.778883
+  longitude: -81.196041
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
