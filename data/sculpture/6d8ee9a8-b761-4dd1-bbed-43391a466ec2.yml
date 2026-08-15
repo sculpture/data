@@ -1,0 +1,18 @@
+id: 6d8ee9a8-b761-4dd1-bbed-43391a466ec2
+type: sculpture
+slug: porta-centrale-st-giustina
+title: Porta Centrale of Santa Giustina
+artist-ids:
+- c48d352c-1285-4340-806c-7c81d67689d7
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '2000'
+display-date: 1998-2001
+location:
+  latitude: 45.396612
+  longitude: 11.878908
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- e78083c3-6cf7-41f2-95b5-5c4fad650664
