@@ -1,0 +1,17 @@
+id: 1af08157-db4d-4b01-87b2-31e5dcf7ef9c
+type: sculpture
+slug: conchita-aranda-fosa
+title: Conchita Aranda Fosa
+artist-ids:
+- 81deeacf-dff6-448a-b8d8-79e082c0919a
+city-id: 98303212-89e1-46b3-84aa-1932d4b0b8e7
+date: '2011'
+location:
+  latitude: 36.528416
+  longitude: -6.2912
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
