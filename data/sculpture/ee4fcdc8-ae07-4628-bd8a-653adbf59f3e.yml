@@ -1,0 +1,17 @@
+id: ee4fcdc8-ae07-4628-bd8a-653adbf59f3e
+type: sculpture
+slug: after-dance
+title: After the Dance
+artist-ids:
+- a500f060-f71a-41a5-ba55-f8034cdac7c2
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2002'
+location:
+  latitude: 43.671521
+  longitude: -79.393559
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- bbcb416f-d400-4a07-8a83-79a445209a57
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
