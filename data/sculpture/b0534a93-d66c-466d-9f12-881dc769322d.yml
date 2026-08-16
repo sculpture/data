@@ -1,0 +1,16 @@
+id: b0534a93-d66c-466d-9f12-881dc769322d
+type: sculpture
+slug: sun-energy-life
+title: The Sun - Energy of Life
+artist-ids:
+- 80dc19fd-a016-44f5-8421-4dc072fea9bc
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2024'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- cf38381e-1b86-4728-8349-6febca8429d0
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
