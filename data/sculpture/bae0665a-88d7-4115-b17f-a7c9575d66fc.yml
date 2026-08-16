@@ -1,0 +1,20 @@
+id: bae0665a-88d7-4115-b17f-a7c9575d66fc
+type: sculpture
+slug: bohaterstwo-jarnuszkiewicz
+title: Bohaterstwo
+artist-ids:
+- 0a854d09-2dd6-422e-872d-a8c727fe9981
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1952'
+location:
+  latitude: 52.202752
+  longitude: 20.987714
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 2d7e8f2e-e187-462b-a638-06a4ef145363
+- 5ca52c8a-d33f-4988-bdde-7ff515cc9774
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- ce5eba46-3dff-4d8c-89c8-4fab2da9a37d
