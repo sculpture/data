@@ -1,0 +1,15 @@
+id: 72d424e5-2c9d-4839-b4c5-8ef31968bc2b
+type: sculpture
+slug: sphere-sphere-dublin
+title: Sphere Within Sphere
+artist-ids:
+- b0f670b0-dd0d-4118-9e1c-68d5837a902f
+city-id: 7200b6a6-6cf9-43be-ae02-e01d425d6864
+date: '1967'
+link-wikipedia: https://en.wikipedia.org/wiki/Sphere_Within_Sphere
+location:
+  latitude: 53.343781
+  longitude: -6.255913
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
