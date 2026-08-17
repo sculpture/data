@@ -1,0 +1,16 @@
+id: 55b9fc97-de9b-4ab2-80e5-203f8729cad1
+type: sculpture
+slug: shaman-spirit
+title: Shaman Spirit
+artist-ids:
+- 2ebe0975-4ee9-4c45-aa03-8f44e9da763d
+city-id: 5899c2fb-c707-426d-a651-491dec175f49
+date: '1997'
+display-date: c.1997
+location:
+  latitude: 43.843524
+  longitude: -79.616461
+  precision: 10
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
