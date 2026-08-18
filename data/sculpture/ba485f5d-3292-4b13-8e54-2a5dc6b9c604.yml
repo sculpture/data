@@ -1,0 +1,16 @@
+id: ba485f5d-3292-4b13-8e54-2a5dc6b9c604
+type: sculpture
+slug: shamse
+title: 'Shamsé '
+artist-ids:
+- 3212e0f3-83bc-497f-8efd-60bab40b736e
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2025'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
