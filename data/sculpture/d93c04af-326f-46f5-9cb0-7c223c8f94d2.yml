@@ -1,0 +1,17 @@
+id: d93c04af-326f-46f5-9cb0-7c223c8f94d2
+type: sculpture
+slug: siena-cathedral-facade
+title: 'Siena Cathedral facade '
+artist-ids:
+- d11e4be8-f5d6-4caa-a158-71a2b6448bc0
+city-id: d2b07441-23d2-4ec3-8897-7266c2354a15
+date: '1296'
+display-date: 1284-96
+location:
+  latitude: 43.317444
+  longitude: 11.328687
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 3e78d325-8938-49e8-8be1-e5fbb1425c9c
