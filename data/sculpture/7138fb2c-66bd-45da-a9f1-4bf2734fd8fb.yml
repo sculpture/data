@@ -1,0 +1,19 @@
+id: 7138fb2c-66bd-45da-a9f1-4bf2734fd8fb
+type: sculpture
+slug: galileo-galilei-pisa
+title: Galileo Galilei
+artist-ids:
+- bfe483ea-02cc-4b3f-b9ba-b81b4f3fc730
+city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
+date: '1996'
+location:
+  latitude: 43.714428
+  longitude: 10.392599
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 981f0f0b-7f88-43af-b1d6-1ed2653e71ae
+- 9905d2f9-00e0-443b-8640-dfb98d4795a1
