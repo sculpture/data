@@ -1,0 +1,19 @@
+id: 56ae118f-e7d2-43a8-9d0c-767a4783fc08
+type: sculpture
+slug: tomb-angelica-catalani
+title: Tomb of Angelica Catalani
+artist-ids:
+- d06ee9ec-9f00-47ed-a7fc-b4deb439935d
+city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
+date: '1867'
+display-date: 1859-67
+location:
+  latitude: 43.723821
+  longitude: 10.395381
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 59e1c5cc-4934-4b56-bcf8-b0df0ba8128f
+- 7f71b64e-1528-4c0f-8a7a-0421d1d63797
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
