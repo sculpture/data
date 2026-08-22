@@ -1,0 +1,16 @@
+id: eefc7a76-c623-4e89-a222-cc18e05f185f
+type: sculpture
+slug: balanced-cylinders
+title: Balanced Cylinders
+artist-ids:
+- 228f9cd3-0817-4746-a9dc-aef03c6892a5
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1984'
+location:
+  latitude: 40.694371
+  longitude: -73.986576
+  precision: 10
+material-ids:
+- d0c52472-81c0-4c1d-abd7-3a32fd760700
+tag-ids:
+- f512d675-0554-4a67-987c-1da560f2c95a
