@@ -1,0 +1,18 @@
+id: 7972ce05-429d-4f52-9a6b-ca39ce6e3582
+type: sculpture
+slug: puerta-perdon-pedro
+title: Puerta del Perdón - San Pedro
+artist-ids:
+- 6640f2fb-3d8f-479d-bb7d-4b3d12d99b57
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '1522'
+display-date: 1519-22
+location:
+  latitude: 37.386623
+  longitude: -5.993321
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- de83a4c2-214e-45fb-a307-c835449e52bf
