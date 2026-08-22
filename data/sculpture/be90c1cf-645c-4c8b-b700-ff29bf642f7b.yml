@@ -1,7 +1,7 @@
 id: be90c1cf-645c-4c8b-b700-ff29bf642f7b
 type: sculpture
-slug: rueda-de-los-andes
-title: Rueda de los Andes
+slug: luna-creciente
+title: Luna creciente
 artist-ids:
 - 7cef7dae-912d-4c7e-93a7-f6ac83700461
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
@@ -13,4 +13,3 @@ location:
 material-ids:
 - 2e85dfa0-1256-4ff9-aab4-cba270b8e984
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
-title-en: The Andes Wheel
