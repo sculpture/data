@@ -1,0 +1,21 @@
+id: 7dedcb4f-5078-4089-83e3-8081868cb45b
+type: sculpture
+slug: imperatrice-niki
+title: L'Imperatrice
+artist-ids:
+- b15e5537-c19f-4425-9f68-96e31aa0a0a3
+city-id: 87e31feb-218f-4ab6-b6f8-cecc048ebe35
+date: '1982'
+display-date: 1980-82
+location:
+  latitude: 42.425781
+  longitude: 11.466991
+  precision: 10
+material-ids:
+- 18829464-3bed-4f42-b206-8d99f402dc1b
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- 82d9ed4b-e837-4b5e-8c17-40469885764c
+- c39ebe32-45af-42c1-a8dc-8a3a4558d5bd
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+title-en: Empress
