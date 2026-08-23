@@ -1,0 +1,17 @@
+id: a009b8ea-1202-4925-9ac2-f2e840ae792b
+type: sculpture
+slug: torcuato-luca-tena
+title: Torcuato Luca de Tena
+artist-ids:
+- ac9cf8ba-480c-4210-875b-8eb46688b637
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '1954'
+location:
+  latitude: 37.374183
+  longitude: -5.987223
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- f608c279-0df9-40f8-b0c6-c900a4ded7bf
