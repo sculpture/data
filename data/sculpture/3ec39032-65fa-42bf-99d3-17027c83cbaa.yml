@@ -1,7 +1,7 @@
 id: 3ec39032-65fa-42bf-99d3-17027c83cbaa
 type: sculpture
 slug: river-mailol
-title: The River
+title: La Rivière
 artist-ids:
 - 65b29e60-e2c4-47e0-97e7-dd087727cc3f
 city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
@@ -18,3 +18,4 @@ tag-ids:
 - 5c663cd6-6348-4c33-ba88-0d9152262a9b
 - 5ca52c8a-d33f-4988-bdde-7ff515cc9774
 - 9f63b713-73f7-46b1-9a00-5f35064e4c04
+title-en: The River
