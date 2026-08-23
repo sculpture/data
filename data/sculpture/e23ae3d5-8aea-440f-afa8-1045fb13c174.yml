@@ -1,0 +1,19 @@
+id: e23ae3d5-8aea-440f-afa8-1045fb13c174
+type: sculpture
+slug: virgen-mayor-dolor-cruz
+title: Virgen del Mayor Dolor
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 85d008f1-2ceb-440e-824e-42d713b447b5
+date: '1752'
+display-date: c.1752
+location:
+  latitude: 37.386736
+  longitude: -5.989519
+  precision: 10
+material-ids:
+- d0e544f1-8f9a-4225-acc0-39833a263af0
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- de83a4c2-214e-45fb-a307-c835449e52bf
