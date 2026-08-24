@@ -1,0 +1,14 @@
+id: fd981fd2-5fd2-4bc4-8378-cddceab760fe
+type: sculpture
+slug: totem-love-sora
+title: Totem of Love
+artist-ids:
+- 7d0b8793-6719-4296-9064-458c41ab4ae6
+city-id: 4c7cdf32-7fd5-42fb-a1e0-a0b1ca98e5c8
+date: '1979'
+location:
+  latitude: 34.39854
+  longitude: 132.453717
+  precision: 10
+material-ids:
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
