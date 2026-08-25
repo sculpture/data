@@ -1,0 +1,23 @@
+id: 39bd96e1-bc09-4f78-a4dc-be5c24fc2ad6
+type: sculpture
+slug: pippo-ippopotamo
+title: Pippo l'ippopotamo
+artist-ids:
+- 868767ac-da3c-469b-af1f-6544c0693428
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1966'
+location:
+  latitude: 45.440379
+  longitude: 12.315955
+  precision: 10
+material-ids:
+- 17846e26-3089-4526-a65e-8bd77bd4e8e0
+- 56560105-70a1-4867-aaea-6d76d31576c0
+- 683ca176-b7aa-4498-b6f3-e81e56ecffc0
+tag-ids:
+- 0da82d60-8316-4720-b0f2-edcc3c2adcab
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
