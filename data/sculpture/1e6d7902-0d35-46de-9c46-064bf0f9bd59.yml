@@ -1,0 +1,19 @@
+id: 1e6d7902-0d35-46de-9c46-064bf0f9bd59
+type: sculpture
+slug: ioannis-varvakis
+title: Ioannis Varvakis
+artist-ids:
+- 036e1ff5-c679-4fbc-944b-b1815f3d063d
+city-id: 94000128-8e37-4218-8dea-760b33ce4274
+date: '1866'
+location:
+  latitude: 37.98381
+  longitude: 23.727539
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5be20202-3d26-474b-bc9e-b27ec5de1b09
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- bf6e2af4-6918-408e-9ebf-f559bf8f16cb
