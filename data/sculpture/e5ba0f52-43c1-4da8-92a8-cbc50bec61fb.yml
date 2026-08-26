@@ -1,0 +1,17 @@
+id: e5ba0f52-43c1-4da8-92a8-cbc50bec61fb
+type: sculpture
+slug: partigiano-verona
+title: Monumento al Partigiano
+artist-ids:
+- a8899e97-ae9d-435b-bf31-764057dce9af
+city-id: 2aea5283-47dc-4233-abd6-892e67c1b762
+date: '1946'
+location:
+  latitude: 45.438476
+  longitude: 10.992958
+  precision: 10
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 2d7e8f2e-e187-462b-a638-06a4ef145363
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
