@@ -1,0 +1,18 @@
+id: 434e9a9e-087d-47d6-920a-7804f18a6421
+type: sculpture
+slug: judgment-solomon-bon
+title: Judgment of Solomon
+artist-ids:
+- 0c1c98a5-1efe-44eb-974b-073594921cc1
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1430'
+display-date: 1430s
+location:
+  latitude: 45.433704
+  longitude: 12.340389
+  precision: 10
+material-ids:
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- e231b618-b7c1-4206-988c-813c2964e1a5
