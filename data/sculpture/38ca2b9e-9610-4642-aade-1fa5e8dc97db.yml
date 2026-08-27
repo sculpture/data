@@ -1,0 +1,19 @@
+id: 38ca2b9e-9610-4642-aade-1fa5e8dc97db
+type: sculpture
+slug: lord-byron-athens
+title: Lord Byron
+artist-ids:
+- 0d9810d4-1931-4af0-a241-1ca5d85e08da
+- 5b15c457-b011-4b95-b429-aaed20f0e490
+city-id: 94000128-8e37-4218-8dea-760b33ce4274
+date: '1895'
+location:
+  latitude: 37.972588
+  longitude: 23.737433
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
