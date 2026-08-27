@@ -1,0 +1,10 @@
+id: 5b15c457-b011-4b95-b429-aaed20f0e490
+type: artist
+slug: henri-chapu
+name: Henri Chapu
+birth-date: '1833'
+death-date: '1891'
+gender: male
+link-wikipedia: https://en.wikipedia.org/wiki/Henri_Chapu
+nationality-ids:
+- a651bd10-8516-4046-a33d-8ec16799a830
