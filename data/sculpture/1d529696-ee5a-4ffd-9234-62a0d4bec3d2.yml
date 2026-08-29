@@ -1,0 +1,18 @@
+id: 1d529696-ee5a-4ffd-9234-62a0d4bec3d2
+type: sculpture
+slug: theseus-vitalis
+title: Theseus
+artist-ids:
+- ae43201b-b3a1-432d-96b9-32e06f132d41
+city-id: 94000128-8e37-4218-8dea-760b33ce4274
+date: '1868'
+location:
+  latitude: 37.972588
+  longitude: 23.737433
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
