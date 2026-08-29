@@ -1,0 +1,18 @@
+id: 29e8699e-959c-4cbd-9ae2-430fab0cc6db
+type: sculpture
+slug: sei-musici-maiano
+title: I Sei Musici
+artist-ids:
+- ed35da67-653c-41f6-abe1-8ef25a4bb122
+city-id: 4447a9aa-031f-4711-9f31-1ee6786a074b
+date: '1494'
+display-date: c.1494
+location:
+  latitude: 43.770398
+  longitude: 11.258008
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e67f346e-191a-4f0f-a6c2-861e72e7f78f
