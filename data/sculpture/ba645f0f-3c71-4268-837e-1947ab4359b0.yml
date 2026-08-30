@@ -1,0 +1,18 @@
+id: ba645f0f-3c71-4268-837e-1947ab4359b0
+type: sculpture
+slug: antero-de-quental-feyo
+title: Antero de Quental
+artist-ids:
+- 1a76d9fe-3c2b-4671-9a6c-53e4ec1e1905
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1946'
+location:
+  latitude: 38.714765
+  longitude: -9.159257
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
