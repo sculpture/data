@@ -1,0 +1,15 @@
+id: 218135c1-cea6-4e61-9f24-6c3fb913b6f8
+type: sculpture
+slug: testigo-tempo-olvera
+title: Testigo del Tiempo
+artist-ids:
+- f53ea7e6-184a-47b9-9d4b-a071f8414310
+city-id: 6c649d78-126c-4669-947a-984aa56176bb
+date: '2011'
+display-date: c.2011
+location:
+  latitude: 18.472787
+  longitude: -69.883526
+  precision: 10
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
