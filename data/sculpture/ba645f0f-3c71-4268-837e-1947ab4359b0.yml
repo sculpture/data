@@ -7,8 +7,8 @@ artist-ids:
 city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
 date: '1946'
 location:
-  latitude: 38.71479
-  longitude: -9.15945
+  latitude: 38.714828
+  longitude: -9.159498
   precision: 10
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
