@@ -1,0 +1,15 @@
+id: 25bd3eb7-fb87-4d37-a75d-a6458d423ad8
+type: sculpture
+slug: categoria-de-plata
+title: A la Categoría de Plata
+artist-ids:
+- 91b57570-8fad-4cf5-ae29-4017dd6dcc3f
+city-id: 6510c585-9cc8-4937-a208-5826ab648a04
+date: '2007'
+display-date: c.2007
+location:
+  latitude: 36.742335
+  longitude: -5.167072
+  precision: 10
+material-ids:
+- 95a48ae8-6d9b-4ae1-8704-f9685d804a35
