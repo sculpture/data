@@ -1,0 +1,18 @@
+id: 983498ce-e0b9-4721-acc6-331c2f700902
+type: sculpture
+slug: david-goliath-hess
+title: David und Goliath
+artist-ids:
+- 70d52baf-5cec-40cb-857a-beddc525bc14
+city-id: 49b8f8cb-ae2c-4822-bc1a-b24da9e7492d
+date: '1983'
+location:
+  latitude: 50.114821
+  longitude: 8.687415
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- e231b618-b7c1-4206-988c-813c2964e1a5
