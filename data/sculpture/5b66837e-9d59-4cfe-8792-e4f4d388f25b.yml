@@ -1,0 +1,19 @@
+id: 5b66837e-9d59-4cfe-8792-e4f4d388f25b
+type: sculpture
+slug: saint-paul-hutter
+title: Saint Paul
+artist-ids:
+- 3bdee985-2f7f-4604-9c19-09d0f8fea713
+city-id: 40dd465e-0f69-4976-aca4-03c60b8bf585
+date: '1729'
+display-date: 1727-29
+location:
+  latitude: 50.682241
+  longitude: 21.750178
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- de83a4c2-214e-45fb-a307-c835449e52bf
