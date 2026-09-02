@@ -1,0 +1,16 @@
+id: 132c4207-3f25-495b-a4ca-fab9e5a41355
+type: sculpture
+slug: pugilatore-messina
+title: Il Pugilatore
+artist-ids:
+- 9f537058-fa0a-4826-83a3-4a818cdb14f9
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '1992'
+location:
+  latitude: 43.955563
+  longitude: 10.233469
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- e0decfe4-4a78-4f23-af47-3f549797b85a
