@@ -1,0 +1,19 @@
+id: 7d9b9f08-f37f-4577-a710-355fd2a89963
+type: sculpture
+slug: personification-asia-hutter
+title: Personification of Asia
+artist-ids:
+- 3bdee985-2f7f-4604-9c19-09d0f8fea713
+city-id: 40dd465e-0f69-4976-aca4-03c60b8bf585
+date: '1727'
+display-date: 1720-27
+location:
+  latitude: 50.676838
+  longitude: 21.750735
+  precision: 10
+material-ids:
+- d0e544f1-8f9a-4225-acc0-39833a263af0
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
