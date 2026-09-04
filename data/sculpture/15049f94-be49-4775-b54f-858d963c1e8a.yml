@@ -7,13 +7,14 @@ artist-ids:
 city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
 date: '1909'
 location:
-  latitude: 43.957187
-  longitude: 10.231712
+  latitude: 43.956691
+  longitude: 10.231163
   precision: 10
 material-ids:
 - cb200a7c-ec52-458c-bc2b-00633fa39eaf
 tag-ids:
 - 18d2fd29-8838-4290-a343-39182ae9b445
 - 4c322e34-9a51-4a23-ae62-8e335c882325
+- 62501ae5-7d99-4fb1-ac89-3984d67a6d24
 - 9905d2f9-00e0-443b-8640-dfb98d4795a1
 - cc034efc-b82b-42ee-a2d2-16753502bef1
