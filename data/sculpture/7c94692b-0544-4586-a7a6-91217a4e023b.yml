@@ -1,0 +1,18 @@
+id: 7c94692b-0544-4586-a7a6-91217a4e023b
+type: sculpture
+slug: cesare-battisti-bozzano
+title: Cesare Battisti
+artist-ids:
+- a50a5d53-00a7-4d4a-b5d5-bb2beabbdb09
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '1917'
+location:
+  latitude: 43.957187
+  longitude: 10.231712
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 4c322e34-9a51-4a23-ae62-8e335c882325
+- f608c279-0df9-40f8-b0c6-c900a4ded7bf
