@@ -1,0 +1,16 @@
+id: 6a5a0a7e-2f10-4617-beb4-6cd41ac5885a
+type: sculpture
+slug: source-plensa-montreal
+title: Source
+artist-ids:
+- 24827920-a2c6-4427-ada2-0c28680fad21
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '2017'
+location:
+  latitude: 45.500297
+  longitude: -73.564535
+  precision: 10
+material-ids:
+- cf38381e-1b86-4728-8349-6febca8429d0
+tag-ids:
+- df4890c4-2701-4782-a670-d019b3b95547
