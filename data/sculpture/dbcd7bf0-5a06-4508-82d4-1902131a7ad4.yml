@@ -1,0 +1,20 @@
+id: dbcd7bf0-5a06-4508-82d4-1902131a7ad4
+type: sculpture
+slug: pope-urban-viii-bernini
+title: Pope Urban VIII
+artist-ids:
+- f4693d05-5d93-4c05-868b-6fa45ade4f36
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1632'
+display-date: c.1632
+location:
+  latitude: 45.429535
+  longitude: -75.698906
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 91dc9534-fac3-4f77-aaa1-5a701b6ab79b
