@@ -1,0 +1,20 @@
+id: e8bb5434-82a4-4aed-aeef-3ca957ed8efb
+type: sculpture
+slug: et-toujours-et-jamais
+title: Et toujours !! Et jamais !!
+artist-ids:
+- dc3e40d4-692d-474c-b80c-6b93991d243f
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1859'
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- 4cd09e5a-9808-4c0d-98e6-e66a16333a95
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
+title-en: Forever! Never!
