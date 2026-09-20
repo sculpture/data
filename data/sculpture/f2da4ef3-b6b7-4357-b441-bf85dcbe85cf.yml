@@ -1,0 +1,21 @@
+id: f2da4ef3-b6b7-4357-b441-bf85dcbe85cf
+type: sculpture
+slug: torso-de-la-foreuse
+title: Torso de la foreuse
+artist-ids:
+- df1f80b4-ca05-473f-ad37-7d450c0f1322
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1916'
+display-date: 1913-16
+link-wikipedia: https://en.wikipedia.org/wiki/Rock_Drill_(Jacob_Epstein)
+location:
+  latitude: 45.429838
+  longitude: -75.699107
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+title-en: Torso from Rock Drill
