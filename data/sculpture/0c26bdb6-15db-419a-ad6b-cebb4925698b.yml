@@ -1,0 +1,18 @@
+id: 0c26bdb6-15db-419a-ad6b-cebb4925698b
+type: sculpture
+slug: pavlos-melas-monument
+title: Pavlos Melas Monument
+artist-ids:
+- cc79449c-7ec2-4cb9-afbb-2ac79f77e3c1
+city-id: 94000128-8e37-4218-8dea-760b33ce4274
+date: '1910'
+location:
+  latitude: 37.975365
+  longitude: 23.743299
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
+title-en: Μνημείο Παύλου Μελά
