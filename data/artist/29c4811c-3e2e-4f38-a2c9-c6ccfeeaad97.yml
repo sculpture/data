@@ -1,0 +1,12 @@
+id: 29c4811c-3e2e-4f38-a2c9-c6ccfeeaad97
+type: artist
+slug: frank-stella
+name: Frank Stella
+birth-date: '1936'
+death-date: '2024'
+gender: male
+link-wikipedia: https://en.wikipedia.org/wiki/Frank_Stella
+nationality-ids:
+- f41cbf6e-d705-45da-acdc-7d0dc4896553
+tag-ids:
+- 92f5b43c-299b-49c6-a5f6-f1aa2b4eaa61
