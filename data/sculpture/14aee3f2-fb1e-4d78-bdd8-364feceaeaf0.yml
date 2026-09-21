@@ -1,0 +1,14 @@
+id: 14aee3f2-fb1e-4d78-bdd8-364feceaeaf0
+type: sculpture
+slug: jacobs-ladder
+title: Jacob's Ladder
+artist-ids:
+- 47ff2d8f-3b86-4f29-8297-10bf119391fe
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2017'
+location:
+  latitude: 43.647894
+  longitude: -79.375629
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
