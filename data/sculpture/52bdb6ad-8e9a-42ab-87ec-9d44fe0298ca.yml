@@ -1,0 +1,17 @@
+id: 52bdb6ad-8e9a-42ab-87ec-9d44fe0298ca
+type: sculpture
+slug: petite-venus-meudon
+title: Petite Vénus de Meudon
+artist-ids:
+- 751ba8f1-a286-4846-bc74-0ccd9d70d63a
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1957'
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
