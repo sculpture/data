@@ -1,0 +1,21 @@
+id: 1a2fedd8-2ef6-4622-a0f7-f6efdacc88ab
+type: sculpture
+slug: les-sirenes-rodin-montreal
+title: Les sirènes
+artist-ids:
+- 0d0131e9-ece4-417f-80bd-904e881f478e
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1888'
+display-date: 1887-88
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
