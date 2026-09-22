@@ -1,0 +1,23 @@
+id: ba2a164c-6443-40b3-b9a6-ce8fc0265658
+type: sculpture
+slug: age-airain-rodin-ottawa
+title: L'Age d'Airain
+artist-ids:
+- 0d0131e9-ece4-417f-80bd-904e881f478e
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1876'
+display-date: 1875-76
+link-wikipedia: https://en.wikipedia.org/wiki/The_Age_of_Bronze
+location:
+  latitude: 45.4295
+  longitude: -75.69858
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast 1898
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- c9884cff-1c92-48b5-816b-aa0479de54fa
+title-en: Age of Bronze
