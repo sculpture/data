@@ -1,0 +1,20 @@
+id: c9c79132-5530-4dd1-a5e9-6c83a074d149
+type: sculpture
+slug: le-penseur-montreal
+title: Le Penseur
+artist-ids:
+- 0d0131e9-ece4-417f-80bd-904e881f478e
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1882'
+display-date: 1881-82
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- c9884cff-1c92-48b5-816b-aa0479de54fa
