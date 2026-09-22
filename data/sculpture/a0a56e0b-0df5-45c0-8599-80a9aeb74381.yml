@@ -6,6 +6,7 @@ artist-ids:
 - 1cc5b45d-2137-4044-a34d-805390f18c92
 city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
 date: '1826'
+display-date: after 1826
 location:
   latitude: 45.498522
   longitude: -73.5794
