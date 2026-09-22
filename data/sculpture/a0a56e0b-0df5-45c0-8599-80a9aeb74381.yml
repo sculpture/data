@@ -1,0 +1,21 @@
+id: a0a56e0b-0df5-45c0-8599-80a9aeb74381
+type: sculpture
+slug: nymphe-salmacis
+title: La Nymphe Salmacis
+artist-ids:
+- 1cc5b45d-2137-4044-a34d-805390f18c92
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1826'
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
