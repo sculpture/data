@@ -1,0 +1,18 @@
+id: ee5302b9-1a8b-45e8-9ed3-53e797c6ddc3
+type: sculpture
+slug: mother-child-moore-montreal
+title: Mother and Child (Moore)
+artist-ids:
+- 2fb2873a-8083-45af-b967-a8ffd1e0b75d
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1939'
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- ea310784-30d7-4a31-9c7b-22e86c3cf049
