@@ -1,0 +1,17 @@
+id: a1f87794-5782-4940-a73a-e4be98769303
+type: sculpture
+slug: attente-kahane
+title: L'attente
+artist-ids:
+- 74d9a914-5ce4-46e4-940d-7b7dcdf8660b
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1959'
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
