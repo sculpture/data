@@ -1,0 +1,19 @@
+id: 4a29b0b4-9ff7-4704-a67e-865143a61f25
+type: sculpture
+slug: saint-joseph-oratory
+title: Saint Joseph
+artist-ids:
+- d031e953-5fd9-479b-b2f4-929c59f8064f
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1922'
+location:
+  latitude: 45.493248
+  longitude: -73.620444
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- de83a4c2-214e-45fb-a307-c835449e52bf
