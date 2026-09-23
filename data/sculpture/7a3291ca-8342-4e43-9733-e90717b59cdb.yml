@@ -1,0 +1,19 @@
+id: 7a3291ca-8342-4e43-9733-e90717b59cdb
+type: sculpture
+slug: imperatrice-josephine
+title: 'Impératrice Joséphine '
+artist-ids:
+- 19ce7613-c602-4f54-a71c-d3bd99bca250
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1805'
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8bc7c77d-4709-4473-9260-4a27ed967be9
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
