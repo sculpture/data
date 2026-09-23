@@ -1,0 +1,18 @@
+id: 24d6ca4b-5d08-4f27-b230-b2c63601761c
+type: sculpture
+slug: antonio-viladomat
+title: Antonio Viladomat
+artist-ids:
+- 3b61cbdf-3dff-40b4-88ee-4777515adba1
+city-id: 38dc228d-7b71-4ed6-a578-49b80d38d6a8
+date: '1887'
+location:
+  latitude: 41.390481
+  longitude: 2.182158
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- b078f909-a131-4d37-8b36-59061078b159
