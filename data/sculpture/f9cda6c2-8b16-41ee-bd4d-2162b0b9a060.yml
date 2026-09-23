@@ -1,0 +1,21 @@
+id: f9cda6c2-8b16-41ee-bd4d-2162b0b9a060
+type: sculpture
+slug: head-baby-mueck
+title: Head of a Baby
+artist-ids:
+- c3ae8580-9dbc-478e-841c-d4ef3e0de2cf
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '2003'
+location:
+  latitude: 45.429535
+  longitude: -75.698906
+  precision: 10
+material-ids:
+- 1df5830e-aa31-460c-a366-f07356994824
+- 56560105-70a1-4867-aaea-6d76d31576c0
+- 69e5a178-1413-4cf2-8805-5ac28641e955
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 4a6d74ec-5562-41b3-bf73-41f316dbeaa3
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
