@@ -1,0 +1,17 @@
+id: bd2c77d3-9961-4d71-9d6b-ea2927e93190
+type: sculpture
+slug: dancing-on-moon-ii
+title: Dancing on the Moon II
+artist-ids:
+- 7abba0af-7ecb-41d2-a30e-d926bad917af
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '2016'
+location:
+  latitude: 45.429535
+  longitude: -75.698906
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
