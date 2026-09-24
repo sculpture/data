@@ -1,0 +1,19 @@
+id: 5859a90f-fa8e-4294-85c2-00bdd69e06b3
+type: sculpture
+slug: head-woman-laliberte
+title: Head of a Woman
+artist-ids:
+- d031e953-5fd9-479b-b2f4-929c59f8064f
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1928'
+display-date: 1923-28
+location:
+  latitude: 45.429535
+  longitude: -75.698906
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
