@@ -1,0 +1,17 @@
+id: bb57ae71-c776-4f74-913e-d4dc82579328
+type: sculpture
+slug: georgios-souris
+title: Georgios Souris
+artist-ids:
+- 4d552be9-2b20-4cf7-8576-a08c23b737bd
+city-id: 94000128-8e37-4218-8dea-760b33ce4274
+date: '1932'
+location:
+  latitude: 37.97023
+  longitude: 23.73587
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445
