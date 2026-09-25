@@ -1,0 +1,19 @@
+id: 26e33fdd-7712-401a-adf7-4134b91baae7
+type: sculpture
+slug: melina-mercouri
+title: Melina Mercouri
+artist-ids:
+- eb8b45df-6759-4f31-acb3-28c03156b289
+city-id: 94000128-8e37-4218-8dea-760b33ce4274
+date: '1999'
+location:
+  latitude: 37.970016
+  longitude: 23.731241
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6e9f5dde-187e-4a79-8816-375f4e66539a
+- 7f71b64e-1528-4c0f-8a7a-0421d1d63797
+- b60664f3-1a68-41a3-bcb7-1dce648ebfc4
