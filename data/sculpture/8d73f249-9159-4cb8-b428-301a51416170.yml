@@ -1,0 +1,19 @@
+id: 8d73f249-9159-4cb8-b428-301a51416170
+type: sculpture
+slug: travailleurs-de-la-mer
+title: Les travailleurs de la mer
+artist-ids:
+- 1e6510b5-cb14-456d-b30c-f5eadebe4195
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1898'
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+title-en: Toilers of the Sea
