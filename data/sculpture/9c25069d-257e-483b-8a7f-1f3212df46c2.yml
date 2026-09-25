@@ -1,0 +1,19 @@
+id: 9c25069d-257e-483b-8a7f-1f3212df46c2
+type: sculpture
+slug: sovereign-barkhause
+title: Sovereign
+artist-ids:
+- d1c91d4b-7b5d-4f5e-95f2-a9bbc369eded
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '2007'
+location:
+  latitude: 45.429535
+  longitude: -75.698906
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
