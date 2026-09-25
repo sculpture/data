@@ -1,0 +1,20 @@
+id: 3dc234db-d7cc-4e4e-8c32-d4181f044d26
+type: sculpture
+slug: friedrich-nietzsche-ottawa
+title: Friedrich Nietzsche
+artist-ids:
+- b64f89ba-72e0-4b74-b58a-c2cdcf6207ba
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1904'
+display-date: c.1904
+location:
+  latitude: 45.429535
+  longitude: -75.698906
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- cc034efc-b82b-42ee-a2d2-16753502bef1
