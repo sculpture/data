@@ -1,0 +1,15 @@
+id: 9b4d9b65-e6e1-432a-a508-9e29659d2187
+type: sculpture
+slug: winged-lion-clock-tower
+title: Winged Lion
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1499'
+display-date: 1496-99
+location:
+  latitude: 45.434759
+  longitude: 12.338967
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
