@@ -1,0 +1,19 @@
+id: 072182fb-e998-4546-b26e-8074a3642c14
+type: sculpture
+slug: geological-survey-no3
+title: Geological Survey No3
+artist-ids:
+- 840d63f6-35c8-4572-a050-1d2feedbae75
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2025'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- b0a3d164-8b6a-440a-89a5-1bbb85c10c40
+- c6af2d2d-6238-4a08-960c-bbe27267b2ed
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
