@@ -1,0 +1,18 @@
+id: 5d238284-f158-4ea3-9c2f-0cd899fc7166
+type: sculpture
+slug: giulio-pontedera
+title: Giulio Pontedera
+artist-ids:
+- 8d1b0c64-a48c-4127-b0be-e3e83d155630
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1785'
+location:
+  latitude: 45.398619
+  longitude: 11.876217
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 8442b42d-d3c5-40a5-bb02-ca86953a76eb
