@@ -1,0 +1,19 @@
+id: 4a3c0a31-542e-4c08-aa65-45d845ba9dc4
+type: sculpture
+slug: amor-proximi
+title: Amor Proximi
+artist-ids:
+- 99266846-4a09-4c2d-b013-0e484bccc354
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1765'
+display-date: 1760s
+location:
+  latitude: 45.431078
+  longitude: 12.328139
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
