@@ -1,0 +1,19 @@
+id: 5318299f-a40f-42a6-8ad8-5562fb74f917
+type: sculpture
+slug: alegoria-pracy-oszczednosci
+title: Alegoria pracy i oszczędności
+artist-ids:
+- 5bdcfea2-3a3d-467b-b763-cd0b19d5f954
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1901'
+display-date: 1899-1901
+location:
+  latitude: 52.23289
+  longitude: 21.012857
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 7847b3d8-40b7-4a02-8328-5d85a3254b00
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
