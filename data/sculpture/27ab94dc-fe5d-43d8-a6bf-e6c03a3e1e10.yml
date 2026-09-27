@@ -1,0 +1,17 @@
+id: 27ab94dc-fe5d-43d8-a6bf-e6c03a3e1e10
+type: sculpture
+slug: walking-figures-montreal
+title: Walking Figures
+artist-ids:
+- 7dfcc415-fab6-492d-90d9-6c0ca0cc5583
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '2005'
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- 2aa408c8-4b60-4a40-a151-67661b57b97b
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
