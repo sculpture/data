@@ -6,11 +6,11 @@ artist-ids:
 - 25e6fed6-d9d1-41ff-bb81-853cfc360f0d
 city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
 date: '1913'
-display-date: 1913, 6th ver 1964
 location:
   latitude: 45.429535
   longitude: -75.698906
   precision: 10
+note: 6th version 1964
 tag-ids:
 - 6f13c768-5619-419e-97af-60440cab7f89
 - 9010cc4c-c852-4176-a7fe-04f0885fcffc
