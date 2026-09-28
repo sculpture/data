@@ -1,0 +1,22 @@
+id: 1d5c1e0a-5131-4236-837c-f50e1a0ed847
+type: sculpture
+slug: infinity-mirror-room
+title: Infinity Mirror Room– Let's Survive Forever
+artist-ids:
+- e45e1e3e-5742-41d9-bf97-8d7df9e7ff52
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '2017'
+location:
+  latitude: 43.653607
+  longitude: -79.392512
+  precision: 10
+material-ids:
+- 35913622-405e-4e52-b409-6acc87a4dd77
+- 82d9ed4b-e837-4b5e-8c17-40469885764c
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+- 983d1c37-99da-4b1d-baba-681a83e66d30
+- b0a3d164-8b6a-440a-89a5-1bbb85c10c40
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
