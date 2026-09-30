@@ -1,0 +1,16 @@
+id: eb4aea56-6d65-4ec4-825a-c81e91efef5a
+type: sculpture
+slug: wild-table-love
+title: The Wild Table of Love
+artist-ids:
+- 6eecf6d6-4345-4540-9b9a-063c21205a88
+city-id: 44b4dff6-ce45-4809-a10f-a424a9c4877c
+date: '2022'
+location:
+  latitude: 51.515369
+  longitude: -0.176504
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
