@@ -1,0 +1,20 @@
+id: b5cf795a-a413-473f-bb36-24fb68d2ccb8
+type: sculpture
+slug: mary-magdalene-lederer
+title: Mary Magdalene
+artist-ids:
+- 022100c4-60cf-4f9e-9da7-378f4d7523ab
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1530'
+display-date: c.1530
+location:
+  latitude: 45.429535
+  longitude: -75.698906
+  precision: 10
+material-ids:
+- d0e544f1-8f9a-4225-acc0-39833a263af0
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- de83a4c2-214e-45fb-a307-c835449e52bf
