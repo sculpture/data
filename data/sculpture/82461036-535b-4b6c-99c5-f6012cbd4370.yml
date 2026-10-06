@@ -1,0 +1,17 @@
+id: 82461036-535b-4b6c-99c5-f6012cbd4370
+type: sculpture
+slug: frozen-civilization-no2
+title: Frozen Civilization No. 2
+artist-ids:
+- 713ba9d4-14da-47da-aefd-326765c175d1
+city-id: 27c000eb-9c02-49da-9657-4974c3cb8fa2
+date: '1971'
+location:
+  latitude: 38.695874
+  longitude: -9.209091
+  precision: 10
+material-ids:
+- 02f666a5-a96a-466a-9a4a-3ff26ba1bad5
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
