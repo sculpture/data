@@ -1,0 +1,20 @@
+id: 2c66e29a-044b-4427-b056-8c6d18a65167
+type: sculpture
+slug: dancing-grl-canova-ottawa
+title: Dancing Girl with Her Hands on Her Hips
+artist-ids:
+- 51529d14-3684-48c3-9995-9469fb5b69ba
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1822'
+display-date: 1818-22
+location:
+  latitude: 45.429535
+  longitude: -75.698906
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- d5dd2c56-3c63-4f57-9b40-a946bae40077
