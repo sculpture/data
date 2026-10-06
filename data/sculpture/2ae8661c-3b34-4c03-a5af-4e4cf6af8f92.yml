@@ -1,0 +1,20 @@
+id: 2ae8661c-3b34-4c03-a5af-4e4cf6af8f92
+type: sculpture
+slug: apotheosis-napoleon-montreal
+title: Apotheosis of Napoleon
+artist-ids:
+- c4c8ec33-facc-423a-a3a9-eb6c1e5df7d4
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1830'
+display-date: c.1830
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e1747e74-d399-45e0-98c6-60514c400683
