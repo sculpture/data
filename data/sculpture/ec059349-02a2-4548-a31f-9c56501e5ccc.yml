@@ -1,0 +1,18 @@
+id: ec059349-02a2-4548-a31f-9c56501e5ccc
+type: sculpture
+slug: romilly-epstein-ottawa
+title: Romilly
+artist-ids:
+- df1f80b4-ca05-473f-ad37-7d450c0f1322
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1907'
+location:
+  latitude: 45.429535
+  longitude: -75.698906
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
