@@ -1,0 +1,17 @@
+id: e92da630-6245-49d7-8bf6-f1c0242a87b3
+type: sculpture
+slug: baldor-ii
+title: Baldor II
+artist-ids:
+- 27aa2f12-43d4-4faf-a565-faa3ae1a6965
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1988'
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
