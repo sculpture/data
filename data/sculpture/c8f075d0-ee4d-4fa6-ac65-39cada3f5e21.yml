@@ -1,0 +1,18 @@
+id: c8f075d0-ee4d-4fa6-ac65-39cada3f5e21
+type: sculpture
+slug: seated-bather-lipchitz-ottawa
+title: Seated Bather
+artist-ids:
+- 77141594-2cbf-482f-a270-b9b9c37eee58
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1916'
+location:
+  latitude: 45.429535
+  longitude: -75.698906
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- f50b4a73-c624-4c23-95b4-6ae5909fbed2
