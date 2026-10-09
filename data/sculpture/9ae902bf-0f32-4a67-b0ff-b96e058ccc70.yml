@@ -1,0 +1,17 @@
+id: 9ae902bf-0f32-4a67-b0ff-b96e058ccc70
+type: sculpture
+slug: lion-des-cyclades-assis
+title: Lion des Cyclades assis
+artist-ids:
+- 751ba8f1-a286-4846-bc74-0ccd9d70d63a
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1957'
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
