@@ -1,0 +1,19 @@
+id: 83c6af89-0d83-432b-89c4-1df00690d22f
+type: sculpture
+slug: storm-allward
+title: The Storm
+artist-ids:
+- 5f5e73b4-75e3-41bb-b698-1b7ab285d8b1
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1920'
+display-date: c.1920
+location:
+  latitude: 45.429535
+  longitude: -75.698906
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
