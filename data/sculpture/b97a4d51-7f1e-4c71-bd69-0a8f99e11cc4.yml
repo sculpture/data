@@ -1,0 +1,20 @@
+id: b97a4d51-7f1e-4c71-bd69-0a8f99e11cc4
+type: sculpture
+slug: friends-grapefruit
+title: Friends with Grapefruit
+artist-ids:
+- e19dc433-a003-4693-be03-870472feaced
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '2020'
+location:
+  latitude: 52.233284
+  longitude: 21.008795
+  precision: 10
+material-ids:
+- 1df5830e-aa31-460c-a366-f07356994824
+- 56560105-70a1-4867-aaea-6d76d31576c0
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
