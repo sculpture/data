@@ -1,0 +1,18 @@
+id: c7d3d579-4680-4eb7-8f39-46fda2f33d59
+type: sculpture
+slug: 4-black-bottoms-6-reds
+title: Four Black Bottoms and Six Reds
+artist-ids:
+- 7ad71af4-c9b7-49d0-9765-ba2a674856a0
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1957'
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- 3e1a4d8d-c598-4d0c-8999-f430c94206da
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e7c0d105-ed1d-4e46-8cd8-a5153a2a784d
