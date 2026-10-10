@@ -1,0 +1,20 @@
+id: b2f57c94-91be-4c1a-95ef-afbd3228260b
+type: sculpture
+slug: wenus-z-kapieli-lazienki
+title: Wenus wychodząca z kąpieli
+artist-ids:
+- 644d4c97-815a-4108-b9e1-2393aff6b054
+city-id: 6d6dcac9-a2b6-4721-97a0-4cac09df471c
+date: '1770'
+display-date: c. 1770
+location:
+  latitude: 52.216403
+  longitude: 21.030025
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6e89ae01-82cd-4f4a-a69d-88b36b51803a
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
