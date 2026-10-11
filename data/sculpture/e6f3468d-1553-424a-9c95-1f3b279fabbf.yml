@@ -1,0 +1,17 @@
+id: e6f3468d-1553-424a-9c95-1f3b279fabbf
+type: sculpture
+slug: yousuf-karsh
+title: Yousuf Karsh
+artist-ids:
+- d587619a-0e6b-4369-a0eb-23afce3c4a10
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '2017'
+location:
+  latitude: 45.425264
+  longitude: -75.694226
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 566d5388-7241-4299-95ae-379de08368c4
