@@ -1,0 +1,17 @@
+id: a741643d-960a-40e5-ab62-af91df87c111
+type: sculpture
+slug: man-with-guitar-lipchitz
+title: Man with Guitar
+artist-ids:
+- 77141594-2cbf-482f-a270-b9b9c37eee58
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1920'
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
