@@ -1,0 +1,16 @@
+id: 9b472667-231b-4c26-afac-f64172b592f3
+type: sculpture
+slug: perching-dragonfly
+title: Perching Dragonfly
+artist-ids:
+- ef0a8f02-3f78-42cb-a9d9-de3139dc53d1
+city-id: 57ff45c4-1820-4a8c-a8f2-8dca5c030769
+date: '2012'
+location:
+  latitude: 1.281568
+  longitude: 103.863613
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
