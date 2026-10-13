@@ -1,0 +1,14 @@
+id: e4f815a1-d98b-4fbd-b5ee-136865f2d7cb
+type: sculpture
+slug: prison-unknown-venice
+title: The Prison
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2012'
+location:
+  latitude: 45.428837
+  longitude: 12.357476
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
