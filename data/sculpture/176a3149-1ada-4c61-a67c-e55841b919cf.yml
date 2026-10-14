@@ -1,0 +1,15 @@
+id: 176a3149-1ada-4c61-a67c-e55841b919cf
+type: sculpture
+slug: majestic-broin
+title: Majestic
+artist-ids:
+- e448eac5-9f03-4094-9345-0cfd498abe0c
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '2011'
+location:
+  latitude: 45.429671
+  longitude: -75.699904
+  precision: 10
+material-ids:
+- 2e85dfa0-1256-4ff9-aab4-cba270b8e984
+- be9311b2-a6cf-45fe-b4a7-6e1288107d20
