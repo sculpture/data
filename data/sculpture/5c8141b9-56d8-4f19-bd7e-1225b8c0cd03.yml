@@ -1,0 +1,20 @@
+id: 5c8141b9-56d8-4f19-bd7e-1225b8c0cd03
+type: sculpture
+slug: apparizione-vergine-ranieri
+title: Apparizione della Vergine a San Ranieri
+artist-ids:
+- 827a7846-acae-4f9e-bc9f-fcead1b71293
+city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
+date: '1592'
+display-date: c.1592
+location:
+  latitude: 43.723352
+  longitude: 10.395911
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 78695307-4f57-45a4-9566-dd0893e2ae80
+- de83a4c2-214e-45fb-a307-c835449e52bf
