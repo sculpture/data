@@ -1,0 +1,19 @@
+id: de5c4c5d-89c7-43b5-a853-7202633b9bb4
+type: sculpture
+slug: adoratrice-del-sole
+title: Adoratrice del sole
+artist-ids:
+- dcf103c1-4f6c-4d1d-81fb-195a919ae768
+city-id: 0d9fcf53-1465-4c47-9cd0-78d5df58807b
+date: '2000'
+location:
+  latitude: 43.959393
+  longitude: 10.227223
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
