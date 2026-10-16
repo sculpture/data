@@ -1,0 +1,17 @@
+id: 2eaa35e9-3a0f-421a-a382-8ef3e80e78cb
+type: sculpture
+slug: eagle-spirit-dick
+title: Eagle Spirit
+artist-ids:
+- d56d46ee-c220-4665-b102-abadbc95344f
+city-id: 5899c2fb-c707-426d-a651-491dec175f49
+date: '1955'
+location:
+  latitude: 43.843524
+  longitude: -79.616461
+  precision: 10
+material-ids:
+- 1df5830e-aa31-460c-a366-f07356994824
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
