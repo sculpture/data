@@ -1,0 +1,15 @@
+id: 53e1f92b-335d-4128-82a3-ee003a785e58
+type: sculpture
+slug: lord-stanley-gift-covit
+title: Lord Stanley's Gift Monument
+artist-ids:
+- 3d773fc8-a238-4aa8-aa03-bc4f87c9d993
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '2017'
+link-wikipedia: https://en.wikipedia.org/wiki/Lord_Stanley%27s_Gift_Monument
+location:
+  latitude: 45.423467
+  longitude: -75.696026
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
