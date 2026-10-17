@@ -1,0 +1,18 @@
+id: 1fdafe4c-e2d7-48e7-b06d-167e19cfa61c
+type: sculpture
+slug: jesus-condemned-montreal-oratory
+title: Jesus is condemned to death
+artist-ids:
+- 3349e6f9-0aaf-4eec-a7b9-34b987f77412
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1957'
+location:
+  latitude: 45.492876
+  longitude: -73.617456
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
