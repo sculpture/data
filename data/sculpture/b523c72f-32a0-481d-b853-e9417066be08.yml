@@ -1,0 +1,19 @@
+id: b523c72f-32a0-481d-b853-e9417066be08
+type: sculpture
+slug: sille-krumrey
+title: Stille
+artist-ids:
+- 509aca2e-8f7e-4614-a717-7567cc8a1f7f
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '2010'
+location:
+  latitude: 45.43146
+  longitude: 12.352597
+  precision: 10
+material-ids:
+- c86513c4-3992-4520-a112-e7d1e5a89a95
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- c9884cff-1c92-48b5-816b-aa0479de54fa
+- da1c0095-de6b-46ef-a325-aee17c6e9cdd
+title-en: Silence
