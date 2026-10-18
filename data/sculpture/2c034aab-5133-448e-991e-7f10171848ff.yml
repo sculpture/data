@@ -1,0 +1,19 @@
+id: 2c034aab-5133-448e-991e-7f10171848ff
+type: sculpture
+slug: st-john-evangelist-pisano
+title: St John the Evangelist and wolf gargoyle
+artist-ids:
+- d11e4be8-f5d6-4caa-a158-71a2b6448bc0
+city-id: b56cb34d-23ef-423f-b768-ac3e5e20e266
+date: '1310'
+display-date: 1300s
+location:
+  latitude: 43.723104
+  longitude: 10.395063
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 7847b3d8-40b7-4a02-8328-5d85a3254b00
+- de83a4c2-214e-45fb-a307-c835449e52bf
