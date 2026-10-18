@@ -1,0 +1,20 @@
+id: 78e347fe-b4da-4a07-8690-78072639e9e5
+type: sculpture
+slug: assunzione-maria-orbetello
+title: Assunzione di Maria
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: e3ea3104-1017-49f5-8af3-d3f03b79d2e0
+date: '1376'
+display-date: 1370s
+location:
+  latitude: 42.440525
+  longitude: 11.214423
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- c4d43f20-6227-4d28-a802-ac07639375bf
+- de83a4c2-214e-45fb-a307-c835449e52bf
