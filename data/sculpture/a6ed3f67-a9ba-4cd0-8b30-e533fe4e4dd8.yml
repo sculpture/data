@@ -1,0 +1,19 @@
+id: a6ed3f67-a9ba-4cd0-8b30-e533fe4e4dd8
+type: sculpture
+slug: angels-unawares-montreal
+title: Angels Unawares
+artist-ids:
+- c48a5321-53f5-4a8e-9301-c394ede176a4
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '2019'
+link-wikipedia: https://en.wikipedia.org/wiki/Angels_Unawares
+location:
+  latitude: 45.49253
+  longitude: -73.617686
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
