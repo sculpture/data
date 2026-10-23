@@ -1,0 +1,19 @@
+id: d2efa736-b0c0-4bbd-a64e-97a1e04694e0
+type: sculpture
+slug: cyprian-sculpture-arp
+title: Cyprian sculpture
+artist-ids:
+- 751ba8f1-a286-4846-bc74-0ccd9d70d63a
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1938'
+display-date: 1931-38
+location:
+  latitude: 45.429535
+  longitude: -75.698906
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+note: carved 1951
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
