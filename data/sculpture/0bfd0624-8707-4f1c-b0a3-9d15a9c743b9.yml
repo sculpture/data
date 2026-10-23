@@ -1,0 +1,17 @@
+id: 0bfd0624-8707-4f1c-b0a3-9d15a9c743b9
+type: sculpture
+slug: mmpereur-romain-mainz
+title: L'Empereur Romain
+artist-ids:
+- a3d6d80d-13fe-49df-b080-871f789c2fa1
+city-id: 2403addf-adc5-44b5-9d38-2fd1c581d3a5
+date: '1664'
+display-date: 1653-64
+location:
+  latitude: 49.99908
+  longitude: 8.275101
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 4c322e34-9a51-4a23-ae62-8e335c882325
