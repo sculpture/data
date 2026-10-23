@@ -1,0 +1,14 @@
+id: 5ab6b2e7-605d-4a74-bc4c-9ebdbe4a02be
+type: sculpture
+slug: slender-langlois
+title: Slender
+artist-ids:
+- 88c417ec-3071-4090-8664-00a2812634c0
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2022'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
