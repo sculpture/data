@@ -1,0 +1,21 @@
+id: 37833ba5-d4f1-4fb3-8026-c084f7f02c63
+type: sculpture
+slug: la-defense-rodin-montreal
+title: La Défense
+artist-ids:
+- 0d0131e9-ece4-417f-80bd-904e881f478e
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1879'
+link-wikipedia: https://en.wikipedia.org/wiki/La_Defense_(sculpture)
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+note: cast 1899
+tag-ids:
+- 2d7d5dfb-cbcb-4905-aa0d-0e1a58b92753
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
