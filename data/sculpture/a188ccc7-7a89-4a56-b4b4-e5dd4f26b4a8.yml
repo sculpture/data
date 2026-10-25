@@ -1,0 +1,20 @@
+id: a188ccc7-7a89-4a56-b4b4-e5dd4f26b4a8
+type: sculpture
+slug: peccato-originale-siena
+title: Peccato originale
+artist-ids:
+- 12293a8e-533e-4997-9b80-88fc36de6ff7
+city-id: d2b07441-23d2-4ec3-8897-7266c2354a15
+date: '1468'
+display-date: 1465-68
+location:
+  latitude: 43.317702
+  longitude: 11.328907
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2eb81602-9c89-4eba-9d7f-068f1103ab9b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- e231b618-b7c1-4206-988c-813c2964e1a5
