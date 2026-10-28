@@ -1,0 +1,18 @@
+id: a36ac1e1-215d-423d-bbe3-787f4989d751
+type: sculpture
+slug: canone-variato-i
+title: Canone variato I
+artist-ids:
+- 18d21915-66e0-455c-9154-0e7c96c7cdf1
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1973'
+display-date: 1967-73
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
