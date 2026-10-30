@@ -1,0 +1,19 @@
+id: 0675855e-a8ce-4e6c-9e4e-2e30a9bd5a62
+type: sculpture
+slug: bathing-woman-lehmbruck
+title: Bathing woman
+artist-ids:
+- 7bd5a84f-c5aa-470e-b03b-91225547fd46
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1914'
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- 82d64d3e-293a-4153-b6af-0f83be37e623
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
