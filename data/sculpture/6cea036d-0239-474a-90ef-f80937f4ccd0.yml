@@ -1,0 +1,20 @@
+id: 6cea036d-0239-474a-90ef-f80937f4ccd0
+type: sculpture
+slug: clarice-chaise-femme-montreal
+title: Clarice chaise femme
+artist-ids:
+- b15e5537-c19f-4425-9f68-96e31aa0a0a3
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1982'
+display-date: 1981-82
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- 79961d06-4491-4cd9-9e9d-e47cabd5f570
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7bd0ecbd-b646-466a-95cb-42eebacc6072
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
