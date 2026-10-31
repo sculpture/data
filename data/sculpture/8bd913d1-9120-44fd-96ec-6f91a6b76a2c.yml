@@ -1,0 +1,18 @@
+id: 8bd913d1-9120-44fd-96ec-6f91a6b76a2c
+type: sculpture
+slug: new-bunswick-wyle
+title: New Brunswick
+artist-ids:
+- ace1f5d4-d008-45de-9b78-fa7ebf47f733
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1948'
+location:
+  latitude: 43.747309
+  longitude: -79.191711
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
