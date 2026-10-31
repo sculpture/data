@@ -1,0 +1,17 @@
+id: 7b6ab631-8fa1-4a36-b7bc-66e9ec60d195
+type: sculpture
+slug: archer-horseback-winkler
+title: Archer on Horseback
+artist-ids:
+- 2b8bdde9-7dd1-4d4f-b6bc-ba9bba936397
+city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
+date: '1937'
+location:
+  latitude: 43.747395
+  longitude: -79.193771
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- f19ed7a2-8aae-408f-ba4c-1338d8ba85be
