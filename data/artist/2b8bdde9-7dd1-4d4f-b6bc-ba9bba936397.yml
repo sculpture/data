@@ -1,0 +1,9 @@
+id: 2b8bdde9-7dd1-4d4f-b6bc-ba9bba936397
+type: artist
+slug: fred-winkler
+name: Fred Winkler
+birth-date: '1907'
+death-date: '1990'
+gender: male
+nationality-ids:
+- 5f22b04b-86c9-49b7-8cfa-fd7ea298a58b
