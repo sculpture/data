@@ -1,0 +1,17 @@
+id: 97ef490b-5fff-45b0-97c1-90ad9d69a031
+type: sculpture
+slug: athol-murray
+title: Athol Murray
+artist-ids:
+- 1ae565ae-816c-44a4-8f19-174f75d52586
+city-id: 8ed28590-bfcc-4e30-a308-7501720c7614
+date: '2016'
+location:
+  latitude: 44.770019
+  longitude: -79.939568
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 62501ae5-7d99-4fb1-ac89-3984d67a6d24
