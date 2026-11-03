@@ -1,0 +1,17 @@
+id: ca8c2762-42a6-4fd0-84c8-af5bc0ebe3ef
+type: sculpture
+slug: lorentzos-mavilis
+title: Lorentzos Mavilis
+artist-ids:
+- ad114831-538e-495f-9e14-05542b734ef8
+city-id: 94000128-8e37-4218-8dea-760b33ce4274
+date: '1915'
+location:
+  latitude: 37.982921
+  longitude: 23.755935
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 0f3045b2-57c6-4567-bbd1-01bdc1ace4b7
+- 18d2fd29-8838-4290-a343-39182ae9b445
