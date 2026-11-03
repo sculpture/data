@@ -8,8 +8,8 @@ city-id: 2403addf-adc5-44b5-9d38-2fd1c581d3a5
 date: '1993'
 display-date: 1991-93
 location:
-  latitude: 49.998046
-  longitude: 8.271331
+  latitude: 49.997829
+  longitude: 8.271733
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
