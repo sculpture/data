@@ -1,0 +1,19 @@
+id: 0920d81c-b293-481d-b5fd-15cc8e688e7a
+type: sculpture
+slug: wilhelm-emmanuel-ketteler
+title: Wilhelm Emmanuel von Ketteler
+artist-ids:
+- 9e549c52-374c-46b6-acf2-8548cd8f62c4
+city-id: 2403addf-adc5-44b5-9d38-2fd1c581d3a5
+date: '1993'
+display-date: 1991-93
+location:
+  latitude: 49.998046
+  longitude: 8.271331
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 2f65ce93-2124-4391-a225-855055c78203
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
