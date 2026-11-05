@@ -1,0 +1,20 @@
+id: 97c0d42d-2da6-49cb-ae50-9d4a151ce7b3
+type: sculpture
+slug: striving-forces-sphere-bill
+title: Strebende Krafte einer Kugel
+artist-ids:
+- bd6b26ae-ae78-40f7-9567-9c41c042c274
+city-id: 056d3674-595a-4762-8fcc-29d1d6ed4f43
+date: '1967'
+display-date: 1966-67
+location:
+  latitude: 45.498522
+  longitude: -73.5794
+  precision: 10
+material-ids:
+- a1d83c21-c2ec-4d6f-852d-a880fdd65176
+tag-ids:
+- 19a145a4-7dd4-4861-8082-95b6261844de
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+title-en: Striving Forces of a Sphere
