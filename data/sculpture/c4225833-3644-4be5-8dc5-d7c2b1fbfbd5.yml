@@ -1,0 +1,18 @@
+id: c4225833-3644-4be5-8dc5-d7c2b1fbfbd5
+type: sculpture
+slug: spring-merciful-cloud
+title: Spring of the Merciful Cloud
+artist-ids:
+- e6ef715d-75dd-4c36-8946-52e0b380dc99
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1908'
+location:
+  latitude: 35.714765
+  longitude: 139.796655
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+title-en: 慈雲の泉
