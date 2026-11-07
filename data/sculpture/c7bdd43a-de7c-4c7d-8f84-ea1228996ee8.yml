@@ -1,0 +1,17 @@
+id: c7bdd43a-de7c-4c7d-8f84-ea1228996ee8
+type: sculpture
+slug: caduti-polizia-stato-padua
+title: Ai Caduti della Polizia di Stato
+artist-ids:
+- ede5367c-4d94-43bb-b8e9-7c8ae98d5484
+city-id: e151686f-8858-408a-b5c8-f5fd40a332d6
+date: '1995'
+location:
+  latitude: 45.410503
+  longitude: 11.878207
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
