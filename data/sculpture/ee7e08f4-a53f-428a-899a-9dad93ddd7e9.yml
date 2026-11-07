@@ -1,0 +1,14 @@
+id: ee7e08f4-a53f-428a-899a-9dad93ddd7e9
+type: sculpture
+slug: brushstrokes-ny-lichtenstein
+title: Brushstrokes
+artist-ids:
+- 6c982673-ff3d-44cb-96e7-d6f173d1a332
+city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
+date: '1996'
+location:
+  latitude: 40.711163
+  longitude: -74.012089
+  precision: 10
+material-ids:
+- 76c8ed4b-b169-44ca-bf45-466a20c85838
