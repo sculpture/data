@@ -1,0 +1,10 @@
+id: b6ea9300-c8fc-4225-a703-d95a63b82e96
+type: artist
+slug: attrib-michelangelo
+name: (attrib) Michelangelo
+birth-date: '1475'
+death-date: '1564'
+gender: male
+link-wikipedia: https://en.wikipedia.org/wiki/Michelangelo
+nationality-ids:
+- b6ab1d97-6e0c-4d16-8310-d013488cf08a
