@@ -1,0 +1,14 @@
+id: e769d6bc-aff6-4d39-9a17-19d7e23aa484
+type: sculpture
+slug: i-love-nice
+title: I Love Nice
+artist-ids:
+- e5d24256-e7c5-4fef-9b90-2904fa44799e
+city-id: d86f6a8e-b8d8-4a35-aa98-5352fcf008d7
+date: '2016'
+location:
+  latitude: 43.694458
+  longitude: 7.274376
+  precision: 20
+material-ids:
+- 3e1a4d8d-c598-4d0c-8999-f430c94206da
