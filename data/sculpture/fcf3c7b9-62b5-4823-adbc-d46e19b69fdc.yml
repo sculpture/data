@@ -1,0 +1,20 @@
+id: fcf3c7b9-62b5-4823-adbc-d46e19b69fdc
+type: sculpture
+slug: ryo-wakebe
+title: Ryō
+artist-ids:
+- 0e59688e-d36f-4902-acb8-337c836f90ea
+city-id: b1627e6e-aed7-4571-89b7-1ec5897097d8
+date: '1974'
+location:
+  latitude: 35.689301
+  longitude: 139.689898
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 2d488599-d808-40db-80a2-88b41c7bdb67
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
+- c9884cff-1c92-48b5-816b-aa0479de54fa
+title-en: 瞭
