@@ -1,0 +1,18 @@
+id: 21e03cd9-3271-4af3-aea2-b05013575ed0
+type: sculpture
+slug: aliki-vougiouklaki
+title: Aliki Vougiouklaki
+artist-ids:
+- 0299e23b-3eda-4402-9d3b-779d29102c46
+city-id: 94000128-8e37-4218-8dea-760b33ce4274
+date: '2005'
+location:
+  latitude: 37.982921
+  longitude: 23.755935
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- b60664f3-1a68-41a3-bcb7-1dce648ebfc4
+title-en: Αλίκη Βουγιουκλάκη
