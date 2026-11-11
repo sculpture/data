@@ -1,0 +1,19 @@
+id: 82b31295-56b2-418d-905d-6a676f52dfe7
+type: sculpture
+slug: spirit-of-flowers-entsuba
+title: Spirit of Flowers
+artist-ids:
+- 0acfc18a-076e-4ed6-b932-ebc8a3bde25a
+city-id: 4c7cdf32-7fd5-42fb-a1e0-a0b1ca98e5c8
+date: '1975'
+display-date: 1974-75
+location:
+  latitude: 34.398263
+  longitude: 132.45459
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 39731bd3-c127-44e7-97ba-ba4ba24cbf76
+- 5c663cd6-6348-4c33-ba88-0d9152262a9b
