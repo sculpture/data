@@ -1,0 +1,19 @@
+id: c541043c-6dd6-41a8-b0c3-76e19e4fae22
+type: sculpture
+slug: cathedrale-saint-sauveur-altar
+title: Cathédrale Saint-Sauveur - altar
+artist-ids:
+- 9ef3181a-bcc0-42fd-bf2f-7b0329f3fbe2
+city-id: dde8eb6f-ae11-49d6-9340-e5b46cf8569a
+date: '2000'
+display-date: 1999-2000
+location:
+  latitude: 43.531944
+  longitude: 5.447288
+  precision: 10
+material-ids:
+- 46fe9fce-6a4f-4a44-89d7-dedc6f731b39
+- a267fb56-e090-4da4-b72c-152f966877d9
+tag-ids:
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 78695307-4f57-45a4-9566-dd0893e2ae80
