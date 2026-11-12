@@ -1,0 +1,18 @@
+id: 018ffaab-e477-4fd5-a3ae-d824229d6dc3
+type: sculpture
+slug: puerta-encarnacion-jerez
+title: Puerta de la Encarnación
+artist-ids:
+- 8c36dec7-1774-4ac1-84ce-9fa0eaa503e1
+city-id: 979387ae-7c17-49e7-9c4c-bff9fe441bc0
+date: '1741'
+display-date: 1737-41
+location:
+  latitude: 36.682228
+  longitude: -6.141221
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 22f35a04-d625-43f8-bc7d-832314d91fb7
+- 3896ed41-4440-40fa-9a21-6903c94fada2
