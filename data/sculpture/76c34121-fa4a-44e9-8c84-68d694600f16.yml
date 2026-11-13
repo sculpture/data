@@ -1,0 +1,14 @@
+id: 76c34121-fa4a-44e9-8c84-68d694600f16
+type: sculpture
+slug: fossil-record
+title: Fossil Record
+artist-ids:
+- bb3e16eb-3937-46e8-8240-e868d2273be4
+city-id: 375f040c-f138-4f16-96f6-245988b3ee6a
+date: '2017'
+location:
+  latitude: 43.584877
+  longitude: -79.75646
+  precision: 10
+material-ids:
+- 69e5a178-1413-4cf2-8805-5ac28641e955
