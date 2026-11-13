@@ -1,0 +1,17 @@
+id: 92fccfae-8685-4f01-bba2-0da554961887
+type: sculpture
+slug: trumpeter-swan-hunt
+title: Trumpeter Swan
+artist-ids:
+- a6dc74ae-cef7-4ea9-9710-9e28d9e5f3bc
+city-id: f9c024e8-751c-42ed-a8b7-10609bb78906
+date: '2001'
+location:
+  latitude: 44.753348
+  longitude: -79.886355
+  precision: 10
+material-ids:
+- 958cce1f-9219-40b7-b6cf-e6adf5016125
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- b982214e-52f9-48b0-b977-4a4359b49fdb
