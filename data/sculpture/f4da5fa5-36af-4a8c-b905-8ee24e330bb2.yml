@@ -1,0 +1,20 @@
+id: f4da5fa5-36af-4a8c-b905-8ee24e330bb2
+type: sculpture
+slug: cristo-benedicente-moro
+title: 'Cristo benedicente '
+artist-ids:
+- 9d6ce07c-d240-47a7-b7ae-81c7c92e20be
+city-id: bcb9abaf-9a1a-48e6-b8bc-ead5b3139b61
+date: '1603'
+display-date: 1596-1603
+location:
+  latitude: 45.432629
+  longitude: 12.332987
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 2adec124-e6a5-411d-98d4-cac9a93817a2
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 7710cd5d-6c82-4bde-be18-1e7d22fbaa1c
