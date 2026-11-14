@@ -1,0 +1,16 @@
+id: 4e0e5cae-ca70-45d7-9c68-799aa62ba444
+type: sculpture
+slug: cones-690
+title: Cônes 690
+artist-ids:
+- f92f0d47-d131-4c6a-ad07-1d026752bc0f
+city-id: 4e675dad-4100-47c4-933c-2dd2f7f8eaf7
+date: '2023'
+location:
+  latitude: 44.015471
+  longitude: -77.289687
+  precision: 10
+material-ids:
+- 295447b1-9e9f-4bb5-8eeb-37a5ae10394c
+tag-ids:
+- cdc24fb3-62bd-4409-803c-e139bf2e9a5d
