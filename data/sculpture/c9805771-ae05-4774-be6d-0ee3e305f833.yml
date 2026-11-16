@@ -1,0 +1,17 @@
+id: c9805771-ae05-4774-be6d-0ee3e305f833
+type: sculpture
+slug: kreuzigungsgruppe-gollwitzer
+title: Kreuzigungsgruppe
+artist-ids:
+- 1d07db3c-a580-4407-8ccf-1e9db24c4345
+city-id: 64a902fb-e1ac-4aba-b49a-9828c3e6b44c
+date: '1715'
+location:
+  latitude: 49.891585
+  longitude: 10.887335
+  precision: 10
+material-ids:
+- 638725f5-0ac9-4b92-916d-b98af20b3df5
+tag-ids:
+- 16cfefb7-0c34-415d-b7df-45c3abc95a90
+- 3896ed41-4440-40fa-9a21-6903c94fada2
