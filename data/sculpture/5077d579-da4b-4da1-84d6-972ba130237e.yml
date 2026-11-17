@@ -8,8 +8,8 @@ city-id: 44a96d93-a0d2-4b12-a814-9eb59a08c045
 date: '2003'
 display-date: 2002-03
 location:
-  latitude: 55.954224
-  longitude: -3.193323
+  latitude: 55.954569
+  longitude: -3.193125
   precision: 10
 material-ids:
 - c6af2d2d-6238-4a08-960c-bbe27267b2ed
