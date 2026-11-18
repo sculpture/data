@@ -7,9 +7,9 @@ artist-ids:
 city-id: 4c7cdf32-7fd5-42fb-a1e0-a0b1ca98e5c8
 date: '1952'
 location:
-  latitude: 34.390983
-  longitude: 132.452651
-  precision: 20
+  latitude: 34.390999
+  longitude: 132.452653
+  precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
 tag-ids:
