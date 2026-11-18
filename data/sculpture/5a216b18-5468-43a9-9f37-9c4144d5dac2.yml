@@ -1,0 +1,17 @@
+id: 5a216b18-5468-43a9-9f37-9c4144d5dac2
+type: sculpture
+slug: constantine-paparrigopoulos
+title: Constantine Paparrigopoulos
+artist-ids:
+- a0f1bc4b-88b3-4b11-be17-6af5aa0eed0f
+city-id: 94000128-8e37-4218-8dea-760b33ce4274
+date: '1933'
+location:
+  latitude: 37.969726
+  longitude: 23.735559
+  precision: 10
+material-ids:
+- cb200a7c-ec52-458c-bc2b-00633fa39eaf
+tag-ids:
+- 18d2fd29-8838-4290-a343-39182ae9b445
+- a480972c-30b4-4a66-ae34-3c3e61a801ca
