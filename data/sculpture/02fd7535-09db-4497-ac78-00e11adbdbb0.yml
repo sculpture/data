@@ -1,0 +1,17 @@
+id: 02fd7535-09db-4497-ac78-00e11adbdbb0
+type: sculpture
+slug: cross-station-x-kovacic
+title: Cross Station X
+artist-ids:
+- ca8cc380-b726-4965-a809-0f48aee15d4c
+city-id: de771358-7c1c-42c5-8347-30aa30c3aff4
+date: '2011'
+location:
+  latitude: 42.64821
+  longitude: 18.110636
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 8edbb59e-b498-4210-9981-8781235cafcd
