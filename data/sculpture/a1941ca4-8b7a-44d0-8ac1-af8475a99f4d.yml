@@ -1,0 +1,18 @@
+id: a1941ca4-8b7a-44d0-8ac1-af8475a99f4d
+type: sculpture
+slug: milostna-dvojice-v-maji
+title: Milostná dvojice v máji
+artist-ids:
+- 6739c01e-ef57-46e1-ae12-f9ddbf32ac3a
+city-id: 58ccb589-85ed-4bac-b7f3-e723457a1edb
+date: '1957'
+display-date: 1955-57
+location:
+  latitude: 50.090445
+  longitude: 14.400554
+  precision: 10
+material-ids:
+- 32e654d5-80d8-4ce8-b90a-dc2409a981bc
+tag-ids:
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
+- e78083c3-6cf7-41f2-95b5-5c4fad650664
