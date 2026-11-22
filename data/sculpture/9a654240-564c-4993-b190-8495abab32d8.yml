@@ -8,8 +8,8 @@ city-id: d8b81013-e12a-4e7d-9ce6-7ef0d39cb32d
 date: '1996'
 display-date: 1995-96
 location:
-  latitude: 40.693737
-  longitude: -73.985632
+  latitude: 40.693721
+  longitude: -73.985712
   precision: 10
 material-ids:
 - 32e654d5-80d8-4ce8-b90a-dc2409a981bc
