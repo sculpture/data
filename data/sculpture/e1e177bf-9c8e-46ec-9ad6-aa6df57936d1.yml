@@ -1,11 +1,12 @@
 id: e1e177bf-9c8e-46ec-9ad6-aa6df57936d1
 type: sculpture
-slug: rosa-wyle
-title: Rosa
+slug: dryad-wyle
+title: Dryad
 artist-ids:
 - ace1f5d4-d008-45de-9b78-fa7ebf47f733
 city-id: 3da56e2b-a7f6-41ce-9f60-228a6196dd5c
-date: '1946'
+date: '1950'
+display-date: 1950s ?
 location:
   latitude: 43.653607
   longitude: -79.392512
