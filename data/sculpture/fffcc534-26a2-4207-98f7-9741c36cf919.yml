@@ -1,0 +1,22 @@
+id: fffcc534-26a2-4207-98f7-9741c36cf919
+type: sculpture
+slug: annunciation-pujol
+title: Annunciation
+artist-ids:
+- 971e5cf7-05f8-4b02-9e63-cb56daafe430
+city-id: 38dc228d-7b71-4ed6-a578-49b80d38d6a8
+date: '1619'
+display-date: c.1619
+location:
+  latitude: 41.383962
+  longitude: 2.176199
+  precision: 10
+material-ids:
+- 20fc0fb1-d76c-4e0e-8b21-27290f62a185
+- d0e544f1-8f9a-4225-acc0-39833a263af0
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+- cd7f362d-e253-4dd7-9230-d77536d7dd4e
+- de83a4c2-214e-45fb-a307-c835449e52bf
