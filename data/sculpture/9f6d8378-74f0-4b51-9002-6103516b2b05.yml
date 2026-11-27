@@ -1,0 +1,20 @@
+id: 9f6d8378-74f0-4b51-9002-6103516b2b05
+type: sculpture
+slug: abundance-delvaux
+title: Abundance
+artist-ids:
+- 0cf63a96-a6af-4b0c-9dc6-6b15c0d3ea49
+city-id: 2e495913-31ea-4c12-99e9-97054cf8bdd8
+date: '1766'
+display-date: 1760-66
+location:
+  latitude: 50.843007
+  longitude: 4.357123
+  precision: 10
+material-ids:
+- 0fa48f43-3f62-418e-9b22-12e0f80a32a1
+tag-ids:
+- 5e46697e-16c7-4478-a438-202749e4888d
+- 7847b3d8-40b7-4a02-8328-5d85a3254b00
+- 89f78d37-2315-4104-bfe7-610b444b2485
+- 9f63b713-73f7-46b1-9a00-5f35064e4c04
