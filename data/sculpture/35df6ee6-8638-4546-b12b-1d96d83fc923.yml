@@ -1,0 +1,21 @@
+id: 35df6ee6-8638-4546-b12b-1d96d83fc923
+type: sculpture
+slug: bapteme-christ-founier
+title: Le Baptême du Christ
+artist-ids:
+- fecf9ee4-6bba-4891-a70f-c58d8b11f03c
+city-id: 576ee3f9-e16c-4398-90f2-2688031f8c8f
+date: '1837'
+display-date: 1832-37
+location:
+  latitude: 45.429535
+  longitude: -75.698906
+  precision: 10
+material-ids:
+- 20fc0fb1-d76c-4e0e-8b21-27290f62a185
+tag-ids:
+- 3896ed41-4440-40fa-9a21-6903c94fada2
+- 6f13c768-5619-419e-97af-60440cab7f89
+- 8edbb59e-b498-4210-9981-8781235cafcd
+- 9010cc4c-c852-4176-a7fe-04f0885fcffc
+title-en: Baptism of Christ
